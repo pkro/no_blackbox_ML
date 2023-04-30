@@ -1,0 +1,19 @@
+{
+  "name": "no_black_box",
+  "version": "1.0.0",
+  "description": "Follow along to the no-black-box machine learning course by @radu on freecodecamp",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/tsc",
+    "watch": "./node_modules/.bin/tsc-watch --onSuccess \"echo Compiled successfully\"",
+    "start": "./node_modules/.bin/concurrently \"npm:watch\""
+  },
+
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.0.1",
+    "tsc-watch": "^6.0.4",
+    "typescript": "^5.0.4"
+  }
+}
