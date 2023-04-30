@@ -1,0 +1,16 @@
+{
+  "server": {
+    "baseDir": "./"
+  },
+  "files": [
+    "js/**/*.js",
+    "src/**/*.ts",
+    "creator.html",
+    "css/**/*.css"
+  ],
+  "port": 3000,
+  "open": true,
+  "reloadDelay": 1000,
+  "injectChanges": true,
+  "logFileChanges": true
+}

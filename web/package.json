@@ -6,13 +6,15 @@
   "scripts": {
     "build": "./node_modules/.bin/tsc",
     "watch": "./node_modules/.bin/tsc-watch --onSuccess \"echo Compiled successfully\"",
-    "start": "./node_modules/.bin/concurrently \"npm:watch\""
+    "serve": "lite-server",
+    "start": "./node_modules/.bin/concurrently \"npm:watch\" \"npm:serve\""
   },
 
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^8.0.1",
+    "lite-server": "^2.6.1",
     "tsc-watch": "^6.0.4",
     "typescript": "^5.0.4"
   }
