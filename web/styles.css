@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     background-color: skyblue;
+    overscroll-behavior: none; /*probably avoids apple scrolling*/
 }
 
 #content {
@@ -9,4 +10,26 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
+}
+
+button {
+    display: block;
+    margin: 16px auto 0 auto;
+    cursor: pointer;
+    border: none;
+    width: 50%;
+    height: 46px;
+    border-radius: 5px;
+    background-color: navy;
+    color: white;
+    font-size: 24px;
+}
+
+button:hover {
+    background-color: mediumblue;
+}
+
+button:disabled, button:disabled:hover {
+    background-color: gray;
+    cursor: default;
 }

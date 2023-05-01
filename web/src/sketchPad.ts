@@ -1,9 +1,12 @@
+type MouseTouchEvent = MouseEvent | TouchEvent & { clientX: number, clientY: number };
+
 class SketchPad {
     canvas: HTMLCanvasElement;
     rect: DOMRect;
     ctx: CanvasRenderingContext2D;
-    path: Array<[number, number]>;
+    paths: Array<Array<[number, number]>>;
     isDrawing: boolean;
+    private undoBtn: HTMLButtonElement;
 
     constructor(container: HTMLElement, size = 400) {
         this.canvas = document.createElement("canvas")!;
@@ -15,15 +18,25 @@ class SketchPad {
         `);
 
         container.appendChild(this.canvas);
+        const lineBreak = document.createElement("br");
+        const undoBtn = document.createElement('button');
+        undoBtn.innerHTML = 'Undo';
+        undoBtn.onclick = () => this.#undo();
+        undoBtn.disabled = true;
+        this.undoBtn = undoBtn;
+        container.appendChild(lineBreak);
+        container.appendChild(undoBtn);
+
         this.rect = this.canvas.getBoundingClientRect();
         this.ctx = this.canvas.getContext('2d')!;
-        this.path = [];
+        this.paths = [];
         this.isDrawing = false;
         this.#addEventListeners();
     }
 
     #addEventListeners() {
-        this.canvas.onmousedown = evt => {
+        this.canvas.onmousedown = (evt: MouseTouchEvent) => {
+            this.paths.push([]);
             this.#addMouseCoordsToPath(evt);
             this.isDrawing = true;
         };
@@ -37,21 +50,45 @@ class SketchPad {
 
         this.canvas.onmouseup = () => {
             this.isDrawing = false;
-            this.path = [];
-        }
+        };
+
+        this.canvas.ontouchstart = evt => {
+            const loc = evt.touches[0];
+            // casting a touchevent to mouseevent just bloats the code
+            this.canvas.onmousedown!(loc as any);
+        };
+
+        this.canvas.ontouchmove = evt => {
+            const loc = evt.touches[0];
+            this.canvas.onmousemove!(loc as any);
+        };
+
+        this.canvas.ontouchend = () => {
+            this.canvas.onmouseup!(new MouseEvent('MouseEvent'));
+        };
     }
 
-    #addMouseCoordsToPath(evt: MouseEvent) {
+    #addMouseCoordsToPath(evt: MouseTouchEvent) {
         const mouse: [number, number] = [
             Math.round(evt.clientX - this.rect.left),
             Math.round(evt.clientY - this.rect.top)
         ];
-
-        this.path.push(mouse);
+        const lastPath = this.paths[this.paths.length - 1];
+        lastPath.push(mouse);
     }
 
     #redraw() {
-        this.ctx.clearRect(0,0,this.canvas.width, this.canvas.height);
-        draw.path(this.ctx, this.path);
+        this.#clear();
+        draw.paths(this.ctx, this.paths);
+        this.undoBtn.disabled = this.paths.length === 0;
+    }
+
+    #clear() {
+        this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
+    }
+
+    #undo() {
+        this.paths.pop();
+        this.#redraw();
     }
 }
