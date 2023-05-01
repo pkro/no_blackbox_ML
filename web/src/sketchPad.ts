@@ -48,7 +48,8 @@ class SketchPad {
             }
         };
 
-        this.canvas.onmouseup = () => {
+        // we use document in case the user draws a line that ends outside the canvas, like an horizon
+        document.onmouseup = () => {
             this.isDrawing = false;
         };
 
@@ -63,7 +64,7 @@ class SketchPad {
             this.canvas.onmousemove!(loc as any);
         };
 
-        this.canvas.ontouchend = () => {
+        document.ontouchend = () => {
             this.canvas.onmouseup!(new MouseEvent('MouseEvent'));
         };
     }

@@ -1,5 +1,6 @@
 let index = 0;
-const labels = ["car", "fish", "house", "tree", "bicycle", "guitar", "pencil", "clock"];
+//const labels = ["car", "fish", "house", "tree", "bicycle", "guitar", "pencil", "clock"];
+const labels = ["car", "fish"];
 type  dataType = {
     student: string;
     session: string;
@@ -12,11 +13,12 @@ const data: dataType = {
     drawings: {}
 };
 
-const container = document.getElementById('sketchPadContainer') as HTMLDivElement;
+const contentContainer = document.getElementById('content') as HTMLDivElement;
+const sketchPadContainer = document.getElementById('sketchPadContainer') as HTMLDivElement;
 const student = document.getElementById('student')! as HTMLInputElement;
 const advanceBtn = document.getElementById('advanceBtn') as HTMLButtonElement;
 const instructions = document.getElementById('instructions') as HTMLDivElement;
-const sketchPad = new SketchPad(container!);
+const sketchPad = new SketchPad(sketchPadContainer!);
 
 function start() {
     if (!student.value) {
@@ -25,12 +27,27 @@ function start() {
     }
     data.student = student.value;
     student.style.display = 'none';
-    container.style.visibility = "visible";
+    sketchPadContainer.style.visibility = "visible";
 
     const label = labels[index];
     instructions.innerHTML = `Please draw a ${label}`;
     advanceBtn.innerHTML = 'Next';
     advanceBtn.onclick = next;
+}
+
+function save() {
+    advanceBtn.style.display = "none";
+    instructions.innerHTML = "Take your downloaded file and place it alongside the others";
+    const element = document.createElement('a');
+    element.setAttribute('href',
+        `data:text/plain;charset=utf-8,${encodeURIComponent(JSON.stringify(data))}`);
+    const fileName = `${data.session}.json`;
+    element.setAttribute('download', fileName);
+    element.style.display = "none";
+    document.body.appendChild(element);
+    element.click();
+    document.body.removeChild(element);
+
 }
 
 function next() {
@@ -43,10 +60,14 @@ function next() {
     let label = labels[index];
     data.drawings[label] = sketchPad.paths;
     sketchPad.reset();
-    console.log(data);
     if (index < labels.length - 1) {
         index++;
         label = labels[index];
         instructions.innerHTML = `Please draw a ${label}`;
+    } else {
+        sketchPadContainer.style.display = "none";
+        instructions.innerHTML = "Thank you!";
+        advanceBtn.innerHTML = "SAVE";
+        advanceBtn.onclick = save;
     }
 }
