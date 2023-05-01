@@ -10,16 +10,19 @@
 <div id="content">
     <h1>Data creator</h1>
     <br>
-    <div id="sketchPadContainer">
+    <div><label for="student"></label><input type="text" id="student" placeholder="Please enter your name" /></div>
+    <button id="advanceBtn" onclick="start();">Start</button>
+    <div id="instructions"></div>
+    <div id="sketchPadContainer" style="visibility: hidden">
     
     </div>
-    
+
 </div>
 <script src="js/sketchPad.js"></script>
 <script src="js/draw.js"></script>
+<script src="js/main.js"></script>
 <script>
-    const container = document.getElementById('sketchPadContainer');
-    const sketchPad = new SketchPad(container);
+
 </script>
 </body>
 </html>

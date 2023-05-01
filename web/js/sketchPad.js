@@ -77,4 +77,9 @@ class SketchPad {
         this.paths.pop();
         this.#redraw();
     }
+    reset() {
+        this.paths = [];
+        this.isDrawing = false;
+        this.#clear();
+    }
 }
