@@ -1,7 +1,7 @@
 "use strict";
 let index = 0;
-//const labels = ["car", "fish", "house", "tree", "bicycle", "guitar", "pencil", "clock"];
-const labels = ["car", "fish"];
+const labels = ["car", "fish", "house", "tree", "bicycle", "guitar", "pencil", "clock"];
+
 const data = {
     student: "",
     session: new Date().getTime() + Math.random().toString(),

@@ -35,13 +35,13 @@ class SketchPad {
     }
 
     #addEventListeners() {
-        this.canvas.onmousedown = (evt: MouseTouchEvent) => {
+        this.canvas.onpointerdown = (evt: MouseTouchEvent) => {
             this.paths.push([]);
             this.#addMouseCoordsToPath(evt);
             this.isDrawing = true;
         };
 
-        this.canvas.onmousemove = evt => {
+        this.canvas.onpointermove = evt => {
             if (this.isDrawing) {
                 this.#addMouseCoordsToPath(evt);
                 this.#redraw();
@@ -49,24 +49,10 @@ class SketchPad {
         };
 
         // we use document in case the user draws a line that ends outside the canvas, like an horizon
-        document.onmouseup = () => {
+        document.onpointerup = () => {
             this.isDrawing = false;
         };
 
-        this.canvas.ontouchstart = evt => {
-            const loc = evt.touches[0];
-            // casting a touchevent to mouseevent just bloats the code
-            this.canvas.onmousedown!(loc as any);
-        };
-
-        this.canvas.ontouchmove = evt => {
-            const loc = evt.touches[0];
-            this.canvas.onmousemove!(loc as any);
-        };
-
-        document.ontouchend = () => {
-            this.canvas.onmouseup!(new MouseEvent('MouseEvent'));
-        };
     }
 
     #addMouseCoordsToPath(evt: MouseTouchEvent) {
@@ -88,6 +74,7 @@ class SketchPad {
         this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
     }
 
+
     #undo() {
         this.paths.pop();
         this.#redraw();
@@ -98,3 +85,4 @@ class SketchPad {
         this.#clear();
     }
 }
+

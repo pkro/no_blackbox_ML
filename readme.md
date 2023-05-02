@@ -1,10 +1,13 @@
 Follow along to the no-black-box machine learning course by @radu on freecodecamp
 
+Raw and derived data is not included in the repo as it doesn't have any license: https://github.com/gniziemazity/drawing-data
+
 # Data creator web app
 
 Notes:
 
 - I added typescript just for practice
 - methods starting with `#` are private in JS (ES2015+). Never knew.
+
 
 

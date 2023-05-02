@@ -1,17 +1,12 @@
 {
-  "extends": "./tsconfig.base.json",
   "compilerOptions": {
     "target": "ESNext",
     "module": "commonjs",
     "allowJs": true,
     "strict": true,
     "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "outDir": "./js",
-    "rootDirs": ["./src"],
-    "baseUrl": "./"
+    "forceConsistentCasingInFileNames": true
   },
-  "include": ["./src/**/*.ts"],
   "exclude": [
     "./node_modules"
   ]
