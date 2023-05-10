@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Linear interpolation</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+<canvas id="myCanvas"></canvas>
+<script>
+    const myCanvas = document.getElementById('myCanvas');
+    myCanvas.width = window.innerWidth;
+    
+    const orange = {r: 255, g: 165, b: 0};
+    const blue = {r: 0, g: 70, b: 160};
+    const ctx = myCanvas.getContext('2d');
+    
+    const lowFreq = 200;
+    const hightFreq = 600;
+    let audioCtx=null;
+    let osc=null;
+    myCanvas.onclick=function(){
+        if (audioCtx == null) {
+            audioCtx=new(AudioContext || webkitAudioContext || window.webkitAudioContext)();
+            osc = audioCtx.createOscillator();
+            osc.frequency.value=200;
+            osc.start();
+
+            const node = audioCtx.createGain();
+            node.gain.value=0.1;
+
+            osc.connect(node);
+            node.connect(audioCtx.destination);
+        }
+    }
+
+    myCanvas.height = window.innerHeight;
+    const A = {x: 100, y: 200};
+
+    const B = {x: 400, y: 100};
+    drawDot(A, 'A');
+    drawDot(B, 'B');
+
+    // middle point
+    const C1 = {
+        x: (A.x + B.x) / 2,
+        y: (A.y + B.y) / 2
+    };
+
+    // can be written as
+    const C2 = {
+        x: (A.x + B.x) * 0.5,
+        y: (A.y + B.y) * 0.5,
+    };
+
+    // calculate point 1/3 of the way using linear interpolation (inter = between, pol = pole, between poles)
+    const T1 = {
+        x: A.x + (B.x - A.x) * 1 / 3,
+        y: A.y + (B.y - A.y) * 1 / 3,
+    };
+
+    drawDot(C2, 'C2');
+    drawDot(T1, '1/3');
+
+    // extracted linear interpolation function
+    function lerp(a, b, t) {
+        return a + (b - a) * t;
+    }
+
+    // extracted linear interpolation function with more precise floating point calc
+    function lerp_fp(a, b, t) {
+        return a + (b - a) * t;
+    }
+
+    const t = 0.25;
+    drawDot({x: lerp(A.x, B.x, t), y: lerp(A.y, B.y, t)}, t.toString());
+
+    // negative values and values > 1 do extrapolation and create values outside the poles
+    const t2 = -0.25;
+    drawDot({x: lerp(A.x, B.x, t2), y: lerp(A.y, B.y, t2)}, t2.toString());
+
+    // Applications
+
+    // equally spacing points on a line
+    let start = {x: 20, y: 400};
+    let end = {x: 700, y: 320};
+
+    let n = 10;
+
+    for (let i = 1; i <= n; i++) {
+        const dot = {
+            x: lerp(start.x, end.x, i / n),
+            y: lerp(start.y, end.y, i / n),
+        };
+        drawDot(dot, i);
+    }
+
+
+    // vector lerp, multiple dimensions
+    function vLerp(A, B, t) {
+        const res = {};
+        for (let attr in A) {
+            res[attr] = lerp(A[attr], B[attr], t);
+        }
+        return res;
+    }
+
+    start = {x: 20, y: 500};
+    end = {x: 700, y: 420};
+    n = 10;
+    // same result
+    for (let i = 1; i <= n; i++) {
+        drawDot(vLerp(start, end, i / n), i);
+    }
+
+    // animation
+    function animate() {
+
+        ctx.clearRect(0, 0, myCanvas.width, myCanvas.height);
+        
+        // interpolate position
+        const sec = new Date().getTime() / 1000;
+        //const t = sec - Math.floor(sec); // changes from 0-0.9999... every second
+        const t = (Math.sin(
+            sec*Math.PI // multiply by PI to get a value between -1 and 1
+        )+1)/2; // changes from 0-0.9999... every second
+        //console.log(t);
+        drawDot(vLerp(start, end, t), "_");
+        drawDot(start, 'S');
+        drawDot(end, 'E');
+        
+        // interpolate color
+        myCanvas.style.backgroundColor = `rgb(${Object.values(vLerp(orange, blue, t)).join(',')})`;
+        //console.log(myCanvas.style.backgroundColor);
+        
+        // interpolate sound
+        if(osc) osc.frequency.value = lerp(lowFreq, hightFreq, t);
+        
+        // interpolate text
+        ctx.strokeStyle = 'white';
+        ctx.textAlign = "center";
+        ctx.textBaseline = "top";
+        ctx.font = "bold 40px Arial";
+        //ctx.setLineDash([3,100]); // dash length / spacing of dashes
+        ctx.setLineDash([lerp(3, 130, t),100]);
+        ctx.strokeText("click for sound", myCanvas.width/2, 10);
+        ctx.setLineDash([]); // reset to no dashes or the circles would be drawn as dashes, too
+        
+        
+        
+        
+        
+        requestAnimationFrame(animate);
+
+    }
+
+    animate(start, end);
+
+
+    function drawDot(pos, label) {
+        ctx.beginPath();
+        ctx.fillStyle = 'white';
+        ctx.strokeStyle = 'black';
+
+        ctx.arc(pos.x, pos.y, 20, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.stroke();
+
+        ctx.fillStyle = "black";
+        ctx.textAlign = "center";
+        ctx.textBaseline = "middle";
+        ctx.font = "bold 14px Arial";
+        ctx.fillText(label, pos.x, pos.y);
+
+    }
+
+</script>
+</body>
+</html>

@@ -2,7 +2,7 @@ Follow along to the no-black-box machine learning course by @radu on freecodecam
 
 Raw and derived data is not included in the repo as it doesn't have any license: https://github.com/gniziemazity/drawing-data
 
-# Data creator web app
+# no black box ML
 
 Notes:
 
@@ -11,3 +11,10 @@ Notes:
 
 
 
+# Exkurs
+
+## Chart library
+
+## Linear interpolation (lerp)
+
+See comments in /exkurs/linear_interpolation/index.html 
