@@ -9,5 +9,94 @@
 <h1>Custom chart</h1>
 <div id="chartContainer"></div>
 <table id="dataTable"></table>
+<script src="./math.js"></script>
+<script src="./graphics.js"></script>
+<script src="./chart.js"></script>
+<script>
+        const N = 1000;
+        const samples = [];
+        for (let i = 0; i < N; i++) {
+            const type = Math.random() < 0.5 ? 'basic' : 'sport';
+            const commonRandom = Math.random();
+            const km = math.lerp(3000, 300000, commonRandom);
+            // map the price on a similar scale as km (less km = generally higher price), with some variance
+            const price = math.remap(3000, 300000, 9000, 900, km)
+                + math.lerp(-2000, 2000, Math.random())
+                + (type === 'basic' ? 0 : 5000);
+
+            samples.push({
+                id: i,
+                label: type,
+                point: [km, price],
+            });
+        }
+
+        const options = {
+            size: 600,
+            axesLabels: ['Kilometers', 'Price'],
+            styles: {
+                basic: {color: 'blue', text: '🚗'},// these are styles used by graphics.drawText in the end
+                sport: {color: 'red', text: '🏎️'}
+            },
+            icon: "image",
+            transparency: 0.4
+        }
+
+        graphics.generateImages(options.styles, 20);
+        
+        // we could do async / await stuff, but we just wait until the images are generated with a timeout here
+        let chart = null;
+        setTimeout(()=>{
+            chart = new Chart(document.getElementById('chartContainer'), samples, options, handleClick);
+        }, 100)
+
+        // highlight clicked sample and scroll into view
+        const handleClick = (sample, jumpToPosition=true) => {
+            if (sample == null) {
+                document.querySelectorAll('.emphasize').forEach(tr => tr.classList.remove('emphasize'));
+                chart.selectSample(null);
+                return;
+            }
+            const el = document.getElementById('row'+sample.id);
+            if(el.classList.contains('emphasize')) {
+                el.classList.remove('emphasize');
+                chart.selectSample(null);
+                return;
+            }
+            
+            document.querySelectorAll('tr').forEach(tr => tr.classList.remove('emphasize'));
+            
+            
+            
+            el.classList.add('emphasize');
+            if(jumpToPosition) {
+                el.scrollIntoView({behavior: 'auto', block: 'center'});
+            }
+
+            chart.selectSample(sample);
+        }
+        
+        const dataTable = document.getElementById('dataTable');
+        const header = dataTable.createTHead();
+        const tr = header.insertRow();
+        tr.insertCell().innerHTML = 'Id';
+        tr.insertCell().innerHTML = 'type';
+        tr.insertCell().innerHTML = 'km';
+        tr.insertCell().innerHTML = 'price';
+
+        const body = dataTable.createTBody();
+        for (const sample of samples) {
+            const tr = body.insertRow();
+            tr.setAttribute('id', `row${sample.id}`);
+            tr.onclick = ()=> handleClick(sample, false);
+            tr.insertCell().innerHTML = sample.id;
+            tr.insertCell().innerHTML = sample.label;
+            tr.insertCell().innerHTML = math.formatNumber(sample.point[0]);
+            tr.insertCell().innerHTML = math.formatNumber(sample.point[1]);
+        }
+
+
+
+</script>
 </body>
 </html>
