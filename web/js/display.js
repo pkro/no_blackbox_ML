@@ -43,13 +43,13 @@ function handleClick(sample, scrollIntoView = true) {
             return;
         }
 
-
+        clearEmphasize();
         el.classList.add('emphasize');
         if (scrollIntoView) {
             el.scrollIntoView({behavior: "auto", block: 'center'});
         }
 
-        if(chart) {
+        if (chart) {
             chart.selectSample(sample);
         }
 
