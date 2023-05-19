@@ -11,6 +11,9 @@ function createRow(container, studentName, samples) {
     for (let sample of samples) {
         const {id, label, student_id} = sample;
         const sampleContainer = document.createElement('div');
+        sampleContainer.addEventListener('click', () => {
+            handleClick(sample, false);
+        });
         sampleContainer.id = "sample_" + id;
         sampleContainer.classList.add('sampleContainer');
         const sampleLabel = document.createElement('div');
@@ -24,5 +27,39 @@ function createRow(container, studentName, samples) {
         }
         sampleContainer.appendChild(img);
         row.appendChild(sampleContainer);
+    }
+}
+
+function handleClick(sample, scrollIntoView = true) {
+    if (!sample) {
+        clearEmphasize();
+        return;
+    }
+
+    const el = document.getElementById('sample_' + sample.id);
+    if (el) {
+        if (el.classList.contains('emphasize')) {
+            clearEmphasize();
+            return;
+        }
+
+
+        el.classList.add('emphasize');
+        if (scrollIntoView) {
+            el.scrollIntoView({behavior: "auto", block: 'center'});
+        }
+
+        if(chart) {
+            chart.selectSample(sample);
+        }
+
+    }
+}
+
+function clearEmphasize() {
+    document.querySelectorAll('.sampleContainer').forEach(e => e.classList.remove('emphasize'));
+
+    if (chart) {
+        chart.selectSample(null);
     }
 }
