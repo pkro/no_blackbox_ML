@@ -12,11 +12,15 @@
 </div>
 <div id="controlPanel">
     <button onclick="toggleInput()">Toggle input</button>
+    <div id="statistics"></div>
+    
 </div>
 <div id="chartContainer"></div>
 <div id="tableContainer"></div>
 
 <script src="../common/js_objects/features.js"></script>
+<script src="../common/js_objects/training.js"></script>
+<script src="../common/js_objects/testing.js"></script>
 <script src="../common/js_objects/minMax.js"></script>
 
 <script src="../common/constants.js"></script>
@@ -32,14 +36,38 @@
 <script src="./chart/chart.js"></script>
 
 <script>
-    const {samples, featureNames} = features;
-    const groups = utils.groupBy(samples, 'student_id');
-
     const inputContainer = document.getElementById('inputContainer');
     const chartContainer = document.getElementById('chartContainer');
     const tableContainer = document.getElementById('tableContainer');
+    const statistics = document.getElementById('statistics');
     const predictedLabelContainer = document.getElementById('predictedLabelContainer');
     
+    const {samples, featureNames} = features;
+    const trainingSamples = training.samples;
+    const testingSamples = testing.samples;
+
+    let correctCount = 0;
+    let totalCount = 0;
+    
+    let k = 15;
+    for (const testSample of testingSamples) {
+        testSample.truth = testSample.label;
+        testSample.label = "?";
+        
+        // classify the test samples to evaluate the classifier
+
+        const {label} = classifyRandom(testSample.point);
+        testSample.label=label;
+        testSample.correct = testSample.label === testSample.truth;
+        
+        totalCount++;
+        correctCount += testSample.correct ? 1 : 0;
+    }
+    
+    statistics.innerHTML = `<b>ACCURACY</b><br>
+${correctCount} / ${totalCount} (${utils.formatPercent(correctCount/totalCount)})<br>`;
+
+    graphics.generateImages(utils.styles, 10);
 
     const chartOptions = {
         size: 500,
@@ -48,16 +76,36 @@
         transparency: 0.7,
         icon: 'image'
     };
-
-    graphics.generateImages(utils.styles, 10);
-
+    
     let chart = null;
     setTimeout(() => {
-        chart = new Chart(chartContainer, samples, chartOptions, handleClick);
+        chart = new Chart(chartContainer, trainingSamples, chartOptions, handleClick);
     }, 100);
+    
+    
+/*    const groups = utils.groupBy(samples, 'student_id');
 
     for (let student_id in groups) {
         const samples = groups[student_id];
+        const studentName = samples[0].student_name;
+        createRow(tableContainer, studentName, samples);
+    }*/
+    
+    const trainingGroups = utils.groupBy(trainingSamples, 'student_id');
+
+    for (let student_id in trainingGroups) {
+        const samples = trainingGroups[student_id];
+        const studentName = samples[0].student_name;
+        createRow(tableContainer, studentName, samples);
+    }
+
+    const subtitle = document.createElement("h2");
+    subtitle.innerHTML = "TESTING";
+    tableContainer.appendChild(subtitle);
+    const testingGroups = utils.groupBy(testingSamples, 'student_id');
+    
+    for (let student_id in testingGroups) {
+        const samples = testingGroups[student_id];
         const studentName = samples[0].student_name;
         createRow(tableContainer, studentName, samples);
     }
@@ -74,9 +122,9 @@
     }
 
     function classify(point) {
-        const samplePoints = samples.map(s => s.point);
-        const nearestIndices = utils.getNearest(point, samplePoints, 10);
-        const nearestSamples = nearestIndices.map(idx=>samples[idx]);
+        const samplePoints = trainingSamples.map(s => s.point);
+        const nearestIndices = utils.getNearest(point, samplePoints, k);
+        const nearestSamples = nearestIndices.map(idx=>trainingSamples[idx]);
         const labels = nearestSamples.map(s => s.label);
         const counts = {};
         for (let label of labels) {
@@ -86,11 +134,19 @@
         const label = labels.find(l => counts[l] === max);
         return {label, nearestSamples: nearestSamples};
     }
+    
+    function classifyRandom(point) {
+        const labels = Object.keys(utils.styles);
+        const numLabels = labels.length;
+        return {label: labels[Math.floor(Math.random()*numLabels)]};
+    }
 
     const sketchPad = new SketchPad(inputContainer, onDrawingUpdate, 400);
 
     // add an overlay / blur effect when the sketchPad is displayed
     sketchPad.canvas.style.cssText += `outline: 10000px solid rgba(0,0,0,0.7)`;
+    
+    //toggleInput(); // disable on first load
 
 
 </script>

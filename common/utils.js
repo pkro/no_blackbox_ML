@@ -12,8 +12,10 @@ utils.styles = {
     guitar: {color: 'blue', text: '🎸'},
     pencil: {color: 'magenta', text: '✏️'},
     clock: {color: 'lightgray', text: '🕒'},
-
 };
+
+// for testing data with a "?" label
+utils.styles["?"] = {color: 'red', text: '❓'}
 
 utils.formatPercent = (n) => `${(n * 100).toFixed(2)}%`;
 

@@ -333,6 +333,7 @@ class Chart {
             // size has to be extremely large because we could be zoomed in
             graphics.drawPoint(ctx, pixelLoc, 'rgba(255,255,255,0.7)', 10000000);
 
+            ctx.strokeStyle="gray";
             // draw a line between point and nearest sample
             for(let ns of this.nearestSamples) {
                 ctx.beginPath();
