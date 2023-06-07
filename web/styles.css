@@ -49,6 +49,21 @@ button:disabled, button:disabled:hover {
     white-space: nowrap;
 }
 
+#inputContainer {
+    position: fixed;
+    right: 500px;
+    top: 50%;
+    transform: translate(0, -50%);
+    text-align: center;
+    margin: 10px;
+}
+
+#predictedLabelContainer {
+    color: white;
+    font-size: 30px;
+    position: relative;
+}
+
 .sampleContainer {
     flex: 1 1 0;
     background-color: white;
@@ -67,6 +82,15 @@ button:disabled, button:disabled:hover {
     right: 0;
     top: 50%;
     transform: translate(0, -50%);
+}
+
+#controlPanel {
+    position: fixed;
+    right: 0;
+    top: 16px;
+    width: 500px;
+    text-align: center;
+    padding: 10px;
 }
 
 .blur {

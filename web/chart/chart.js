@@ -17,6 +17,10 @@ class Chart {
         this.selectedSample = null;
         this.onClick = onClick; // optional callback when clicking on a sample, e.g. to highlight it in the table
 
+        // a single point to display on the chart while drawing on the sketchpad
+        this.dynamicPoint = null;
+        this.nearestSamples = null;
+
         container.appendChild(this.canvas);
 
         this.ctx = this.canvas.getContext('2d');
@@ -47,6 +51,17 @@ class Chart {
         this.#addEventListeners();
     }
 
+    showDynamicPoint(point, label, nearestSamples) {
+        this.dynamicPoint = {point, label};
+        this.nearestSamples = nearestSamples;
+        this.#draw();
+    }
+
+    hideDynamicPoint() {
+        this.dynamicPoint = null;
+        this.#draw();
+    }
+
     #addEventListeners() {
         const {canvas, dataTrans, dragInfo} = this;
         canvas.onmousedown = evt => {
@@ -63,7 +78,7 @@ class Chart {
                 dragInfo.end = dataLoc;
                 dragInfo.offset = math.scale( // take scale into account as otherwise zoom level will influence drag speed
                     math.subtract(dragInfo.start, dragInfo.end),
-                    dataTrans.scale**2
+                    dataTrans.scale ** 2
                 );
                 const newOffset = math.add(dataTrans.offset, dragInfo.offset);
                 this.#updateDataBounds(newOffset, dataTrans.scale);
@@ -115,7 +130,7 @@ class Chart {
                 return;
             }
             if (this.hoveredSample) {
-                if(this.selectedSample===this.hoveredSample) {
+                if (this.selectedSample === this.hoveredSample) {
                     this.selectedSample = null;
                 } else {
                     this.selectedSample = this.hoveredSample;
@@ -195,10 +210,20 @@ class Chart {
         const minY = Math.min(...y);
         const maxY = Math.max(...y);
 
+        // "unsquish" / normalize - both axes should have the same value space, even
+        // if the max value of feature 1 (X) is 200 and the other (Y) is 600
+        // then, both should have a max value of 600
+        // if differences are large, it might make the chart useless though as
+        // the axis with the (much) lower max will be mostly empty
+        const deltaX = maxX - minX;
+        const deltaY = maxY - minY;
+        const maxDelta = Math.max(deltaX, deltaY);
+
+
         const bounds = {
             left: minX,
-            right: maxX,
-            top: maxY,
+            right: maxX,// minX+maxDelta, (commented out is used to unsquish if the data
+            top: maxY, // minY + maxDelta,
             bottom: minY
         };
         return bounds;
@@ -301,11 +326,28 @@ class Chart {
             this.#emphasizeSample(this.selectedSample, 'yellow');
         }
 
+        if (this.dynamicPoint) {
+            const {point, label} = this.dynamicPoint;
+            const pixelLoc = math.remapPoint(this.dataBounds, this.pixelBounds, point);
+            // add "overlay" around point;
+            // size has to be extremely large because we could be zoomed in
+            graphics.drawPoint(ctx, pixelLoc, 'rgba(255,255,255,0.7)', 10000000);
+
+            // draw a line between point and nearest sample
+            for(let ns of this.nearestSamples) {
+                ctx.beginPath();
+                ctx.moveTo(...pixelLoc);
+                ctx.lineTo(...math.remapPoint(this.dataBounds, this.pixelBounds, ns.point));
+                ctx.stroke();
+                graphics.drawImage(ctx, this.styles[label].image, pixelLoc);
+            }
+
+        }
+
         this.#drawAxes();
     }
 
     selectSample(sample) {
-        console.log(sample);
         this.selectedSample = sample;
         this.#draw();
     }

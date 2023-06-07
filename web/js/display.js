@@ -63,3 +63,15 @@ function clearEmphasize() {
         chart.selectSample(null);
     }
 }
+
+function toggleInput() {
+    const inputContainer = document.getElementById('inputContainer');
+    if (inputContainer.style.display !== 'none') {
+        inputContainer.style.display = 'none';
+        chart.hideDynamicPoint();
+
+    } else {
+        inputContainer.style.display = 'block';
+        sketchPad.triggerUpdate();
+    }
+}

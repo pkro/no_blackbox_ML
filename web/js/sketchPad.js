@@ -6,7 +6,9 @@ class SketchPad {
     paths;
     isDrawing;
     undoBtn;
-    constructor(container, size = 400) {
+    constructor(container, onUpdate=null, size = 400) {
+        this.onUpdate = onUpdate;
+        this.onUpdate = onUpdate;
         this.canvas = document.createElement("canvas");
         this.canvas.width = size;
         this.canvas.height = size;
@@ -29,6 +31,8 @@ class SketchPad {
         this.isDrawing = false;
         this.#addEventListeners();
     }
+
+
     #addEventListeners() {
         this.canvas.onpointerdown = (evt) => {
             this.paths.push([]);
@@ -54,18 +58,31 @@ class SketchPad {
         const lastPath = this.paths[this.paths.length - 1];
         lastPath.push(mouse);
     }
+
     #redraw() {
         this.#clear();
         draw.paths(this.ctx, this.paths);
         this.undoBtn.disabled = this.paths.length === 0;
+
+        this.triggerUpdate();
+        
     }
+
+    triggerUpdate() {
+        if (this.onUpdate) {
+            this.onUpdate(this.paths);
+        }
+    }
+
     #clear() {
         this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
     }
+
     #undo() {
         this.paths.pop();
         this.#redraw();
     }
+
     reset() {
         this.paths = [];
         this.isDrawing = false;

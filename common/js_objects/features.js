@@ -1,8 +1,8 @@
 const features =
     {
   "featureNames": [
-    "Path count",
-    "Point count"
+    "Width",
+    "Height"
   ],
   "samples": [
     {
@@ -11,8 +11,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        5,
-        883
+        0.25498426023084997,
+        0.20412844036697247
       ]
     },
     {
@@ -21,8 +21,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        4,
-        596
+        0.23714585519412382,
+        0.12614678899082568
       ]
     },
     {
@@ -31,8 +31,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        8,
-        571
+        0.16684155299055614,
+        0.3463302752293578
       ]
     },
     {
@@ -41,8 +41,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        3,
-        575
+        0.155299055613851,
+        0.5894495412844036
       ]
     },
     {
@@ -51,8 +51,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        5,
-        586
+        0.20671563483735572,
+        0.286697247706422
       ]
     },
     {
@@ -61,8 +61,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        6,
-        1214
+        0.22350472193074503,
+        0.46559633027522934
       ]
     },
     {
@@ -71,8 +71,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        5,
-        527
+        0.08499475341028331,
+        0.5802752293577982
       ]
     },
     {
@@ -81,8 +81,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        3,
-        588
+        0.23294858342077648,
+        0.4701834862385321
       ]
     },
     {
@@ -91,8 +91,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        7,
-        715
+        0.2570828961175236,
+        0.22706422018348624
       ]
     },
     {
@@ -101,8 +101,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        3,
-        361
+        0.20041972717733472,
+        0.13990825688073394
       ]
     },
     {
@@ -111,8 +111,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        7,
-        455
+        0.1888772298006296,
+        0.37155963302752293
       ]
     },
     {
@@ -121,8 +121,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        3,
-        520
+        0.229800629590766,
+        0.6330275229357798
       ]
     },
     {
@@ -131,8 +131,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        6,
-        500
+        0.24239244491080797,
+        0.2981651376146789
       ]
     },
     {
@@ -141,8 +141,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        6,
-        1034
+        0.23714585519412382,
+        0.5
       ]
     },
     {
@@ -151,8 +151,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        5,
-        357
+        0.16998950682056663,
+        0.47477064220183485
       ]
     },
     {
@@ -161,8 +161,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        4,
-        371
+        0.19832109129066108,
+        0.43119266055045874
       ]
     },
     {
@@ -171,8 +171,8 @@ const features =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        7,
-        658
+        0.25078698845750264,
+        0.27293577981651373
       ]
     },
     {
@@ -181,8 +181,8 @@ const features =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        11,
-        387
+        0.15110178384050368,
+        0.1444954128440367
       ]
     },
     {
@@ -191,8 +191,8 @@ const features =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        12,
-        538
+        0.22350472193074503,
+        0.3922018348623853
       ]
     },
     {
@@ -201,8 +201,8 @@ const features =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        13,
-        332
+        0.3200419727177335,
+        0.6880733944954128
       ]
     },
     {
@@ -211,8 +211,8 @@ const features =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        9,
-        407
+        0.15110178384050368,
+        0.28440366972477066
       ]
     },
     {
@@ -221,8 +221,8 @@ const features =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        17,
-        587
+        0.080797481636936,
+        0.44495412844036697
       ]
     },
     {
@@ -231,8 +231,8 @@ const features =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        10,
-        396
+        0.01888772298006296,
+        0.5137614678899083
       ]
     },
     {
@@ -241,8 +241,8 @@ const features =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        5,
-        184
+        0.11647429171038824,
+        0.26146788990825687
       ]
     },
     {
@@ -251,8 +251,8 @@ const features =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        19,
-        799
+        0.24449108079748164,
+        0.2981651376146789
       ]
     },
     {
@@ -261,8 +261,8 @@ const features =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        24,
-        634
+        0.23294858342077648,
+        0.1834862385321101
       ]
     },
     {
@@ -271,8 +271,8 @@ const features =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        17,
-        612
+        0.2539349422875131,
+        0.5596330275229358
       ]
     },
     {
@@ -281,8 +281,8 @@ const features =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        5,
-        368
+        0.2465897166841553,
+        0.5344036697247706
       ]
     },
     {
@@ -291,8 +291,8 @@ const features =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        27,
-        955
+        0.229800629590766,
+        0.3669724770642202
       ]
     },
     {
@@ -301,8 +301,8 @@ const features =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        7,
-        669
+        0.304302203567681,
+        0.25229357798165136
       ]
     },
     {
@@ -311,8 +311,8 @@ const features =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        6,
-        245
+        0.023084994753410283,
+        0.27293577981651373
       ]
     },
     {
@@ -321,8 +321,8 @@ const features =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        24,
-        784
+        0.35362014690451204,
+        0.7568807339449541
       ]
     },
     {
@@ -331,8 +331,8 @@ const features =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        1,
-        255
+        0.2402938090241343,
+        0.3669724770642202
       ]
     },
     {
@@ -341,8 +341,8 @@ const features =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        1,
-        148
+        0.1783840503672613,
+        0.20642201834862386
       ]
     },
     {
@@ -351,8 +351,8 @@ const features =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        7,
-        521
+        0.25498426023084997,
+        0.5825688073394495
       ]
     },
     {
@@ -361,8 +361,8 @@ const features =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        4,
-        345
+        0.3074501573976915,
+        0.6559633027522935
       ]
     },
     {
@@ -371,8 +371,8 @@ const features =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        25,
-        548
+        0.1720881427072403,
+        0.2408256880733945
       ]
     },
     {
@@ -381,8 +381,8 @@ const features =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        16,
-        874
+        0.10703043022035677,
+        0.6697247706422018
       ]
     },
     {
@@ -391,8 +391,8 @@ const features =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        7,
-        353
+        0.02938090241343127,
+        0.6926605504587156
       ]
     },
     {
@@ -401,8 +401,8 @@ const features =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        41,
-        735
+        0.34522560335781743,
+        0.6880733944954128
       ]
     },
     {
@@ -411,8 +411,8 @@ const features =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        18,
-        748
+        0.1783840503672613,
+        0.1444954128440367
       ]
     },
     {
@@ -421,8 +421,8 @@ const features =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        16,
-        622
+        0.2161594963273872,
+        0.1651376146788991
       ]
     },
     {
@@ -431,8 +431,8 @@ const features =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        23,
-        864
+        0.33263378803777544,
+        0.5825688073394495
       ]
     },
     {
@@ -441,8 +441,8 @@ const features =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        6,
-        910
+        0.30640083945435465,
+        0.7637614678899083
       ]
     },
     {
@@ -451,8 +451,8 @@ const features =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        22,
-        847
+        0.2088142707240294,
+        0.30045871559633025
       ]
     },
     {
@@ -461,8 +461,8 @@ const features =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        21,
-        1659
+        0.13955928646379853,
+        0.8371559633027523
       ]
     },
     {
@@ -471,8 +471,8 @@ const features =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        16,
-        467
+        0.29590766002098634,
+        0.02522935779816514
       ]
     },
     {
@@ -481,8 +481,8 @@ const features =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        69,
-        1588
+        0.26862539349422876,
+        0.5779816513761468
       ]
     },
     {
@@ -491,8 +491,8 @@ const features =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        7,
-        1869
+        0.30849947534102834,
+        0.30963302752293576
       ]
     },
     {
@@ -501,8 +501,8 @@ const features =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        4,
-        1013
+        0.31899265477439664,
+        0.38990825688073394
       ]
     },
     {
@@ -511,8 +511,8 @@ const features =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        7,
-        1227
+        0.30535152151101785,
+        0.7178899082568807
       ]
     },
     {
@@ -521,8 +521,8 @@ const features =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        5,
-        1738
+        0.2938090241343127,
+        0.8853211009174312
       ]
     },
     {
@@ -531,8 +531,8 @@ const features =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        8,
-        1248
+        0.26128016789087094,
+        0.4793577981651376
       ]
     },
     {
@@ -541,8 +541,8 @@ const features =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        14,
-        2010
+        0.31899265477439664,
+        0.6032110091743119
       ]
     },
     {
@@ -551,8 +551,8 @@ const features =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        9,
-        839
+        0.2633788037775446,
+        0.676605504587156
       ]
     },
     {
@@ -561,8 +561,8 @@ const features =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        5,
-        710
+        0.22455403987408185,
+        0.5045871559633027
       ]
     },
     {
@@ -571,8 +571,8 @@ const features =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        7,
-        726
+        0.3252885624344176,
+        0.3119266055045872
       ]
     },
     {
@@ -581,8 +581,8 @@ const features =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        3,
-        324
+        0.1731374606505771,
+        0.22935779816513763
       ]
     },
     {
@@ -591,8 +591,8 @@ const features =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        10,
-        449
+        0.13431269674711438,
+        0.555045871559633
       ]
     },
     {
@@ -601,8 +601,8 @@ const features =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        6,
-        235
+        0.16684155299055614,
+        0.5137614678899083
       ]
     },
     {
@@ -611,8 +611,8 @@ const features =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        11,
-        341
+        0.1584470094438615,
+        0.26376146788990823
       ]
     },
     {
@@ -621,8 +621,8 @@ const features =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        9,
-        482
+        0.14480587618048268,
+        0.6284403669724771
       ]
     },
     {
@@ -631,8 +631,8 @@ const features =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        6,
-        314
+        0.12381951731374606,
+        0.6055045871559633
       ]
     },
     {
@@ -641,8 +641,8 @@ const features =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        19,
-        298
+        0.1993704092339979,
+        0.4380733944954128
       ]
     },
     {
@@ -651,8 +651,8 @@ const features =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        8,
-        596
+        0.3389296956977964,
+        0.4380733944954128
       ]
     },
     {
@@ -661,8 +661,8 @@ const features =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        8,
-        615
+        0.15005246589716684,
+        0.5458715596330275
       ]
     },
     {
@@ -671,8 +671,8 @@ const features =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        5,
-        334
+        0.18048268625393493,
+        0.5573394495412844
       ]
     },
     {
@@ -681,8 +681,8 @@ const features =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        4,
-        157
+        0.23924449108079748,
+        0.6169724770642202
       ]
     },
     {
@@ -691,8 +691,8 @@ const features =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        6,
-        249
+        0.21825813221406087,
+        0.1811926605504587
       ]
     },
     {
@@ -701,8 +701,8 @@ const features =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        8,
-        668
+        0.155299055613851,
+        0.6055045871559633
       ]
     },
     {
@@ -711,8 +711,8 @@ const features =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        4,
-        449
+        0.06715634837355719,
+        0.5619266055045872
       ]
     },
     {
@@ -721,8 +721,8 @@ const features =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        10,
-        212
+        0.13326337880377753,
+        0.36009174311926606
       ]
     },
     {
@@ -731,8 +731,8 @@ const features =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        4,
-        516
+        0.2623294858342078,
+        0.18577981651376146
       ]
     },
     {
@@ -741,8 +741,8 @@ const features =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        3,
-        142
+        0.08184679958027283,
+        0.0871559633027523
       ]
     },
     {
@@ -751,8 +751,8 @@ const features =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        4,
-        259
+        0.13011542497376705,
+        0.286697247706422
       ]
     },
     {
@@ -761,8 +761,8 @@ const features =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        3,
-        208
+        0.13955928646379853,
+        0.34174311926605505
       ]
     },
     {
@@ -771,8 +771,8 @@ const features =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        13,
-        424
+        0.19622245540398742,
+        0.28211009174311924
       ]
     },
     {
@@ -781,8 +781,8 @@ const features =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        1,
-        72
+        0.0944386149003148,
+        0.1559633027522936
       ]
     },
     {
@@ -791,8 +791,8 @@ const features =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        1,
-        62
+        0.16369359916054566,
+        0.06651376146788991
       ]
     },
     {
@@ -801,8 +801,8 @@ const features =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        19,
-        432
+        0.10598111227701994,
+        0.2591743119266055
       ]
     },
     {
@@ -811,8 +811,8 @@ const features =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        5,
-        680
+        0.32948583420776495,
+        0.463302752293578
       ]
     },
     {
@@ -821,8 +821,8 @@ const features =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        19,
-        447
+        0.24344176285414482,
+        0.49311926605504586
       ]
     },
     {
@@ -831,8 +831,8 @@ const features =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        14,
-        219
+        0.24239244491080797,
+        0.5986238532110092
       ]
     },
     {
@@ -841,8 +841,8 @@ const features =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        13,
-        286
+        0.2707240293809024,
+        0.7522935779816514
       ]
     },
     {
@@ -851,8 +851,8 @@ const features =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        23,
-        432
+        0.32633788037775446,
+        0.5160550458715596
       ]
     },
     {
@@ -861,8 +861,8 @@ const features =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        17,
-        348
+        0.2801678908709339,
+        0.6811926605504587
       ]
     },
     {
@@ -871,8 +871,8 @@ const features =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        7,
-        161
+        0.24134312696747115,
+        0.6169724770642202
       ]
     },
     {
@@ -881,8 +881,8 @@ const features =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        22,
-        410
+        0.17523609653725078,
+        0.44954128440366975
       ]
     },
     {
@@ -891,8 +891,8 @@ const features =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        15,
-        1355
+        0.2644281217208814,
+        0.2408256880733945
       ]
     },
     {
@@ -901,8 +901,8 @@ const features =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        5,
-        129
+        0.26652675760755506,
+        0.11009174311926606
       ]
     },
     {
@@ -911,8 +911,8 @@ const features =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        12,
-        378
+        0.2969569779643232,
+        0.6353211009174312
       ]
     },
     {
@@ -921,8 +921,8 @@ const features =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        4,
-        306
+        0.2539349422875131,
+        0.7178899082568807
       ]
     },
     {
@@ -931,8 +931,8 @@ const features =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        10,
-        613
+        0.19517313746065057,
+        0.24541284403669725
       ]
     },
     {
@@ -941,8 +941,8 @@ const features =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        16,
-        861
+        0.3704092339979014,
+        0.6032110091743119
       ]
     },
     {
@@ -951,8 +951,8 @@ const features =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        5,
-        213
+        0.18992654774396642,
+        0.41284403669724773
       ]
     },
     {
@@ -961,8 +961,8 @@ const features =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        30,
-        1794
+        0.21511017838405036,
+        0.5986238532110092
       ]
     },
     {
@@ -971,8 +971,8 @@ const features =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        17,
-        885
+        0.3389296956977964,
+        0.30963302752293576
       ]
     },
     {
@@ -981,8 +981,8 @@ const features =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        7,
-        430
+        0.29275970619097585,
+        0.3119266055045872
       ]
     },
     {
@@ -991,8 +991,8 @@ const features =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        6,
-        415
+        0.3305351521511018,
+        0.5
       ]
     },
     {
@@ -1001,8 +1001,8 @@ const features =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        11,
-        1002
+        0.2539349422875131,
+        0.7637614678899083
       ]
     },
     {
@@ -1011,8 +1011,8 @@ const features =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        6,
-        369
+        0.2969569779643232,
+        0.5619266055045872
       ]
     },
     {
@@ -1021,8 +1021,8 @@ const features =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        12,
-        611
+        0.236096537250787,
+        0.6559633027522935
       ]
     },
     {
@@ -1031,8 +1031,8 @@ const features =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        9,
-        284
+        0.3777544596012592,
+        0.786697247706422
       ]
     },
     {
@@ -1041,8 +1041,8 @@ const features =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        7,
-        319
+        0.2906610703043022,
+        0.7821100917431193
       ]
     },
     {
@@ -1051,8 +1051,8 @@ const features =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        8,
-        1352
+        0.3305351521511018,
+        0.21788990825688073
       ]
     },
     {
@@ -1061,8 +1061,8 @@ const features =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        21,
-        3244
+        0.23924449108079748,
+        0.30504587155963303
       ]
     },
     {
@@ -1071,8 +1071,8 @@ const features =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        15,
-        1356
+        0.2623294858342078,
+        0.3646788990825688
       ]
     },
     {
@@ -1081,8 +1081,8 @@ const features =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        9,
-        1353
+        0.28226652675760755,
+        0.6697247706422018
       ]
     },
     {
@@ -1091,8 +1091,8 @@ const features =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        14,
-        1726
+        0.28541448058761804,
+        0.38990825688073394
       ]
     },
     {
@@ -1101,8 +1101,8 @@ const features =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        7,
-        1285
+        0.10283315844700944,
+        0.7339449541284404
       ]
     },
     {
@@ -1111,8 +1111,8 @@ const features =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        6,
-        499
+        0.008394543546694649,
+        0.4908256880733945
       ]
     },
     {
@@ -1121,8 +1121,8 @@ const features =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        23,
-        1322
+        0.13955928646379853,
+        0.3073394495412844
       ]
     },
     {
@@ -1131,8 +1131,8 @@ const features =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        6,
-        520
+        0.2885624344176285,
+        0.22247706422018348
       ]
     },
     {
@@ -1141,8 +1141,8 @@ const features =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        2,
-        238
+        0.1888772298006296,
+        0.21788990825688073
       ]
     },
     {
@@ -1151,8 +1151,8 @@ const features =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        4,
-        306
+        0.161594963273872,
+        0.4151376146788991
       ]
     },
     {
@@ -1161,8 +1161,8 @@ const features =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        2,
-        417
+        0.2193074501573977,
+        0.6032110091743119
       ]
     },
     {
@@ -1171,8 +1171,8 @@ const features =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        10,
-        409
+        0.23819517313746066,
+        0.26146788990825687
       ]
     },
     {
@@ -1181,8 +1181,8 @@ const features =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        14,
-        813
+        0.3116474291710388,
+        0.5688073394495413
       ]
     },
     {
@@ -1191,8 +1191,8 @@ const features =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        4,
-        293
+        0.20671563483735572,
+        0.34174311926605505
       ]
     },
     {
@@ -1201,8 +1201,8 @@ const features =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        9,
-        390
+        0.21720881427072403,
+        0.33715596330275227
       ]
     },
     {
@@ -1211,8 +1211,8 @@ const features =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        8,
-        425
+        0.155299055613851,
+        0.13302752293577982
       ]
     },
     {
@@ -1221,8 +1221,8 @@ const features =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        5,
-        307
+        0.15005246589716684,
+        0.07339449541284404
       ]
     },
     {
@@ -1231,8 +1231,8 @@ const features =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        19,
-        1095
+        0.18153200419727178,
+        0.41284403669724773
       ]
     },
     {
@@ -1241,8 +1241,8 @@ const features =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        10,
-        647
+        0.229800629590766,
+        0.5412844036697247
       ]
     },
     {
@@ -1251,8 +1251,8 @@ const features =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        26,
-        1215
+        0.22350472193074503,
+        0.3761467889908257
       ]
     },
     {
@@ -1261,8 +1261,8 @@ const features =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        19,
-        776
+        0.07135362014690451,
+        0.48623853211009177
       ]
     },
     {
@@ -1271,8 +1271,8 @@ const features =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        4,
-        279
+        0.0912906610703043,
+        0.22477064220183487
       ]
     },
     {
@@ -1281,8 +1281,8 @@ const features =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        9,
-        274
+        0.06610703043022036,
+        0.20871559633027523
       ]
     },
     {
@@ -1291,8 +1291,8 @@ const features =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        26,
-        1053
+        0.3567681007345226,
+        0.32339449541284404
       ]
     },
     {
@@ -1301,8 +1301,8 @@ const features =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        13,
-        830
+        0.39769150052465896,
+        0.8463302752293578
       ]
     },
     {
@@ -1311,8 +1311,8 @@ const features =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        79,
-        1420
+        0.3987408184679958,
+        0.5045871559633027
       ]
     },
     {
@@ -1321,8 +1321,8 @@ const features =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        25,
-        1592
+        0.3483735571878279,
+        0.8876146788990825
       ]
     },
     {
@@ -1331,8 +1331,8 @@ const features =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        37,
-        1844
+        0.35257082896117525,
+        0.5573394495412844
       ]
     },
     {
@@ -1341,8 +1341,8 @@ const features =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        24,
-        1181
+        0.3441762854144806,
+        0.8807339449541285
       ]
     },
     {
@@ -1351,8 +1351,8 @@ const features =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        18,
-        413
+        0.34312696747114374,
+        0.7064220183486238
       ]
     },
     {
@@ -1361,8 +1361,8 @@ const features =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        21,
-        463
+        0.14480587618048268,
+        0.676605504587156
       ]
     },
     {
@@ -1371,8 +1371,8 @@ const features =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        8,
-        759
+        0.2528856243441763,
+        0.15137614678899083
       ]
     },
     {
@@ -1381,8 +1381,8 @@ const features =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        10,
-        260
+        0.24554039874081846,
+        0.1559633027522936
       ]
     },
     {
@@ -1391,8 +1391,8 @@ const features =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        16,
-        677
+        0.15110178384050368,
+        0.5665137614678899
       ]
     },
     {
@@ -1401,8 +1401,8 @@ const features =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        3,
-        189
+        0.3210912906610703,
+        0.7224770642201835
       ]
     },
     {
@@ -1411,8 +1411,8 @@ const features =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        24,
-        863
+        0.27911857292759706,
+        0.3486238532110092
       ]
     },
     {
@@ -1421,8 +1421,8 @@ const features =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        13,
-        955
+        0.2266526757607555,
+        0.6422018348623854
       ]
     },
     {
@@ -1431,8 +1431,8 @@ const features =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        6,
-        198
+        0.1584470094438615,
+        0.3922018348623853
       ]
     },
     {
@@ -1441,8 +1441,8 @@ const features =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        19,
-        595
+        0.3252885624344176,
+        0.6972477064220184
       ]
     },
     {
@@ -1451,8 +1451,8 @@ const features =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        6,
-        469
+        0.3179433368310598,
+        0.3348623853211009
       ]
     },
     {
@@ -1461,8 +1461,8 @@ const features =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        13,
-        477
+        0.3483735571878279,
+        0.2706422018348624
       ]
     },
     {
@@ -1471,8 +1471,8 @@ const features =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        13,
-        481
+        0.1993704092339979,
+        0.6536697247706422
       ]
     },
     {
@@ -1481,8 +1481,8 @@ const features =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        9,
-        341
+        0.3116474291710388,
+        0.8348623853211009
       ]
     },
     {
@@ -1491,8 +1491,8 @@ const features =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        13,
-        514
+        0.30220356768100737,
+        0.49770642201834864
       ]
     },
     {
@@ -1501,8 +1501,8 @@ const features =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        9,
-        425
+        0.32633788037775446,
+        0.6926605504587156
       ]
     },
     {
@@ -1511,8 +1511,8 @@ const features =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        3,
-        250
+        0.2203567681007345,
+        0.4908256880733945
       ]
     },
     {
@@ -1521,8 +1521,8 @@ const features =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        7,
-        195
+        0.2203567681007345,
+        0.44724770642201833
       ]
     },
     {
@@ -1531,8 +1531,8 @@ const features =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        11,
-        1523
+        0.3641133263378804,
+        0.43119266055045874
       ]
     },
     {
@@ -1541,8 +1541,8 @@ const features =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        8,
-        290
+        0.20671563483735572,
+        0.1444954128440367
       ]
     },
     {
@@ -1551,8 +1551,8 @@ const features =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        10,
-        449
+        0.25078698845750264,
+        0.7155963302752294
       ]
     },
     {
@@ -1561,8 +1561,8 @@ const features =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        33,
-        954
+        0.33683105981112277,
+        0.9334862385321101
       ]
     },
     {
@@ -1571,8 +1571,8 @@ const features =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        25,
-        989
+        0.30220356768100737,
+        0.46559633027522934
       ]
     },
     {
@@ -1581,8 +1581,8 @@ const features =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        12,
-        1198
+        0.14690451206715635,
+        0.8096330275229358
       ]
     },
     {
@@ -1591,8 +1591,8 @@ const features =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        13,
-        722
+        0.08289611752360965,
+        0.8279816513761468
       ]
     },
     {
@@ -1601,8 +1601,8 @@ const features =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        23,
-        1012
+        0.29800629590766003,
+        0.7729357798165137
       ]
     },
     {
@@ -1611,8 +1611,8 @@ const features =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        12,
-        616
+        0.32948583420776495,
+        0.4243119266055046
       ]
     },
     {
@@ -1621,8 +1621,8 @@ const features =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        19,
-        666
+        0.2864637985309549,
+        0.3119266055045872
       ]
     },
     {
@@ -1631,8 +1631,8 @@ const features =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        18,
-        542
+        0.28541448058761804,
+        0.5275229357798165
       ]
     },
     {
@@ -1641,8 +1641,8 @@ const features =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        22,
-        495
+        0.2602308499475341,
+        0.8096330275229358
       ]
     },
     {
@@ -1651,8 +1651,8 @@ const features =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        37,
-        899
+        0.33263378803777544,
+        0.4908256880733945
       ]
     },
     {
@@ -1661,8 +1661,8 @@ const features =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        19,
-        911
+        0.3179433368310598,
+        0.6100917431192661
       ]
     },
     {
@@ -1671,8 +1671,8 @@ const features =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        16,
-        401
+        0.2801678908709339,
+        0.5619266055045872
       ]
     },
     {
@@ -1681,8 +1681,8 @@ const features =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        22,
-        633
+        0.18363064008394545,
+        0.45871559633027525
       ]
     },
     {
@@ -1691,8 +1691,8 @@ const features =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        25,
-        2078
+        0.32214060860440713,
+        0.25
       ]
     },
     {
@@ -1701,8 +1701,8 @@ const features =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        16,
-        1262
+        0.31584470094438616,
+        0.11467889908256881
       ]
     },
     {
@@ -1711,8 +1711,8 @@ const features =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        65,
-        3048
+        0.24449108079748164,
+        0.7293577981651376
       ]
     },
     {
@@ -1721,8 +1721,8 @@ const features =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        55,
-        2242
+        0.35047219307450156,
+        0.8394495412844036
       ]
     },
     {
@@ -1731,8 +1731,8 @@ const features =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        44,
-        1953
+        0.2570828961175236,
+        0.33256880733944955
       ]
     },
     {
@@ -1741,8 +1741,8 @@ const features =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        37,
-        1737
+        0.22455403987408185,
+        0.44954128440366975
       ]
     },
     {
@@ -1751,8 +1751,8 @@ const features =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        13,
-        668
+        0.13431269674711438,
+        0.44495412844036697
       ]
     },
     {
@@ -1761,8 +1761,8 @@ const features =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        23,
-        1247
+        0.1888772298006296,
+        0.4151376146788991
       ]
     },
     {
@@ -1771,8 +1771,8 @@ const features =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        7,
-        463
+        0.3147953830010493,
+        0.30045871559633025
       ]
     },
     {
@@ -1781,8 +1781,8 @@ const features =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        3,
-        113
+        0.2969569779643232,
+        0.2706422018348624
       ]
     },
     {
@@ -1791,8 +1791,8 @@ const features =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        16,
-        378
+        0.30220356768100737,
+        0.6422018348623854
       ]
     },
     {
@@ -1801,8 +1801,8 @@ const features =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        3,
-        131
+        0.22560335781741866,
+        0.5688073394495413
       ]
     },
     {
@@ -1811,8 +1811,8 @@ const features =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        16,
-        227
+        0.2696747114375656,
+        0.36009174311926606
       ]
     },
     {
@@ -1821,8 +1821,8 @@ const features =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        8,
-        585
+        0.12067156348373557,
+        0.5642201834862385
       ]
     },
     {
@@ -1831,8 +1831,8 @@ const features =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        5,
-        307
+        0.18363064008394545,
+        0.43119266055045874
       ]
     },
     {
@@ -1841,8 +1841,8 @@ const features =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        18,
-        210
+        0.21511017838405036,
+        0.3967889908256881
       ]
     },
     {
@@ -1851,8 +1851,8 @@ const features =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        5,
-        818
+        0.33997901364113325,
+        0.30045871559633025
       ]
     },
     {
@@ -1861,8 +1861,8 @@ const features =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        2,
-        278
+        0.2602308499475341,
+        0.24311926605504589
       ]
     },
     {
@@ -1871,8 +1871,8 @@ const features =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        1,
-        199
+        0.15634837355718784,
+        0.5344036697247706
       ]
     },
     {
@@ -1881,8 +1881,8 @@ const features =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        2,
-        119
+        0.1731374606505771,
+        0.5045871559633027
       ]
     },
     {
@@ -1891,8 +1891,8 @@ const features =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        9,
-        243
+        0.1584470094438615,
+        0.25229357798165136
       ]
     },
     {
@@ -1901,8 +1901,8 @@ const features =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        17,
-        1069
+        0.15424973767051417,
+        0.6972477064220184
       ]
     },
     {
@@ -1911,8 +1911,8 @@ const features =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        7,
-        477
+        0.2728226652675761,
+        0.40825688073394495
       ]
     },
     {
@@ -1921,8 +1921,8 @@ const features =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        23,
-        640
+        0.323189926547744,
+        0.6490825688073395
       ]
     },
     {
@@ -1931,8 +1931,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        14,
-        1122
+        0.2203567681007345,
+        0.1743119266055046
       ]
     },
     {
@@ -1941,8 +1941,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        8,
-        470
+        0.24134312696747115,
+        0.10779816513761468
       ]
     },
     {
@@ -1951,8 +1951,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        7,
-        358
+        0.1311647429171039,
+        0.3944954128440367
       ]
     },
     {
@@ -1961,8 +1961,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        5,
-        425
+        0.16789087093389296,
+        0.6307339449541285
       ]
     },
     {
@@ -1971,8 +1971,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        20,
-        557
+        0.0912906610703043,
+        0.19724770642201836
       ]
     },
     {
@@ -1981,8 +1981,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        11,
-        1037
+        0.12696747114375656,
+        0.6903669724770642
       ]
     },
     {
@@ -1991,8 +1991,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        7,
-        405
+        0.20566631689401887,
+        0.33256880733944955
       ]
     },
     {
@@ -2001,8 +2001,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        15,
-        267
+        0.11752360965372508,
+        0.268348623853211
       ]
     },
     {
@@ -2011,8 +2011,8 @@ const features =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        11,
-        1096
+        0.3284365162644281,
+        0.33715596330275227
       ]
     },
     {
@@ -2021,8 +2021,8 @@ const features =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        4,
-        458
+        0.21511017838405036,
+        0.2981651376146789
       ]
     },
     {
@@ -2031,8 +2031,8 @@ const features =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        11,
-        691
+        0.25813221406086045,
+        0.6307339449541285
       ]
     },
     {
@@ -2041,8 +2041,8 @@ const features =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        1,
-        790
+        0.1993704092339979,
+        0.6467889908256881
       ]
     },
     {
@@ -2051,8 +2051,8 @@ const features =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        20,
-        879
+        0.2801678908709339,
+        0.3761467889908257
       ]
     },
     {
@@ -2061,8 +2061,8 @@ const features =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        9,
-        1066
+        0.2465897166841553,
+        0.786697247706422
       ]
     },
     {
@@ -2071,8 +2071,8 @@ const features =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        5,
-        420
+        0.236096537250787,
+        0.6077981651376146
       ]
     },
     {
@@ -2081,8 +2081,8 @@ const features =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        22,
-        1006
+        0.3001049317943337,
+        0.6720183486238532
       ]
     },
     {
@@ -2091,8 +2091,8 @@ const features =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        14,
-        1176
+        0.3147953830010493,
+        0.1720183486238532
       ]
     },
     {
@@ -2101,8 +2101,8 @@ const features =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        6,
-        635
+        0.35571878279118574,
+        0.2706422018348624
       ]
     },
     {
@@ -2111,8 +2111,8 @@ const features =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        16,
-        1046
+        0.229800629590766,
+        0.43119266055045874
       ]
     },
     {
@@ -2121,8 +2121,8 @@ const features =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        28,
-        730
+        0.3200419727177335,
+        0.7155963302752294
       ]
     },
     {
@@ -2131,8 +2131,8 @@ const features =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        21,
-        898
+        0.31584470094438616,
+        0.30504587155963303
       ]
     },
     {
@@ -2141,8 +2141,8 @@ const features =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        26,
-        1019
+        0.33473242392444913,
+        0.22706422018348624
       ]
     },
     {
@@ -2151,8 +2151,8 @@ const features =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        7,
-        612
+        0.014690451206715634,
+        0.6123853211009175
       ]
     },
     {
@@ -2161,8 +2161,8 @@ const features =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        26,
-        1113
+        0.31584470094438616,
+        0.5504587155963303
       ]
     },
     {
@@ -2171,8 +2171,8 @@ const features =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        2,
-        384
+        0.2654774396642183,
+        0.4954128440366973
       ]
     },
     {
@@ -2181,8 +2181,8 @@ const features =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        3,
-        517
+        0.2738719832109129,
+        0.2798165137614679
       ]
     },
     {
@@ -2191,8 +2191,8 @@ const features =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        20,
-        1797
+        0.40293809024134314,
+        0.8944954128440367
       ]
     },
     {
@@ -2201,8 +2201,8 @@ const features =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        14,
-        1306
+        0.23819517313746066,
+        0.768348623853211
       ]
     },
     {
@@ -2211,8 +2211,8 @@ const features =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        7,
-        396
+        0.2025183630640084,
+        0.26376146788990823
       ]
     },
     {
@@ -2221,8 +2221,8 @@ const features =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        11,
-        1372
+        0.24134312696747115,
+        0.6284403669724771
       ]
     },
     {
@@ -2231,8 +2231,8 @@ const features =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        18,
-        803
+        0.3483735571878279,
+        0.7155963302752294
       ]
     },
     {
@@ -2241,8 +2241,8 @@ const features =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        21,
-        1093
+        0.3284365162644281,
+        0.6353211009174312
       ]
     },
     {
@@ -2251,8 +2251,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        16,
-        789
+        0.2885624344176285,
+        0.32798165137614677
       ]
     },
     {
@@ -2261,8 +2261,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        9,
-        550
+        0.30640083945435465,
+        0.4059633027522936
       ]
     },
     {
@@ -2271,8 +2271,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        14,
-        599
+        0.19097586568730326,
+        0.40825688073394495
       ]
     },
     {
@@ -2281,8 +2281,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        15,
-        698
+        0.2570828961175236,
+        0.4908256880733945
       ]
     },
     {
@@ -2291,8 +2291,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        24,
-        900
+        0.2738719832109129,
+        0.3463302752293578
       ]
     },
     {
@@ -2301,8 +2301,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        7,
-        582
+        0.2025183630640084,
+        0.6100917431192661
       ]
     },
     {
@@ -2311,8 +2311,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        5,
-        213
+        0.15949632738719832,
+        0.481651376146789
       ]
     },
     {
@@ -2321,8 +2321,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        14,
-        304
+        0.2130115424973767,
+        0.5091743119266054
       ]
     },
     {
@@ -2331,8 +2331,8 @@ const features =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        8,
-        735
+        0.2801678908709339,
+        0.25229357798165136
       ]
     },
     {
@@ -2341,8 +2341,8 @@ const features =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        8,
-        355
+        0.236096537250787,
+        0.19036697247706422
       ]
     },
     {
@@ -2351,8 +2351,8 @@ const features =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        7,
-        355
+        0.161594963273872,
+        0.43119266055045874
       ]
     },
     {
@@ -2361,8 +2361,8 @@ const features =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        3,
-        319
+        0.23819517313746066,
+        0.7614678899082569
       ]
     },
     {
@@ -2371,8 +2371,8 @@ const features =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        7,
-        321
+        0.3200419727177335,
+        0.3119266055045872
       ]
     },
     {
@@ -2381,8 +2381,8 @@ const features =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        6,
-        576
+        0.1993704092339979,
+        0.39908256880733944
       ]
     },
     {
@@ -2391,8 +2391,8 @@ const features =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        6,
-        194
+        0.08814270724029381,
+        0.19954128440366972
       ]
     },
     {
@@ -2401,8 +2401,8 @@ const features =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        7,
-        277
+        0.2025183630640084,
+        0.4334862385321101
       ]
     },
     {
@@ -2411,8 +2411,8 @@ const features =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        5,
-        928
+        0.32633788037775446,
+        0.4036697247706422
       ]
     },
     {
@@ -2421,8 +2421,8 @@ const features =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        5,
-        359
+        0.17628541448058763,
+        0.19724770642201836
       ]
     },
     {
@@ -2431,8 +2431,8 @@ const features =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        9,
-        577
+        0.2759706190975866,
+        0.6926605504587156
       ]
     },
     {
@@ -2441,8 +2441,8 @@ const features =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        6,
-        411
+        0.21825813221406087,
+        0.536697247706422
       ]
     },
     {
@@ -2451,8 +2451,8 @@ const features =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        9,
-        426
+        0.2518363064008394,
+        0.5160550458715596
       ]
     },
     {
@@ -2461,8 +2461,8 @@ const features =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        7,
-        515
+        0.32633788037775446,
+        0.24311926605504589
       ]
     },
     {
@@ -2471,8 +2471,8 @@ const features =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        6,
-        369
+        0.013641133263378805,
+        0.5091743119266054
       ]
     },
     {
@@ -2481,8 +2481,8 @@ const features =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        12,
-        696
+        0.18782791185729275,
+        0.45642201834862384
       ]
     },
     {
@@ -2491,8 +2491,8 @@ const features =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        1,
-        358
+        0.2528856243441763,
+        0.22706422018348624
       ]
     },
     {
@@ -2501,8 +2501,8 @@ const features =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        4,
-        394
+        0.20461699895068206,
+        0.18577981651376146
       ]
     },
     {
@@ -2511,8 +2511,8 @@ const features =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        9,
-        580
+        0.2098635886673662,
+        0.6467889908256881
       ]
     },
     {
@@ -2521,8 +2521,8 @@ const features =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        7,
-        425
+        0.23294858342077648,
+        0.713302752293578
       ]
     },
     {
@@ -2531,8 +2531,8 @@ const features =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        11,
-        369
+        0.19832109129066108,
+        0.29357798165137616
       ]
     },
     {
@@ -2541,8 +2541,8 @@ const features =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        9,
-        682
+        0.304302203567681,
+        0.26146788990825687
       ]
     },
     {
@@ -2551,8 +2551,8 @@ const features =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        12,
-        404
+        0.06925498426023086,
+        0.536697247706422
       ]
     },
     {
@@ -2561,8 +2561,8 @@ const features =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        11,
-        213
+        0.16054564533053514,
+        0.3463302752293578
       ]
     },
     {
@@ -2571,8 +2571,8 @@ const features =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        5,
-        459
+        0.24134312696747115,
+        0.3669724770642202
       ]
     },
     {
@@ -2581,8 +2581,8 @@ const features =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        23,
-        865
+        0.24344176285414482,
+        0.38990825688073394
       ]
     },
     {
@@ -2591,8 +2591,8 @@ const features =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        9,
-        568
+        0.22140608604407136,
+        0.3830275229357798
       ]
     },
     {
@@ -2601,8 +2601,8 @@ const features =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        10,
-        622
+        0.229800629590766,
+        0.5114678899082569
       ]
     },
     {
@@ -2611,8 +2611,8 @@ const features =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        12,
-        733
+        0.304302203567681,
+        0.4334862385321101
       ]
     },
     {
@@ -2621,8 +2621,8 @@ const features =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        12,
-        892
+        0.11752360965372508,
+        0.731651376146789
       ]
     },
     {
@@ -2631,8 +2631,8 @@ const features =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        16,
-        432
+        0.2203567681007345,
+        0.6697247706422018
       ]
     },
     {
@@ -2641,8 +2641,8 @@ const features =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        19,
-        659
+        0.2602308499475341,
+        0.6720183486238532
       ]
     },
     {
@@ -2651,8 +2651,8 @@ const features =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        14,
-        812
+        0.23714585519412382,
+        0.21788990825688073
       ]
     },
     {
@@ -2661,8 +2661,8 @@ const features =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        7,
-        535
+        0.15424973767051417,
+        0.22706422018348624
       ]
     },
     {
@@ -2671,8 +2671,8 @@ const features =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        21,
-        1471
+        0.25078698845750264,
+        0.6032110091743119
       ]
     },
     {
@@ -2681,8 +2681,8 @@ const features =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        11,
-        1420
+        0.31374606505771246,
+        0.7178899082568807
       ]
     },
     {
@@ -2691,8 +2691,8 @@ const features =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        18,
-        1464
+        0.21091290661070305,
+        0.3577981651376147
       ]
     },
     {
@@ -2701,8 +2701,8 @@ const features =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        15,
-        1455
+        0.17103882476390347,
+        0.75
       ]
     },
     {
@@ -2711,8 +2711,8 @@ const features =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        8,
-        650
+        0.035676810073452254,
+        0.573394495412844
       ]
     },
     {
@@ -2721,8 +2721,8 @@ const features =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        21,
-        775
+        0.2098635886673662,
+        0.5091743119266054
       ]
     },
     {
@@ -2731,8 +2731,8 @@ const features =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        40,
-        1920
+        0.372507869884575,
+        0.26605504587155965
       ]
     },
     {
@@ -2741,8 +2741,8 @@ const features =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        51,
-        1545
+        0.33997901364113325,
+        0.39908256880733944
       ]
     },
     {
@@ -2751,8 +2751,8 @@ const features =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        32,
-        1442
+        0.37670514165792235,
+        0.5871559633027523
       ]
     },
     {
@@ -2761,8 +2761,8 @@ const features =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        57,
-        1783
+        0.3200419727177335,
+        0.8119266055045872
       ]
     },
     {
@@ -2771,8 +2771,8 @@ const features =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        34,
-        1757
+        0.2864637985309549,
+        0.43119266055045874
       ]
     },
     {
@@ -2781,8 +2781,8 @@ const features =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        17,
-        984
+        0.37670514165792235,
+        0.6215596330275229
       ]
     },
     {
@@ -2791,8 +2791,8 @@ const features =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        5,
-        325
+        0.229800629590766,
+        0.48623853211009177
       ]
     },
     {
@@ -2801,8 +2801,8 @@ const features =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        23,
-        824
+        0.20146904512067157,
+        0.42660550458715596
       ]
     },
     {
@@ -2811,8 +2811,8 @@ const features =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        7,
-        560
+        0.304302203567681,
+        0.3555045871559633
       ]
     },
     {
@@ -2821,8 +2821,8 @@ const features =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        5,
-        147
+        0.2539349422875131,
+        0.30045871559633025
       ]
     },
     {
@@ -2831,8 +2831,8 @@ const features =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        7,
-        395
+        0.1993704092339979,
+        0.4701834862385321
       ]
     },
     {
@@ -2841,8 +2841,8 @@ const features =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        25,
-        448
+        0.2812172088142707,
+        0.6261467889908257
       ]
     },
     {
@@ -2851,8 +2851,8 @@ const features =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        11,
-        308
+        0.2707240293809024,
+        0.29128440366972475
       ]
     },
     {
@@ -2861,8 +2861,8 @@ const features =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        14,
-        403
+        0.26128016789087094,
+        0.5756880733944955
       ]
     },
     {
@@ -2871,8 +2871,8 @@ const features =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        12,
-        418
+        0.2969569779643232,
+        0.6857798165137615
       ]
     },
     {
@@ -2881,8 +2881,8 @@ const features =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        5,
-        256
+        0.19517313746065057,
+        0.41284403669724773
       ]
     },
     {
@@ -2891,8 +2891,8 @@ const features =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        38,
-        2032
+        0.3095487932843652,
+        0.4036697247706422
       ]
     },
     {
@@ -2901,8 +2901,8 @@ const features =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        27,
-        1235
+        0.3315844700944386,
+        0.5458715596330275
       ]
     },
     {
@@ -2911,8 +2911,8 @@ const features =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        48,
-        2355
+        0.29275970619097585,
+        0.5091743119266054
       ]
     },
     {
@@ -2921,8 +2921,8 @@ const features =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        108,
-        2251
+        0.3756558237145855,
+        0.7591743119266054
       ]
     },
     {
@@ -2931,8 +2931,8 @@ const features =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        68,
-        3583
+        0.25813221406086045,
+        0.518348623853211
       ]
     },
     {
@@ -2941,8 +2941,8 @@ const features =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        19,
-        2303
+        0.29275970619097585,
+        0.7270642201834863
       ]
     },
     {
@@ -2951,8 +2951,8 @@ const features =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        15,
-        1000
+        0.15320041972717732,
+        0.5137614678899083
       ]
     },
     {
@@ -2961,8 +2961,8 @@ const features =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        30,
-        1930
+        0.23189926547743966,
+        0.6444954128440367
       ]
     },
     {
@@ -2971,8 +2971,8 @@ const features =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        7,
-        807
+        0.2465897166841553,
+        0.30504587155963303
       ]
     },
     {
@@ -2981,8 +2981,8 @@ const features =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        8,
-        640
+        0.30535152151101785,
+        0.268348623853211
       ]
     },
     {
@@ -2991,8 +2991,8 @@ const features =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        20,
-        1135
+        0.2864637985309549,
+        0.7224770642201835
       ]
     },
     {
@@ -3001,8 +3001,8 @@ const features =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        3,
-        360
+        0.25498426023084997,
+        0.6192660550458715
       ]
     },
     {
@@ -3011,8 +3011,8 @@ const features =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        27,
-        1110
+        0.27911857292759706,
+        0.36926605504587157
       ]
     },
     {
@@ -3021,8 +3021,8 @@ const features =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        16,
-        1012
+        0.33473242392444913,
+        0.6284403669724771
       ]
     },
     {
@@ -3031,8 +3031,8 @@ const features =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        10,
-        411
+        0.1385099685204617,
+        0.21100917431192662
       ]
     },
     {
@@ -3041,8 +3041,8 @@ const features =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        9,
-        408
+        0.22140608604407136,
+        0.4426605504587156
       ]
     },
     {
@@ -3051,8 +3051,8 @@ const features =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        21,
-        806
+        0.40293809024134314,
+        0.8188073394495413
       ]
     },
     {
@@ -3061,8 +3061,8 @@ const features =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        7,
-        233
+        0.2990556138509968,
+        0.4380733944954128
       ]
     },
     {
@@ -3071,8 +3071,8 @@ const features =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        7,
-        134
+        0.10388247639034627,
+        0.48394495412844035
       ]
     },
     {
@@ -3081,8 +3081,8 @@ const features =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        5,
-        314
+        0.17418677859391396,
+        0.5825688073394495
       ]
     },
     {
@@ -3091,8 +3091,8 @@ const features =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        7,
-        301
+        0.1825813221406086,
+        0.21788990825688073
       ]
     },
     {
@@ -3101,8 +3101,8 @@ const features =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        13,
-        716
+        0.08394543546694648,
+        0.6880733944954128
       ]
     },
     {
@@ -3111,8 +3111,8 @@ const features =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        7,
-        292
+        0.02728226652675761,
+        0.6399082568807339
       ]
     },
     {
@@ -3121,8 +3121,8 @@ const features =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        2,
-        170
+        0.229800629590766,
+        0.5802752293577982
       ]
     },
     {
@@ -3131,8 +3131,8 @@ const features =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        12,
-        511
+        0.3357817418677859,
+        0.4105504587155963
       ]
     },
     {
@@ -3141,8 +3141,8 @@ const features =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        6,
-        509
+        0.3389296956977964,
+        0.30275229357798167
       ]
     },
     {
@@ -3151,8 +3151,8 @@ const features =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        14,
-        402
+        0.24763903462749212,
+        0.6467889908256881
       ]
     },
     {
@@ -3161,8 +3161,8 @@ const features =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        4,
-        371
+        0.2644281217208814,
+        0.7178899082568807
       ]
     },
     {
@@ -3171,8 +3171,8 @@ const features =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        8,
-        472
+        0.2707240293809024,
+        0.573394495412844
       ]
     },
     {
@@ -3181,8 +3181,8 @@ const features =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        7,
-        396
+        0.28226652675760755,
+        0.5825688073394495
       ]
     },
     {
@@ -3191,8 +3191,8 @@ const features =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        8,
-        135
+        0.2969569779643232,
+        0.4701834862385321
       ]
     },
     {
@@ -3201,8 +3201,8 @@ const features =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        10,
-        203
+        0.20146904512067157,
+        0.5252293577981652
       ]
     },
     {
@@ -3211,8 +3211,8 @@ const features =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        7,
-        732
+        0.3315844700944386,
+        0.31422018348623854
       ]
     },
     {
@@ -3221,8 +3221,8 @@ const features =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        5,
-        274
+        0.2098635886673662,
+        0.26146788990825687
       ]
     },
     {
@@ -3231,8 +3231,8 @@ const features =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        9,
-        631
+        0.23819517313746066,
+        0.6169724770642202
       ]
     },
     {
@@ -3241,8 +3241,8 @@ const features =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        8,
-        586
+        0.2203567681007345,
+        0.7110091743119266
       ]
     },
     {
@@ -3251,8 +3251,8 @@ const features =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        14,
-        455
+        0.28751311647429173,
+        0.4610091743119266
       ]
     },
     {
@@ -3261,8 +3261,8 @@ const features =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        8,
-        1005
+        0.3641133263378804,
+        0.6628440366972477
       ]
     },
     {
@@ -3271,8 +3271,8 @@ const features =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        9,
-        465
+        0.05876180482686254,
+        0.7178899082568807
       ]
     },
     {
@@ -3281,8 +3281,8 @@ const features =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        11,
-        515
+        0.25078698845750264,
+        0.5573394495412844
       ]
     },
     {
@@ -3291,8 +3291,8 @@ const features =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        6,
-        909
+        0.36935991605456453,
+        0.42660550458715596
       ]
     },
     {
@@ -3301,8 +3301,8 @@ const features =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        7,
-        518
+        0.2969569779643232,
+        0.3165137614678899
       ]
     },
     {
@@ -3311,8 +3311,8 @@ const features =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        6,
-        461
+        0.16474291710388247,
+        0.5229357798165137
       ]
     },
     {
@@ -3321,8 +3321,8 @@ const features =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        9,
-        642
+        0.27492130115424973,
+        0.7706422018348624
       ]
     },
     {
@@ -3331,8 +3331,8 @@ const features =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        12,
-        485
+        0.2602308499475341,
+        0.5412844036697247
       ]
     },
     {
@@ -3341,8 +3341,8 @@ const features =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        17,
-        919
+        0.33683105981112277,
+        0.7614678899082569
       ]
     },
     {
@@ -3351,8 +3351,8 @@ const features =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        3,
-        209
+        0.1825813221406086,
+        0.36009174311926606
       ]
     },
     {
@@ -3361,8 +3361,8 @@ const features =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        7,
-        184
+        0.1657922350472193,
+        0.3876146788990826
       ]
     },
     {
@@ -3371,8 +3371,8 @@ const features =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        42,
-        6522
+        0.3578174186778594,
+        0.46788990825688076
       ]
     },
     {
@@ -3381,8 +3381,8 @@ const features =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        11,
-        1710
+        0.2633788037775446,
+        0.26376146788990823
       ]
     },
     {
@@ -3391,8 +3391,8 @@ const features =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        32,
-        3182
+        0.34522560335781743,
+        0.6697247706422018
       ]
     },
     {
@@ -3401,8 +3401,8 @@ const features =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        12,
-        1523
+        0.10598111227701994,
+        0.7614678899082569
       ]
     },
     {
@@ -3411,8 +3411,8 @@ const features =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        35,
-        3892
+        0.36096537250786986,
+        0.4724770642201835
       ]
     },
     {
@@ -3421,8 +3421,8 @@ const features =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        23,
-        2415
+        0.30535152151101785,
+        0.30275229357798167
       ]
     },
     {
@@ -3431,8 +3431,8 @@ const features =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        14,
-        2572
+        0.2885624344176285,
+        0.6674311926605505
       ]
     },
     {
@@ -3441,8 +3441,8 @@ const features =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        22,
-        2657
+        0.31899265477439664,
+        0.6422018348623854
       ]
     },
     {
@@ -3451,8 +3451,8 @@ const features =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        5,
-        325
+        0.27492130115424973,
+        0.3348623853211009
       ]
     },
     {
@@ -3461,8 +3461,8 @@ const features =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        4,
-        373
+        0.2130115424973767,
+        0.13302752293577982
       ]
     },
     {
@@ -3471,8 +3471,8 @@ const features =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        8,
-        308
+        0.13955928646379853,
+        0.3646788990825688
       ]
     },
     {
@@ -3481,8 +3481,8 @@ const features =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        3,
-        297
+        0.2528856243441763,
+        0.8004587155963303
       ]
     },
     {
@@ -3491,8 +3491,8 @@ const features =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        6,
-        189
+        0.20041972717733472,
+        0.24541284403669725
       ]
     },
     {
@@ -3501,8 +3501,8 @@ const features =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        12,
-        696
+        0.2675760755508919,
+        0.13073394495412843
       ]
     },
     {
@@ -3511,8 +3511,8 @@ const features =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        3,
-        246
+        0.017838405036726127,
+        0.44724770642201833
       ]
     },
     {
@@ -3521,8 +3521,8 @@ const features =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        19,
-        393
+        0.1993704092339979,
+        0.4380733944954128
       ]
     },
     {
@@ -3531,8 +3531,8 @@ const features =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        16,
-        1025
+        0.2738719832109129,
+        0.23853211009174313
       ]
     },
     {
@@ -3541,8 +3541,8 @@ const features =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        1,
-        10
+        0.05876180482686254,
+        0.24770642201834864
       ]
     },
     {
@@ -3551,8 +3551,8 @@ const features =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        28,
-        1482
+        0.28436516264428124,
+        0.5022935779816514
       ]
     },
     {
@@ -3561,8 +3561,8 @@ const features =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        16,
-        628
+        0.3546694648478489,
+        0.731651376146789
       ]
     },
     {
@@ -3571,8 +3571,8 @@ const features =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        33,
-        1267
+        0.2738719832109129,
+        0.3876146788990826
       ]
     },
     {
@@ -3581,8 +3581,8 @@ const features =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        15,
-        747
+        0.08709338929695698,
+        0.6697247706422018
       ]
     },
     {
@@ -3591,8 +3591,8 @@ const features =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        8,
-        574
+        0.23714585519412382,
+        0.5091743119266054
       ]
     },
     {
@@ -3601,8 +3601,8 @@ const features =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        15,
-        212
+        0.11542497376705142,
+        0.26605504587155965
       ]
     },
     {
@@ -3611,8 +3611,8 @@ const features =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        19,
-        624
+        0.20671563483735572,
+        0.3073394495412844
       ]
     },
     {
@@ -3621,8 +3621,8 @@ const features =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        18,
-        535
+        0.2602308499475341,
+        0.24541284403669725
       ]
     },
     {
@@ -3631,8 +3631,8 @@ const features =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        16,
-        533
+        0.24554039874081846,
+        0.5344036697247706
       ]
     },
     {
@@ -3641,8 +3641,8 @@ const features =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        35,
-        1300
+        0.36096537250786986,
+        0.7454128440366973
       ]
     },
     {
@@ -3651,8 +3651,8 @@ const features =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        21,
-        514
+        0.24134312696747115,
+        0.32798165137614677
       ]
     },
     {
@@ -3661,8 +3661,8 @@ const features =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        21,
-        453
+        0.3284365162644281,
+        0.3165137614678899
       ]
     },
     {
@@ -3671,8 +3671,8 @@ const features =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        11,
-        410
+        0.07030430220356768,
+        0.6284403669724771
       ]
     },
     {
@@ -3681,8 +3681,8 @@ const features =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        10,
-        356
+        0.14795383001049317,
+        0.37844036697247707
       ]
     },
     {
@@ -3691,8 +3691,8 @@ const features =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        8,
-        123
+        0.3116474291710388,
+        0.34174311926605505
       ]
     },
     {
@@ -3701,8 +3701,8 @@ const features =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        19,
-        206
+        0.2833158447009444,
+        0.33256880733944955
       ]
     },
     {
@@ -3711,8 +3711,8 @@ const features =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        18,
-        246
+        0.30325288562434416,
+        0.41743119266055045
       ]
     },
     {
@@ -3721,8 +3721,8 @@ const features =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        15,
-        157
+        0.32214060860440713,
+        0.768348623853211
       ]
     },
     {
@@ -3731,8 +3731,8 @@ const features =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        12,
-        204
+        0.24449108079748164,
+        0.47477064220183485
       ]
     },
     {
@@ -3741,8 +3741,8 @@ const features =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        18,
-        230
+        0.18782791185729275,
+        0.7431192660550459
       ]
     },
     {
@@ -3751,8 +3751,8 @@ const features =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        7,
-        56
+        0.13955928646379853,
+        0.6697247706422018
       ]
     },
     {
@@ -3761,8 +3761,8 @@ const features =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        9,
-        83
+        0.15110178384050368,
+        0.36009174311926606
       ]
     },
     {
@@ -3771,8 +3771,8 @@ const features =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        6,
-        214
+        0.15005246589716684,
+        0.26376146788990823
       ]
     },
     {
@@ -3781,8 +3781,8 @@ const features =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        21,
-        218
+        0.2098635886673662,
+        0.15825688073394495
       ]
     },
     {
@@ -3791,8 +3791,8 @@ const features =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        3,
-        78
+        0.11962224554039874,
+        0.3302752293577982
       ]
     },
     {
@@ -3801,8 +3801,8 @@ const features =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        2,
-        129
+        0.1311647429171039,
+        0.46559633027522934
       ]
     },
     {
@@ -3811,8 +3811,8 @@ const features =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        3,
-        67
+        0.1248688352570829,
+        0.2545871559633027
       ]
     },
     {
@@ -3821,8 +3821,8 @@ const features =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        12,
-        284
+        0.15949632738719832,
+        0.21788990825688073
       ]
     },
     {
@@ -3831,8 +3831,8 @@ const features =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        9,
-        140
+        0.2088142707240294,
+        0.3119266055045872
       ]
     },
     {
@@ -3841,8 +3841,8 @@ const features =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        6,
-        135
+        0.1720881427072403,
+        0.29357798165137616
       ]
     },
     {
@@ -3851,8 +3851,8 @@ const features =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        1,
-        277
+        0.3011542497376705,
+        0.3486238532110092
       ]
     },
     {
@@ -3861,8 +3861,8 @@ const features =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        5,
-        207
+        0.22350472193074503,
+        0.4380733944954128
       ]
     },
     {
@@ -3871,8 +3871,8 @@ const features =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        7,
-        235
+        0.2633788037775446,
+        0.5802752293577982
       ]
     },
     {
@@ -3881,8 +3881,8 @@ const features =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        3,
-        275
+        0.2969569779643232,
+        0.7041284403669725
       ]
     },
     {
@@ -3891,8 +3891,8 @@ const features =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        14,
-        219
+        0.20356768100734524,
+        0.37155963302752293
       ]
     },
     {
@@ -3901,8 +3901,8 @@ const features =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        8,
-        430
+        0.32948583420776495,
+        0.2981651376146789
       ]
     },
     {
@@ -3911,8 +3911,8 @@ const features =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        6,
-        116
+        0.2465897166841553,
+        0.573394495412844
       ]
     },
     {
@@ -3921,8 +3921,8 @@ const features =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        3,
-        87
+        0.1993704092339979,
+        0.44724770642201833
       ]
     },
     {
@@ -3931,8 +3931,8 @@ const features =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        5,
-        878
+        0.32214060860440713,
+        0.2775229357798165
       ]
     },
     {
@@ -3941,8 +3941,8 @@ const features =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        5,
-        443
+        0.22140608604407136,
+        0.23394495412844038
       ]
     },
     {
@@ -3951,8 +3951,8 @@ const features =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        2,
-        429
+        0.25078698845750264,
+        0.3669724770642202
       ]
     },
     {
@@ -3961,8 +3961,8 @@ const features =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        3,
-        343
+        0.20776495278069254,
+        0.5229357798165137
       ]
     },
     {
@@ -3971,8 +3971,8 @@ const features =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        16,
-        1205
+        0.23189926547743966,
+        0.38990825688073394
       ]
     },
     {
@@ -3981,8 +3981,8 @@ const features =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        6,
-        490
+        0.2402938090241343,
+        0.24541284403669725
       ]
     },
     {
@@ -3991,8 +3991,8 @@ const features =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        3,
-        287
+        0.16998950682056663,
+        0.4013761467889908
       ]
     },
     {
@@ -4001,8 +4001,8 @@ const features =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        2,
-        208
+        0.15634837355718784,
+        0.3830275229357798
       ]
     },
     {
@@ -4011,8 +4011,8 @@ const features =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        16,
-        675
+        0.33997901364113325,
+        0.46788990825688076
       ]
     },
     {
@@ -4021,8 +4021,8 @@ const features =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        20,
-        563
+        0.2728226652675761,
+        0.3302752293577982
       ]
     },
     {
@@ -4031,8 +4031,8 @@ const features =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        12,
-        598
+        0.29800629590766003,
+        0.5504587155963303
       ]
     },
     {
@@ -4041,8 +4041,8 @@ const features =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        11,
-        347
+        0.2098635886673662,
+        0.518348623853211
       ]
     },
     {
@@ -4051,8 +4051,8 @@ const features =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        27,
-        1363
+        0.31374606505771246,
+        0.3486238532110092
       ]
     },
     {
@@ -4061,8 +4061,8 @@ const features =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        5,
-        396
+        0.236096537250787,
+        0.6077981651376146
       ]
     },
     {
@@ -4071,8 +4071,8 @@ const features =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        23,
-        1000
+        0.3242392444910808,
+        0.573394495412844
       ]
     },
     {
@@ -4081,8 +4081,8 @@ const features =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        19,
-        630
+        0.20671563483735572,
+        0.36009174311926606
       ]
     },
     {
@@ -4091,8 +4091,8 @@ const features =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        3,
-        730
+        0.22770199370409233,
+        0.30963302752293576
       ]
     },
     {
@@ -4101,8 +4101,8 @@ const features =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        8,
-        658
+        0.22875131164742918,
+        0.31880733944954126
       ]
     },
     {
@@ -4111,8 +4111,8 @@ const features =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        5,
-        368
+        0.28541448058761804,
+        0.5137614678899083
       ]
     },
     {
@@ -4121,8 +4121,8 @@ const features =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        6,
-        465
+        0.1731374606505771,
+        0.3532110091743119
       ]
     },
     {
@@ -4131,8 +4131,8 @@ const features =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        19,
-        2974
+        0.22245540398740818,
+        0.37155963302752293
       ]
     },
     {
@@ -4141,8 +4141,8 @@ const features =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        7,
-        2098
+        0.16369359916054566,
+        0.3876146788990826
       ]
     },
     {
@@ -4151,8 +4151,8 @@ const features =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        7,
-        757
+        0.05246589716684155,
+        0.3348623853211009
       ]
     },
     {
@@ -4161,8 +4161,8 @@ const features =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        3,
-        825
+        0.12381951731374606,
+        0.2591743119266055
       ]
     },
     {
@@ -4171,8 +4171,8 @@ const features =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        11,
-        860
+        0.3777544596012592,
+        0.37844036697247707
       ]
     },
     {
@@ -4181,8 +4181,8 @@ const features =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        7,
-        569
+        0.26862539349422876,
+        0.25
       ]
     },
     {
@@ -4191,8 +4191,8 @@ const features =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        4,
-        403
+        0.310598111227702,
+        0.44954128440366975
       ]
     },
     {
@@ -4201,8 +4201,8 @@ const features =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        6,
-        307
+        0.3200419727177335,
+        0.8463302752293578
       ]
     },
     {
@@ -4211,8 +4211,8 @@ const features =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        8,
-        338
+        0.1888772298006296,
+        0.3256880733944954
       ]
     },
     {
@@ -4221,8 +4221,8 @@ const features =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        4,
-        347
+        0.14060860440713535,
+        0.6238532110091743
       ]
     },
     {
@@ -4231,8 +4231,8 @@ const features =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        3,
-        196
+        0.04407135362014691,
+        0.5298165137614679
       ]
     },
     {
@@ -4241,8 +4241,8 @@ const features =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        5,
-        137
+        0.19517313746065057,
+        0.30045871559633025
       ]
     },
     {
@@ -4251,8 +4251,8 @@ const features =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        17,
-        1596
+        0.3672612801678909,
+        0.3555045871559633
       ]
     },
     {
@@ -4261,8 +4261,8 @@ const features =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        7,
-        883
+        0.3378803777544596,
+        0.16972477064220184
       ]
     },
     {
@@ -4271,8 +4271,8 @@ const features =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        21,
-        1010
+        0.34312696747114374,
+        0.6055045871559633
       ]
     },
     {
@@ -4281,8 +4281,8 @@ const features =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        48,
-        1365
+        0.27177334732423925,
+        0.6972477064220184
       ]
     },
     {
@@ -4291,8 +4291,8 @@ const features =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        14,
-        1212
+        0.28436516264428124,
+        0.37844036697247707
       ]
     },
     {
@@ -4301,8 +4301,8 @@ const features =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        20,
-        1169
+        0.1458551941238195,
+        0.6490825688073395
       ]
     },
     {
@@ -4311,8 +4311,8 @@ const features =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        5,
-        351
+        0.21825813221406087,
+        0.5688073394495413
       ]
     },
     {
@@ -4321,8 +4321,8 @@ const features =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        18,
-        1000
+        0.18992654774396642,
+        0.3440366972477064
       ]
     },
     {
@@ -4331,8 +4331,8 @@ const features =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        4,
-        134
+        0.1731374606505771,
+        0.12614678899082568
       ]
     },
     {
@@ -4341,8 +4341,8 @@ const features =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        4,
-        500
+        0.31584470094438616,
+        0.573394495412844
       ]
     },
     {
@@ -4351,8 +4351,8 @@ const features =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        46,
-        823
+        0.3746065057712487,
+        0.7224770642201835
       ]
     },
     {
@@ -4361,8 +4361,8 @@ const features =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        39,
-        717
+        0.3305351521511018,
+        0.7706422018348624
       ]
     },
     {
@@ -4371,8 +4371,8 @@ const features =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        15,
-        404
+        0.28226652675760755,
+        0.5848623853211009
       ]
     },
     {
@@ -4381,8 +4381,8 @@ const features =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        22,
-        404
+        0.2990556138509968,
+        0.7591743119266054
       ]
     },
     {
@@ -4391,8 +4391,8 @@ const features =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        36,
-        768
+        0.39034627492130114,
+        0.841743119266055
       ]
     },
     {
@@ -4401,8 +4401,8 @@ const features =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        19,
-        299
+        0.32948583420776495,
+        0.8096330275229358
       ]
     },
     {
@@ -4411,8 +4411,8 @@ const features =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        5,
-        773
+        0.2885624344176285,
+        0.29357798165137616
       ]
     },
     {
@@ -4421,8 +4421,8 @@ const features =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        6,
-        556
+        0.18782791185729275,
+        0.3348623853211009
       ]
     },
     {
@@ -4431,8 +4431,8 @@ const features =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        11,
-        635
+        0.29800629590766003,
+        0.29357798165137616
       ]
     },
     {
@@ -4441,8 +4441,8 @@ const features =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        5,
-        358
+        0.3011542497376705,
+        0.6330275229357798
       ]
     },
     {
@@ -4451,8 +4451,8 @@ const features =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        6,
-        376
+        0.32948583420776495,
+        0.3967889908256881
       ]
     },
     {
@@ -4461,8 +4461,8 @@ const features =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        5,
-        1062
+        0.26862539349422876,
+        0.3256880733944954
       ]
     },
     {
@@ -4471,8 +4471,8 @@ const features =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        5,
-        864
+        0.13431269674711438,
+        0.45871559633027525
       ]
     },
     {
@@ -4481,8 +4481,8 @@ const features =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        1,
-        299
+        0.11122770199370409,
+        0.29128440366972475
       ]
     },
     {
@@ -4491,8 +4491,8 @@ const features =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        18,
-        779
+        0.29485834207764955,
+        0.2889908256880734
       ]
     },
     {
@@ -4501,8 +4501,8 @@ const features =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        24,
-        780
+        0.30640083945435465,
+        0.25688073394495414
       ]
     },
     {
@@ -4511,8 +4511,8 @@ const features =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        14,
-        568
+        0.31374606505771246,
+        0.5206422018348624
       ]
     },
     {
@@ -4521,8 +4521,8 @@ const features =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        5,
-        385
+        0.291710388247639,
+        0.6536697247706422
       ]
     },
     {
@@ -4531,8 +4531,8 @@ const features =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        17,
-        685
+        0.24868835257082897,
+        0.3073394495412844
       ]
     },
     {
@@ -4541,8 +4541,8 @@ const features =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        19,
-        885
+        0.10283315844700944,
+        0.6353211009174312
       ]
     },
     {
@@ -4551,8 +4551,8 @@ const features =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        7,
-        348
+        0.1080797481636936,
+        0.5435779816513762
       ]
     },
     {
@@ -4561,8 +4561,8 @@ const features =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        37,
-        1133
+        0.21091290661070305,
+        0.5275229357798165
       ]
     },
     {
@@ -4571,8 +4571,8 @@ const features =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        23,
-        2203
+        0.2885624344176285,
+        0.22018348623853212
       ]
     },
     {
@@ -4581,8 +4581,8 @@ const features =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        3,
-        650
+        0.23819517313746066,
+        0.09174311926605505
       ]
     },
     {
@@ -4591,8 +4591,8 @@ const features =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        22,
-        1182
+        0.2864637985309549,
+        0.4724770642201835
       ]
     },
     {
@@ -4601,8 +4601,8 @@ const features =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        15,
-        855
+        0.2266526757607555,
+        0.5252293577981652
       ]
     },
     {
@@ -4611,8 +4611,8 @@ const features =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        7,
-        563
+        0.20671563483735572,
+        0.2706422018348624
       ]
     },
     {
@@ -4621,8 +4621,8 @@ const features =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        17,
-        1971
+        0.28226652675760755,
+        0.8486238532110092
       ]
     },
     {
@@ -4631,8 +4631,8 @@ const features =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        26,
-        1468
+        0.378803777544596,
+        0.7477064220183486
       ]
     },
     {
@@ -4641,8 +4641,8 @@ const features =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        14,
-        1143
+        0.24554039874081846,
+        0.48853211009174313
       ]
     },
     {
@@ -4651,8 +4651,8 @@ const features =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        5,
-        1006
+        0.30535152151101785,
+        0.30963302752293576
       ]
     },
     {
@@ -4661,8 +4661,8 @@ const features =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        7,
-        811
+        0.2833158447009444,
+        0.3577981651376147
       ]
     },
     {
@@ -4671,8 +4671,8 @@ const features =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        10,
-        668
+        0.12067156348373557,
+        0.5573394495412844
       ]
     },
     {
@@ -4681,8 +4681,8 @@ const features =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        3,
-        394
+        0.15739769150052466,
+        0.591743119266055
       ]
     },
     {
@@ -4691,8 +4691,8 @@ const features =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        28,
-        1198
+        0.236096537250787,
+        0.3394495412844037
       ]
     },
     {
@@ -4701,8 +4701,8 @@ const features =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        26,
-        1166
+        0.310598111227702,
+        0.23853211009174313
       ]
     },
     {
@@ -4711,8 +4711,8 @@ const features =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        10,
-        530
+        0.01888772298006296,
+        0.38990825688073394
       ]
     },
     {
@@ -4721,8 +4721,8 @@ const features =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        21,
-        1110
+        0.22140608604407136,
+        0.45871559633027525
       ]
     },
     {
@@ -4731,8 +4731,8 @@ const features =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        16,
-        1547
+        0.35991605456453307,
+        0.26146788990825687
       ]
     },
     {
@@ -4741,8 +4741,8 @@ const features =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        4,
-        323
+        0.1322140608604407,
+        0.07339449541284404
       ]
     },
     {
@@ -4751,8 +4751,8 @@ const features =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        18,
-        742
+        0.21406086044071354,
+        0.3348623853211009
       ]
     },
     {
@@ -4761,8 +4761,8 @@ const features =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        11,
-        512
+        0.1930745015739769,
+        0.48623853211009177
       ]
     },
     {
@@ -4771,8 +4771,8 @@ const features =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        36,
-        1498
+        0.23294858342077648,
+        0.3165137614678899
       ]
     },
     {
@@ -4781,8 +4781,8 @@ const features =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        18,
-        1132
+        0.17103882476390347,
+        0.48394495412844035
       ]
     },
     {
@@ -4791,8 +4791,8 @@ const features =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        18,
-        486
+        0.1353620146904512,
+        0.29128440366972475
       ]
     },
     {
@@ -4801,8 +4801,8 @@ const features =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        13,
-        808
+        0.16054564533053514,
+        0.37844036697247707
       ]
     },
     {
@@ -4811,8 +4811,8 @@ const features =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        11,
-        962
+        0.3546694648478489,
+        0.37155963302752293
       ]
     },
     {
@@ -4821,8 +4821,8 @@ const features =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        52,
-        1593
+        0.37985309548793283,
+        0.6055045871559633
       ]
     },
     {
@@ -4831,8 +4831,8 @@ const features =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        73,
-        1246
+        0.4018887722980063,
+        0.7339449541284404
       ]
     },
     {
@@ -4841,8 +4841,8 @@ const features =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        125,
-        2329
+        0.22455403987408185,
+        0.7821100917431193
       ]
     },
     {
@@ -4851,8 +4851,8 @@ const features =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        39,
-        1338
+        0.3588667366211962,
+        0.46559633027522934
       ]
     },
     {
@@ -4861,8 +4861,8 @@ const features =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        40,
-        1393
+        0.33473242392444913,
+        0.7981651376146789
       ]
     },
     {
@@ -4871,8 +4871,8 @@ const features =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        14,
-        385
+        0.36621196222455404,
+        0.6513761467889908
       ]
     },
     {
@@ -4881,8 +4881,8 @@ const features =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        14,
-        438
+        0.3001049317943337,
+        0.7729357798165137
       ]
     },
     {
@@ -4891,8 +4891,8 @@ const features =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        14,
-        3085
+        0.304302203567681,
+        0.268348623853211
       ]
     },
     {
@@ -4901,8 +4901,8 @@ const features =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        6,
-        1802
+        0.2161594963273872,
+        0.16972477064220184
       ]
     },
     {
@@ -4911,8 +4911,8 @@ const features =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        15,
-        2385
+        0.1521511017838405,
+        0.4701834862385321
       ]
     },
     {
@@ -4921,8 +4921,8 @@ const features =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        3,
-        1138
+        0.1825813221406086,
+        0.5779816513761468
       ]
     },
     {
@@ -4931,8 +4931,8 @@ const features =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        6,
-        1888
+        0.1689401888772298,
+        0.31422018348623854
       ]
     },
     {
@@ -4941,8 +4941,8 @@ const features =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        10,
-        2243
+        0.2528856243441763,
+        0.1628440366972477
       ]
     },
     {
@@ -4951,8 +4951,8 @@ const features =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        8,
-        1341
+        0.15424973767051417,
+        0.5
       ]
     },
     {
@@ -4961,8 +4961,8 @@ const features =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        10,
-        2286
+        0.14270724029380902,
+        0.33715596330275227
       ]
     },
     {
@@ -4971,8 +4971,8 @@ const features =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        8,
-        547
+        0.21720881427072403,
+        0.23394495412844038
       ]
     },
     {
@@ -4981,8 +4981,8 @@ const features =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        10,
-        403
+        0.24554039874081846,
+        0.36009174311926606
       ]
     },
     {
@@ -4991,8 +4991,8 @@ const features =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        14,
-        390
+        0.24239244491080797,
+        0.47706422018348627
       ]
     },
     {
@@ -5001,8 +5001,8 @@ const features =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        4,
-        285
+        0.30640083945435465,
+        0.573394495412844
       ]
     },
     {
@@ -5011,8 +5011,8 @@ const features =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        15,
-        390
+        0.229800629590766,
+        0.35091743119266056
       ]
     },
     {
@@ -5021,8 +5021,8 @@ const features =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        15,
-        594
+        0.3095487932843652,
+        0.5802752293577982
       ]
     },
     {
@@ -5031,8 +5031,8 @@ const features =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        13,
-        194
+        0.21196222455403987,
+        0.4426605504587156
       ]
     },
     {
@@ -5041,8 +5041,8 @@ const features =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        4,
-        115
+        0.18363064008394545,
+        0.3853211009174312
       ]
     },
     {
@@ -5051,8 +5051,8 @@ const features =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        20,
-        828
+        0.2623294858342078,
+        0.13302752293577982
       ]
     },
     {
@@ -5061,8 +5061,8 @@ const features =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        3,
-        132
+        0.21720881427072403,
+        0.22018348623853212
       ]
     },
     {
@@ -5071,8 +5071,8 @@ const features =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        14,
-        441
+        0.17733473242392445,
+        0.5045871559633027
       ]
     },
     {
@@ -5081,8 +5081,8 @@ const features =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        31,
-        1287
+        0.40398740818467993,
+        0.823394495412844
       ]
     },
     {
@@ -5091,8 +5091,8 @@ const features =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        11,
-        358
+        0.24554039874081846,
+        0.33715596330275227
       ]
     },
     {
@@ -5101,8 +5101,8 @@ const features =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        20,
-        1117
+        0.35571878279118574,
+        0.7087155963302753
       ]
     },
     {
@@ -5111,8 +5111,8 @@ const features =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        15,
-        413
+        0.1385099685204617,
+        0.536697247706422
       ]
     },
     {
@@ -5121,8 +5121,8 @@ const features =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        3,
-        80
+        0.1689401888772298,
+        0.3440366972477064
       ]
     },
     {
@@ -5131,8 +5131,8 @@ const features =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        25,
-        518
+        0.3305351521511018,
+        0.4793577981651376
       ]
     },
     {
@@ -5141,8 +5141,8 @@ const features =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        8,
-        278
+        0.20776495278069254,
+        0.1559633027522936
       ]
     },
     {
@@ -5151,8 +5151,8 @@ const features =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        11,
-        322
+        0.21825813221406087,
+        0.4518348623853211
       ]
     },
     {
@@ -5161,8 +5161,8 @@ const features =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        8,
-        230
+        0.2570828961175236,
+        0.48394495412844035
       ]
     },
     {
@@ -5171,8 +5171,8 @@ const features =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        23,
-        828
+        0.3483735571878279,
+        0.48394495412844035
       ]
     },
     {
@@ -5181,8 +5181,8 @@ const features =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        9,
-        560
+        0.3336831059811123,
+        0.49311926605504586
       ]
     },
     {
@@ -5191,8 +5191,8 @@ const features =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        12,
-        325
+        0.1731374606505771,
+        0.286697247706422
       ]
     },
     {
@@ -5201,8 +5201,8 @@ const features =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        16,
-        355
+        0.18572927597061908,
+        0.4380733944954128
       ]
     },
     {
@@ -5211,8 +5211,8 @@ const features =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        15,
-        506
+        0.34312696747114374,
+        0.3922018348623853
       ]
     },
     {
@@ -5221,8 +5221,8 @@ const features =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        13,
-        374
+        0.2623294858342078,
+        0.3555045871559633
       ]
     },
     {
@@ -5231,8 +5231,8 @@ const features =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        44,
-        711
+        0.37670514165792235,
+        0.7844036697247706
       ]
     },
     {
@@ -5241,8 +5241,8 @@ const features =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        40,
-        824
+        0.3704092339979014,
+        0.8646788990825688
       ]
     },
     {
@@ -5251,8 +5251,8 @@ const features =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        2,
-        82
+        0.39244491080797483,
+        0.7064220183486238
       ]
     },
     {
@@ -5261,8 +5261,8 @@ const features =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        16,
-        349
+        0.30640083945435465,
+        0.7155963302752294
       ]
     },
     {
@@ -5271,8 +5271,8 @@ const features =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        14,
-        211
+        0.2539349422875131,
+        0.7247706422018348
       ]
     },
     {
@@ -5281,8 +5281,8 @@ const features =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        8,
-        284
+        0.2654774396642183,
+        0.5711009174311926
       ]
     },
     {
@@ -5291,8 +5291,8 @@ const features =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        9,
-        648
+        0.2969569779643232,
+        0.27293577981651373
       ]
     },
     {
@@ -5301,8 +5301,8 @@ const features =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        6,
-        556
+        0.2088142707240294,
+        0.19036697247706422
       ]
     },
     {
@@ -5311,8 +5311,8 @@ const features =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        9,
-        630
+        0.1584470094438615,
+        0.5848623853211009
       ]
     },
     {
@@ -5321,8 +5321,8 @@ const features =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        11,
-        486
+        0.28226652675760755,
+        0.6146788990825688
       ]
     },
     {
@@ -5331,8 +5331,8 @@ const features =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        23,
-        1052
+        0.29275970619097585,
+        0.4243119266055046
       ]
     },
     {
@@ -5341,8 +5341,8 @@ const features =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        12,
-        864
+        0.12277019937040923,
+        0.6628440366972477
       ]
     },
     {
@@ -5351,8 +5351,8 @@ const features =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        6,
-        385
+        0.05036726128016789,
+        0.5504587155963303
       ]
     },
     {
@@ -5361,8 +5361,8 @@ const features =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        22,
-        754
+        0.30325288562434416,
+        0.6628440366972477
       ]
     },
     {
@@ -5371,8 +5371,8 @@ const features =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        3,
-        683
+        0.32633788037775446,
+        0.3256880733944954
       ]
     },
     {
@@ -5381,8 +5381,8 @@ const features =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        3,
-        238
+        0.23084994753410285,
+        0.23394495412844038
       ]
     },
     {
@@ -5391,8 +5391,8 @@ const features =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        7,
-        190
+        0.2266526757607555,
+        0.463302752293578
       ]
     },
     {
@@ -5401,8 +5401,8 @@ const features =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        8,
-        361
+        0.33473242392444913,
+        0.7522935779816514
       ]
     },
     {
@@ -5411,8 +5411,8 @@ const features =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        7,
-        243
+        0.3462749213011542,
+        0.39908256880733944
       ]
     },
     {
@@ -5421,8 +5421,8 @@ const features =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        6,
-        372
+        0.3704092339979014,
+        0.3623853211009174
       ]
     },
     {
@@ -5431,8 +5431,8 @@ const features =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        1,
-        100
+        0.29590766002098634,
+        0.3486238532110092
       ]
     },
     {
@@ -5441,8 +5441,8 @@ const features =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        4,
-        174
+        0.21511017838405036,
+        0.4793577981651376
       ]
     },
     {
@@ -5451,8 +5451,8 @@ const features =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        12,
-        645
+        0.28226652675760755,
+        0.22935779816513763
       ]
     },
     {
@@ -5461,8 +5461,8 @@ const features =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        25,
-        507
+        0.2088142707240294,
+        0.11467889908256881
       ]
     },
     {
@@ -5471,8 +5471,8 @@ const features =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        11,
-        789
+        0.25078698845750264,
+        0.6834862385321101
       ]
     },
     {
@@ -5481,8 +5481,8 @@ const features =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        5,
-        264
+        0.2161594963273872,
+        0.7545871559633027
       ]
     },
     {
@@ -5491,8 +5491,8 @@ const features =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        18,
-        538
+        0.20146904512067157,
+        0.2958715596330275
       ]
     },
     {
@@ -5501,8 +5501,8 @@ const features =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        17,
-        826
+        0.36621196222455404,
+        0.7339449541284404
       ]
     },
     {
@@ -5511,8 +5511,8 @@ const features =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        8,
-        366
+        0.22140608604407136,
+        0.5527522935779816
       ]
     },
     {
@@ -5521,8 +5521,8 @@ const features =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        7,
-        434
+        0.24344176285414482,
+        0.6123853211009175
       ]
     },
     {
@@ -5531,8 +5531,8 @@ const features =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        34,
-        1126
+        0.3074501573976915,
+        0.2706422018348624
       ]
     },
     {
@@ -5541,8 +5541,8 @@ const features =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        7,
-        457
+        0.2728226652675761,
+        0.22247706422018348
       ]
     },
     {
@@ -5551,8 +5551,8 @@ const features =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        16,
-        653
+        0.24868835257082897,
+        0.6513761467889908
       ]
     },
     {
@@ -5561,8 +5561,8 @@ const features =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        5,
-        455
+        0.20041972717733472,
+        0.7614678899082569
       ]
     },
     {
@@ -5571,8 +5571,8 @@ const features =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        33,
-        1601
+        0.2130115424973767,
+        0.32339449541284404
       ]
     },
     {
@@ -5581,8 +5581,8 @@ const features =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        14,
-        931
+        0.15005246589716684,
+        0.5802752293577982
       ]
     },
     {
@@ -5591,8 +5591,8 @@ const features =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        2,
-        178
+        0.02833158447009444,
+        0.26605504587155965
       ]
     },
     {
@@ -5601,8 +5601,8 @@ const features =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        4,
-        364
+        0.12277019937040923,
+        0.33715596330275227
       ]
     },
     {
@@ -5611,8 +5611,8 @@ const features =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        4,
-        185
+        0.2193074501573977,
+        0.43119266055045874
       ]
     },
     {
@@ -5621,8 +5621,8 @@ const features =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        5,
-        333
+        0.28226652675760755,
+        0.6995412844036697
       ]
     },
     {
@@ -5631,8 +5631,8 @@ const features =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        14,
-        343
+        0.35047219307450156,
+        0.6811926605504587
       ]
     },
     {
@@ -5641,8 +5641,8 @@ const features =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        20,
-        489
+        0.4050367261280168,
+        0.8944954128440367
       ]
     },
     {
@@ -5651,8 +5651,8 @@ const features =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        17,
-        341
+        0.3620146904512067,
+        0.5596330275229358
       ]
     },
     {
@@ -5661,8 +5661,8 @@ const features =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        24,
-        613
+        0.3672612801678909,
+        0.8692660550458715
       ]
     },
     {
@@ -5671,8 +5671,8 @@ const features =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        9,
-        290
+        0.10703043022035677,
+        0.8027522935779816
       ]
     },
     {
@@ -5681,8 +5681,8 @@ const features =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        3,
-        229
+        0.16369359916054566,
+        0.45871559633027525
       ]
     },
     {
@@ -5691,8 +5691,8 @@ const features =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        8,
-        404
+        0.38405036726128017,
+        0.36926605504587157
       ]
     },
     {
@@ -5701,8 +5701,8 @@ const features =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        4,
-        539
+        0.30220356768100737,
+        0.19495412844036697
       ]
     },
     {
@@ -5711,8 +5711,8 @@ const features =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        9,
-        491
+        0.3252885624344176,
+        0.841743119266055
       ]
     },
     {
@@ -5721,8 +5721,8 @@ const features =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        15,
-        843
+        0.3116474291710388,
+        0.823394495412844
       ]
     },
     {
@@ -5731,8 +5731,8 @@ const features =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        9,
-        391
+        0.29800629590766003,
+        0.3532110091743119
       ]
     },
     {
@@ -5741,8 +5741,8 @@ const features =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        10,
-        1430
+        0.2623294858342078,
+        0.6857798165137615
       ]
     },
     {
@@ -5751,8 +5751,8 @@ const features =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        4,
-        384
+        0.1353620146904512,
+        0.27522935779816515
       ]
     },
     {
@@ -5761,8 +5761,8 @@ const features =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        13,
-        825
+        0.23504721930745015,
+        0.4380733944954128
       ]
     },
     {
@@ -5771,8 +5771,8 @@ const features =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        8,
-        431
+        0.2885624344176285,
+        0.3394495412844037
       ]
     },
     {
@@ -5781,8 +5781,8 @@ const features =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        7,
-        278
+        0.24449108079748164,
+        0.44724770642201833
       ]
     },
     {
@@ -5791,8 +5791,8 @@ const features =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        9,
-        87
+        0.23504721930745015,
+        0.4793577981651376
       ]
     },
     {
@@ -5801,8 +5801,8 @@ const features =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        4,
-        207
+        0.19832109129066108,
+        0.5848623853211009
       ]
     },
     {
@@ -5811,8 +5811,8 @@ const features =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        8,
-        147
+        0.22455403987408185,
+        0.4610091743119266
       ]
     },
     {
@@ -5821,8 +5821,8 @@ const features =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        2,
-        253
+        0.2570828961175236,
+        0.5344036697247706
       ]
     },
     {
@@ -5831,8 +5831,8 @@ const features =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        6,
-        93
+        0.1248688352570829,
+        0.5344036697247706
       ]
     },
     {
@@ -5841,8 +5841,8 @@ const features =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        14,
-        95
+        0.15320041972717732,
+        0.3302752293577982
       ]
     },
     {
@@ -5851,8 +5851,8 @@ const features =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        5,
-        1070
+        0.3210912906610703,
+        0.3073394495412844
       ]
     },
     {
@@ -5861,8 +5861,8 @@ const features =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        21,
-        931
+        0.2539349422875131,
+        0.3440366972477064
       ]
     },
     {
@@ -5871,8 +5871,8 @@ const features =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        32,
-        1370
+        0.310598111227702,
+        0.49311926605504586
       ]
     },
     {
@@ -5881,8 +5881,8 @@ const features =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        21,
-        883
+        0.3934942287513116,
+        0.7912844036697247
       ]
     },
     {
@@ -5891,8 +5891,8 @@ const features =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        14,
-        1062
+        0.2602308499475341,
+        0.3623853211009174
       ]
     },
     {
@@ -5901,8 +5901,8 @@ const features =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        39,
-        1595
+        0.18048268625393493,
+        0.7178899082568807
       ]
     },
     {
@@ -5911,8 +5911,8 @@ const features =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        4,
-        271
+        0.08499475341028331,
+        0.3944954128440367
       ]
     },
     {
@@ -5921,8 +5921,8 @@ const features =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        21,
-        1111
+        0.2402938090241343,
+        0.5435779816513762
       ]
     },
     {
@@ -5931,8 +5931,8 @@ const features =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        6,
-        766
+        0.25498426023084997,
+        0.231651376146789
       ]
     },
     {
@@ -5941,8 +5941,8 @@ const features =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        16,
-        683
+        0.2675760755508919,
+        0.3348623853211009
       ]
     },
     {
@@ -5951,8 +5951,8 @@ const features =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        19,
-        1270
+        0.2528856243441763,
+        0.6146788990825688
       ]
     },
     {
@@ -5961,8 +5961,8 @@ const features =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        14,
-        1187
+        0.3389296956977964,
+        0.8027522935779816
       ]
     },
     {
@@ -5971,8 +5971,8 @@ const features =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        25,
-        1034
+        0.3011542497376705,
+        0.5091743119266054
       ]
     },
     {
@@ -5981,8 +5981,8 @@ const features =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        13,
-        1136
+        0.1385099685204617,
+        0.8279816513761468
       ]
     },
     {
@@ -5991,8 +5991,8 @@ const features =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        24,
-        674
+        0.3305351521511018,
+        0.10091743119266056
       ]
     },
     {
@@ -6001,8 +6001,8 @@ const features =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        28,
-        879
+        0.1794333683105981,
+        0.3761467889908257
       ]
     },
     {
@@ -6011,8 +6011,8 @@ const features =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        3,
-        352
+        0.23714585519412382,
+        0.268348623853211
       ]
     },
     {
@@ -6021,8 +6021,8 @@ const features =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        4,
-        435
+        0.23294858342077648,
+        0.2706422018348624
       ]
     },
     {
@@ -6031,8 +6031,8 @@ const features =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        3,
-        267
+        0.1783840503672613,
+        0.38990825688073394
       ]
     },
     {
@@ -6041,8 +6041,8 @@ const features =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        1,
-        268
+        0.18153200419727178,
+        0.573394495412844
       ]
     },
     {
@@ -6051,8 +6051,8 @@ const features =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        12,
-        389
+        0.25498426023084997,
+        0.35091743119266056
       ]
     },
     {
@@ -6061,8 +6061,8 @@ const features =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        12,
-        347
+        0.2990556138509968,
+        0.46788990825688076
       ]
     },
     {
@@ -6071,8 +6071,8 @@ const features =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        2,
-        102
+        0.12172088142707241,
+        0.19954128440366972
       ]
     },
     {
@@ -6081,8 +6081,8 @@ const features =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        7,
-        169
+        0.11437565582371459,
+        0.21100917431192662
       ]
     },
     {
@@ -6091,8 +6091,8 @@ const features =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        11,
-        468
+        0.1930745015739769,
+        0.13990825688073394
       ]
     },
     {
@@ -6101,8 +6101,8 @@ const features =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        7,
-        197
+        0.1080797481636936,
+        0.0389908256880734
       ]
     },
     {
@@ -6111,8 +6111,8 @@ const features =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        10,
-        328
+        0.17523609653725078,
+        0.2889908256880734
       ]
     },
     {
@@ -6121,8 +6121,8 @@ const features =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        25,
-        473
+        0.23189926547743966,
+        0.5137614678899083
       ]
     },
     {
@@ -6131,8 +6131,8 @@ const features =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        19,
-        620
+        0.24763903462749212,
+        0.22477064220183487
       ]
     },
     {
@@ -6141,8 +6141,8 @@ const features =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        9,
-        493
+        0.2696747114375656,
+        0.2706422018348624
       ]
     },
     {
@@ -6151,8 +6151,8 @@ const features =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        5,
-        90
+        0.2130115424973767,
+        0.10091743119266056
       ]
     },
     {
@@ -6161,8 +6161,8 @@ const features =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        2,
-        128
+        0.11647429171038824,
+        0.25688073394495414
       ]
     },
     {
@@ -6171,8 +6171,8 @@ const features =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        10,
-        518
+        0.23399790136411333,
+        0.25688073394495414
       ]
     },
     {
@@ -6181,8 +6181,8 @@ const features =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        8,
-        370
+        0.23189926547743966,
+        0.13073394495412843
       ]
     },
     {
@@ -6191,8 +6191,8 @@ const features =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        29,
-        962
+        0.1794333683105981,
+        0.3119266055045872
       ]
     },
     {
@@ -6201,8 +6201,8 @@ const features =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        4,
-        490
+        0.32948583420776495,
+        0.7018348623853211
       ]
     },
     {
@@ -6211,8 +6211,8 @@ const features =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        11,
-        645
+        0.18782791185729275,
+        0.29357798165137616
       ]
     },
     {
@@ -6221,8 +6221,8 @@ const features =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        18,
-        886
+        0.11017838405036726,
+        0.45871559633027525
       ]
     },
     {
@@ -6231,8 +6231,8 @@ const features =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        7,
-        494
+        0.18363064008394545,
+        0.0779816513761468
       ]
     },
     {
@@ -6241,8 +6241,8 @@ const features =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        8,
-        444
+        0.23714585519412382,
+        0.5573394495412844
       ]
     },
     {
@@ -6251,8 +6251,8 @@ const features =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        6,
-        353
+        0.24239244491080797,
+        0.35091743119266056
       ]
     },
     {
@@ -6261,8 +6261,8 @@ const features =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        11,
-        346
+        0.18782791185729275,
+        0.26605504587155965
       ]
     },
     {
@@ -6271,8 +6271,8 @@ const features =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        18,
-        384
+        0.2759706190975866,
+        0.5642201834862385
       ]
     },
     {
@@ -6281,8 +6281,8 @@ const features =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        4,
-        229
+        0.2465897166841553,
+        0.7293577981651376
       ]
     },
     {
@@ -6291,8 +6291,8 @@ const features =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        11,
-        408
+        0.30220356768100737,
+        0.38073394495412843
       ]
     },
     {
@@ -6301,8 +6301,8 @@ const features =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        5,
-        336
+        0.18677859391395593,
+        0.7270642201834863
       ]
     },
     {
@@ -6311,8 +6311,8 @@ const features =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        5,
-        197
+        0.23399790136411333,
+        0.5206422018348624
       ]
     },
     {
@@ -6321,8 +6321,8 @@ const features =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        14,
-        283
+        0.20461699895068206,
+        0.4701834862385321
       ]
     },
     {
@@ -6331,8 +6331,8 @@ const features =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        12,
-        505
+        0.2025183630640084,
+        0.18807339449541285
       ]
     },
     {
@@ -6341,8 +6341,8 @@ const features =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        4,
-        248
+        0.19727177334732424,
+        0.12385321100917432
       ]
     },
     {
@@ -6351,8 +6351,8 @@ const features =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        30,
-        1680
+        0.21825813221406087,
+        0.6811926605504587
       ]
     },
     {
@@ -6361,8 +6361,8 @@ const features =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        8,
-        447
+        0.16369359916054566,
+        0.5022935779816514
       ]
     },
     {
@@ -6371,8 +6371,8 @@ const features =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        7,
-        433
+        0.24449108079748164,
+        0.4288990825688073
       ]
     },
     {
@@ -6381,8 +6381,8 @@ const features =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        8,
-        577
+        0.24763903462749212,
+        0.24541284403669725
       ]
     },
     {
@@ -6391,8 +6391,8 @@ const features =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        2,
-        473
+        0.2088142707240294,
+        0.518348623853211
       ]
     },
     {
@@ -6401,8 +6401,8 @@ const features =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        2,
-        358
+        0.20146904512067157,
+        0.3394495412844037
       ]
     },
     {
@@ -6411,8 +6411,8 @@ const features =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        48,
-        1876
+        0.304302203567681,
+        0.40825688073394495
       ]
     },
     {
@@ -6421,8 +6421,8 @@ const features =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        15,
-        826
+        0.291710388247639,
+        0.3577981651376147
       ]
     },
     {
@@ -6431,8 +6431,8 @@ const features =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        27,
-        1237
+        0.19832109129066108,
+        0.6330275229357798
       ]
     },
     {
@@ -6441,8 +6441,8 @@ const features =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        7,
-        638
+        0.32948583420776495,
+        0.7591743119266054
       ]
     },
     {
@@ -6451,8 +6451,8 @@ const features =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        28,
-        1146
+        0.21720881427072403,
+        0.4518348623853211
       ]
     },
     {
@@ -6461,8 +6461,8 @@ const features =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        15,
-        480
+        0.2633788037775446,
+        0.2981651376146789
       ]
     },
     {
@@ -6471,8 +6471,8 @@ const features =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        14,
-        771
+        0.24554039874081846,
+        0.6513761467889908
       ]
     },
     {
@@ -6481,8 +6481,8 @@ const features =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        13,
-        402
+        0.20356768100734524,
+        0.1559633027522936
       ]
     },
     {
@@ -6491,8 +6491,8 @@ const features =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        25,
-        593
+        0.2833158447009444,
+        0.46788990825688076
       ]
     },
     {
@@ -6501,8 +6501,8 @@ const features =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        4,
-        163
+        0.1794333683105981,
+        0.19495412844036697
       ]
     },
     {
@@ -6511,8 +6511,8 @@ const features =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        6,
-        305
+        0.2098635886673662,
+        0.45871559633027525
       ]
     },
     {
@@ -6521,8 +6521,8 @@ const features =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        3,
-        214
+        0.19202518363064008,
+        0.5894495412844036
       ]
     },
     {
@@ -6531,8 +6531,8 @@ const features =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        9,
-        331
+        0.29275970619097585,
+        0.38990825688073394
       ]
     },
     {
@@ -6541,8 +6541,8 @@ const features =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        9,
-        295
+        0.1322140608604407,
+        0.6009174311926605
       ]
     },
     {
@@ -6551,8 +6551,8 @@ const features =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        3,
-        157
+        0.2465897166841553,
+        0.286697247706422
       ]
     },
     {
@@ -6561,8 +6561,8 @@ const features =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        7,
-        151
+        0.15739769150052466,
+        0.33715596330275227
       ]
     },
     {
@@ -6571,8 +6571,8 @@ const features =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        8,
-        265
+        0.2654774396642183,
+        0.5389908256880734
       ]
     },
     {
@@ -6581,8 +6581,8 @@ const features =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        3,
-        54
+        0.1888772298006296,
+        0.5160550458715596
       ]
     },
     {
@@ -6591,8 +6591,8 @@ const features =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        2,
-        98
+        0.1720881427072403,
+        0.591743119266055
       ]
     },
     {
@@ -6601,8 +6601,8 @@ const features =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        2,
-        396
+        0.25918153200419725,
+        0.6628440366972477
       ]
     },
     {
@@ -6611,8 +6611,8 @@ const features =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        10,
-        135
+        0.15949632738719832,
+        0.6261467889908257
       ]
     },
     {
@@ -6621,8 +6621,8 @@ const features =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        13,
-        419
+        0.20461699895068206,
+        0.573394495412844
       ]
     },
     {
@@ -6631,8 +6631,8 @@ const features =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        12,
-        297
+        0.13746065057712487,
+        0.7018348623853211
       ]
     },
     {
@@ -6641,8 +6641,8 @@ const features =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        22,
-        175
+        0.18048268625393493,
+        0.44495412844036697
       ]
     },
     {
@@ -6651,8 +6651,8 @@ const features =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        9,
-        577
+        0.34312696747114374,
+        0.34174311926605505
       ]
     },
     {
@@ -6661,8 +6661,8 @@ const features =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        4,
-        316
+        0.19202518363064008,
+        0.13761467889908258
       ]
     },
     {
@@ -6671,8 +6671,8 @@ const features =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        13,
-        386
+        0.18363064008394545,
+        0.4793577981651376
       ]
     },
     {
@@ -6681,8 +6681,8 @@ const features =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        3,
-        253
+        0.14480587618048268,
+        0.6444954128440367
       ]
     },
     {
@@ -6691,8 +6691,8 @@ const features =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        8,
-        329
+        0.29485834207764955,
+        0.3646788990825688
       ]
     },
     {
@@ -6701,8 +6701,8 @@ const features =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        8,
-        347
+        0.16474291710388247,
+        0.39908256880733944
       ]
     },
     {
@@ -6711,8 +6711,8 @@ const features =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        6,
-        204
+        0.08709338929695698,
+        0.46788990825688076
       ]
     },
     {
@@ -6721,8 +6721,8 @@ const features =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        14,
-        171
+        0.08184679958027283,
+        0.2958715596330275
       ]
     },
     {
@@ -6731,8 +6731,8 @@ const features =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        10,
-        842
+        0.33473242392444913,
+        0.44724770642201833
       ]
     },
     {
@@ -6741,8 +6741,8 @@ const features =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        3,
-        167
+        0.236096537250787,
+        0.14908256880733944
       ]
     },
     {
@@ -6751,8 +6751,8 @@ const features =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        8,
-        735
+        0.2130115424973767,
+        0.5275229357798165
       ]
     },
     {
@@ -6761,8 +6761,8 @@ const features =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        3,
-        376
+        0.2707240293809024,
+        0.676605504587156
       ]
     },
     {
@@ -6771,8 +6771,8 @@ const features =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        8,
-        589
+        0.2864637985309549,
+        0.48853211009174313
       ]
     },
     {
@@ -6781,8 +6781,8 @@ const features =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        12,
-        892
+        0.3546694648478489,
+        0.7110091743119266
       ]
     },
     {
@@ -6791,8 +6791,8 @@ const features =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        3,
-        278
+        0.14375655823714587,
+        0.47477064220183485
       ]
     },
     {
@@ -6801,8 +6801,8 @@ const features =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        7,
-        422
+        0.1584470094438615,
+        0.39908256880733944
       ]
     },
     {
@@ -6811,8 +6811,8 @@ const features =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        5,
-        695
+        0.22350472193074503,
+        0.231651376146789
       ]
     },
     {
@@ -6821,8 +6821,8 @@ const features =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        3,
-        516
+        0.19202518363064008,
+        0.16743119266055045
       ]
     },
     {
@@ -6831,8 +6831,8 @@ const features =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        1,
-        860
+        0.28226652675760755,
+        0.26605504587155965
       ]
     },
     {
@@ -6841,8 +6841,8 @@ const features =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        3,
-        667
+        0.21196222455403987,
+        0.5
       ]
     },
     {
@@ -6851,8 +6851,8 @@ const features =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        5,
-        360
+        0.20461699895068206,
+        0.2408256880733945
       ]
     },
     {
@@ -6861,8 +6861,8 @@ const features =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        4,
-        907
+        0.34522560335781743,
+        0.3623853211009174
       ]
     },
     {
@@ -6871,8 +6871,8 @@ const features =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        6,
-        642
+        0.035676810073452254,
+        0.5022935779816514
       ]
     },
     {
@@ -6881,8 +6881,8 @@ const features =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        10,
-        331
+        0.1720881427072403,
+        0.32798165137614677
       ]
     },
     {
@@ -6891,8 +6891,8 @@ const features =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        4,
-        197
+        0.2570828961175236,
+        0.19954128440366972
       ]
     },
     {
@@ -6901,8 +6901,8 @@ const features =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        2,
-        142
+        0.19832109129066108,
+        0.1353211009174312
       ]
     },
     {
@@ -6911,8 +6911,8 @@ const features =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        9,
-        569
+        0.2644281217208814,
+        0.4426605504587156
       ]
     },
     {
@@ -6921,8 +6921,8 @@ const features =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        3,
-        178
+        0.1259181532004197,
+        0.5848623853211009
       ]
     },
     {
@@ -6931,8 +6931,8 @@ const features =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        10,
-        317
+        0.14795383001049317,
+        0.18577981651376146
       ]
     },
     {
@@ -6941,8 +6941,8 @@ const features =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        12,
-        358
+        0.28961175236096537,
+        0.24311926605504589
       ]
     },
     {
@@ -6951,8 +6951,8 @@ const features =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        6,
-        196
+        0.23819517313746066,
+        0.016055045871559634
       ]
     },
     {
@@ -6961,8 +6961,8 @@ const features =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        3,
-        120
+        0.24554039874081846,
+        0.4288990825688073
       ]
     },
     {
@@ -6971,8 +6971,8 @@ const features =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        14,
-        1041
+        0.35362014690451204,
+        0.44724770642201833
       ]
     },
     {
@@ -6981,8 +6981,8 @@ const features =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        11,
-        523
+        0.3378803777544596,
+        0.3623853211009174
       ]
     },
     {
@@ -6991,8 +6991,8 @@ const features =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        7,
-        543
+        0.2633788037775446,
+        0.6605504587155964
       ]
     },
     {
@@ -7001,8 +7001,8 @@ const features =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        4,
-        340
+        0.31584470094438616,
+        0.7178899082568807
       ]
     },
     {
@@ -7011,8 +7011,8 @@ const features =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        20,
-        959
+        0.36621196222455404,
+        0.48853211009174313
       ]
     },
     {
@@ -7021,8 +7021,8 @@ const features =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        11,
-        647
+        0.3546694648478489,
+        0.32339449541284404
       ]
     },
     {
@@ -7031,8 +7031,8 @@ const features =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        9,
-        510
+        0.28436516264428124,
+        0.4426605504587156
       ]
     },
     {
@@ -7041,8 +7041,8 @@ const features =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        6,
-        229
+        0.2675760755508919,
+        0.555045871559633
       ]
     },
     {
@@ -7051,8 +7051,8 @@ const features =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        21,
-        1177
+        0.2969569779643232,
+        0.75
       ]
     },
     {
@@ -7061,8 +7061,8 @@ const features =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        2,
-        410
+        0.25603357817418676,
+        0.25688073394495414
       ]
     },
     {
@@ -7071,8 +7071,8 @@ const features =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        8,
-        485
+        0.1993704092339979,
+        0.5573394495412844
       ]
     },
     {
@@ -7081,8 +7081,8 @@ const features =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        3,
-        203
+        0.2266526757607555,
+        0.6444954128440367
       ]
     },
     {
@@ -7091,8 +7091,8 @@ const features =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        9,
-        411
+        0.1930745015739769,
+        0.28440366972477066
       ]
     },
     {
@@ -7101,8 +7101,8 @@ const features =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        13,
-        719
+        0.24868835257082897,
+        0.5252293577981652
       ]
     },
     {
@@ -7111,8 +7111,8 @@ const features =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        1,
-        165
+        0.02833158447009444,
+        0.4036697247706422
       ]
     },
     {
@@ -7121,8 +7121,8 @@ const features =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        9,
-        198
+        0.15739769150052466,
+        0.4197247706422018
       ]
     },
     {
@@ -7131,8 +7131,8 @@ const features =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        8,
-        404
+        0.2528856243441763,
+        0.5206422018348624
       ]
     },
     {
@@ -7141,8 +7141,8 @@ const features =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        3,
-        368
+        0.25498426023084997,
+        0.6857798165137615
       ]
     },
     {
@@ -7151,8 +7151,8 @@ const features =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        14,
-        451
+        0.2633788037775446,
+        0.5160550458715596
       ]
     },
     {
@@ -7161,8 +7161,8 @@ const features =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        10,
-        98
+        0.17628541448058763,
+        0.5
       ]
     },
     {
@@ -7171,8 +7171,8 @@ const features =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        8,
-        132
+        0.18677859391395593,
+        0.29128440366972475
       ]
     },
     {
@@ -7181,8 +7181,8 @@ const features =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        10,
-        467
+        0.2497376705141658,
+        0.48623853211009177
       ]
     },
     {
@@ -7191,8 +7191,8 @@ const features =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        7,
-        105
+        0.053515215110178385,
+        0.5321100917431193
       ]
     },
     {
@@ -7201,8 +7201,8 @@ const features =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        3,
-        57
+        0.1458551941238195,
+        0.41743119266055045
       ]
     },
     {
@@ -7211,8 +7211,8 @@ const features =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        32,
-        1379
+        0.18363064008394545,
+        0.23853211009174313
       ]
     },
     {
@@ -7221,8 +7221,8 @@ const features =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        3,
-        541
+        0.14375655823714587,
+        0.22935779816513763
       ]
     },
     {
@@ -7231,8 +7231,8 @@ const features =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        29,
-        872
+        0.22350472193074503,
+        0.3738532110091743
       ]
     },
     {
@@ -7241,8 +7241,8 @@ const features =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        9,
-        551
+        0.08394543546694648,
+        0.6399082568807339
       ]
     },
     {
@@ -7251,8 +7251,8 @@ const features =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        38,
-        1181
+        0.16054564533053514,
+        0.41743119266055045
       ]
     },
     {
@@ -7261,8 +7261,8 @@ const features =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        29,
-        1553
+        0.14900314795383002,
+        0.6009174311926605
       ]
     },
     {
@@ -7271,8 +7271,8 @@ const features =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        18,
-        372
+        0.15739769150052466,
+        0.6032110091743119
       ]
     },
     {
@@ -7281,8 +7281,8 @@ const features =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        19,
-        1017
+        0.13326337880377753,
+        0.3532110091743119
       ]
     },
     {
@@ -7291,8 +7291,8 @@ const features =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        8,
-        453
+        0.28436516264428124,
+        0.2591743119266055
       ]
     },
     {
@@ -7301,8 +7301,8 @@ const features =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        6,
-        476
+        0.24344176285414482,
+        0.27293577981651373
       ]
     },
     {
@@ -7311,8 +7311,8 @@ const features =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        16,
-        518
+        0.28541448058761804,
+        0.5504587155963303
       ]
     },
     {
@@ -7321,8 +7321,8 @@ const features =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        10,
-        423
+        0.2864637985309549,
+        0.6169724770642202
       ]
     },
     {
@@ -7331,8 +7331,8 @@ const features =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        18,
-        415
+        0.28436516264428124,
+        0.4908256880733945
       ]
     },
     {
@@ -7341,8 +7341,8 @@ const features =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        9,
-        374
+        0.30640083945435465,
+        0.4013761467889908
       ]
     },
     {
@@ -7351,8 +7351,8 @@ const features =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        7,
-        201
+        0.055613850996852045,
+        0.5321100917431193
       ]
     },
     {
@@ -7361,8 +7361,8 @@ const features =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        15,
-        319
+        0.291710388247639,
+        0.4610091743119266
       ]
     },
     {
@@ -7371,8 +7371,8 @@ const features =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        14,
-        946
+        0.34207764952780695,
+        0.2981651376146789
       ]
     },
     {
@@ -7381,8 +7381,8 @@ const features =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        6,
-        597
+        0.2675760755508919,
+        0.5779816513761468
       ]
     },
     {
@@ -7391,8 +7391,8 @@ const features =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        5,
-        464
+        0.23084994753410285,
+        0.6697247706422018
       ]
     },
     {
@@ -7401,8 +7401,8 @@ const features =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        9,
-        609
+        0.28226652675760755,
+        0.7958715596330275
       ]
     },
     {
@@ -7411,8 +7411,8 @@ const features =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        20,
-        908
+        0.323189926547744,
+        0.4610091743119266
       ]
     },
     {
@@ -7421,8 +7421,8 @@ const features =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        18,
-        1363
+        0.3011542497376705,
+        0.6238532110091743
       ]
     },
     {
@@ -7431,8 +7431,8 @@ const features =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        8,
-        650
+        0.2518363064008394,
+        0.591743119266055
       ]
     },
     {
@@ -7441,8 +7441,8 @@ const features =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        17,
-        423
+        0.2644281217208814,
+        0.5435779816513762
       ]
     },
     {
@@ -7451,8 +7451,8 @@ const features =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        11,
-        651
+        0.23084994753410285,
+        0.15137614678899083
       ]
     },
     {
@@ -7461,8 +7461,8 @@ const features =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        7,
-        549
+        0.2161594963273872,
+        0.19036697247706422
       ]
     },
     {
@@ -7471,8 +7471,8 @@ const features =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        19,
-        589
+        0.22140608604407136,
+        0.3876146788990826
       ]
     },
     {
@@ -7481,8 +7481,8 @@ const features =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        16,
-        724
+        0.35571878279118574,
+        0.7385321100917431
       ]
     },
     {
@@ -7491,8 +7491,8 @@ const features =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        16,
-        1088
+        0.316894018887723,
+        0.32798165137614677
       ]
     },
     {
@@ -7501,8 +7501,8 @@ const features =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        16,
-        589
+        0.35571878279118574,
+        0.23394495412844038
       ]
     },
     {
@@ -7511,8 +7511,8 @@ const features =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        15,
-        543
+        0.15424973767051417,
+        0.7821100917431193
       ]
     },
     {
@@ -7521,8 +7521,8 @@ const features =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        6,
-        203
+        0.08604407135362015,
+        0.21100917431192662
       ]
     },
     {
@@ -7531,8 +7531,8 @@ const features =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        23,
-        2330
+        0.304302203567681,
+        0.2889908256880734
       ]
     },
     {
@@ -7541,8 +7541,8 @@ const features =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        20,
-        2030
+        0.24344176285414482,
+        0.4105504587155963
       ]
     },
     {
@@ -7551,8 +7551,8 @@ const features =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        27,
-        3292
+        0.2539349422875131,
+        0.555045871559633
       ]
     },
     {
@@ -7561,8 +7561,8 @@ const features =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        26,
-        3118
+        0.2801678908709339,
+        0.7339449541284404
       ]
     },
     {
@@ -7571,8 +7571,8 @@ const features =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        32,
-        3069
+        0.25498426023084997,
+        0.32798165137614677
       ]
     },
     {
@@ -7581,8 +7581,8 @@ const features =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        8,
-        3210
+        0.30220356768100737,
+        0.5344036697247706
       ]
     },
     {
@@ -7591,8 +7591,8 @@ const features =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        6,
-        1323
+        0.1825813221406086,
+        0.6192660550458715
       ]
     },
     {
@@ -7601,8 +7601,8 @@ const features =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        1,
-        366
+        0.09863588667366212,
+        0.21559633027522937
       ]
     },
     {
@@ -7611,8 +7611,8 @@ const features =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        27,
-        1566
+        0.2570828961175236,
+        0.25229357798165136
       ]
     },
     {
@@ -7621,8 +7621,8 @@ const features =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        4,
-        1007
+        0.323189926547744,
+        0.44954128440366975
       ]
     },
     {
@@ -7631,8 +7631,8 @@ const features =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        31,
-        1430
+        0.20566631689401887,
+        0.5389908256880734
       ]
     },
     {
@@ -7641,8 +7641,8 @@ const features =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        36,
-        978
+        0.3462749213011542,
+        0.8302752293577982
       ]
     },
     {
@@ -7651,8 +7651,8 @@ const features =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        51,
-        2938
+        0.22875131164742918,
+        0.27522935779816515
       ]
     },
     {
@@ -7661,8 +7661,8 @@ const features =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        20,
-        2057
+        0.25078698845750264,
+        0.5871559633027523
       ]
     },
     {
@@ -7671,8 +7671,8 @@ const features =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        10,
-        886
+        0.1888772298006296,
+        0.4334862385321101
       ]
     },
     {
@@ -7681,8 +7681,8 @@ const features =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        10,
-        1837
+        0.17418677859391396,
+        0.713302752293578
       ]
     },
     {
@@ -7691,8 +7691,8 @@ const features =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        7,
-        1410
+        0.2833158447009444,
+        0.1353211009174312
       ]
     },
     {
@@ -7701,8 +7701,8 @@ const features =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        4,
-        889
+        0.19727177334732424,
+        0.14908256880733944
       ]
     },
     {
@@ -7711,8 +7711,8 @@ const features =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        7,
-        908
+        0.13641133263378805,
+        0.5
       ]
     },
     {
@@ -7721,8 +7721,8 @@ const features =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        13,
-        1294
+        0.16789087093389296,
+        0.7775229357798165
       ]
     },
     {
@@ -7731,8 +7731,8 @@ const features =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        18,
-        1360
+        0.2707240293809024,
+        0.32339449541284404
       ]
     },
     {
@@ -7741,8 +7741,8 @@ const features =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        8,
-        1058
+        0.13955928646379853,
+        0.676605504587156
       ]
     },
     {
@@ -7751,8 +7751,8 @@ const features =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        4,
-        727
+        0.2990556138509968,
+        0.5871559633027523
       ]
     },
     {
@@ -7761,8 +7761,8 @@ const features =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        16,
-        994
+        0.2675760755508919,
+        0.3555045871559633
       ]
     },
     {
@@ -7771,8 +7771,8 @@ const features =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        11,
-        1069
+        0.37670514165792235,
+        0.28440366972477066
       ]
     },
     {
@@ -7781,8 +7781,8 @@ const features =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        3,
-        475
+        0.3179433368310598,
+        0.4334862385321101
       ]
     },
     {
@@ -7791,8 +7791,8 @@ const features =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        11,
-        702
+        0.40083945435466944,
+        0.8004587155963303
       ]
     },
     {
@@ -7801,8 +7801,8 @@ const features =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        5,
-        330
+        0.40083945435466944,
+        0.6513761467889908
       ]
     },
     {
@@ -7811,8 +7811,8 @@ const features =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        25,
-        1133
+        0.3651626442812172,
+        0.44724770642201833
       ]
     },
     {
@@ -7821,8 +7821,8 @@ const features =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        13,
-        765
+        0.3462749213011542,
+        0.731651376146789
       ]
     },
     {
@@ -7831,8 +7831,8 @@ const features =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        4,
-        328
+        0.2161594963273872,
+        0.6651376146788991
       ]
     },
     {
@@ -7841,8 +7841,8 @@ const features =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        16,
-        576
+        0.2623294858342078,
+        0.5756880733944955
       ]
     },
     {
@@ -7851,8 +7851,8 @@ const features =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        21,
-        589
+        0.17628541448058763,
+        0.21100917431192662
       ]
     },
     {
@@ -7861,8 +7861,8 @@ const features =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        6,
-        783
+        0.22245540398740818,
+        0.27293577981651373
       ]
     },
     {
@@ -7871,8 +7871,8 @@ const features =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        28,
-        1342
+        0.28961175236096537,
+        0.7591743119266054
       ]
     },
     {
@@ -7881,8 +7881,8 @@ const features =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        3,
-        531
+        0.27177334732423925,
+        0.6926605504587156
       ]
     },
     {
@@ -7891,8 +7891,8 @@ const features =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        11,
-        1025
+        0.2885624344176285,
+        0.37844036697247707
       ]
     },
     {
@@ -7901,8 +7901,8 @@ const features =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        12,
-        1228
+        0.14690451206715635,
+        0.46788990825688076
       ]
     },
     {
@@ -7911,8 +7911,8 @@ const features =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        7,
-        974
+        0.15424973767051417,
+        0.4954128440366973
       ]
     },
     {
@@ -7921,8 +7921,8 @@ const features =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        26,
-        672
+        0.13955928646379853,
+        0.3761467889908257
       ]
     },
     {
@@ -7931,8 +7931,8 @@ const features =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        5,
-        811
+        0.2728226652675761,
+        0.1720183486238532
       ]
     },
     {
@@ -7941,8 +7941,8 @@ const features =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        5,
-        691
+        0.2633788037775446,
+        0.1559633027522936
       ]
     },
     {
@@ -7951,8 +7951,8 @@ const features =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        7,
-        943
+        0.33263378803777544,
+        0.6055045871559633
       ]
     },
     {
@@ -7961,8 +7961,8 @@ const features =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        3,
-        572
+        0.26862539349422876,
+        0.6490825688073395
       ]
     },
     {
@@ -7971,8 +7971,8 @@ const features =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        10,
-        703
+        0.23189926547743966,
+        0.16972477064220184
       ]
     },
     {
@@ -7981,8 +7981,8 @@ const features =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        11,
-        613
+        0.291710388247639,
+        0.0963302752293578
       ]
     },
     {
@@ -7991,8 +7991,8 @@ const features =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        8,
-        990
+        0.00944386149003148,
+        0.44954128440366975
       ]
     },
     {
@@ -8001,8 +8001,8 @@ const features =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        1,
-        124
+        0.1888772298006296,
+        0.40825688073394495
       ]
     },
     {
@@ -8011,8 +8011,8 @@ const features =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        2,
-        80
+        0.2025183630640084,
+        0.4380733944954128
       ]
     },
     {
@@ -8021,8 +8021,8 @@ const features =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        17,
-        513
+        0.22245540398740818,
+        0.5573394495412844
       ]
     },
     {
@@ -8031,8 +8031,8 @@ const features =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        7,
-        318
+        0.21720881427072403,
+        0.6032110091743119
       ]
     },
     {
@@ -8041,8 +8041,8 @@ const features =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        4,
-        202
+        0.13641133263378805,
+        0.5321100917431193
       ]
     },
     {
@@ -8051,8 +8051,8 @@ const features =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        9,
-        281
+        0.13326337880377753,
+        0.5986238532110092
       ]
     },
     {
@@ -8061,8 +8061,8 @@ const features =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        14,
-        283
+        0.2728226652675761,
+        0.694954128440367
       ]
     },
     {
@@ -8071,8 +8071,8 @@ const features =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        11,
-        211
+        0.25078698845750264,
+        0.5458715596330275
       ]
     },
     {
@@ -8081,8 +8081,8 @@ const features =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        2,
-        87
+        0.229800629590766,
+        0.5022935779816514
       ]
     },
     {
@@ -8091,8 +8091,8 @@ const features =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        16,
-        889
+        0.3515215110178384,
+        0.46559633027522934
       ]
     },
     {
@@ -8101,8 +8101,8 @@ const features =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        18,
-        725
+        0.18992654774396642,
+        0.2958715596330275
       ]
     },
     {
@@ -8111,8 +8111,8 @@ const features =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        27,
-        957
+        0.21720881427072403,
+        0.518348623853211
       ]
     },
     {
@@ -8121,8 +8121,8 @@ const features =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        24,
-        815
+        0.3126967471143757,
+        0.6926605504587156
       ]
     },
     {
@@ -8131,8 +8131,8 @@ const features =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        28,
-        800
+        0.2864637985309549,
+        0.536697247706422
       ]
     },
     {
@@ -8141,8 +8141,8 @@ const features =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        9,
-        546
+        0.18467995802728226,
+        0.5619266055045872
       ]
     },
     {
@@ -8151,8 +8151,8 @@ const features =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        5,
-        326
+        0.0912906610703043,
+        0.3623853211009174
       ]
     },
     {
@@ -8161,8 +8161,8 @@ const features =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        10,
-        546
+        0.28751311647429173,
+        0.6880733944954128
       ]
     },
     {
@@ -8171,8 +8171,8 @@ const features =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        10,
-        682
+        0.28541448058761804,
+        0.3577981651376147
       ]
     },
     {
@@ -8181,8 +8181,8 @@ const features =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        7,
-        482
+        0.291710388247639,
+        0.31880733944954126
       ]
     },
     {
@@ -8191,8 +8191,8 @@ const features =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        13,
-        500
+        0.28961175236096537,
+        0.4426605504587156
       ]
     },
     {
@@ -8201,8 +8201,8 @@ const features =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        4,
-        336
+        0.3305351521511018,
+        0.7178899082568807
       ]
     },
     {
@@ -8211,8 +8211,8 @@ const features =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        14,
-        288
+        0.2833158447009444,
+        0.5137614678899083
       ]
     },
     {
@@ -8221,8 +8221,8 @@ const features =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        24,
-        778
+        0.4050367261280168,
+        0.75
       ]
     },
     {
@@ -8231,8 +8231,8 @@ const features =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        11,
-        188
+        0.3242392444910808,
+        0.6261467889908257
       ]
     },
     {
@@ -8241,8 +8241,8 @@ const features =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        12,
-        302
+        0.25498426023084997,
+        0.5825688073394495
       ]
     },
     {
@@ -8251,8 +8251,8 @@ const features =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        3,
-        190
+        0.22770199370409233,
+        0.28440366972477066
       ]
     },
     {
@@ -8261,8 +8261,8 @@ const features =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        1,
-        208
+        0.2266526757607555,
+        0.30045871559633025
       ]
     },
     {
@@ -8271,8 +8271,8 @@ const features =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        3,
-        184
+        0.2518363064008394,
+        0.5412844036697247
       ]
     },
     {
@@ -8281,8 +8281,8 @@ const features =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        40,
-        1638
+        0.33997901364113325,
+        0.8142201834862385
       ]
     },
     {
@@ -8291,8 +8291,8 @@ const features =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        20,
-        633
+        0.3305351521511018,
+        0.49311926605504586
       ]
     },
     {
@@ -8301,8 +8301,8 @@ const features =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        10,
-        569
+        0.16054564533053514,
+        0.8394495412844036
       ]
     },
     {
@@ -8311,8 +8311,8 @@ const features =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        4,
-        241
+        0.016789087093389297,
+        0.7545871559633027
       ]
     },
     {
@@ -8321,8 +8321,8 @@ const features =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        4,
-        222
+        0.23819517313746066,
+        0.6169724770642202
       ]
     },
     {
@@ -8331,8 +8331,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        4,
-        469
+        0.2969569779643232,
+        0.25
       ]
     },
     {
@@ -8341,8 +8341,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        3,
-        365
+        0.3179433368310598,
+        0.30045871559633025
       ]
     },
     {
@@ -8351,8 +8351,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        15,
-        470
+        0.31899265477439664,
+        0.6353211009174312
       ]
     },
     {
@@ -8361,8 +8361,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        4,
-        363
+        0.304302203567681,
+        0.823394495412844
       ]
     },
     {
@@ -8371,8 +8371,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        18,
-        721
+        0.2906610703043022,
+        0.3463302752293578
       ]
     },
     {
@@ -8381,8 +8381,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        10,
-        628
+        0.3809024134312697,
+        0.75
       ]
     },
     {
@@ -8391,8 +8391,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        7,
-        282
+        0.11122770199370409,
+        0.6720183486238532
       ]
     },
     {
@@ -8401,8 +8401,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        18,
-        316
+        0.2654774396642183,
+        0.6628440366972477
       ]
     },
     {
@@ -8411,8 +8411,8 @@ const features =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        7,
-        695
+        0.16369359916054566,
+        0.19036697247706422
       ]
     },
     {
@@ -8421,8 +8421,8 @@ const features =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        3,
-        369
+        0.13641133263378805,
+        0.18807339449541285
       ]
     },
     {
@@ -8431,8 +8431,8 @@ const features =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        11,
-        780
+        0.14795383001049317,
+        0.38073394495412843
       ]
     },
     {
@@ -8441,8 +8441,8 @@ const features =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        2,
-        446
+        0.19202518363064008,
+        0.463302752293578
       ]
     },
     {
@@ -8451,8 +8451,8 @@ const features =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        17,
-        502
+        0.09024134312696747,
+        0.13990825688073394
       ]
     },
     {
@@ -8461,8 +8461,8 @@ const features =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        12,
-        1260
+        0.2696747114375656,
+        0.4908256880733945
       ]
     },
     {
@@ -8471,8 +8471,8 @@ const features =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        6,
-        235
+        0.08709338929695698,
+        0.11238532110091744
       ]
     },
     {
@@ -8481,8 +8481,8 @@ const features =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        8,
-        477
+        0.1888772298006296,
+        0.3463302752293578
       ]
     },
     {
@@ -8491,8 +8491,8 @@ const features =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        17,
-        291
+        0.1930745015739769,
+        0.12844036697247707
       ]
     },
     {
@@ -8501,8 +8501,8 @@ const features =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        12,
-        176
+        0.2402938090241343,
+        0.25
       ]
     },
     {
@@ -8511,8 +8511,8 @@ const features =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        11,
-        153
+        0.18363064008394545,
+        0.4059633027522936
       ]
     },
     {
@@ -8521,8 +8521,8 @@ const features =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        3,
-        168
+        0.18572927597061908,
+        0.5458715596330275
       ]
     },
     {
@@ -8531,8 +8531,8 @@ const features =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        20,
-        285
+        0.2465897166841553,
+        0.3623853211009174
       ]
     },
     {
@@ -8541,8 +8541,8 @@ const features =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        12,
-        256
+        0.15739769150052466,
+        0.7958715596330275
       ]
     },
     {
@@ -8551,8 +8551,8 @@ const features =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        14,
-        140
+        0.03672612801678909,
+        0.5275229357798165
       ]
     },
     {
@@ -8561,8 +8561,8 @@ const features =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        3,
-        104
+        0.23294858342077648,
+        0.48394495412844035
       ]
     },
     {
@@ -8571,8 +8571,8 @@ const features =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        3,
-        391
+        0.1353620146904512,
+        0.1743119266055046
       ]
     },
     {
@@ -8581,8 +8581,8 @@ const features =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        1,
-        278
+        0.1416579223504722,
+        0.18577981651376146
       ]
     },
     {
@@ -8591,8 +8591,8 @@ const features =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        7,
-        623
+        0.1259181532004197,
+        0.25688073394495414
       ]
     },
     {
@@ -8601,8 +8601,8 @@ const features =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        3,
-        263
+        0.09653725078698845,
+        0.268348623853211
       ]
     },
     {
@@ -8611,8 +8611,8 @@ const features =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        9,
-        411
+        0.12696747114375656,
+        0.27522935779816515
       ]
     },
     {
@@ -8621,8 +8621,8 @@ const features =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        7,
-        478
+        0.2528856243441763,
+        0.14678899082568808
       ]
     },
     {
@@ -8631,8 +8631,8 @@ const features =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        2,
-        234
+        0.02728226652675761,
+        0.34174311926605505
       ]
     },
     {
@@ -8641,8 +8641,8 @@ const features =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        7,
-        190
+        0.12067156348373557,
+        0.2408256880733945
       ]
     },
     {
@@ -8651,8 +8651,8 @@ const features =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        15,
-        1402
+        0.3305351521511018,
+        0.3555045871559633
       ]
     },
     {
@@ -8661,8 +8661,8 @@ const features =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        13,
-        746
+        0.23189926547743966,
+        0.22935779816513763
       ]
     },
     {
@@ -8671,8 +8671,8 @@ const features =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        39,
-        1712
+        0.36096537250786986,
+        0.6330275229357798
       ]
     },
     {
@@ -8681,8 +8681,8 @@ const features =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        11,
-        713
+        0.29485834207764955,
+        0.6169724770642202
       ]
     },
     {
@@ -8691,8 +8691,8 @@ const features =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        21,
-        1421
+        0.28541448058761804,
+        0.3646788990825688
       ]
     },
     {
@@ -8701,8 +8701,8 @@ const features =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        15,
-        980
+        0.3620146904512067,
+        0.463302752293578
       ]
     },
     {
@@ -8711,8 +8711,8 @@ const features =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        12,
-        701
+        0.161594963273872,
+        0.48853211009174313
       ]
     },
     {
@@ -8721,8 +8721,8 @@ const features =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        22,
-        1267
+        0.18782791185729275,
+        0.694954128440367
       ]
     },
     {
@@ -8731,8 +8731,8 @@ const features =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        6,
-        378
+        0.2570828961175236,
+        0.2775229357798165
       ]
     },
     {
@@ -8741,8 +8741,8 @@ const features =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        4,
-        361
+        0.2088142707240294,
+        0.268348623853211
       ]
     },
     {
@@ -8751,8 +8751,8 @@ const features =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        8,
-        393
+        0.3882476390346275,
+        0.7798165137614679
       ]
     },
     {
@@ -8761,8 +8761,8 @@ const features =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        3,
-        123
+        0.20356768100734524,
+        0.6032110091743119
       ]
     },
     {
@@ -8771,8 +8771,8 @@ const features =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        9,
-        241
+        0.35362014690451204,
+        0.6261467889908257
       ]
     },
     {
@@ -8781,8 +8781,8 @@ const features =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        9,
-        267
+        0.229800629590766,
+        0.713302752293578
       ]
     },
     {
@@ -8791,8 +8791,8 @@ const features =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        2,
-        220
+        0.035676810073452254,
+        0.4701834862385321
       ]
     },
     {
@@ -8801,8 +8801,8 @@ const features =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        3,
-        101
+        0.17103882476390347,
+        0.47706422018348627
       ]
     },
     {
@@ -8811,8 +8811,8 @@ const features =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        14,
-        699
+        0.3473242392444911,
+        0.6536697247706422
       ]
     },
     {
@@ -8821,8 +8821,8 @@ const features =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        5,
-        320
+        0.18572927597061908,
+        0.5160550458715596
       ]
     },
     {
@@ -8831,8 +8831,8 @@ const features =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        23,
-        1286
+        0.17418677859391396,
+        0.5458715596330275
       ]
     },
     {
@@ -8841,8 +8841,8 @@ const features =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        3,
-        232
+        0.2602308499475341,
+        0.7408256880733946
       ]
     },
     {
@@ -8851,8 +8851,8 @@ const features =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        7,
-        275
+        0.29800629590766003,
+        0.5229357798165137
       ]
     },
     {
@@ -8861,8 +8861,8 @@ const features =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        5,
-        628
+        0.291710388247639,
+        0.7293577981651376
       ]
     },
     {
@@ -8871,8 +8871,8 @@ const features =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        8,
-        238
+        0.2193074501573977,
+        0.7270642201834863
       ]
     },
     {
@@ -8881,8 +8881,8 @@ const features =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        4,
-        228
+        0.2675760755508919,
+        0.6009174311926605
       ]
     },
     {
@@ -8891,8 +8891,8 @@ const features =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        7,
-        302
+        0.291710388247639,
+        0.3944954128440367
       ]
     },
     {
@@ -8901,8 +8901,8 @@ const features =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        3,
-        204
+        0.20776495278069254,
+        0.3486238532110092
       ]
     },
     {
@@ -8911,8 +8911,8 @@ const features =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        7,
-        297
+        0.3200419727177335,
+        0.6972477064220184
       ]
     },
     {
@@ -8921,8 +8921,8 @@ const features =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        3,
-        116
+        0.2738719832109129,
+        0.7408256880733946
       ]
     },
     {
@@ -8931,8 +8931,8 @@ const features =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        7,
-        103
+        0.15634837355718784,
+        0.1444954128440367
       ]
     },
     {
@@ -8941,8 +8941,8 @@ const features =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        1,
-        159
+        0.2885624344176285,
+        0.4197247706422018
       ]
     },
     {
@@ -8951,8 +8951,8 @@ const features =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        1,
-        30
+        0.0031479538300104933,
+        0.43119266055045874
       ]
     },
     {
@@ -8961,8 +8961,8 @@ const features =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        4,
-        45
+        0.13011542497376705,
+        0.3944954128440367
       ]
     },
     {
@@ -8971,8 +8971,8 @@ const features =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        7,
-        632
+        0.34522560335781743,
+        0.3302752293577982
       ]
     },
     {
@@ -8981,8 +8981,8 @@ const features =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        6,
-        268
+        0.31374606505771246,
+        0.23853211009174313
       ]
     },
     {
@@ -8991,8 +8991,8 @@ const features =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        13,
-        400
+        0.18048268625393493,
+        0.7591743119266054
       ]
     },
     {
@@ -9001,8 +9001,8 @@ const features =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        3,
-        163
+        0.17628541448058763,
+        0.6743119266055045
       ]
     },
     {
@@ -9011,8 +9011,8 @@ const features =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        8,
-        181
+        0.17103882476390347,
+        0.2018348623853211
       ]
     },
     {
@@ -9021,8 +9021,8 @@ const features =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        4,
-        285
+        0.3200419727177335,
+        0.231651376146789
       ]
     },
     {
@@ -9031,8 +9031,8 @@ const features =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        3,
-        119
+        0.2707240293809024,
+        0.21330275229357798
       ]
     },
     {
@@ -9041,8 +9041,8 @@ const features =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        3,
-        119
+        0.18048268625393493,
+        0.37155963302752293
       ]
     },
     {
@@ -9051,8 +9051,8 @@ const features =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        5,
-        390
+        0.1584470094438615,
+        0.21788990825688073
       ]
     },
     {
@@ -9061,8 +9061,8 @@ const features =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        5,
-        325
+        0.11752360965372508,
+        0.10091743119266056
       ]
     },
     {
@@ -9071,8 +9071,8 @@ const features =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        6,
-        534
+        0.10283315844700944,
+        0.3532110091743119
       ]
     },
     {
@@ -9081,8 +9081,8 @@ const features =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        4,
-        401
+        0.19412381951731375,
+        0.4541284403669725
       ]
     },
     {
@@ -9091,8 +9091,8 @@ const features =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        4,
-        374
+        0.24134312696747115,
+        0.3623853211009174
       ]
     },
     {
@@ -9101,8 +9101,8 @@ const features =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        15,
-        968
+        0.09548793284365163,
+        0.5779816513761468
       ]
     },
     {
@@ -9111,8 +9111,8 @@ const features =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        14,
-        1003
+        0.046169989506820566,
+        0.49311926605504586
       ]
     },
     {
@@ -9121,8 +9121,8 @@ const features =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        8,
-        495
+        0.2906610703043022,
+        0.6467889908256881
       ]
     },
     {
@@ -9131,8 +9131,8 @@ const features =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        10,
-        1249
+        0.36096537250786986,
+        0.43119266055045874
       ]
     },
     {
@@ -9141,8 +9141,8 @@ const features =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        9,
-        802
+        0.2497376705141658,
+        0.17660550458715596
       ]
     },
     {
@@ -9151,8 +9151,8 @@ const features =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        6,
-        421
+        0.1416579223504722,
+        0.5137614678899083
       ]
     },
     {
@@ -9161,8 +9161,8 @@ const features =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        4,
-        342
+        0.39244491080797483,
+        0.6307339449541285
       ]
     },
     {
@@ -9171,8 +9171,8 @@ const features =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        7,
-        740
+        0.3179433368310598,
+        0.463302752293578
       ]
     },
     {
@@ -9181,8 +9181,8 @@ const features =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        6,
-        695
+        0.3578174186778594,
+        0.26605504587155965
       ]
     },
     {
@@ -9191,8 +9191,8 @@ const features =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        4,
-        632
+        0.23399790136411333,
+        0.31880733944954126
       ]
     },
     {
@@ -9201,8 +9201,8 @@ const features =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        2,
-        314
+        0.19412381951731375,
+        0.4541284403669725
       ]
     },
     {
@@ -9211,8 +9211,8 @@ const features =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        10,
-        814
+        0.19097586568730326,
+        0.11926605504587157
       ]
     },
     {
@@ -9221,8 +9221,8 @@ const features =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        16,
-        567
+        0.13746065057712487,
+        0.10321100917431193
       ]
     },
     {
@@ -9231,8 +9231,8 @@ const features =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        15,
-        727
+        0.1720881427072403,
+        0.3532110091743119
       ]
     },
     {
@@ -9241,8 +9241,8 @@ const features =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        5,
-        593
+        0.24134312696747115,
+        0.5022935779816514
       ]
     },
     {
@@ -9251,8 +9251,8 @@ const features =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        11,
-        610
+        0.17628541448058763,
+        0.1926605504587156
       ]
     },
     {
@@ -9261,8 +9261,8 @@ const features =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        19,
-        1146
+        0.07450157397691501,
+        0.5389908256880734
       ]
     },
     {
@@ -9271,8 +9271,8 @@ const features =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        6,
-        238
+        0.08289611752360965,
+        0.13990825688073394
       ]
     },
     {
@@ -9281,8 +9281,8 @@ const features =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        4,
-        322
+        0.13326337880377753,
+        0.2981651376146789
       ]
     },
     {
@@ -9291,8 +9291,8 @@ const features =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        6,
-        659
+        0.2969569779643232,
+        0.23623853211009174
       ]
     },
     {
@@ -9301,8 +9301,8 @@ const features =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        12,
-        960
+        0.2644281217208814,
+        0.2545871559633027
       ]
     },
     {
@@ -9311,8 +9311,8 @@ const features =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        15,
-        998
+        0.18363064008394545,
+        0.47706422018348627
       ]
     },
     {
@@ -9321,8 +9321,8 @@ const features =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        6,
-        618
+        0.1626442812172088,
+        0.4243119266055046
       ]
     },
     {
@@ -9331,8 +9331,8 @@ const features =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        7,
-        434
+        0.17628541448058763,
+        0.17889908256880735
       ]
     },
     {
@@ -9341,8 +9341,8 @@ const features =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        5,
-        502
+        0.1521511017838405,
+        0.1353211009174312
       ]
     },
     {
@@ -9351,8 +9351,8 @@ const features =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        2,
-        330
+        0.0031479538300104933,
+        0.3211009174311927
       ]
     },
     {
@@ -9361,8 +9361,8 @@ const features =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        5,
-        418
+        0.18572927597061908,
+        0.3577981651376147
       ]
     },
     {
@@ -9371,8 +9371,8 @@ const features =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        8,
-        690
+        0.35571878279118574,
+        0.4380733944954128
       ]
     },
     {
@@ -9381,8 +9381,8 @@ const features =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        10,
-        492
+        0.2738719832109129,
+        0.46559633027522934
       ]
     },
     {
@@ -9391,8 +9391,8 @@ const features =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        19,
-        487
+        0.22350472193074503,
+        0.34174311926605505
       ]
     },
     {
@@ -9401,8 +9401,8 @@ const features =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        5,
-        444
+        0.2906610703043022,
+        0.7270642201834863
       ]
     },
     {
@@ -9411,8 +9411,8 @@ const features =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        23,
-        848
+        0.31899265477439664,
+        0.41284403669724773
       ]
     },
     {
@@ -9421,8 +9421,8 @@ const features =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        17,
-        594
+        0.2203567681007345,
+        0.5940366972477065
       ]
     },
     {
@@ -9431,8 +9431,8 @@ const features =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        12,
-        448
+        0.23504721930745015,
+        0.6032110091743119
       ]
     },
     {
@@ -9441,8 +9441,8 @@ const features =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        13,
-        443
+        0.26128016789087094,
+        0.6307339449541285
       ]
     },
     {
@@ -9451,8 +9451,8 @@ const features =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        13,
-        762
+        0.37355718782791186,
+        0.47477064220183485
       ]
     },
     {
@@ -9461,8 +9461,8 @@ const features =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        9,
-        428
+        0.28751311647429173,
+        0.3738532110091743
       ]
     },
     {
@@ -9471,8 +9471,8 @@ const features =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        13,
-        848
+        0.27492130115424973,
+        0.7224770642201835
       ]
     },
     {
@@ -9481,8 +9481,8 @@ const features =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        3,
-        204
+        0.28961175236096537,
+        0.7110091743119266
       ]
     },
     {
@@ -9491,8 +9491,8 @@ const features =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        6,
-        312
+        0.27492130115424973,
+        0.5252293577981652
       ]
     },
     {
@@ -9501,8 +9501,8 @@ const features =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        8,
-        419
+        0.31584470094438616,
+        0.6238532110091743
       ]
     },
     {
@@ -9511,8 +9511,8 @@ const features =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        10,
-        373
+        0.22245540398740818,
+        0.6513761467889908
       ]
     },
     {
@@ -9521,8 +9521,8 @@ const features =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        8,
-        228
+        0.23504721930745015,
+        0.5229357798165137
       ]
     },
     {
@@ -9531,8 +9531,8 @@ const features =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        17,
-        765
+        0.33473242392444913,
+        0.46788990825688076
       ]
     },
     {
@@ -9541,8 +9541,8 @@ const features =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        52,
-        378
+        0.28751311647429173,
+        0.44724770642201833
       ]
     },
     {
@@ -9551,8 +9551,8 @@ const features =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        14,
-        538
+        0.3001049317943337,
+        0.591743119266055
       ]
     },
     {
@@ -9561,8 +9561,8 @@ const features =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        11,
-        345
+        0.22875131164742918,
+        0.8715596330275229
       ]
     },
     {
@@ -9571,8 +9571,8 @@ const features =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        13,
-        301
+        0.31374606505771246,
+        0.5779816513761468
       ]
     },
     {
@@ -9581,8 +9581,8 @@ const features =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        17,
-        564
+        0.34207764952780695,
+        0.6009174311926605
       ]
     },
     {
@@ -9591,8 +9591,8 @@ const features =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        14,
-        306
+        0.2780692549842602,
+        0.6536697247706422
       ]
     },
     {
@@ -9601,8 +9601,8 @@ const features =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        12,
-        236
+        0.3011542497376705,
+        0.6353211009174312
       ]
     },
     {
@@ -9611,8 +9611,8 @@ const features =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        3,
-        884
+        0.3011542497376705,
+        0.286697247706422
       ]
     },
     {
@@ -9621,8 +9621,8 @@ const features =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        4,
-        407
+        0.2602308499475341,
+        0.23853211009174313
       ]
     },
     {
@@ -9631,8 +9631,8 @@ const features =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        8,
-        931
+        0.16474291710388247,
+        0.4541284403669725
       ]
     },
     {
@@ -9641,8 +9641,8 @@ const features =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        10,
-        634
+        0.39034627492130114,
+        0.6788990825688074
       ]
     },
     {
@@ -9651,8 +9651,8 @@ const features =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        8,
-        732
+        0.24344176285414482,
+        0.27522935779816515
       ]
     },
     {
@@ -9661,8 +9661,8 @@ const features =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        10,
-        1248
+        0.23189926547743966,
+        0.5619266055045872
       ]
     },
     {
@@ -9671,8 +9671,8 @@ const features =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        5,
-        797
+        0.23294858342077648,
+        0.5779816513761468
       ]
     },
     {
@@ -9681,8 +9681,8 @@ const features =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        3,
-        261
+        0.22350472193074503,
+        0.5229357798165137
       ]
     },
     {
@@ -9691,8 +9691,8 @@ const features =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        4,
-        487
+        0.3179433368310598,
+        0.3302752293577982
       ]
     },
     {
@@ -9701,8 +9701,8 @@ const features =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        3,
-        234
+        0.2654774396642183,
+        0.27522935779816515
       ]
     },
     {
@@ -9711,8 +9711,8 @@ const features =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        6,
-        306
+        0.28436516264428124,
+        0.4288990825688073
       ]
     },
     {
@@ -9721,8 +9721,8 @@ const features =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        2,
-        611
+        0.29275970619097585,
+        0.7408256880733946
       ]
     },
     {
@@ -9731,8 +9731,8 @@ const features =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        11,
-        479
+        0.25603357817418676,
+        0.3876146788990826
       ]
     },
     {
@@ -9741,8 +9741,8 @@ const features =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        4,
-        314
+        0.23294858342077648,
+        0.7545871559633027
       ]
     },
     {
@@ -9751,8 +9751,8 @@ const features =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        11,
-        259
+        0.2025183630640084,
+        0.5963302752293578
       ]
     },
     {
@@ -9761,8 +9761,8 @@ const features =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        6,
-        222
+        0.16684155299055614,
+        0.3486238532110092
       ]
     },
     {
@@ -9771,8 +9771,8 @@ const features =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        4,
-        649
+        0.11017838405036726,
+        0.2408256880733945
       ]
     },
     {
@@ -9781,8 +9781,8 @@ const features =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        3,
-        321
+        0.07974816369359916,
+        0.06422018348623854
       ]
     },
     {
@@ -9791,8 +9791,8 @@ const features =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        12,
-        796
+        0.11647429171038824,
+        0.33256880733944955
       ]
     },
     {
@@ -9801,8 +9801,8 @@ const features =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        27,
-        2620
+        0.34522560335781743,
+        0.5711009174311926
       ]
     },
     {
@@ -9811,8 +9811,8 @@ const features =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        20,
-        908
+        0.13326337880377753,
+        0.25229357798165136
       ]
     },
     {
@@ -9821,8 +9821,8 @@ const features =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        19,
-        1282
+        0.08394543546694648,
+        0.6399082568807339
       ]
     },
     {
@@ -9831,8 +9831,8 @@ const features =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        7,
-        402
+        0.01993704092339979,
+        0.33256880733944955
       ]
     },
     {
@@ -9841,8 +9841,8 @@ const features =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        17,
-        775
+        0.15424973767051417,
+        0.3876146788990826
       ]
     },
     {
@@ -9851,8 +9851,8 @@ const features =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        1,
-        579
+        0.1993704092339979,
+        0.32798165137614677
       ]
     },
     {
@@ -9861,8 +9861,8 @@ const features =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        2,
-        338
+        0.17523609653725078,
+        0.18577981651376146
       ]
     },
     {
@@ -9871,8 +9871,8 @@ const features =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        4,
-        532
+        0.155299055613851,
+        0.5045871559633027
       ]
     },
     {
@@ -9881,8 +9881,8 @@ const features =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        1,
-        479
+        0.2602308499475341,
+        0.7454128440366973
       ]
     },
     {
@@ -9891,8 +9891,8 @@ const features =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        6,
-        429
+        0.22350472193074503,
+        0.3761467889908257
       ]
     },
     {
@@ -9901,8 +9901,8 @@ const features =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        5,
-        772
+        0.12172088142707241,
+        0.713302752293578
       ]
     },
     {
@@ -9911,8 +9911,8 @@ const features =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        1,
-        204
+        0.0912906610703043,
+        0.42201834862385323
       ]
     },
     {
@@ -9921,8 +9921,8 @@ const features =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        9,
-        624
+        0.23819517313746066,
+        0.5504587155963303
       ]
     },
     {
@@ -9931,8 +9931,8 @@ const features =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        5,
-        762
+        0.22245540398740818,
+        0.22706422018348624
       ]
     },
     {
@@ -9941,8 +9941,8 @@ const features =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        3,
-        675
+        0.1720881427072403,
+        0.22935779816513763
       ]
     },
     {
@@ -9951,8 +9951,8 @@ const features =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        7,
-        528
+        0.17733473242392445,
+        0.32798165137614677
       ]
     },
     {
@@ -9961,8 +9961,8 @@ const features =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        3,
-        443
+        0.19727177334732424,
+        0.5321100917431193
       ]
     },
     {
@@ -9971,8 +9971,8 @@ const features =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        15,
-        876
+        0.161594963273872,
+        0.25688073394495414
       ]
     },
     {
@@ -9981,8 +9981,8 @@ const features =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        17,
-        1597
+        0.23924449108079748,
+        0.658256880733945
       ]
     },
     {
@@ -9991,8 +9991,8 @@ const features =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        5,
-        478
+        0.19202518363064008,
+        0.40825688073394495
       ]
     },
     {
@@ -10001,8 +10001,8 @@ const features =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        2,
-        312
+        0.1584470094438615,
+        0.3302752293577982
       ]
     },
     {
@@ -10011,8 +10011,8 @@ const features =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        7,
-        1321
+        0.2402938090241343,
+        0.26605504587155965
       ]
     },
     {
@@ -10021,8 +10021,8 @@ const features =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        4,
-        554
+        0.15110178384050368,
+        0.1559633027522936
       ]
     },
     {
@@ -10031,8 +10031,8 @@ const features =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        11,
-        808
+        0.16789087093389296,
+        0.5527522935779816
       ]
     },
     {
@@ -10041,8 +10041,8 @@ const features =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        13,
-        996
+        0.2098635886673662,
+        0.47706422018348627
       ]
     },
     {
@@ -10051,8 +10051,8 @@ const features =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        6,
-        593
+        0.15739769150052466,
+        0.18807339449541285
       ]
     },
     {
@@ -10061,8 +10061,8 @@ const features =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        4,
-        739
+        0.0776495278069255,
+        0.5068807339449541
       ]
     },
     {
@@ -10071,8 +10071,8 @@ const features =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        2,
-        245
+        0.0031479538300104933,
+        0.20412844036697247
       ]
     },
     {
@@ -10081,8 +10081,8 @@ const features =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        3,
-        235
+        0.1353620146904512,
+        0.3394495412844037
       ]
     },
     {
@@ -10091,8 +10091,8 @@ const features =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        15,
-        622
+        0.31899265477439664,
+        0.3623853211009174
       ]
     },
     {
@@ -10101,8 +10101,8 @@ const features =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        7,
-        471
+        0.3315844700944386,
+        0.23623853211009174
       ]
     },
     {
@@ -10111,8 +10111,8 @@ const features =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        31,
-        1006
+        0.3305351521511018,
+        0.49311926605504586
       ]
     },
     {
@@ -10121,8 +10121,8 @@ const features =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        3,
-        378
+        0.28226652675760755,
+        0.7408256880733946
       ]
     },
     {
@@ -10131,8 +10131,8 @@ const features =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        45,
-        1771
+        0.3955928646379853,
+        0.5802752293577982
       ]
     },
     {
@@ -10141,8 +10141,8 @@ const features =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        11,
-        1181
+        0.3777544596012592,
+        0.7981651376146789
       ]
     },
     {
@@ -10151,8 +10151,8 @@ const features =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        5,
-        327
+        0.1584470094438615,
+        0.44954128440366975
       ]
     },
     {
@@ -10161,8 +10161,8 @@ const features =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        23,
-        810
+        0.18153200419727178,
+        0.41284403669724773
       ]
     },
     {
@@ -10171,8 +10171,8 @@ const features =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        25,
-        1936
+        0.35047219307450156,
+        0.39908256880733944
       ]
     },
     {
@@ -10181,8 +10181,8 @@ const features =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        6,
-        442
+        0.28436516264428124,
+        0.44724770642201833
       ]
     },
     {
@@ -10191,8 +10191,8 @@ const features =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        16,
-        682
+        0.35991605456453307,
+        0.7729357798165137
       ]
     },
     {
@@ -10201,8 +10201,8 @@ const features =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        10,
-        272
+        0.304302203567681,
+        0.8440366972477065
       ]
     },
     {
@@ -10211,8 +10211,8 @@ const features =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        42,
-        1787
+        0.3147953830010493,
+        0.44724770642201833
       ]
     },
     {
@@ -10221,8 +10221,8 @@ const features =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        26,
-        1569
+        0.2864637985309549,
+        0.6720183486238532
       ]
     },
     {
@@ -10231,8 +10231,8 @@ const features =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        21,
-        1031
+        0.22455403987408185,
+        0.7385321100917431
       ]
     },
     {
@@ -10241,8 +10241,8 @@ const features =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        37,
-        936
+        0.24449108079748164,
+        0.5435779816513762
       ]
     },
     {
@@ -10251,8 +10251,8 @@ const features =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        18,
-        734
+        0.28961175236096537,
+        0.2408256880733945
       ]
     },
     {
@@ -10261,8 +10261,8 @@ const features =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        4,
-        534
+        0.3389296956977964,
+        0.3463302752293578
       ]
     },
     {
@@ -10271,8 +10271,8 @@ const features =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        20,
-        915
+        0.1794333683105981,
+        0.6284403669724771
       ]
     },
     {
@@ -10281,8 +10281,8 @@ const features =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        4,
-        305
+        0.2696747114375656,
+        0.7568807339449541
       ]
     },
     {
@@ -10291,8 +10291,8 @@ const features =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        31,
-        776
+        0.31584470094438616,
+        0.3761467889908257
       ]
     },
     {
@@ -10301,8 +10301,8 @@ const features =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        7,
-        536
+        0.3588667366211962,
+        0.2591743119266055
       ]
     },
     {
@@ -10311,8 +10311,8 @@ const features =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        5,
-        154
+        0.1825813221406086,
+        0.49770642201834864
       ]
     },
     {
@@ -10321,8 +10321,8 @@ const features =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        6,
-        460
+        0.3179433368310598,
+        0.6376146788990825
       ]
     },
     {
@@ -10331,8 +10331,8 @@ const features =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        1,
-        596
+        0.316894018887723,
+        0.24541284403669725
       ]
     },
     {
@@ -10341,8 +10341,8 @@ const features =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        1,
-        386
+        0.11647429171038824,
+        0.3830275229357798
       ]
     },
     {
@@ -10351,8 +10351,8 @@ const features =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        3,
-        300
+        0.10912906610703044,
+        0.39908256880733944
       ]
     },
     {
@@ -10361,8 +10361,8 @@ const features =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        2,
-        417
+        0.155299055613851,
+        0.5389908256880734
       ]
     },
     {
@@ -10371,8 +10371,8 @@ const features =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        11,
-        903
+        0.16369359916054566,
+        0.20412844036697247
       ]
     },
     {
@@ -10381,8 +10381,8 @@ const features =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        2,
-        580
+        0.26862539349422876,
+        0.19954128440366972
       ]
     },
     {
@@ -10391,8 +10391,8 @@ const features =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        1,
-        282
+        0.015739769150052464,
+        0.33256880733944955
       ]
     },
     {
@@ -10401,8 +10401,8 @@ const features =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        13,
-        168
+        0.11437565582371459,
+        0.23394495412844038
       ]
     },
     {
@@ -10411,8 +10411,8 @@ const features =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        9,
-        801
+        0.3620146904512067,
+        0.22477064220183487
       ]
     },
     {
@@ -10421,8 +10421,8 @@ const features =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        7,
-        465
+        0.30220356768100737,
+        0.31422018348623854
       ]
     },
     {
@@ -10431,8 +10431,8 @@ const features =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        12,
-        506
+        0.23294858342077648,
+        0.49770642201834864
       ]
     },
     {
@@ -10441,8 +10441,8 @@ const features =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        15,
-        442
+        0.34207764952780695,
+        0.823394495412844
       ]
     },
     {
@@ -10451,8 +10451,8 @@ const features =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        16,
-        573
+        0.2728226652675761,
+        0.3073394495412844
       ]
     },
     {
@@ -10461,8 +10461,8 @@ const features =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        20,
-        1028
+        0.32948583420776495,
+        0.7752293577981652
       ]
     },
     {
@@ -10471,8 +10471,8 @@ const features =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        4,
-        336
+        0.22245540398740818,
+        0.48394495412844035
       ]
     },
     {
@@ -10481,8 +10481,8 @@ const features =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        16,
-        340
+        0.17103882476390347,
+        0.36926605504587157
       ]
     },
     {
@@ -10491,8 +10491,8 @@ const features =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        5,
-        423
+        0.34312696747114374,
+        0.2706422018348624
       ]
     },
     {
@@ -10501,8 +10501,8 @@ const features =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        11,
-        279
+        0.2602308499475341,
+        0.2408256880733945
       ]
     },
     {
@@ -10511,8 +10511,8 @@ const features =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        28,
-        437
+        0.2833158447009444,
+        0.6307339449541285
       ]
     },
     {
@@ -10521,8 +10521,8 @@ const features =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        7,
-        630
+        0.3242392444910808,
+        0.6880733944954128
       ]
     },
     {
@@ -10531,8 +10531,8 @@ const features =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        26,
-        829
+        0.3242392444910808,
+        0.37844036697247707
       ]
     },
     {
@@ -10541,8 +10541,8 @@ const features =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        16,
-        460
+        0.34207764952780695,
+        0.46559633027522934
       ]
     },
     {
@@ -10551,8 +10551,8 @@ const features =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        10,
-        198
+        0.3001049317943337,
+        0.28440366972477066
       ]
     },
     {
@@ -10561,8 +10561,8 @@ const features =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        8,
-        258
+        0.1930745015739769,
+        0.3922018348623853
       ]
     },
     {
@@ -10571,8 +10571,8 @@ const features =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        6,
-        442
+        0.2497376705141658,
+        0.21559633027522937
       ]
     },
     {
@@ -10581,8 +10581,8 @@ const features =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        5,
-        253
+        0.28226652675760755,
+        0.1559633027522936
       ]
     },
     {
@@ -10591,8 +10591,8 @@ const features =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        17,
-        394
+        0.2707240293809024,
+        0.518348623853211
       ]
     },
     {
@@ -10601,8 +10601,8 @@ const features =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        4,
-        566
+        0.08394543546694648,
+        0.3119266055045872
       ]
     },
     {
@@ -10611,8 +10611,8 @@ const features =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        22,
-        444
+        0.20671563483735572,
+        0.1811926605504587
       ]
     },
     {
@@ -10621,8 +10621,8 @@ const features =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        6,
-        612
+        0.3011542497376705,
+        0.5711009174311926
       ]
     },
     {
@@ -10631,8 +10631,8 @@ const features =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        9,
-        312
+        0.15949632738719832,
+        0.4334862385321101
       ]
     },
     {
@@ -10641,8 +10641,8 @@ const features =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        16,
-        466
+        0.24868835257082897,
+        0.49770642201834864
       ]
     },
     {
@@ -10651,8 +10651,8 @@ const features =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        10,
-        444
+        0.2528856243441763,
+        0.38073394495412843
       ]
     },
     {
@@ -10661,8 +10661,8 @@ const features =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        6,
-        452
+        0.2602308499475341,
+        0.25229357798165136
       ]
     },
     {
@@ -10671,8 +10671,8 @@ const features =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        15,
-        492
+        0.2203567681007345,
+        0.44495412844036697
       ]
     },
     {
@@ -10681,8 +10681,8 @@ const features =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        3,
-        366
+        0.2675760755508919,
+        0.6490825688073395
       ]
     },
     {
@@ -10691,8 +10691,8 @@ const features =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        12,
-        269
+        0.24868835257082897,
+        0.3876146788990826
       ]
     },
     {
@@ -10701,8 +10701,8 @@ const features =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        12,
-        684
+        0.28226652675760755,
+        0.48853211009174313
       ]
     },
     {
@@ -10711,8 +10711,8 @@ const features =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        9,
-        355
+        0.2707240293809024,
+        0.7454128440366973
       ]
     },
     {
@@ -10721,8 +10721,8 @@ const features =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        21,
-        655
+        0.22560335781741866,
+        0.5527522935779816
       ]
     },
     {
@@ -10731,8 +10731,8 @@ const features =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        11,
-        723
+        0.34312696747114374,
+        0.3830275229357798
       ]
     },
     {
@@ -10741,8 +10741,8 @@ const features =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        9,
-        345
+        0.20041972717733472,
+        0.2958715596330275
       ]
     },
     {
@@ -10751,8 +10751,8 @@ const features =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        10,
-        187
+        0.15739769150052466,
+        0.4013761467889908
       ]
     },
     {
@@ -10761,8 +10761,8 @@ const features =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        4,
-        272
+        0.055613850996852045,
+        0.7637614678899083
       ]
     },
     {
@@ -10771,8 +10771,8 @@ const features =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        14,
-        512
+        0.16684155299055614,
+        0.21788990825688073
       ]
     },
     {
@@ -10781,8 +10781,8 @@ const features =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        13,
-        809
+        0.17628541448058763,
+        0.805045871559633
       ]
     },
     {
@@ -10791,8 +10791,8 @@ const features =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        11,
-        340
+        0.05141657922350472,
+        0.7064220183486238
       ]
     },
     {
@@ -10801,8 +10801,8 @@ const features =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        17,
-        757
+        0.21720881427072403,
+        0.48623853211009177
       ]
     },
     {
@@ -10811,8 +10811,8 @@ const features =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        6,
-        385
+        0.3273871983210913,
+        0.34174311926605505
       ]
     },
     {
@@ -10821,8 +10821,8 @@ const features =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        5,
-        327
+        0.2969569779643232,
+        0.47706422018348627
       ]
     },
     {
@@ -10831,8 +10831,8 @@ const features =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        11,
-        307
+        0.24449108079748164,
+        0.5321100917431193
       ]
     },
     {
@@ -10841,8 +10841,8 @@ const features =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        1,
-        308
+        0.20356768100734524,
+        0.5389908256880734
       ]
     },
     {
@@ -10851,8 +10851,8 @@ const features =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        6,
-        158
+        0.2801678908709339,
+        0.30963302752293576
       ]
     },
     {
@@ -10861,8 +10861,8 @@ const features =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        4,
-        264
+        0.2759706190975866,
+        0.3944954128440367
       ]
     },
     {
@@ -10871,8 +10871,8 @@ const features =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        6,
-        213
+        0.2833158447009444,
+        0.38073394495412843
       ]
     },
     {
@@ -10881,8 +10881,8 @@ const features =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        7,
-        220
+        0.19097586568730326,
+        0.3440366972477064
       ]
     },
     {
@@ -10891,8 +10891,8 @@ const features =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        11,
-        906
+        0.39664218258132217,
+        0.4610091743119266
       ]
     },
     {
@@ -10901,8 +10901,8 @@ const features =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        13,
-        295
+        0.2203567681007345,
+        0.15825688073394495
       ]
     },
     {
@@ -10911,8 +10911,8 @@ const features =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        26,
-        811
+        0.32633788037775446,
+        0.8325688073394495
       ]
     },
     {
@@ -10921,8 +10921,8 @@ const features =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        12,
-        1100
+        0.31899265477439664,
+        0.8509174311926605
       ]
     },
     {
@@ -10931,8 +10931,8 @@ const features =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        26,
-        1175
+        0.2833158447009444,
+        0.5596330275229358
       ]
     },
     {
@@ -10941,8 +10941,8 @@ const features =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        14,
-        580
+        0.3305351521511018,
+        0.21100917431192662
       ]
     },
     {
@@ -10951,8 +10951,8 @@ const features =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        5,
-        297
+        0.1584470094438615,
+        0.045871559633027525
       ]
     },
     {
@@ -10961,8 +10961,8 @@ const features =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        24,
-        674
+        0.22560335781741866,
+        0.4334862385321101
       ]
     },
     {
@@ -10971,8 +10971,8 @@ const features =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        10,
-        2209
+        0.16474291710388247,
+        0.16055045871559634
       ]
     },
     {
@@ -10981,8 +10981,8 @@ const features =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        5,
-        1450
+        0.23294858342077648,
+        0.22477064220183487
       ]
     },
     {
@@ -10991,8 +10991,8 @@ const features =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        9,
-        1241
+        0.15949632738719832,
+        0.36926605504587157
       ]
     },
     {
@@ -11001,8 +11001,8 @@ const features =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        4,
-        1306
+        0.2707240293809024,
+        0.6261467889908257
       ]
     },
     {
@@ -11011,8 +11011,8 @@ const features =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        11,
-        1821
+        0.19412381951731375,
+        0.26376146788990823
       ]
     },
     {
@@ -11021,8 +11021,8 @@ const features =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        5,
-        1439
+        0.23189926547743966,
+        0.5504587155963303
       ]
     },
     {
@@ -11031,8 +11031,8 @@ const features =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        6,
-        825
+        0.10178384050367262,
+        0.44495412844036697
       ]
     },
     {
@@ -11041,8 +11041,8 @@ const features =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        23,
-        2897
+        0.16369359916054566,
+        0.3738532110091743
       ]
     },
     {
@@ -11051,8 +11051,8 @@ const features =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        5,
-        664
+        0.37985309548793283,
+        0.5619266055045872
       ]
     },
     {
@@ -11061,8 +11061,8 @@ const features =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        6,
-        430
+        0.2528856243441763,
+        0.22247706422018348
       ]
     },
     {
@@ -11071,8 +11071,8 @@ const features =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        6,
-        449
+        0.23504721930745015,
+        0.6261467889908257
       ]
     },
     {
@@ -11081,8 +11081,8 @@ const features =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        3,
-        372
+        0.23924449108079748,
+        0.8371559633027523
       ]
     },
     {
@@ -11091,8 +11091,8 @@ const features =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        16,
-        719
+        0.30535152151101785,
+        0.5206422018348624
       ]
     },
     {
@@ -11101,8 +11101,8 @@ const features =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        16,
-        1250
+        0.14375655823714587,
+        0.694954128440367
       ]
     },
     {
@@ -11111,8 +11111,8 @@ const features =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        6,
-        404
+        0.2654774396642183,
+        0.5940366972477065
       ]
     },
     {
@@ -11121,8 +11121,8 @@ const features =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        15,
-        371
+        0.2602308499475341,
+        0.5642201834862385
       ]
     },
     {
@@ -11131,8 +11131,8 @@ const features =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        7,
-        1336
+        0.31899265477439664,
+        0.2591743119266055
       ]
     },
     {
@@ -11141,8 +11141,8 @@ const features =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        6,
-        916
+        0.1888772298006296,
+        0.3119266055045872
       ]
     },
     {
@@ -11151,8 +11151,8 @@ const features =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        21,
-        1156
+        0.24134312696747115,
+        0.46559633027522934
       ]
     },
     {
@@ -11161,8 +11161,8 @@ const features =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        10,
-        999
+        0.2906610703043022,
+        0.6399082568807339
       ]
     },
     {
@@ -11171,8 +11171,8 @@ const features =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        12,
-        1234
+        0.3116474291710388,
+        0.3302752293577982
       ]
     },
     {
@@ -11181,8 +11181,8 @@ const features =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        16,
-        1146
+        0.13431269674711438,
+        0.6192660550458715
       ]
     },
     {
@@ -11191,8 +11191,8 @@ const features =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        11,
-        871
+        0.15424973767051417,
+        0.5229357798165137
       ]
     },
     {
@@ -11201,8 +11201,8 @@ const features =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        8,
-        622
+        0.229800629590766,
+        0.4380733944954128
       ]
     },
     {
@@ -11211,8 +11211,8 @@ const features =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        17,
-        291
+        0.27911857292759706,
+        0.21100917431192662
       ]
     },
     {
@@ -11221,8 +11221,8 @@ const features =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        19,
-        496
+        0.23714585519412382,
+        0.23394495412844038
       ]
     },
     {
@@ -11231,8 +11231,8 @@ const features =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        29,
-        258
+        0.29485834207764955,
+        0.2775229357798165
       ]
     },
     {
@@ -11241,8 +11241,8 @@ const features =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        18,
-        447
+        0.25078698845750264,
+        0.7293577981651376
       ]
     },
     {
@@ -11251,8 +11251,8 @@ const features =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        47,
-        547
+        0.30849947534102834,
+        0.4151376146788991
       ]
     },
     {
@@ -11261,8 +11261,8 @@ const features =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        13,
-        175
+        0.35362014690451204,
+        0.3256880733944954
       ]
     },
     {
@@ -11271,8 +11271,8 @@ const features =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        13,
-        85
+        0.2130115424973767,
+        0.43119266055045874
       ]
     },
     {
@@ -11281,8 +11281,8 @@ const features =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        53,
-        339
+        0.22350472193074503,
+        0.4724770642201835
       ]
     },
     {
@@ -11291,8 +11291,8 @@ const features =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        3,
-        272
+        0.22350472193074503,
+        0.286697247706422
       ]
     },
     {
@@ -11301,8 +11301,8 @@ const features =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        3,
-        83
+        0.19517313746065057,
+        0.3922018348623853
       ]
     },
     {
@@ -11311,8 +11311,8 @@ const features =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        13,
-        170
+        0.28541448058761804,
+        0.5045871559633027
       ]
     },
     {
@@ -11321,8 +11321,8 @@ const features =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        8,
-        161
+        0.17523609653725078,
+        0.6490825688073395
       ]
     },
     {
@@ -11331,8 +11331,8 @@ const features =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        9,
-        127
+        0.19202518363064008,
+        0.3555045871559633
       ]
     },
     {
@@ -11341,8 +11341,8 @@ const features =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        8,
-        256
+        0.23714585519412382,
+        0.23623853211009174
       ]
     },
     {
@@ -11351,8 +11351,8 @@ const features =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        6,
-        135
+        0.2518363064008394,
+        0.10550458715596331
       ]
     },
     {
@@ -11361,8 +11361,8 @@ const features =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        14,
-        106
+        0.22770199370409233,
+        0.3761467889908257
       ]
     },
     {
@@ -11371,8 +11371,8 @@ const features =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        5,
-        201
+        0.3336831059811123,
+        0.3348623853211009
       ]
     },
     {
@@ -11381,8 +11381,8 @@ const features =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        9,
-        148
+        0.3273871983210913,
+        0.22935779816513763
       ]
     },
     {
@@ -11391,8 +11391,8 @@ const features =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        10,
-        156
+        0.22350472193074503,
+        0.5321100917431193
       ]
     },
     {
@@ -11401,8 +11401,8 @@ const features =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        9,
-        213
+        0.1825813221406086,
+        0.6146788990825688
       ]
     },
     {
@@ -11411,8 +11411,8 @@ const features =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        11,
-        189
+        0.27911857292759706,
+        0.3922018348623853
       ]
     },
     {
@@ -11421,8 +11421,8 @@ const features =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        19,
-        534
+        0.3242392444910808,
+        0.5779816513761468
       ]
     },
     {
@@ -11431,8 +11431,8 @@ const features =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        11,
-        122
+        0.2738719832109129,
+        0.4105504587155963
       ]
     },
     {
@@ -11441,8 +11441,8 @@ const features =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        7,
-        54
+        0.23189926547743966,
+        0.5068807339449541
       ]
     },
     {
@@ -11451,8 +11451,8 @@ const features =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        6,
-        514
+        0.2266526757607555,
+        0.2018348623853211
       ]
     },
     {
@@ -11461,8 +11461,8 @@ const features =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        6,
-        368
+        0.18048268625393493,
+        0.20642201834862386
       ]
     },
     {
@@ -11471,8 +11471,8 @@ const features =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        5,
-        344
+        0.1825813221406086,
+        0.48853211009174313
       ]
     },
     {
@@ -11481,8 +11481,8 @@ const features =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        3,
-        158
+        0.236096537250787,
+        0.658256880733945
       ]
     },
     {
@@ -11491,8 +11491,8 @@ const features =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        16,
-        328
+        0.14900314795383002,
+        0.26146788990825687
       ]
     },
     {
@@ -11501,8 +11501,8 @@ const features =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        8,
-        534
+        0.3095487932843652,
+        0.518348623853211
       ]
     },
     {
@@ -11511,8 +11511,8 @@ const features =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        9,
-        360
+        0.17418677859391396,
+        0.481651376146789
       ]
     },
     {
@@ -11521,8 +11521,8 @@ const features =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        10,
-        297
+        0.2465897166841553,
+        0.5298165137614679
       ]
     },
     {
@@ -11531,8 +11531,8 @@ const features =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        8,
-        348
+        0.23504721930745015,
+        0.19495412844036697
       ]
     },
     {
@@ -11541,8 +11541,8 @@ const features =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        9,
-        530
+        0.2833158447009444,
+        0.30275229357798167
       ]
     },
     {
@@ -11551,8 +11551,8 @@ const features =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        13,
-        606
+        0.2969569779643232,
+        0.5940366972477065
       ]
     },
     {
@@ -11561,8 +11561,8 @@ const features =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        12,
-        665
+        0.3934942287513116,
+        0.7798165137614679
       ]
     },
     {
@@ -11571,8 +11571,8 @@ const features =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        19,
-        1082
+        0.34942287513116477,
+        0.36926605504587157
       ]
     },
     {
@@ -11581,8 +11581,8 @@ const features =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        15,
-        976
+        0.38929695697796435,
+        0.286697247706422
       ]
     },
     {
@@ -11591,8 +11591,8 @@ const features =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        8,
-        327
+        0.08709338929695698,
+        0.5573394495412844
       ]
     },
     {
@@ -11601,8 +11601,8 @@ const features =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        23,
-        832
+        0.29485834207764955,
+        0.4541284403669725
       ]
     },
     {
@@ -11611,8 +11611,8 @@ const features =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        12,
-        469
+        0.26652675760755506,
+        0.3646788990825688
       ]
     },
     {
@@ -11621,8 +11621,8 @@ const features =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        4,
-        281
+        0.18153200419727178,
+        0.11697247706422019
       ]
     },
     {
@@ -11631,8 +11631,8 @@ const features =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        20,
-        762
+        0.24868835257082897,
+        0.19495412844036697
       ]
     },
     {
@@ -11641,8 +11641,8 @@ const features =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        4,
-        291
+        0.16369359916054566,
+        0.48623853211009177
       ]
     },
     {
@@ -11651,8 +11651,8 @@ const features =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        23,
-        821
+        0.2539349422875131,
+        0.31422018348623854
       ]
     },
     {
@@ -11661,8 +11661,8 @@ const features =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        12,
-        501
+        0.304302203567681,
+        0.4059633027522936
       ]
     },
     {
@@ -11671,8 +11671,8 @@ const features =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        9,
-        352
+        0.10073452256033578,
+        0.3463302752293578
       ]
     },
     {
@@ -11681,8 +11681,8 @@ const features =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        3,
-        132
+        0.18572927597061908,
+        0.3555045871559633
       ]
     },
     {
@@ -11691,8 +11691,8 @@ const features =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        11,
-        805
+        0.3242392444910808,
+        0.36926605504587157
       ]
     },
     {
@@ -11701,8 +11701,8 @@ const features =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        7,
-        414
+        0.23399790136411333,
+        0.24311926605504589
       ]
     },
     {
@@ -11711,8 +11711,8 @@ const features =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        8,
-        778
+        0.2707240293809024,
+        0.6972477064220184
       ]
     },
     {
@@ -11721,8 +11721,8 @@ const features =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        12,
-        711
+        0.18467995802728226,
+        0.6146788990825688
       ]
     },
     {
@@ -11731,8 +11731,8 @@ const features =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        8,
-        719
+        0.2402938090241343,
+        0.3486238532110092
       ]
     },
     {
@@ -11741,8 +11741,8 @@ const features =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        6,
-        758
+        0.2738719832109129,
+        0.5596330275229358
       ]
     },
     {
@@ -11751,8 +11751,8 @@ const features =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        7,
-        416
+        0.22350472193074503,
+        0.19495412844036697
       ]
     },
     {
@@ -11761,8 +11761,8 @@ const features =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        27,
-        1179
+        0.3357817418677859,
+        0.6697247706422018
       ]
     },
     {
@@ -11771,8 +11771,8 @@ const features =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        6,
-        482
+        0.2707240293809024,
+        0.37844036697247707
       ]
     },
     {
@@ -11781,8 +11781,8 @@ const features =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        7,
-        211
+        0.20356768100734524,
+        0.23394495412844038
       ]
     },
     {
@@ -11791,8 +11791,8 @@ const features =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        21,
-        501
+        0.291710388247639,
+        0.805045871559633
       ]
     },
     {
@@ -11801,8 +11801,8 @@ const features =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        4,
-        171
+        0.21720881427072403,
+        0.6559633027522935
       ]
     },
     {
@@ -11811,8 +11811,8 @@ const features =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        22,
-        439
+        0.3001049317943337,
+        0.3646788990825688
       ]
     },
     {
@@ -11821,8 +11821,8 @@ const features =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        11,
-        541
+        0.29800629590766003,
+        0.6743119266055045
       ]
     },
     {
@@ -11831,8 +11831,8 @@ const features =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        7,
-        144
+        0.2497376705141658,
+        0.6077981651376146
       ]
     },
     {
@@ -11841,8 +11841,8 @@ const features =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        14,
-        128
+        0.2193074501573977,
+        0.4724770642201835
       ]
     },
     {
@@ -11851,8 +11851,8 @@ const features =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        7,
-        370
+        0.29590766002098634,
+        0.26146788990825687
       ]
     },
     {
@@ -11861,8 +11861,8 @@ const features =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        5,
-        505
+        0.2675760755508919,
+        0.26605504587155965
       ]
     },
     {
@@ -11871,8 +11871,8 @@ const features =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        20,
-        438
+        0.3200419727177335,
+        0.6674311926605505
       ]
     },
     {
@@ -11881,8 +11881,8 @@ const features =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        8,
-        249
+        0.2528856243441763,
+        0.6422018348623854
       ]
     },
     {
@@ -11891,8 +11891,8 @@ const features =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        8,
-        310
+        0.2759706190975866,
+        0.3119266055045872
       ]
     },
     {
@@ -11901,8 +11901,8 @@ const features =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        12,
-        790
+        0.2833158447009444,
+        0.5596330275229358
       ]
     },
     {
@@ -11911,8 +11911,8 @@ const features =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        10,
-        488
+        0.04302203567681007,
+        0.676605504587156
       ]
     },
     {
@@ -11921,8 +11921,8 @@ const features =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        7,
-        221
+        0.24449108079748164,
+        0.5940366972477065
       ]
     },
     {
@@ -11931,8 +11931,8 @@ const features =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        30,
-        2110
+        0.3147953830010493,
+        0.4724770642201835
       ]
     },
     {
@@ -11941,8 +11941,8 @@ const features =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        27,
-        1247
+        0.3095487932843652,
+        0.3302752293577982
       ]
     },
     {
@@ -11951,8 +11951,8 @@ const features =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        30,
-        1412
+        0.24763903462749212,
+        0.5642201834862385
       ]
     },
     {
@@ -11961,8 +11961,8 @@ const features =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        17,
-        1249
+        0.3378803777544596,
+        0.7477064220183486
       ]
     },
     {
@@ -11971,8 +11971,8 @@ const features =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        21,
-        2067
+        0.18572927597061908,
+        0.41284403669724773
       ]
     },
     {
@@ -11981,8 +11981,8 @@ const features =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        29,
-        1400
+        0.30325288562434416,
+        0.33256880733944955
       ]
     },
     {
@@ -11991,8 +11991,8 @@ const features =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        60,
-        2165
+        0.08604407135362015,
+        0.6674311926605505
       ]
     },
     {
@@ -12001,8 +12001,8 @@ const features =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        23,
-        4076
+        0.378803777544596,
+        0.8669724770642202
       ]
     },
     {
@@ -12011,8 +12011,8 @@ const features =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        11,
-        776
+        0.23924449108079748,
+        0.1834862385321101
       ]
     },
     {
@@ -12021,8 +12021,8 @@ const features =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        15,
-        828
+        0.2528856243441763,
+        0.31880733944954126
       ]
     },
     {
@@ -12031,8 +12031,8 @@ const features =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        19,
-        978
+        0.19202518363064008,
+        0.47477064220183485
       ]
     },
     {
@@ -12041,8 +12041,8 @@ const features =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        2,
-        964
+        0.316894018887723,
+        0.5344036697247706
       ]
     },
     {
@@ -12051,8 +12051,8 @@ const features =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        25,
-        874
+        0.22140608604407136,
+        0.36926605504587157
       ]
     },
     {
@@ -12061,8 +12061,8 @@ const features =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        14,
-        676
+        0.1353620146904512,
+        0.6834862385321101
       ]
     },
     {
@@ -12071,8 +12071,8 @@ const features =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        8,
-        572
+        0.3305351521511018,
+        0.6811926605504587
       ]
     },
     {
@@ -12081,8 +12081,8 @@ const features =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        20,
-        869
+        0.23084994753410285,
+        0.5825688073394495
       ]
     },
     {
@@ -12091,8 +12091,8 @@ const features =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        6,
-        450
+        0.25603357817418676,
+        0.26605504587155965
       ]
     },
     {
@@ -12101,8 +12101,8 @@ const features =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        2,
-        286
+        0.16369359916054566,
+        0.29128440366972475
       ]
     },
     {
@@ -12111,8 +12111,8 @@ const features =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        11,
-        612
+        0.13326337880377753,
+        0.45642201834862384
       ]
     },
     {
@@ -12121,8 +12121,8 @@ const features =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        3,
-        289
+        0.20671563483735572,
+        0.8073394495412844
       ]
     },
     {
@@ -12131,8 +12131,8 @@ const features =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        9,
-        479
+        0.28436516264428124,
+        0.3738532110091743
       ]
     },
     {
@@ -12141,8 +12141,8 @@ const features =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        15,
-        497
+        0.09968520461699895,
+        0.7568807339449541
       ]
     },
     {
@@ -12151,8 +12151,8 @@ const features =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        7,
-        144
+        0.04197271773347324,
+        0.6169724770642202
       ]
     },
     {
@@ -12161,8 +12161,8 @@ const features =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        9,
-        365
+        0.12172088142707241,
+        0.35091743119266056
       ]
     },
     {
@@ -12171,8 +12171,8 @@ const features =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        8,
-        995
+        0.28436516264428124,
+        0.518348623853211
       ]
     },
     {
@@ -12181,8 +12181,8 @@ const features =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        4,
-        439
+        0.1930745015739769,
+        0.21559633027522937
       ]
     },
     {
@@ -12191,8 +12191,8 @@ const features =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        1,
-        459
+        0.11962224554039874,
+        0.5504587155963303
       ]
     },
     {
@@ -12201,8 +12201,8 @@ const features =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        1,
-        580
+        0.2266526757607555,
+        0.5688073394495413
       ]
     },
     {
@@ -12211,8 +12211,8 @@ const features =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        11,
-        503
+        0.2885624344176285,
+        0.42201834862385323
       ]
     },
     {
@@ -12221,8 +12221,8 @@ const features =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        11,
-        1097
+        0.2738719832109129,
+        0.7522935779816514
       ]
     },
     {
@@ -12231,8 +12231,8 @@ const features =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        13,
-        730
+        0.07869884575026233,
+        0.6422018348623854
       ]
     },
     {
@@ -12241,8 +12241,8 @@ const features =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        17,
-        513
+        0.2633788037775446,
+        0.5206422018348624
       ]
     },
     {
@@ -12251,8 +12251,8 @@ const features =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        12,
-        2071
+        0.37670514165792235,
+        0.3256880733944954
       ]
     },
     {
@@ -12261,8 +12261,8 @@ const features =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        19,
-        1033
+        0.3441762854144806,
+        0.1926605504587156
       ]
     },
     {
@@ -12271,8 +12271,8 @@ const features =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        45,
-        2029
+        0.34942287513116477,
+        0.6605504587155964
       ]
     },
     {
@@ -12281,8 +12281,8 @@ const features =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        7,
-        1544
+        0.29800629590766003,
+        0.6926605504587156
       ]
     },
     {
@@ -12291,8 +12291,8 @@ const features =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        30,
-        1846
+        0.23399790136411333,
+        0.31880733944954126
       ]
     },
     {
@@ -12301,8 +12301,8 @@ const features =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        42,
-        2001
+        0.09863588667366212,
+        0.7041284403669725
       ]
     },
     {
@@ -12311,8 +12311,8 @@ const features =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        7,
-        248
+        0.2654774396642183,
+        0.5711009174311926
       ]
     },
     {
@@ -12321,8 +12321,8 @@ const features =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        22,
-        792
+        0.2675760755508919,
+        0.26376146788990823
       ]
     },
     {
@@ -12331,8 +12331,8 @@ const features =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        31,
-        1292
+        0.2801678908709339,
+        0.22018348623853212
       ]
     },
     {
@@ -12341,8 +12341,8 @@ const features =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        3,
-        705
+        0.23399790136411333,
+        0.15825688073394495
       ]
     },
     {
@@ -12351,8 +12351,8 @@ const features =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        35,
-        1588
+        0.304302203567681,
+        0.7844036697247706
       ]
     },
     {
@@ -12361,8 +12361,8 @@ const features =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        142,
-        4246
+        0.3830010493179433,
+        0.8830275229357798
       ]
     },
     {
@@ -12371,8 +12371,8 @@ const features =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        32,
-        1216
+        0.15110178384050368,
+        0.1743119266055046
       ]
     },
     {
@@ -12381,8 +12381,8 @@ const features =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        26,
-        2546
+        0.1385099685204617,
+        0.8004587155963303
       ]
     },
     {
@@ -12391,8 +12391,8 @@ const features =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        4,
-        508
+        0.026232948583420776,
+        0.6032110091743119
       ]
     },
     {
@@ -12401,8 +12401,8 @@ const features =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        35,
-        1303
+        0.2098635886673662,
+        0.6009174311926605
       ]
     },
     {
@@ -12411,8 +12411,8 @@ const features =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        11,
-        499
+        0.2801678908709339,
+        0.31880733944954126
       ]
     },
     {
@@ -12421,8 +12421,8 @@ const features =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        3,
-        215
+        0.14480587618048268,
+        0.11238532110091744
       ]
     },
     {
@@ -12431,8 +12431,8 @@ const features =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        5,
-        262
+        0.14480587618048268,
+        0.27293577981651373
       ]
     },
     {
@@ -12441,8 +12441,8 @@ const features =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        3,
-        387
+        0.18153200419727178,
+        0.463302752293578
       ]
     },
     {
@@ -12451,8 +12451,8 @@ const features =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        21,
-        395
+        0.1783840503672613,
+        0.20871559633027523
       ]
     },
     {
@@ -12461,8 +12461,8 @@ const features =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        9,
-        680
+        0.2570828961175236,
+        0.24770642201834864
       ]
     },
     {
@@ -12471,8 +12471,8 @@ const features =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        7,
-        138
+        0.011542497376705142,
+        0.2958715596330275
       ]
     },
     {
@@ -12481,8 +12481,8 @@ const features =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        15,
-        159
+        0.09548793284365163,
+        0.12155963302752294
       ]
     },
     {
@@ -12491,8 +12491,8 @@ const features =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        3,
-        441
+        0.16369359916054566,
+        0.14908256880733944
       ]
     },
     {
@@ -12501,8 +12501,8 @@ const features =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        2,
-        546
+        0.229800629590766,
+        0.44724770642201833
       ]
     },
     {
@@ -12511,8 +12511,8 @@ const features =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        3,
-        318
+        0.155299055613851,
+        0.4380733944954128
       ]
     },
     {
@@ -12521,8 +12521,8 @@ const features =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        5,
-        746
+        0.3777544596012592,
+        0.75
       ]
     },
     {
@@ -12531,8 +12531,8 @@ const features =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        6,
-        150
+        0.21825813221406087,
+        0.2798165137614679
       ]
     },
     {
@@ -12541,8 +12541,8 @@ const features =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        3,
-        506
+        0.35257082896117525,
+        0.5114678899082569
       ]
     },
     {
@@ -12551,8 +12551,8 @@ const features =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        4,
-        110
+        0.2402938090241343,
+        0.2889908256880734
       ]
     },
     {
@@ -12561,8 +12561,8 @@ const features =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        9,
-        306
+        0.15634837355718784,
+        0.2958715596330275
       ]
     },
     {
@@ -12571,8 +12571,8 @@ const features =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        8,
-        592
+        0.1689401888772298,
+        0.21559633027522937
       ]
     },
     {
@@ -12581,8 +12581,8 @@ const features =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        11,
-        488
+        0.15320041972717732,
+        0.13990825688073394
       ]
     },
     {
@@ -12591,8 +12591,8 @@ const features =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        13,
-        545
+        0.2518363064008394,
+        0.3532110091743119
       ]
     },
     {
@@ -12601,8 +12601,8 @@ const features =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        15,
-        597
+        0.3242392444910808,
+        0.5068807339449541
       ]
     },
     {
@@ -12611,8 +12611,8 @@ const features =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        13,
-        510
+        0.11857292759706191,
+        0.26376146788990823
       ]
     },
     {
@@ -12621,8 +12621,8 @@ const features =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        5,
-        718
+        0.24134312696747115,
+        0.6032110091743119
       ]
     },
     {
@@ -12631,8 +12631,8 @@ const features =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        7,
-        410
+        0.04512067156348373,
+        0.3463302752293578
       ]
     },
     {
@@ -12641,8 +12641,8 @@ const features =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        10,
-        508
+        0.14795383001049317,
+        0.4518348623853211
       ]
     },
     {
@@ -12651,8 +12651,8 @@ const features =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        7,
-        293
+        0.37670514165792235,
+        0.4724770642201835
       ]
     },
     {
@@ -12661,8 +12661,8 @@ const features =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        3,
-        347
+        0.29590766002098634,
+        0.4013761467889908
       ]
     },
     {
@@ -12671,8 +12671,8 @@ const features =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        10,
-        196
+        0.26862539349422876,
+        0.47477064220183485
       ]
     },
     {
@@ -12681,8 +12681,8 @@ const features =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        7,
-        328
+        0.2833158447009444,
+        0.75
       ]
     },
     {
@@ -12691,8 +12691,8 @@ const features =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        6,
-        186
+        0.3378803777544596,
+        0.43119266055045874
       ]
     },
     {
@@ -12701,8 +12701,8 @@ const features =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        5,
-        444
+        0.3074501573976915,
+        0.7477064220183486
       ]
     },
     {
@@ -12711,8 +12711,8 @@ const features =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        7,
-        210
+        0.291710388247639,
+        0.7247706422018348
       ]
     },
     {
@@ -12721,8 +12721,8 @@ const features =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        3,
-        90
+        0.2801678908709339,
+        0.48853211009174313
       ]
     },
     {
@@ -12731,8 +12731,8 @@ const features =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        18,
-        712
+        0.29800629590766003,
+        0.44036697247706424
       ]
     },
     {
@@ -12741,8 +12741,8 @@ const features =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        10,
-        547
+        0.19412381951731375,
+        0.4426605504587156
       ]
     },
     {
@@ -12751,8 +12751,8 @@ const features =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        12,
-        404
+        0.2025183630640084,
+        0.4426605504587156
       ]
     },
     {
@@ -12761,8 +12761,8 @@ const features =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        12,
-        693
+        0.3567681007345226,
+        0.5711009174311926
       ]
     },
     {
@@ -12771,8 +12771,8 @@ const features =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        10,
-        524
+        0.2770199370409234,
+        0.3876146788990826
       ]
     },
     {
@@ -12781,8 +12781,8 @@ const features =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        7,
-        631
+        0.24239244491080797,
+        0.6513761467889908
       ]
     },
     {
@@ -12791,8 +12791,8 @@ const features =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        6,
-        286
+        0.15005246589716684,
+        0.4197247706422018
       ]
     },
     {
@@ -12801,8 +12801,8 @@ const features =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        2,
-        226
+        0.18467995802728226,
+        0.38990825688073394
       ]
     },
     {
@@ -12811,8 +12811,8 @@ const features =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        7,
-        1177
+        0.1993704092339979,
+        0.25229357798165136
       ]
     },
     {
@@ -12821,8 +12821,8 @@ const features =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        4,
-        939
+        0.31899265477439664,
+        0.6284403669724771
       ]
     },
     {
@@ -12831,8 +12831,8 @@ const features =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        15,
-        1264
+        0.25498426023084997,
+        0.7110091743119266
       ]
     },
     {
@@ -12841,8 +12841,8 @@ const features =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        7,
-        1642
+        0.30325288562434416,
+        0.7385321100917431
       ]
     },
     {
@@ -12851,8 +12851,8 @@ const features =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        9,
-        1211
+        0.2402938090241343,
+        0.47477064220183485
       ]
     },
     {
@@ -12861,8 +12861,8 @@ const features =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        9,
-        1156
+        0.2738719832109129,
+        0.42660550458715596
       ]
     },
     {
@@ -12871,8 +12871,8 @@ const features =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        7,
-        672
+        0.1657922350472193,
+        0.48394495412844035
       ]
     },
     {
@@ -12881,8 +12881,8 @@ const features =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        5,
-        556
+        0.21825813221406087,
+        0.5137614678899083
       ]
     },
     {
@@ -12891,8 +12891,8 @@ const features =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        22,
-        562
+        0.2402938090241343,
+        0.4334862385321101
       ]
     },
     {
@@ -12901,8 +12901,8 @@ const features =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        2,
-        391
+        0.22770199370409233,
+        0.3119266055045872
       ]
     },
     {
@@ -12911,8 +12911,8 @@ const features =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        7,
-        558
+        0.20356768100734524,
+        0.518348623853211
       ]
     },
     {
@@ -12921,8 +12921,8 @@ const features =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        13,
-        740
+        0.2833158447009444,
+        0.7935779816513762
       ]
     },
     {
@@ -12931,8 +12931,8 @@ const features =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        18,
-        443
+        0.2465897166841553,
+        0.6123853211009175
       ]
     },
     {
@@ -12941,8 +12941,8 @@ const features =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        13,
-        516
+        0.304302203567681,
+        0.6123853211009175
       ]
     },
     {
@@ -12951,8 +12951,8 @@ const features =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        1,
-        49
+        0.00944386149003148,
+        0.4701834862385321
       ]
     },
     {
@@ -12961,8 +12961,8 @@ const features =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        3,
-        384
+        0.05981112277019937,
+        0.4013761467889908
       ]
     },
     {
@@ -12971,8 +12971,8 @@ const features =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        13,
-        725
+        0.30220356768100737,
+        0.1743119266055046
       ]
     },
     {
@@ -12981,8 +12981,8 @@ const features =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        9,
-        494
+        0.23084994753410285,
+        0.1353211009174312
       ]
     },
     {
@@ -12991,8 +12991,8 @@ const features =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        30,
-        1568
+        0.16789087093389296,
+        0.4541284403669725
       ]
     },
     {
@@ -13001,8 +13001,8 @@ const features =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        18,
-        905
+        0.24134312696747115,
+        0.6284403669724771
       ]
     },
     {
@@ -13011,8 +13011,8 @@ const features =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        28,
-        1759
+        0.34207764952780695,
+        0.481651376146789
       ]
     },
     {
@@ -13021,8 +13021,8 @@ const features =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        24,
-        1473
+        0.18677859391395593,
+        0.7385321100917431
       ]
     },
     {
@@ -13031,8 +13031,8 @@ const features =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        16,
-        778
+        0.2203567681007345,
+        0.4426605504587156
       ]
     },
     {
@@ -13041,8 +13041,8 @@ const features =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        26,
-        1361
+        0.28226652675760755,
+        0.5642201834862385
       ]
     },
     {
@@ -13051,8 +13051,8 @@ const features =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        45,
-        2487
+        0.3756558237145855,
+        0.4334862385321101
       ]
     },
     {
@@ -13061,8 +13061,8 @@ const features =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        14,
-        937
+        0.2969569779643232,
+        0.27293577981651373
       ]
     },
     {
@@ -13071,8 +13071,8 @@ const features =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        27,
-        1270
+        0.40083945435466944,
+        0.694954128440367
       ]
     },
     {
@@ -13081,8 +13081,8 @@ const features =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        43,
-        835
+        0.40293809024134314,
+        0.8211009174311926
       ]
     },
     {
@@ -13091,8 +13091,8 @@ const features =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        25,
-        1135
+        0.29800629590766003,
+        0.3738532110091743
       ]
     },
     {
@@ -13101,8 +13101,8 @@ const features =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        19,
-        1260
+        0.3578174186778594,
+        0.231651376146789
       ]
     },
     {
@@ -13111,8 +13111,8 @@ const features =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        5,
-        443
+        0.19622245540398742,
+        0.02981651376146789
       ]
     },
     {
@@ -13121,8 +13121,8 @@ const features =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        13,
-        630
+        0.23819517313746066,
+        0.4426605504587156
       ]
     },
     {
@@ -13131,8 +13131,8 @@ const features =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        7,
-        1435
+        0.3011542497376705,
+        0.27293577981651373
       ]
     },
     {
@@ -13141,8 +13141,8 @@ const features =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        6,
-        742
+        0.21511017838405036,
+        0.24541284403669725
       ]
     },
     {
@@ -13151,8 +13151,8 @@ const features =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        22,
-        1262
+        0.3147953830010493,
+        0.44954128440366975
       ]
     },
     {
@@ -13161,8 +13161,8 @@ const features =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        1,
-        469
+        0.161594963273872,
+        0.45871559633027525
       ]
     },
     {
@@ -13171,8 +13171,8 @@ const features =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        18,
-        1068
+        0.1794333683105981,
+        0.2408256880733945
       ]
     },
     {
@@ -13181,8 +13181,8 @@ const features =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        18,
-        1120
+        0.15110178384050368,
+        0.35091743119266056
       ]
     },
     {
@@ -13191,8 +13191,8 @@ const features =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        7,
-        384
+        0.15320041972717732,
+        0.28440366972477066
       ]
     },
     {
@@ -13201,8 +13201,8 @@ const features =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        15,
-        353
+        0.1626442812172088,
+        0.21330275229357798
       ]
     },
     {
@@ -13211,8 +13211,8 @@ const features =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        20,
-        1471
+        0.2675760755508919,
+        0.1926605504587156
       ]
     },
     {
@@ -13221,8 +13221,8 @@ const features =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        23,
-        1197
+        0.20776495278069254,
+        0.12614678899082568
       ]
     },
     {
@@ -13231,8 +13231,8 @@ const features =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        36,
-        2169
+        0.27911857292759706,
+        0.33256880733944955
       ]
     },
     {
@@ -13241,8 +13241,8 @@ const features =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        26,
-        1424
+        0.1458551941238195,
+        0.4701834862385321
       ]
     },
     {
@@ -13251,8 +13251,8 @@ const features =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        24,
-        1928
+        0.2885624344176285,
+        0.2981651376146789
       ]
     },
     {
@@ -13261,8 +13261,8 @@ const features =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        19,
-        1109
+        0.06400839454354669,
+        0.481651376146789
       ]
     },
     {
@@ -13271,8 +13271,8 @@ const features =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        7,
-        412
+        0.13011542497376705,
+        0.29128440366972475
       ]
     },
     {
@@ -13281,8 +13281,8 @@ const features =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        9,
-        830
+        0.1248688352570829,
+        0.2775229357798165
       ]
     },
     {
@@ -13291,8 +13291,8 @@ const features =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        22,
-        1057
+        0.2088142707240294,
+        0.1720183486238532
       ]
     },
     {
@@ -13301,8 +13301,8 @@ const features =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        74,
-        3140
+        0.18782791185729275,
+        0.45642201834862384
       ]
     },
     {
@@ -13311,8 +13311,8 @@ const features =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        151,
-        3153
+        0.459601259181532,
+        0.963302752293578
       ]
     },
     {
@@ -13321,8 +13321,8 @@ const features =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        193,
-        1893
+        0.40293809024134314,
+        0.963302752293578
       ]
     },
     {
@@ -13331,8 +13331,8 @@ const features =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        135,
-        4772
+        0.43126967471143757,
+        0.8646788990825688
       ]
     },
     {
@@ -13341,8 +13341,8 @@ const features =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        23,
-        970
+        0.1657922350472193,
+        0.8211009174311926
       ]
     },
     {
@@ -13351,8 +13351,8 @@ const features =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        10,
-        286
+        0.11962224554039874,
+        0.3256880733944954
       ]
     },
     {
@@ -13361,8 +13361,8 @@ const features =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        33,
-        5556
+        0.22140608604407136,
+        0.6009174311926605
       ]
     },
     {
@@ -13371,8 +13371,8 @@ const features =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        15,
-        894
+        0.30849947534102834,
+        0.47706422018348627
       ]
     },
     {
@@ -13381,8 +13381,8 @@ const features =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        17,
-        334
+        0.22875131164742918,
+        0.25688073394495414
       ]
     },
     {
@@ -13391,8 +13391,8 @@ const features =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        9,
-        482
+        0.27492130115424973,
+        0.6628440366972477
       ]
     },
     {
@@ -13401,8 +13401,8 @@ const features =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        6,
-        256
+        0.1783840503672613,
+        0.6422018348623854
       ]
     },
     {
@@ -13411,8 +13411,8 @@ const features =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        9,
-        321
+        0.27177334732423925,
+        0.4518348623853211
       ]
     },
     {
@@ -13421,8 +13421,8 @@ const features =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        9,
-        476
+        0.21825813221406087,
+        0.6376146788990825
       ]
     },
     {
@@ -13431,8 +13431,8 @@ const features =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        4,
-        230
+        0.1993704092339979,
+        0.3944954128440367
       ]
     },
     {
@@ -13441,8 +13441,8 @@ const features =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        17,
-        408
+        0.2465897166841553,
+        0.6330275229357798
       ]
     },
     {
@@ -13451,8 +13451,8 @@ const features =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        4,
-        665
+        0.21196222455403987,
+        0.1743119266055046
       ]
     },
     {
@@ -13461,8 +13461,8 @@ const features =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        4,
-        242
+        0.23084994753410285,
+        0.19495412844036697
       ]
     },
     {
@@ -13471,8 +13471,8 @@ const features =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        10,
-        499
+        0.23399790136411333,
+        0.48853211009174313
       ]
     },
     {
@@ -13481,8 +13481,8 @@ const features =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        4,
-        204
+        0.21196222455403987,
+        0.6009174311926605
       ]
     },
     {
@@ -13491,8 +13491,8 @@ const features =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        8,
-        221
+        0.24239244491080797,
+        0.3830275229357798
       ]
     },
     {
@@ -13501,8 +13501,8 @@ const features =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        10,
-        510
+        0.25603357817418676,
+        0.6123853211009175
       ]
     },
     {
@@ -13511,8 +13511,8 @@ const features =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        4,
-        104
+        0.1626442812172088,
+        0.4013761467889908
       ]
     },
     {
@@ -13521,8 +13521,8 @@ const features =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        3,
-        169
+        0.05246589716684155,
+        0.10550458715596331
       ]
     },
     {
@@ -13531,8 +13531,8 @@ const features =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        6,
-        399
+        0.316894018887723,
+        0.49311926605504586
       ]
     },
     {
@@ -13541,8 +13541,8 @@ const features =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        3,
-        208
+        0.25813221406086045,
+        0.22935779816513763
       ]
     },
     {
@@ -13551,8 +13551,8 @@ const features =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        6,
-        642
+        0.28226652675760755,
+        0.6559633027522935
       ]
     },
     {
@@ -13561,8 +13561,8 @@ const features =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        3,
-        299
+        0.2193074501573977,
+        0.6926605504587156
       ]
     },
     {
@@ -13571,8 +13571,8 @@ const features =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        14,
-        470
+        0.24344176285414482,
+        0.48853211009174313
       ]
     },
     {
@@ -13581,8 +13581,8 @@ const features =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        4,
-        460
+        0.3200419727177335,
+        0.6972477064220184
       ]
     },
     {
@@ -13591,8 +13591,8 @@ const features =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        3,
-        350
+        0.24134312696747115,
+        0.5412844036697247
       ]
     },
     {
@@ -13601,8 +13601,8 @@ const features =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        2,
-        123
+        0.20356768100734524,
+        0.43577981651376146
       ]
     },
     {
@@ -13611,8 +13611,8 @@ const features =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        7,
-        274
+        0.09758656873032528,
+        0.31880733944954126
       ]
     },
     {
@@ -13621,8 +13621,8 @@ const features =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        4,
-        63
+        0.12067156348373557,
+        0.22477064220183487
       ]
     },
     {
@@ -13631,8 +13631,8 @@ const features =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        10,
-        233
+        0.09338929695697797,
+        0.25229357798165136
       ]
     },
     {
@@ -13641,8 +13641,8 @@ const features =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        7,
-        307
+        0.14690451206715635,
+        0.36009174311926606
       ]
     },
     {
@@ -13651,8 +13651,8 @@ const features =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        17,
-        223
+        0.07869884575026233,
+        0.22247706422018348
       ]
     },
     {
@@ -13661,8 +13661,8 @@ const features =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        11,
-        206
+        0.2193074501573977,
+        0.20412844036697247
       ]
     },
     {
@@ -13671,8 +13671,8 @@ const features =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        1,
-        159
+        0.1657922350472193,
+        0.46788990825688076
       ]
     },
     {
@@ -13681,8 +13681,8 @@ const features =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        12,
-        264
+        0.1993704092339979,
+        0.4197247706422018
       ]
     },
     {
@@ -13691,8 +13691,8 @@ const features =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        36,
-        2013
+        0.24344176285414482,
+        0.2958715596330275
       ]
     },
     {
@@ -13701,8 +13701,8 @@ const features =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        19,
-        669
+        0.25603357817418676,
+        0.22018348623853212
       ]
     },
     {
@@ -13711,8 +13711,8 @@ const features =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        18,
-        827
+        0.22245540398740818,
+        0.5619266055045872
       ]
     },
     {
@@ -13721,8 +13721,8 @@ const features =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        15,
-        716
+        0.3336831059811123,
+        0.7155963302752294
       ]
     },
     {
@@ -13731,8 +13731,8 @@ const features =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        28,
-        1196
+        0.19727177334732424,
+        0.28211009174311924
       ]
     },
     {
@@ -13741,8 +13741,8 @@ const features =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        21,
-        1334
+        0.2098635886673662,
+        0.5160550458715596
       ]
     },
     {
@@ -13751,8 +13751,8 @@ const features =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        18,
-        655
+        0.033578174186778595,
+        0.6009174311926605
       ]
     },
     {
@@ -13761,8 +13761,8 @@ const features =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        27,
-        1628
+        0.229800629590766,
+        0.5206422018348624
       ]
     },
     {
@@ -13771,8 +13771,8 @@ const features =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        6,
-        343
+        0.26128016789087094,
+        0.3463302752293578
       ]
     },
     {
@@ -13781,8 +13781,8 @@ const features =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        10,
-        159
+        0.236096537250787,
+        0.22706422018348624
       ]
     },
     {
@@ -13791,8 +13791,8 @@ const features =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        9,
-        253
+        0.22455403987408185,
+        0.5114678899082569
       ]
     },
     {
@@ -13801,8 +13801,8 @@ const features =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        5,
-        227
+        0.20356768100734524,
+        0.555045871559633
       ]
     },
     {
@@ -13811,8 +13811,8 @@ const features =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        7,
-        200
+        0.229800629590766,
+        0.30275229357798167
       ]
     },
     {
@@ -13821,8 +13821,8 @@ const features =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        4,
-        348
+        0.2633788037775446,
+        0.4059633027522936
       ]
     },
     {
@@ -13831,8 +13831,8 @@ const features =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        5,
-        163
+        0.1416579223504722,
+        0.4380733944954128
       ]
     },
     {
@@ -13841,8 +13841,8 @@ const features =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        8,
-        195
+        0.19517313746065057,
+        0.4426605504587156
       ]
     },
     {
@@ -13851,8 +13851,8 @@ const features =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        8,
-        467
+        0.2801678908709339,
+        0.3967889908256881
       ]
     },
     {
@@ -13861,8 +13861,8 @@ const features =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        4,
-        180
+        0.24344176285414482,
+        0.29128440366972475
       ]
     },
     {
@@ -13871,8 +13871,8 @@ const features =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        8,
-        246
+        0.18572927597061908,
+        0.4334862385321101
       ]
     },
     {
@@ -13881,8 +13881,8 @@ const features =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        5,
-        200
+        0.2465897166841553,
+        0.6307339449541285
       ]
     },
     {
@@ -13891,8 +13891,8 @@ const features =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        11,
-        385
+        0.29485834207764955,
+        0.3967889908256881
       ]
     },
     {
@@ -13901,8 +13901,8 @@ const features =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        10,
-        458
+        0.25918153200419725,
+        0.48394495412844035
       ]
     },
     {
@@ -13911,8 +13911,8 @@ const features =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        7,
-        189
+        0.07869884575026233,
+        0.5137614678899083
       ]
     },
     {
@@ -13921,8 +13921,8 @@ const features =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        6,
-        154
+        0.155299055613851,
+        0.40825688073394495
       ]
     },
     {
@@ -13931,8 +13931,8 @@ const features =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        7,
-        488
+        0.34522560335781743,
+        0.33256880733944955
       ]
     },
     {
@@ -13941,8 +13941,8 @@ const features =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        15,
-        938
+        0.3095487932843652,
+        0.6743119266055045
       ]
     },
     {
@@ -13951,8 +13951,8 @@ const features =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        19,
-        513
+        0.29485834207764955,
+        0.5940366972477065
       ]
     },
     {
@@ -13961,8 +13961,8 @@ const features =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        16,
-        196
+        0.21720881427072403,
+        0.573394495412844
       ]
     },
     {
@@ -13971,8 +13971,8 @@ const features =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        16,
-        647
+        0.2602308499475341,
+        0.2889908256880734
       ]
     },
     {
@@ -13981,8 +13981,8 @@ const features =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        10,
-        930
+        0.34207764952780695,
+        0.7614678899082569
       ]
     },
     {
@@ -13991,8 +13991,8 @@ const features =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        8,
-        572
+        0.28751311647429173,
+        0.6720183486238532
       ]
     },
     {
@@ -14001,8 +14001,8 @@ const features =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        21,
-        429
+        0.22350472193074503,
+        0.5091743119266054
       ]
     },
     {
@@ -14011,8 +14011,8 @@ const features =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        17,
-        673
+        0.2623294858342078,
+        0.28211009174311924
       ]
     },
     {
@@ -14021,8 +14021,8 @@ const features =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        18,
-        738
+        0.23714585519412382,
+        0.41743119266055045
       ]
     },
     {
@@ -14031,8 +14031,8 @@ const features =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        23,
-        945
+        0.2623294858342078,
+        0.5527522935779816
       ]
     },
     {
@@ -14041,8 +14041,8 @@ const features =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        36,
-        960
+        0.3410283315844701,
+        0.6628440366972477
       ]
     },
     {
@@ -14051,8 +14051,8 @@ const features =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        23,
-        1106
+        0.2203567681007345,
+        0.3165137614678899
       ]
     },
     {
@@ -14061,8 +14061,8 @@ const features =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        18,
-        1026
+        0.2203567681007345,
+        0.6284403669724771
       ]
     },
     {
@@ -14071,8 +14071,8 @@ const features =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        6,
-        557
+        0.18153200419727178,
+        0.48394495412844035
       ]
     },
     {
@@ -14081,8 +14081,8 @@ const features =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        33,
-        1238
+        0.23924449108079748,
+        0.40825688073394495
       ]
     },
     {
@@ -14091,8 +14091,8 @@ const features =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        11,
-        481
+        0.3672612801678909,
+        0.33715596330275227
       ]
     },
     {
@@ -14101,8 +14101,8 @@ const features =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        15,
-        348
+        0.304302203567681,
+        0.22247706422018348
       ]
     },
     {
@@ -14111,8 +14111,8 @@ const features =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        19,
-        613
+        0.20146904512067157,
+        0.4908256880733945
       ]
     },
     {
@@ -14121,8 +14121,8 @@ const features =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        30,
-        717
+        0.4155299055613851,
+        0.6674311926605505
       ]
     },
     {
@@ -14131,8 +14131,8 @@ const features =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        30,
-        458
+        0.24763903462749212,
+        0.4243119266055046
       ]
     },
     {
@@ -14141,8 +14141,8 @@ const features =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        12,
-        661
+        0.38195173137460653,
+        0.30504587155963303
       ]
     },
     {
@@ -14151,8 +14151,8 @@ const features =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        17,
-        375
+        0.34522560335781743,
+        0.40825688073394495
       ]
     },
     {
@@ -14161,8 +14161,8 @@ const features =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        16,
-        185
+        0.18048268625393493,
+        0.32339449541284404
       ]
     },
     {
@@ -14171,8 +14171,8 @@ const features =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        8,
-        382
+        0.21720881427072403,
+        0.22706422018348624
       ]
     },
     {
@@ -14181,8 +14181,8 @@ const features =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        7,
-        184
+        0.2465897166841553,
+        0.1811926605504587
       ]
     },
     {
@@ -14191,8 +14191,8 @@ const features =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        15,
-        363
+        0.26652675760755506,
+        0.48623853211009177
       ]
     },
     {
@@ -14201,8 +14201,8 @@ const features =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        1,
-        332
+        0.2528856243441763,
+        0.5802752293577982
       ]
     },
     {
@@ -14211,8 +14211,8 @@ const features =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        15,
-        340
+        0.25918153200419725,
+        0.3394495412844037
       ]
     },
     {
@@ -14221,8 +14221,8 @@ const features =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        11,
-        438
+        0.3315844700944386,
+        0.23394495412844038
       ]
     },
     {
@@ -14231,8 +14231,8 @@ const features =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        13,
-        365
+        0.2633788037775446,
+        0.4151376146788991
       ]
     },
     {
@@ -14241,8 +14241,8 @@ const features =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        7,
-        265
+        0.16474291710388247,
+        0.31422018348623854
       ]
     },
     {
@@ -14251,8 +14251,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        3,
-        465
+        0.18572927597061908,
+        0.22706422018348624
       ]
     },
     {
@@ -14261,8 +14261,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        1,
-        214
+        0.23189926547743966,
+        0.2591743119266055
       ]
     },
     {
@@ -14271,8 +14271,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        3,
-        176
+        0.18048268625393493,
+        0.45871559633027525
       ]
     },
     {
@@ -14281,8 +14281,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        3,
-        166
+        0.14480587618048268,
+        0.48853211009174313
       ]
     },
     {
@@ -14291,8 +14291,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        7,
-        255
+        0.23189926547743966,
+        0.5458715596330275
       ]
     },
     {
@@ -14301,8 +14301,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        5,
-        179
+        0.10283315844700944,
+        0.5045871559633027
       ]
     },
     {
@@ -14311,8 +14311,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        1,
-        135
+        0.02728226652675761,
+        0.3256880733944954
       ]
     },
     {
@@ -14321,8 +14321,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        4,
-        79
+        0.13641133263378805,
+        0.3394495412844037
       ]
     },
     {
@@ -14331,8 +14331,8 @@ const features =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        26,
-        1092
+        0.32948583420776495,
+        0.26605504587155965
       ]
     },
     {
@@ -14341,8 +14341,8 @@ const features =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        3,
-        176
+        0.11437565582371459,
+        0.1628440366972477
       ]
     },
     {
@@ -14351,8 +14351,8 @@ const features =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        7,
-        258
+        0.10388247639034627,
+        0.31422018348623854
       ]
     },
     {
@@ -14361,8 +14361,8 @@ const features =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        2,
-        391
+        0.3284365162644281,
+        0.6169724770642202
       ]
     },
     {
@@ -14371,8 +14371,8 @@ const features =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        6,
-        455
+        0.21091290661070305,
+        0.29357798165137616
       ]
     },
     {
@@ -14381,8 +14381,8 @@ const features =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        19,
-        598
+        0.15005246589716684,
+        0.25688073394495414
       ]
     },
     {
@@ -14391,8 +14391,8 @@ const features =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        4,
-        182
+        0.08394543546694648,
+        0.1444954128440367
       ]
     },
     {
@@ -14401,8 +14401,8 @@ const features =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        18,
-        513
+        0.14375655823714587,
+        0.3119266055045872
       ]
     },
     {
@@ -14411,8 +14411,8 @@ const features =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        10,
-        1039
+        0.32633788037775446,
+        0.3738532110091743
       ]
     },
     {
@@ -14421,8 +14421,8 @@ const features =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        4,
-        352
+        0.17418677859391396,
+        0.21100917431192662
       ]
     },
     {
@@ -14431,8 +14431,8 @@ const features =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        11,
-        1073
+        0.3483735571878279,
+        0.6559633027522935
       ]
     },
     {
@@ -14441,8 +14441,8 @@ const features =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        4,
-        579
+        0.18153200419727178,
+        0.5963302752293578
       ]
     },
     {
@@ -14451,8 +14451,8 @@ const features =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        8,
-        590
+        0.2990556138509968,
+        0.3532110091743119
       ]
     },
     {
@@ -14461,8 +14461,8 @@ const features =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        6,
-        797
+        0.18467995802728226,
+        0.48394495412844035
       ]
     },
     {
@@ -14471,8 +14471,8 @@ const features =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        10,
-        559
+        0.16684155299055614,
+        0.4059633027522936
       ]
     },
     {
@@ -14481,8 +14481,8 @@ const features =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        5,
-        457
+        0.20146904512067157,
+        0.48623853211009177
       ]
     },
     {
@@ -14491,8 +14491,8 @@ const features =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        13,
-        860
+        0.20671563483735572,
+        0.23853211009174313
       ]
     },
     {
@@ -14501,8 +14501,8 @@ const features =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        7,
-        331
+        0.10912906610703044,
+        0.09862385321100918
       ]
     },
     {
@@ -14511,8 +14511,8 @@ const features =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        19,
-        1200
+        0.25813221406086045,
+        0.3967889908256881
       ]
     },
     {
@@ -14521,8 +14521,8 @@ const features =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        19,
-        971
+        0.22560335781741866,
+        0.7087155963302753
       ]
     },
     {
@@ -14531,8 +14531,8 @@ const features =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        16,
-        601
+        0.17103882476390347,
+        0.17889908256880735
       ]
     },
     {
@@ -14541,8 +14541,8 @@ const features =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        18,
-        1233
+        0.2539349422875131,
+        0.17889908256880735
       ]
     },
     {
@@ -14551,8 +14551,8 @@ const features =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        11,
-        296
+        0.08184679958027283,
+        0.1559633027522936
       ]
     },
     {
@@ -14561,8 +14561,8 @@ const features =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        44,
-        1304
+        0.19097586568730326,
+        0.3738532110091743
       ]
     },
     {
@@ -14571,8 +14571,8 @@ const features =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        14,
-        1310
+        0.13746065057712487,
+        0.5091743119266054
       ]
     },
     {
@@ -14581,8 +14581,8 @@ const features =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        4,
-        716
+        0.2161594963273872,
+        0.24311926605504589
       ]
     },
     {
@@ -14591,8 +14591,8 @@ const features =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        31,
-        1377
+        0.229800629590766,
+        0.30045871559633025
       ]
     },
     {
@@ -14601,8 +14601,8 @@ const features =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        7,
-        475
+        0.2938090241343127,
+        0.6192660550458715
       ]
     },
     {
@@ -14611,8 +14611,8 @@ const features =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        14,
-        824
+        0.20461699895068206,
+        0.25688073394495414
       ]
     },
     {
@@ -14621,8 +14621,8 @@ const features =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        16,
-        1101
+        0.33263378803777544,
+        0.26376146788990823
       ]
     },
     {
@@ -14631,8 +14631,8 @@ const features =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        9,
-        515
+        0.11752360965372508,
+        0.41284403669724773
       ]
     },
     {
@@ -14641,8 +14641,8 @@ const features =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        7,
-        247
+        0.16369359916054566,
+        0.36926605504587157
       ]
     },
     {
@@ -14651,8 +14651,8 @@ const features =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        10,
-        784
+        0.2990556138509968,
+        0.2706422018348624
       ]
     },
     {
@@ -14661,8 +14661,8 @@ const features =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        8,
-        441
+        0.2402938090241343,
+        0.4426605504587156
       ]
     },
     {
@@ -14671,8 +14671,8 @@ const features =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        9,
-        273
+        0.1825813221406086,
+        0.5389908256880734
       ]
     },
     {
@@ -14681,8 +14681,8 @@ const features =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        14,
-        305
+        0.27177334732423925,
+        0.8004587155963303
       ]
     },
     {
@@ -14691,8 +14691,8 @@ const features =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        11,
-        331
+        0.316894018887723,
+        0.4793577981651376
       ]
     },
     {
@@ -14701,8 +14701,8 @@ const features =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        11,
-        776
+        0.3746065057712487,
+        0.7637614678899083
       ]
     },
     {
@@ -14711,8 +14711,8 @@ const features =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        8,
-        155
+        0.20776495278069254,
+        0.4197247706422018
       ]
     },
     {
@@ -14721,8 +14721,8 @@ const features =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        8,
-        244
+        0.23714585519412382,
+        0.5344036697247706
       ]
     },
     {
@@ -14731,8 +14731,8 @@ const features =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        3,
-        669
+        0.2812172088142707,
+        0.25
       ]
     },
     {
@@ -14741,8 +14741,8 @@ const features =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        13,
-        598
+        0.27911857292759706,
+        0.21788990825688073
       ]
     },
     {
@@ -14751,8 +14751,8 @@ const features =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        5,
-        673
+        0.21720881427072403,
+        0.5711009174311926
       ]
     },
     {
@@ -14761,8 +14761,8 @@ const features =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        3,
-        479
+        0.26652675760755506,
+        0.6834862385321101
       ]
     },
     {
@@ -14771,8 +14771,8 @@ const features =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        13,
-        799
+        0.1794333683105981,
+        0.33715596330275227
       ]
     },
     {
@@ -14781,8 +14781,8 @@ const features =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        8,
-        1147
+        0.2812172088142707,
+        0.573394495412844
       ]
     },
     {
@@ -14791,8 +14791,8 @@ const features =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        11,
-        798
+        0.27177334732423925,
+        0.47706422018348627
       ]
     },
     {
@@ -14801,8 +14801,8 @@ const features =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        3,
-        354
+        0.23924449108079748,
+        0.40825688073394495
       ]
     },
     {
@@ -14811,8 +14811,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        7,
-        284
+        0.23924449108079748,
+        0.3440366972477064
       ]
     },
     {
@@ -14821,8 +14821,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        7,
-        295
+        0.2644281217208814,
+        0.6513761467889908
       ]
     },
     {
@@ -14831,8 +14831,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        15,
-        272
+        0.20776495278069254,
+        0.7224770642201835
       ]
     },
     {
@@ -14841,8 +14841,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        5,
-        155
+        0.2465897166841553,
+        1
       ]
     },
     {
@@ -14851,8 +14851,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        10,
-        264
+        0.28541448058761804,
+        0.45642201834862384
       ]
     },
     {
@@ -14861,8 +14861,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        9,
-        408
+        0.3273871983210913,
+        0.7110091743119266
       ]
     },
     {
@@ -14871,8 +14871,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        4,
-        342
+        0.3357817418677859,
+        0.6284403669724771
       ]
     },
     {
@@ -14881,8 +14881,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        6,
-        62
+        0.2707240293809024,
+        0.5527522935779816
       ]
     },
     {
@@ -14891,8 +14891,8 @@ const features =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        8,
-        1103
+        0.2738719832109129,
+        0.21788990825688073
       ]
     },
     {
@@ -14901,8 +14901,8 @@ const features =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        4,
-        388
+        0.18467995802728226,
+        0.20642201834862386
       ]
     },
     {
@@ -14911,8 +14911,8 @@ const features =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        10,
-        525
+        0.15320041972717732,
+        0.3486238532110092
       ]
     },
     {
@@ -14921,8 +14921,8 @@ const features =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        3,
-        276
+        0.11647429171038824,
+        0.47706422018348627
       ]
     },
     {
@@ -14931,8 +14931,8 @@ const features =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        8,
-        526
+        0.1993704092339979,
+        0.2981651376146789
       ]
     },
     {
@@ -14941,8 +14941,8 @@ const features =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        9,
-        922
+        0.22245540398740818,
+        0.44724770642201833
       ]
     },
     {
@@ -14951,8 +14951,8 @@ const features =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        6,
-        441
+        0.21406086044071354,
+        0.3967889908256881
       ]
     },
     {
@@ -14961,8 +14961,8 @@ const features =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        4,
-        227
+        0.13955928646379853,
+        0.3119266055045872
       ]
     },
     {
@@ -14971,8 +14971,8 @@ const features =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        39,
-        2092
+        0.2402938090241343,
+        0.4954128440366973
       ]
     },
     {
@@ -14981,8 +14981,8 @@ const features =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        18,
-        970
+        0.2990556138509968,
+        0.5435779816513762
       ]
     },
     {
@@ -14991,8 +14991,8 @@ const features =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        23,
-        755
+        0.2990556138509968,
+        0.7362385321100917
       ]
     },
     {
@@ -15001,8 +15001,8 @@ const features =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        19,
-        1338
+        0.3410283315844701,
+        0.841743119266055
       ]
     },
     {
@@ -15011,8 +15011,8 @@ const features =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        18,
-        1318
+        0.32948583420776495,
+        0.6422018348623854
       ]
     },
     {
@@ -15021,8 +15021,8 @@ const features =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        31,
-        1592
+        0.3756558237145855,
+        0.8600917431192661
       ]
     },
     {
@@ -15031,8 +15031,8 @@ const features =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        13,
-        613
+        0.3336831059811123,
+        0.7431192660550459
       ]
     },
     {
@@ -15041,8 +15041,8 @@ const features =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        20,
-        809
+        0.3147953830010493,
+        0.7522935779816514
       ]
     },
     {
@@ -15051,8 +15051,8 @@ const features =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        8,
-        380
+        0.34942287513116477,
+        0.4541284403669725
       ]
     },
     {
@@ -15061,8 +15061,8 @@ const features =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        4,
-        229
+        0.20146904512067157,
+        0.25229357798165136
       ]
     },
     {
@@ -15071,8 +15071,8 @@ const features =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        9,
-        312
+        0.2801678908709339,
+        0.6009174311926605
       ]
     },
     {
@@ -15081,8 +15081,8 @@ const features =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        3,
-        174
+        0.25078698845750264,
+        0.5986238532110092
       ]
     },
     {
@@ -15091,8 +15091,8 @@ const features =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        9,
-        299
+        0.22350472193074503,
+        0.41284403669724773
       ]
     },
     {
@@ -15101,8 +15101,8 @@ const features =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        7,
-        467
+        0.26128016789087094,
+        0.5458715596330275
       ]
     },
     {
@@ -15111,8 +15111,8 @@ const features =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        6,
-        368
+        0.26128016789087094,
+        0.20642201834862386
       ]
     },
     {
@@ -15121,8 +15121,8 @@ const features =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        5,
-        188
+        0.18467995802728226,
+        0.4059633027522936
       ]
     },
     {
@@ -15131,8 +15131,8 @@ const features =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        7,
-        734
+        0.2570828961175236,
+        0.18807339449541285
       ]
     },
     {
@@ -15141,8 +15141,8 @@ const features =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        8,
-        501
+        0.23924449108079748,
+        0.1628440366972477
       ]
     },
     {
@@ -15151,8 +15151,8 @@ const features =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        6,
-        575
+        0.161594963273872,
+        0.4013761467889908
       ]
     },
     {
@@ -15161,8 +15161,8 @@ const features =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        12,
-        822
+        0.3410283315844701,
+        0.6192660550458715
       ]
     },
     {
@@ -15171,8 +15171,8 @@ const features =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        6,
-        974
+        0.19097586568730326,
+        0.20871559633027523
       ]
     },
     {
@@ -15181,8 +15181,8 @@ const features =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        11,
-        814
+        0.06400839454354669,
+        0.5114678899082569
       ]
     },
     {
@@ -15191,8 +15191,8 @@ const features =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        3,
-        402
+        0.023084994753410283,
+        0.6284403669724771
       ]
     },
     {
@@ -15201,8 +15201,8 @@ const features =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        7,
-        647
+        0.21196222455403987,
+        0.44495412844036697
       ]
     },
     {
@@ -15211,8 +15211,8 @@ const features =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        13,
-        1165
+        0.378803777544596,
+        0.49770642201834864
       ]
     },
     {
@@ -15221,8 +15221,8 @@ const features =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        5,
-        487
+        0.27177334732423925,
+        0.2798165137614679
       ]
     },
     {
@@ -15231,8 +15231,8 @@ const features =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        21,
-        1710
+        0.3252885624344176,
+        0.47706422018348627
       ]
     },
     {
@@ -15241,8 +15241,8 @@ const features =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        50,
-        1422
+        0.16684155299055614,
+        0.6788990825688074
       ]
     },
     {
@@ -15251,8 +15251,8 @@ const features =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        42,
-        2637
+        0.3546694648478489,
+        0.7477064220183486
       ]
     },
     {
@@ -15261,8 +15261,8 @@ const features =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        13,
-        1178
+        0.1626442812172088,
+        0.49770642201834864
       ]
     },
     {
@@ -15271,8 +15271,8 @@ const features =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        8,
-        588
+        0.16998950682056663,
+        0.36926605504587157
       ]
     },
     {
@@ -15281,8 +15281,8 @@ const features =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        29,
-        1414
+        0.26128016789087094,
+        0.6972477064220184
       ]
     },
     {
@@ -15291,8 +15291,8 @@ const features =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        14,
-        597
+        0.18153200419727178,
+        0.4518348623853211
       ]
     },
     {
@@ -15301,8 +15301,8 @@ const features =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        4,
-        254
+        0.3147953830010493,
+        0.1743119266055046
       ]
     },
     {
@@ -15311,8 +15311,8 @@ const features =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        16,
-        699
+        0.3210912906610703,
+        0.6100917431192661
       ]
     },
     {
@@ -15321,8 +15321,8 @@ const features =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        5,
-        323
+        0.2465897166841553,
+        0.7178899082568807
       ]
     },
     {
@@ -15331,8 +15331,8 @@ const features =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        9,
-        430
+        0.25918153200419725,
+        0.41284403669724773
       ]
     },
     {
@@ -15341,8 +15341,8 @@ const features =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        12,
-        675
+        0.1311647429171039,
+        0.7935779816513762
       ]
     },
     {
@@ -15351,8 +15351,8 @@ const features =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        1,
-        145
+        0.01888772298006296,
+        0.6857798165137615
       ]
     },
     {
@@ -15361,8 +15361,8 @@ const features =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        3,
-        191
+        0.2623294858342078,
+        0.5825688073394495
       ]
     },
     {
@@ -15371,8 +15371,8 @@ const features =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        23,
-        536
+        0.3809024134312697,
+        0.3944954128440367
       ]
     },
     {
@@ -15381,8 +15381,8 @@ const features =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        11,
-        191
+        0.19832109129066108,
+        0.3211009174311927
       ]
     },
     {
@@ -15391,8 +15391,8 @@ const features =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        11,
-        545
+        0.28436516264428124,
+        0.5688073394495413
       ]
     },
     {
@@ -15401,8 +15401,8 @@ const features =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        3,
-        360
+        0.21720881427072403,
+        0.6238532110091743
       ]
     },
     {
@@ -15411,8 +15411,8 @@ const features =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        35,
-        403
+        0.15949632738719832,
+        0.30504587155963303
       ]
     },
     {
@@ -15421,8 +15421,8 @@ const features =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        18,
-        978
+        0.13641133263378805,
+        0.6880733944954128
       ]
     },
     {
@@ -15431,8 +15431,8 @@ const features =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        2,
-        177
+        0.035676810073452254,
+        0.42660550458715596
       ]
     },
     {
@@ -15441,8 +15441,8 @@ const features =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        16,
-        439
+        0.2130115424973767,
+        0.5412844036697247
       ]
     },
     {
@@ -15451,8 +15451,8 @@ const features =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        4,
-        424
+        0.36306400839454356,
+        0.5114678899082569
       ]
     },
     {
@@ -15461,8 +15461,8 @@ const features =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        12,
-        454
+        0.3378803777544596,
+        0.32798165137614677
       ]
     },
     {
@@ -15471,8 +15471,8 @@ const features =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        12,
-        445
+        0.25813221406086045,
+        0.47477064220183485
       ]
     },
     {
@@ -15481,8 +15481,8 @@ const features =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        11,
-        441
+        0.3483735571878279,
+        0.6422018348623854
       ]
     },
     {
@@ -15491,8 +15491,8 @@ const features =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        9,
-        326
+        0.25918153200419725,
+        0.3348623853211009
       ]
     },
     {
@@ -15501,8 +15501,8 @@ const features =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        14,
-        666
+        0.28436516264428124,
+        0.6811926605504587
       ]
     },
     {
@@ -15511,8 +15511,8 @@ const features =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        8,
-        213
+        0.20566631689401887,
+        0.41743119266055045
       ]
     },
     {
@@ -15521,8 +15521,8 @@ const features =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        2,
-        129
+        0.13746065057712487,
+        0.25229357798165136
       ]
     },
     {
@@ -15531,8 +15531,8 @@ const features =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        23,
-        1038
+        0.35047219307450156,
+        0.21788990825688073
       ]
     },
     {
@@ -15541,8 +15541,8 @@ const features =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        19,
-        686
+        0.27911857292759706,
+        0.32339449541284404
       ]
     },
     {
@@ -15551,8 +15551,8 @@ const features =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        16,
-        793
+        0.3882476390346275,
+        0.33715596330275227
       ]
     },
     {
@@ -15561,8 +15561,8 @@ const features =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        12,
-        451
+        0.3389296956977964,
+        0.4954128440366973
       ]
     },
     {
@@ -15571,8 +15571,8 @@ const features =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        19,
-        736
+        0.3095487932843652,
+        0.48623853211009177
       ]
     },
     {
@@ -15581,8 +15581,8 @@ const features =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        25,
-        1458
+        0.14900314795383002,
+        0.8073394495412844
       ]
     },
     {
@@ -15591,8 +15591,8 @@ const features =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        12,
-        556
+        0.3179433368310598,
+        0.7201834862385321
       ]
     },
     {
@@ -15601,8 +15601,8 @@ const features =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        8,
-        922
+        0.2801678908709339,
+        0.555045871559633
       ]
     },
     {
@@ -15611,8 +15611,8 @@ const features =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        1,
-        626
+        0.20671563483735572,
+        0.2775229357798165
       ]
     },
     {
@@ -15621,8 +15621,8 @@ const features =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        5,
-        684
+        0.2696747114375656,
+        0.4197247706422018
       ]
     },
     {
@@ -15631,8 +15631,8 @@ const features =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        7,
-        728
+        0.19412381951731375,
+        0.5252293577981652
       ]
     },
     {
@@ -15641,8 +15641,8 @@ const features =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        2,
-        391
+        0.1993704092339979,
+        0.5665137614678899
       ]
     },
     {
@@ -15651,8 +15651,8 @@ const features =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        6,
-        450
+        0.2203567681007345,
+        0.30045871559633025
       ]
     },
     {
@@ -15661,8 +15661,8 @@ const features =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        3,
-        706
+        0.31584470094438616,
+        0.48394495412844035
       ]
     },
     {
@@ -15671,8 +15671,8 @@ const features =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        1,
-        346
+        0.18572927597061908,
+        0.5458715596330275
       ]
     },
     {
@@ -15681,8 +15681,8 @@ const features =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        7,
-        328
+        0.19727177334732424,
+        0.48394495412844035
       ]
     },
     {
@@ -15691,8 +15691,8 @@ const features =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        6,
-        637
+        0.23819517313746066,
+        0.1559633027522936
       ]
     },
     {
@@ -15701,8 +15701,8 @@ const features =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        8,
-        492
+        0.1888772298006296,
+        0.29128440366972475
       ]
     },
     {
@@ -15711,8 +15711,8 @@ const features =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        27,
-        820
+        0.29590766002098634,
+        0.5298165137614679
       ]
     },
     {
@@ -15721,8 +15721,8 @@ const features =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        4,
-        453
+        0.11017838405036726,
+        0.481651376146789
       ]
     },
     {
@@ -15731,8 +15731,8 @@ const features =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        8,
-        513
+        0.2570828961175236,
+        0.3211009174311927
       ]
     },
     {
@@ -15741,8 +15741,8 @@ const features =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        8,
-        902
+        0.2696747114375656,
+        0.6215596330275229
       ]
     },
     {
@@ -15751,8 +15751,8 @@ const features =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        6,
-        268
+        0.3011542497376705,
+        0.14908256880733944
       ]
     },
     {
@@ -15761,8 +15761,8 @@ const features =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        6,
-        324
+        0.1657922350472193,
+        0.4059633027522936
       ]
     },
     {
@@ -15771,8 +15771,8 @@ const features =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        6,
-        667
+        0.26862539349422876,
+        0.36926605504587157
       ]
     },
     {
@@ -15781,8 +15781,8 @@ const features =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        6,
-        444
+        0.20461699895068206,
+        0.21788990825688073
       ]
     },
     {
@@ -15791,8 +15791,8 @@ const features =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        10,
-        1002
+        0.19517313746065057,
+        0.31422018348623854
       ]
     },
     {
@@ -15801,8 +15801,8 @@ const features =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        2,
-        610
+        0.20356768100734524,
+        0.6513761467889908
       ]
     },
     {
@@ -15811,8 +15811,8 @@ const features =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        4,
-        559
+        0.13011542497376705,
+        0.26605504587155965
       ]
     },
     {
@@ -15821,8 +15821,8 @@ const features =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        9,
-        937
+        0.28226652675760755,
+        0.5825688073394495
       ]
     },
     {
@@ -15831,8 +15831,8 @@ const features =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        9,
-        424
+        0.03672612801678909,
+        0.591743119266055
       ]
     },
     {
@@ -15841,8 +15841,8 @@ const features =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        4,
-        252
+        0.25078698845750264,
+        0.5068807339449541
       ]
     },
     {
@@ -15851,8 +15851,8 @@ const features =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        9,
-        654
+        0.3126967471143757,
+        0.3669724770642202
       ]
     },
     {
@@ -15861,8 +15861,8 @@ const features =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        7,
-        294
+        0.29485834207764955,
+        0.2775229357798165
       ]
     },
     {
@@ -15871,8 +15871,8 @@ const features =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        6,
-        712
+        0.31584470094438616,
+        0.49311926605504586
       ]
     },
     {
@@ -15881,8 +15881,8 @@ const features =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        3,
-        184
+        0.22770199370409233,
+        0.6536697247706422
       ]
     },
     {
@@ -15891,8 +15891,8 @@ const features =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        3,
-        383
+        0.23924449108079748,
+        0.4197247706422018
       ]
     },
     {
@@ -15901,8 +15901,8 @@ const features =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        16,
-        638
+        0.2833158447009444,
+        0.731651376146789
       ]
     },
     {
@@ -15911,8 +15911,8 @@ const features =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        8,
-        218
+        0.2098635886673662,
+        0.5252293577981652
       ]
     },
     {
@@ -15921,8 +15921,8 @@ const features =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        22,
-        506
+        0.24554039874081846,
+        0.6032110091743119
       ]
     },
     {
@@ -15931,8 +15931,8 @@ const features =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        12,
-        1953
+        0.28751311647429173,
+        0.19954128440366972
       ]
     },
     {
@@ -15941,8 +15941,8 @@ const features =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        16,
-        1453
+        0.29275970619097585,
+        0.32339449541284404
       ]
     },
     {
@@ -15951,8 +15951,8 @@ const features =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        11,
-        1210
+        0.22350472193074503,
+        0.44036697247706424
       ]
     },
     {
@@ -15961,8 +15961,8 @@ const features =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        14,
-        1836
+        0.30849947534102834,
+        0.7018348623853211
       ]
     },
     {
@@ -15971,8 +15971,8 @@ const features =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        28,
-        2999
+        0.3011542497376705,
+        0.3876146788990826
       ]
     },
     {
@@ -15981,8 +15981,8 @@ const features =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        27,
-        2248
+        0.3882476390346275,
+        0.30963302752293576
       ]
     },
     {
@@ -15991,8 +15991,8 @@ const features =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        5,
-        1002
+        0.2266526757607555,
+        0.4541284403669725
       ]
     },
     {
@@ -16001,8 +16001,8 @@ const features =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        30,
-        1347
+        0.1416579223504722,
+        0.3165137614678899
       ]
     },
     {
@@ -16011,8 +16011,8 @@ const features =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        4,
-        592
+        0.2780692549842602,
+        0.43119266055045874
       ]
     },
     {
@@ -16021,8 +16021,8 @@ const features =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        3,
-        533
+        0.27492130115424973,
+        0.40825688073394495
       ]
     },
     {
@@ -16031,8 +16031,8 @@ const features =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        7,
-        688
+        0.21720881427072403,
+        0.5779816513761468
       ]
     },
     {
@@ -16041,8 +16041,8 @@ const features =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        6,
-        279
+        0.20356768100734524,
+        0.6077981651376146
       ]
     },
     {
@@ -16051,8 +16051,8 @@ const features =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        7,
-        518
+        0.2770199370409234,
+        0.6123853211009175
       ]
     },
     {
@@ -16061,8 +16061,8 @@ const features =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        9,
-        702
+        0.22560335781741866,
+        0.6513761467889908
       ]
     },
     {
@@ -16071,8 +16071,8 @@ const features =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        2,
-        242
+        0.18782791185729275,
+        0.45642201834862384
       ]
     },
     {
@@ -16081,8 +16081,8 @@ const features =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        2,
-        180
+        0.1689401888772298,
+        0.38990825688073394
       ]
     },
     {
@@ -16091,8 +16091,8 @@ const features =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        7,
-        902
+        0.1259181532004197,
+        0.43119266055045874
       ]
     },
     {
@@ -16101,8 +16101,8 @@ const features =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        17,
-        1716
+        0.18572927597061908,
+        0.5527522935779816
       ]
     },
     {
@@ -16111,8 +16111,8 @@ const features =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        9,
-        786
+        0.1248688352570829,
+        0.3348623853211009
       ]
     },
     {
@@ -16121,8 +16121,8 @@ const features =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        4,
-        523
+        0.2528856243441763,
+        0.5137614678899083
       ]
     },
     {
@@ -16131,8 +16131,8 @@ const features =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        10,
-        1248
+        0.2675760755508919,
+        0.35091743119266056
       ]
     },
     {
@@ -16141,8 +16141,8 @@ const features =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        9,
-        1699
+        0.1825813221406086,
+        0.5160550458715596
       ]
     },
     {
@@ -16151,8 +16151,8 @@ const features =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        9,
-        630
+        0.035676810073452254,
+        0.42201834862385323
       ]
     },
     {
@@ -16161,8 +16161,8 @@ const features =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        17,
-        671
+        0.17628541448058763,
+        0.3967889908256881
       ]
     },
     {
@@ -16171,8 +16171,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        10,
-        608
+        0.22140608604407136,
+        0.268348623853211
       ]
     },
     {
@@ -16181,8 +16181,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        14,
-        805
+        0.26128016789087094,
+        0.31880733944954126
       ]
     },
     {
@@ -16191,8 +16191,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        17,
-        782
+        0.28436516264428124,
+        0.7018348623853211
       ]
     },
     {
@@ -16201,8 +16201,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        17,
-        682
+        0.2633788037775446,
+        0.694954128440367
       ]
     },
     {
@@ -16211,8 +16211,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        12,
-        388
+        0.1888772298006296,
+        0.28211009174311924
       ]
     },
     {
@@ -16221,8 +16221,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        7,
-        376
+        0.27177334732423925,
+        0.5779816513761468
       ]
     },
     {
@@ -16231,8 +16231,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        4,
-        149
+        0.2539349422875131,
+        0.6743119266055045
       ]
     },
     {
@@ -16241,8 +16241,8 @@ const features =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        16,
-        277
+        0.2570828961175236,
+        0.5665137614678899
       ]
     },
     {
@@ -16251,8 +16251,8 @@ const features =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        3,
-        203
+        0.34942287513116477,
+        0.31422018348623854
       ]
     },
     {
@@ -16261,8 +16261,8 @@ const features =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        2,
-        131
+        0.17733473242392445,
+        0.31422018348623854
       ]
     },
     {
@@ -16271,8 +16271,8 @@ const features =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        2,
-        74
+        0.2465897166841553,
+        0.5298165137614679
       ]
     },
     {
@@ -16281,8 +16281,8 @@ const features =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        3,
-        94
+        0.2570828961175236,
+        0.6903669724770642
       ]
     },
     {
@@ -16291,8 +16291,8 @@ const features =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        7,
-        151
+        0.23189926547743966,
+        0.5344036697247706
       ]
     },
     {
@@ -16301,8 +16301,8 @@ const features =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        5,
-        207
+        0.28226652675760755,
+        0.5894495412844036
       ]
     },
     {
@@ -16311,8 +16311,8 @@ const features =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        1,
-        64
+        0.09758656873032528,
+        0.31422018348623854
       ]
     },
     {
@@ -16321,8 +16321,8 @@ const features =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        4,
-        76
+        0.2193074501573977,
+        0.2958715596330275
       ]
     },
     {
@@ -16331,8 +16331,8 @@ const features =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        8,
-        501
+        0.34207764952780695,
+        0.32339449541284404
       ]
     },
     {
@@ -16341,8 +16341,8 @@ const features =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        6,
-        552
+        0.32633788037775446,
+        0.3876146788990826
       ]
     },
     {
@@ -16351,8 +16351,8 @@ const features =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        6,
-        363
+        0.2570828961175236,
+        0.6238532110091743
       ]
     },
     {
@@ -16361,8 +16361,8 @@ const features =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        5,
-        428
+        0.30535152151101785,
+        0.7408256880733946
       ]
     },
     {
@@ -16371,8 +16371,8 @@ const features =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        11,
-        447
+        0.2738719832109129,
+        0.34174311926605505
       ]
     },
     {
@@ -16381,8 +16381,8 @@ const features =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        6,
-        399
+        0.23714585519412382,
+        0.7522935779816514
       ]
     },
     {
@@ -16391,8 +16391,8 @@ const features =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        2,
-        121
+        0.16054564533053514,
+        0.44954128440366975
       ]
     },
     {
@@ -16401,8 +16401,8 @@ const features =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        3,
-        152
+        0.18048268625393493,
+        0.3853211009174312
       ]
     },
     {
@@ -16411,8 +16411,8 @@ const features =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        23,
-        1211
+        0.12696747114375656,
+        0.17889908256880735
       ]
     },
     {
@@ -16421,8 +16421,8 @@ const features =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        12,
-        454
+        0.18153200419727178,
+        0.21788990825688073
       ]
     },
     {
@@ -16431,8 +16431,8 @@ const features =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        33,
-        1491
+        0.2780692549842602,
+        0.6353211009174312
       ]
     },
     {
@@ -16441,8 +16441,8 @@ const features =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        216,
-        2618
+        0.33997901364113325,
+        0.75
       ]
     },
     {
@@ -16451,8 +16451,8 @@ const features =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        23,
-        1223
+        0.23399790136411333,
+        0.31422018348623854
       ]
     },
     {
@@ -16461,8 +16461,8 @@ const features =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        15,
-        985
+        0.2570828961175236,
+        0.42660550458715596
       ]
     },
     {
@@ -16471,8 +16471,8 @@ const features =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        9,
-        464
+        0.22560335781741866,
+        0.5275229357798165
       ]
     },
     {
@@ -16481,8 +16481,8 @@ const features =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        9,
-        524
+        0.17628541448058763,
+        0.3577981651376147
       ]
     },
     {
@@ -16491,8 +16491,8 @@ const features =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        16,
-        825
+        0.3809024134312697,
+        0.26376146788990823
       ]
     },
     {
@@ -16501,8 +16501,8 @@ const features =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        18,
-        678
+        0.30220356768100737,
+        0.23853211009174313
       ]
     },
     {
@@ -16511,8 +16511,8 @@ const features =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        9,
-        430
+        0.2161594963273872,
+        0.7798165137614679
       ]
     },
     {
@@ -16521,8 +16521,8 @@ const features =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        2,
-        195
+        0.2707240293809024,
+        0.7706422018348624
       ]
     },
     {
@@ -16531,8 +16531,8 @@ const features =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        24,
-        580
+        0.31374606505771246,
+        0.4380733944954128
       ]
     },
     {
@@ -16541,8 +16541,8 @@ const features =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        21,
-        872
+        0.28541448058761804,
+        0.1743119266055046
       ]
     },
     {
@@ -16551,8 +16551,8 @@ const features =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        6,
-        270
+        0.07869884575026233,
+        0.6903669724770642
       ]
     },
     {
@@ -16561,8 +16561,8 @@ const features =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        18,
-        557
+        0.24239244491080797,
+        0.42660550458715596
       ]
     },
     {
@@ -16571,8 +16571,8 @@ const features =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        11,
-        268
+        0.21511017838405036,
+        0.5848623853211009
       ]
     },
     {
@@ -16581,8 +16581,8 @@ const features =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        5,
-        273
+        0.3011542497376705,
+        0.6330275229357798
       ]
     },
     {
@@ -16591,8 +16591,8 @@ const features =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        19,
-        371
+        0.21825813221406087,
+        0.5802752293577982
       ]
     },
     {
@@ -16601,8 +16601,8 @@ const features =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        3,
-        171
+        0.2969569779643232,
+        0.6353211009174312
       ]
     },
     {
@@ -16611,8 +16611,8 @@ const features =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        20,
-        283
+        0.2497376705141658,
+        0.3211009174311927
       ]
     },
     {
@@ -16621,8 +16621,8 @@ const features =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        7,
-        117
+        0.18572927597061908,
+        0.20871559633027523
       ]
     },
     {
@@ -16631,8 +16631,8 @@ const features =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        5,
-        152
+        0.236096537250787,
+        0.3555045871559633
       ]
     },
     {
@@ -16641,8 +16641,8 @@ const features =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        15,
-        282
+        0.17733473242392445,
+        0.48853211009174313
       ]
     },
     {
@@ -16651,8 +16651,8 @@ const features =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        26,
-        3572
+        0.22560335781741866,
+        0.1811926605504587
       ]
     },
     {
@@ -16661,8 +16661,8 @@ const features =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        58,
-        1524
+        0.30849947534102834,
+        0.13990825688073394
       ]
     },
     {
@@ -16671,8 +16671,8 @@ const features =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        10,
-        871
+        0.2602308499475341,
+        0.6536697247706422
       ]
     },
     {
@@ -16681,8 +16681,8 @@ const features =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        21,
-        821
+        0.2528856243441763,
+        0.6467889908256881
       ]
     },
     {
@@ -16691,8 +16691,8 @@ const features =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        28,
-        1390
+        0.27492130115424973,
+        0.4541284403669725
       ]
     },
     {
@@ -16701,8 +16701,8 @@ const features =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        8,
-        1026
+        0.16789087093389296,
+        0.6146788990825688
       ]
     },
     {
@@ -16711,8 +16711,8 @@ const features =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        7,
-        628
+        0.030430220356768102,
+        0.7362385321100917
       ]
     },
     {
@@ -16721,8 +16721,8 @@ const features =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        10,
-        705
+        0.21720881427072403,
+        0.481651376146789
       ]
     },
     {
@@ -16731,8 +16731,8 @@ const features =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        19,
-        3430
+        0.31374606505771246,
+        0.27522935779816515
       ]
     },
     {
@@ -16741,8 +16741,8 @@ const features =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        4,
-        495
+        0.15739769150052466,
+        0.11697247706422019
       ]
     },
     {
@@ -16751,8 +16751,8 @@ const features =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        18,
-        2564
+        0.37145855194123817,
+        0.8371559633027523
       ]
     },
     {
@@ -16761,8 +16761,8 @@ const features =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        20,
-        4108
+        0.3578174186778594,
+        0.7637614678899083
       ]
     },
     {
@@ -16771,8 +16771,8 @@ const features =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        23,
-        1730
+        0.21511017838405036,
+        0.3577981651376147
       ]
     },
     {
@@ -16781,8 +16781,8 @@ const features =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        7,
-        1015
+        0.15005246589716684,
+        0.5825688073394495
       ]
     },
     {
@@ -16791,8 +16791,8 @@ const features =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        5,
-        1371
+        0.20776495278069254,
+        0.5573394495412844
       ]
     },
     {
@@ -16801,8 +16801,8 @@ const features =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        15,
-        618
+        0.20356768100734524,
+        0.3876146788990826
       ]
     },
     {
@@ -16811,8 +16811,8 @@ const features =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        6,
-        1138
+        0.35047219307450156,
+        0.21788990825688073
       ]
     },
     {
@@ -16821,8 +16821,8 @@ const features =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        7,
-        855
+        0.2759706190975866,
+        0.23394495412844038
       ]
     },
     {
@@ -16831,8 +16831,8 @@ const features =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        7,
-        996
+        0.25603357817418676,
+        0.6215596330275229
       ]
     },
     {
@@ -16841,8 +16841,8 @@ const features =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        5,
-        727
+        0.22770199370409233,
+        0.5848623853211009
       ]
     },
     {
@@ -16851,8 +16851,8 @@ const features =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        6,
-        900
+        0.27492130115424973,
+        0.46788990825688076
       ]
     },
     {
@@ -16861,8 +16861,8 @@ const features =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        4,
-        844
+        0.1458551941238195,
+        0.5940366972477065
       ]
     },
     {
@@ -16871,8 +16871,8 @@ const features =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        4,
-        505
+        0.10283315844700944,
+        0.5779816513761468
       ]
     },
     {
@@ -16881,8 +16881,8 @@ const features =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        3,
-        301
+        0.3011542497376705,
+        0.6834862385321101
       ]
     },
     {
@@ -16891,8 +16891,8 @@ const features =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        5,
-        522
+        0.19517313746065057,
+        0.29128440366972475
       ]
     },
     {
@@ -16901,8 +16901,8 @@ const features =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        3,
-        300
+        0.15110178384050368,
+        0.0963302752293578
       ]
     },
     {
@@ -16911,8 +16911,8 @@ const features =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        7,
-        243
+        0.09758656873032528,
+        0.2981651376146789
       ]
     },
     {
@@ -16921,8 +16921,8 @@ const features =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        5,
-        279
+        0.39664218258132217,
+        0.4541284403669725
       ]
     },
     {
@@ -16931,8 +16931,8 @@ const features =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        10,
-        526
+        0.2088142707240294,
+        0.3761467889908257
       ]
     },
     {
@@ -16941,8 +16941,8 @@ const features =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        7,
-        629
+        0.08919202518363065,
+        0.5160550458715596
       ]
     },
     {
@@ -16951,8 +16951,8 @@ const features =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        2,
-        139
+        0.048268625393494226,
+        0.3669724770642202
       ]
     },
     {
@@ -16961,8 +16961,8 @@ const features =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        2,
-        175
+        0.11227701993704092,
+        0.24311926605504589
       ]
     },
     {
@@ -16971,8 +16971,8 @@ const features =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        3,
-        493
+        0.13746065057712487,
+        0.23394495412844038
       ]
     },
     {
@@ -16981,8 +16981,8 @@ const features =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        6,
-        292
+        0.16474291710388247,
+        0.08944954128440367
       ]
     },
     {
@@ -16991,8 +16991,8 @@ const features =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        11,
-        712
+        0.2130115424973767,
+        0.37155963302752293
       ]
     },
     {
@@ -17001,8 +17001,8 @@ const features =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        2,
-        306
+        0.11857292759706191,
+        0.34174311926605505
       ]
     },
     {
@@ -17011,8 +17011,8 @@ const features =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        12,
-        563
+        0.1521511017838405,
+        0.22477064220183487
       ]
     },
     {
@@ -17021,8 +17021,8 @@ const features =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        9,
-        401
+        0.2161594963273872,
+        0.13761467889908258
       ]
     },
     {
@@ -17031,8 +17031,8 @@ const features =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        2,
-        147
+        0.07135362014690451,
+        0.3211009174311927
       ]
     },
     {
@@ -17041,8 +17041,8 @@ const features =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        4,
-        180
+        0.15634837355718784,
+        0.29357798165137616
       ]
     },
     {
@@ -17051,8 +17051,8 @@ const features =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        18,
-        972
+        0.3441762854144806,
+        0.29128440366972475
       ]
     },
     {
@@ -17061,8 +17061,8 @@ const features =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        14,
-        869
+        0.3001049317943337,
+        0.42660550458715596
       ]
     },
     {
@@ -17071,8 +17071,8 @@ const features =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        13,
-        857
+        0.3242392444910808,
+        0.591743119266055
       ]
     },
     {
@@ -17081,8 +17081,8 @@ const features =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        8,
-        700
+        0.291710388247639,
+        0.713302752293578
       ]
     },
     {
@@ -17091,8 +17091,8 @@ const features =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        31,
-        1477
+        0.3336831059811123,
+        0.4793577981651376
       ]
     },
     {
@@ -17101,8 +17101,8 @@ const features =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        10,
-        873
+        0.24134312696747115,
+        0.5389908256880734
       ]
     },
     {
@@ -17111,8 +17111,8 @@ const features =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        6,
-        540
+        0.21406086044071354,
+        0.4954128440366973
       ]
     },
     {
@@ -17121,8 +17121,8 @@ const features =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        11,
-        756
+        0.24868835257082897,
+        0.4380733944954128
       ]
     },
     {
@@ -17131,8 +17131,8 @@ const features =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        4,
-        695
+        0.25813221406086045,
+        0.2545871559633027
       ]
     },
     {
@@ -17141,8 +17141,8 @@ const features =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        5,
-        289
+        0.23189926547743966,
+        0.17889908256880735
       ]
     },
     {
@@ -17151,8 +17151,8 @@ const features =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        14,
-        828
+        0.35257082896117525,
+        0.7844036697247706
       ]
     },
     {
@@ -17161,8 +17161,8 @@ const features =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        3,
-        245
+        0.18677859391395593,
+        0.3876146788990826
       ]
     },
     {
@@ -17171,8 +17171,8 @@ const features =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        12,
-        439
+        0.24868835257082897,
+        0.3738532110091743
       ]
     },
     {
@@ -17181,8 +17181,8 @@ const features =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        7,
-        767
+        0.18467995802728226,
+        0.6490825688073395
       ]
     },
     {
@@ -17191,8 +17191,8 @@ const features =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        3,
-        246
+        0.05246589716684155,
+        0.5160550458715596
       ]
     },
     {
@@ -17201,8 +17201,8 @@ const features =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        6,
-        199
+        0.15110178384050368,
+        0.28211009174311924
       ]
     },
     {
@@ -17211,8 +17211,8 @@ const features =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        15,
-        720
+        0.16789087093389296,
+        0.1811926605504587
       ]
     },
     {
@@ -17221,8 +17221,8 @@ const features =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        8,
-        383
+        0.316894018887723,
+        0.6192660550458715
       ]
     },
     {
@@ -17231,8 +17231,8 @@ const features =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        13,
-        356
+        0.3273871983210913,
+        0.3073394495412844
       ]
     },
     {
@@ -17241,8 +17241,8 @@ const features =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        15,
-        352
+        0.35257082896117525,
+        0.7522935779816514
       ]
     },
     {
@@ -17251,8 +17251,8 @@ const features =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        38,
-        602
+        0.2675760755508919,
+        0.46559633027522934
       ]
     },
     {
@@ -17261,8 +17261,8 @@ const features =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        30,
-        831
+        0.35991605456453307,
+        0.7591743119266054
       ]
     },
     {
@@ -17271,8 +17271,8 @@ const features =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        30,
-        513
+        0.2969569779643232,
+        0.731651376146789
       ]
     },
     {
@@ -17281,8 +17281,8 @@ const features =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        16,
-        386
+        0.25078698845750264,
+        0.5458715596330275
       ]
     },
     {
@@ -17291,8 +17291,8 @@ const features =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        11,
-        1612
+        0.32214060860440713,
+        0.3669724770642202
       ]
     },
     {
@@ -17301,8 +17301,8 @@ const features =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        17,
-        1047
+        0.23294858342077648,
+        0.21559633027522937
       ]
     },
     {
@@ -17311,8 +17311,8 @@ const features =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        9,
-        771
+        0.1794333683105981,
+        0.3876146788990826
       ]
     },
     {
@@ -17321,8 +17321,8 @@ const features =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        11,
-        512
+        0.25603357817418676,
+        0.6903669724770642
       ]
     },
     {
@@ -17331,8 +17331,8 @@ const features =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        35,
-        1338
+        0.30640083945435465,
+        0.3394495412844037
       ]
     },
     {
@@ -17341,8 +17341,8 @@ const features =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        21,
-        1341
+        0.3074501573976915,
+        0.5711009174311926
       ]
     },
     {
@@ -17351,8 +17351,8 @@ const features =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        8,
-        223
+        0.080797481636936,
+        0.28211009174311924
       ]
     },
     {
@@ -17361,8 +17361,8 @@ const features =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        24,
-        1419
+        0.3462749213011542,
+        0.7844036697247706
       ]
     },
     {
@@ -17371,8 +17371,8 @@ const features =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        22,
-        1394
+        0.32948583420776495,
+        0.23853211009174313
       ]
     },
     {
@@ -17381,8 +17381,8 @@ const features =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        4,
-        198
+        0.1248688352570829,
+        0.13302752293577982
       ]
     },
     {
@@ -17391,8 +17391,8 @@ const features =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        3,
-        193
+        0.07240293809024134,
+        0.3348623853211009
       ]
     },
     {
@@ -17401,8 +17401,8 @@ const features =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        3,
-        131
+        0.19202518363064008,
+        0.44036697247706424
       ]
     },
     {
@@ -17411,8 +17411,8 @@ const features =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        9,
-        398
+        0.1626442812172088,
+        0.26146788990825687
       ]
     },
     {
@@ -17421,8 +17421,8 @@ const features =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        15,
-        358
+        0.22560335781741866,
+        0.21559633027522937
       ]
     },
     {
@@ -17431,8 +17431,8 @@ const features =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        4,
-        142
+        0.23504721930745015,
+        0.2018348623853211
       ]
     },
     {
@@ -17441,8 +17441,8 @@ const features =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        14,
-        633
+        0.2644281217208814,
+        0.713302752293578
       ]
     },
     {
@@ -17451,8 +17451,8 @@ const features =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        14,
-        1721
+        0.3651626442812172,
+        0.20642201834862386
       ]
     },
     {
@@ -17461,8 +17461,8 @@ const features =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        13,
-        1463
+        0.22140608604407136,
+        0.22706422018348624
       ]
     },
     {
@@ -17471,8 +17471,8 @@ const features =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        16,
-        792
+        0.32633788037775446,
+        0.5298165137614679
       ]
     },
     {
@@ -17481,8 +17481,8 @@ const features =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        16,
-        807
+        0.3074501573976915,
+        0.8188073394495413
       ]
     },
     {
@@ -17491,8 +17491,8 @@ const features =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        24,
-        1856
+        0.3336831059811123,
+        0.4380733944954128
       ]
     },
     {
@@ -17501,8 +17501,8 @@ const features =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        27,
-        2075
+        0.3756558237145855,
+        0.3348623853211009
       ]
     },
     {
@@ -17511,8 +17511,8 @@ const features =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        7,
-        593
+        0.02833158447009444,
+        0.3440366972477064
       ]
     },
     {
@@ -17521,8 +17521,8 @@ const features =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        5,
-        432
+        0.23399790136411333,
+        0.6169724770642202
       ]
     },
     {
@@ -17531,8 +17531,8 @@ const features =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        4,
-        413
+        0.3410283315844701,
+        0.3577981651376147
       ]
     },
     {
@@ -17541,8 +17541,8 @@ const features =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        6,
-        266
+        0.26652675760755506,
+        0.25229357798165136
       ]
     },
     {
@@ -17551,8 +17551,8 @@ const features =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        4,
-        244
+        0.3095487932843652,
+        0.5848623853211009
       ]
     },
     {
@@ -17561,8 +17561,8 @@ const features =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        5,
-        428
+        0.2812172088142707,
+        0.7064220183486238
       ]
     },
     {
@@ -17571,8 +17571,8 @@ const features =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        32,
-        567
+        0.3200419727177335,
+        0.47477064220183485
       ]
     },
     {
@@ -17581,8 +17581,8 @@ const features =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        7,
-        434
+        0.3200419727177335,
+        0.3394495412844037
       ]
     },
     {
@@ -17591,8 +17591,8 @@ const features =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        6,
-        313
+        0.22875131164742918,
+        0.4151376146788991
       ]
     },
     {
@@ -17601,8 +17601,8 @@ const features =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        14,
-        545
+        0.3210912906610703,
+        0.5986238532110092
       ]
     },
     {
@@ -17611,8 +17611,8 @@ const features =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        3,
-        527
+        0.310598111227702,
+        0.44724770642201833
       ]
     },
     {
@@ -17621,8 +17621,8 @@ const features =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        14,
-        244
+        0.24344176285414482,
+        0.1536697247706422
       ]
     },
     {
@@ -17631,8 +17631,8 @@ const features =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        9,
-        416
+        0.3095487932843652,
+        0.48394495412844035
       ]
     },
     {
@@ -17641,8 +17641,8 @@ const features =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        1,
-        168
+        0.17733473242392445,
+        0.5848623853211009
       ]
     },
     {
@@ -17651,8 +17651,8 @@ const features =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        9,
-        393
+        0.24449108079748164,
+        0.25688073394495414
       ]
     },
     {
@@ -17661,8 +17661,8 @@ const features =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        6,
-        264
+        0.2728226652675761,
+        0.5344036697247706
       ]
     },
     {
@@ -17671,8 +17671,8 @@ const features =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        5,
-        218
+        0.07240293809024134,
+        0.5642201834862385
       ]
     },
     {
@@ -17681,8 +17681,8 @@ const features =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        4,
-        118
+        0.16998950682056663,
+        0.3256880733944954
       ]
     },
     {
@@ -17691,8 +17691,8 @@ const features =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        12,
-        1018
+        0.3462749213011542,
+        0.22477064220183487
       ]
     },
     {
@@ -17701,8 +17701,8 @@ const features =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        4,
-        479
+        0.25498426023084997,
+        0.11009174311926606
       ]
     },
     {
@@ -17711,8 +17711,8 @@ const features =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        4,
-        486
+        0.2644281217208814,
+        0.6055045871559633
       ]
     },
     {
@@ -17721,8 +17721,8 @@ const features =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        11,
-        403
+        0.14480587618048268,
+        0.5
       ]
     },
     {
@@ -17731,8 +17731,8 @@ const features =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        5,
-        539
+        0.21720881427072403,
+        0.32339449541284404
       ]
     },
     {
@@ -17741,8 +17741,8 @@ const features =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        10,
-        1109
+        0.34942287513116477,
+        0.18807339449541285
       ]
     },
     {
@@ -17751,8 +17751,8 @@ const features =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        4,
-        330
+        0.017838405036726127,
+        0.5711009174311926
       ]
     },
     {
@@ -17761,8 +17761,8 @@ const features =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        4,
-        484
+        0.23714585519412382,
+        0.5458715596330275
       ]
     },
     {
@@ -17771,8 +17771,8 @@ const features =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        12,
-        710
+        0.3378803777544596,
+        0.2018348623853211
       ]
     },
     {
@@ -17781,8 +17781,8 @@ const features =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        10,
-        743
+        0.3095487932843652,
+        0.4059633027522936
       ]
     },
     {
@@ -17791,8 +17791,8 @@ const features =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        18,
-        877
+        0.36096537250786986,
+        0.555045871559633
       ]
     },
     {
@@ -17801,8 +17801,8 @@ const features =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        6,
-        912
+        0.28541448058761804,
+        0.731651376146789
       ]
     },
     {
@@ -17811,8 +17811,8 @@ const features =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        22,
-        894
+        0.29485834207764955,
+        0.42201834862385323
       ]
     },
     {
@@ -17821,8 +17821,8 @@ const features =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        24,
-        751
+        0.3683105981112277,
+        0.21788990825688073
       ]
     },
     {
@@ -17831,8 +17831,8 @@ const features =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        10,
-        326
+        0.11437565582371459,
+        0.6720183486238532
       ]
     },
     {
@@ -17841,8 +17841,8 @@ const features =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        31,
-        1372
+        0.30325288562434416,
+        0.6536697247706422
       ]
     },
     {
@@ -17851,8 +17851,8 @@ const features =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        8,
-        707
+        0.23294858342077648,
+        0.19036697247706422
       ]
     },
     {
@@ -17861,8 +17861,8 @@ const features =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        3,
-        394
+        0.2518363064008394,
+        0.231651376146789
       ]
     },
     {
@@ -17871,8 +17871,8 @@ const features =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        21,
-        905
+        0.18363064008394545,
+        0.5
       ]
     },
     {
@@ -17881,8 +17881,8 @@ const features =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        3,
-        358
+        0.16054564533053514,
+        0.4908256880733945
       ]
     },
     {
@@ -17891,8 +17891,8 @@ const features =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        8,
-        494
+        0.16054564533053514,
+        0.2545871559633027
       ]
     },
     {
@@ -17901,8 +17901,8 @@ const features =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        13,
-        1002
+        0.2203567681007345,
+        0.5619266055045872
       ]
     },
     {
@@ -17911,8 +17911,8 @@ const features =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        2,
-        335
+        0.14795383001049317,
+        0.45642201834862384
       ]
     },
     {
@@ -17921,8 +17921,8 @@ const features =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        8,
-        655
+        0.17733473242392445,
+        0.3876146788990826
       ]
     },
     {
@@ -17931,8 +17931,8 @@ const features =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        10,
-        944
+        0.17418677859391396,
+        0.22706422018348624
       ]
     },
     {
@@ -17941,8 +17941,8 @@ const features =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        24,
-        1191
+        0.15739769150052466,
+        0.1743119266055046
       ]
     },
     {
@@ -17951,8 +17951,8 @@ const features =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        9,
-        1176
+        0.24554039874081846,
+        0.6674311926605505
       ]
     },
     {
@@ -17961,8 +17961,8 @@ const features =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        6,
-        2261
+        0.2738719832109129,
+        0.694954128440367
       ]
     },
     {
@@ -17971,8 +17971,8 @@ const features =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        27,
-        1822
+        0.14270724029380902,
+        0.25
       ]
     },
     {
@@ -17981,8 +17981,8 @@ const features =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        23,
-        2273
+        0.2465897166841553,
+        0.5894495412844036
       ]
     },
     {
@@ -17991,8 +17991,8 @@ const features =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        9,
-        1279
+        0.22875131164742918,
+        0.5
       ]
     },
     {
@@ -18001,8 +18001,8 @@ const features =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        21,
-        1241
+        0.33683105981112277,
+        0.2775229357798165
       ]
     },
     {
@@ -18011,8 +18011,8 @@ const features =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        1,
-        232
+        0.21091290661070305,
+        0.33256880733944955
       ]
     },
     {
@@ -18021,8 +18021,8 @@ const features =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        3,
-        400
+        0.3242392444910808,
+        0.14678899082568808
       ]
     },
     {
@@ -18031,8 +18031,8 @@ const features =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        6,
-        548
+        0.3389296956977964,
+        0.5389908256880734
       ]
     },
     {
@@ -18041,8 +18041,8 @@ const features =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        1,
-        380
+        0.18048268625393493,
+        0.4426605504587156
       ]
     },
     {
@@ -18051,8 +18051,8 @@ const features =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        7,
-        413
+        0.10912906610703044,
+        0.09174311926605505
       ]
     },
     {
@@ -18061,8 +18061,8 @@ const features =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        11,
-        601
+        0.28541448058761804,
+        0.5458715596330275
       ]
     },
     {
@@ -18071,8 +18071,8 @@ const features =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        4,
-        215
+        0.016789087093389297,
+        0.44036697247706424
       ]
     },
     {
@@ -18081,8 +18081,8 @@ const features =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        12,
-        384
+        0.17523609653725078,
+        0.3211009174311927
       ]
     },
     {
@@ -18091,8 +18091,8 @@ const features =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        19,
-        753
+        0.3001049317943337,
+        0.4380733944954128
       ]
     },
     {
@@ -18101,8 +18101,8 @@ const features =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        10,
-        461
+        0.23819517313746066,
+        0.32339449541284404
       ]
     },
     {
@@ -18111,8 +18111,8 @@ const features =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        6,
-        300
+        0.1731374606505771,
+        0.48394495412844035
       ]
     },
     {
@@ -18121,8 +18121,8 @@ const features =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        1,
-        232
+        0.304302203567681,
+        0.6307339449541285
       ]
     },
     {
@@ -18131,8 +18131,8 @@ const features =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        6,
-        235
+        0.2833158447009444,
+        0.4036697247706422
       ]
     },
     {
@@ -18141,8 +18141,8 @@ const features =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        7,
-        422
+        0.15320041972717732,
+        0.6330275229357798
       ]
     },
     {
@@ -18151,8 +18151,8 @@ const features =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        4,
-        217
+        0.25078698845750264,
+        0.3577981651376147
       ]
     },
     {
@@ -18161,8 +18161,8 @@ const features =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        19,
-        484
+        0.24763903462749212,
+        0.463302752293578
       ]
     },
     {
@@ -18171,8 +18171,8 @@ const features =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        11,
-        825
+        0.3095487932843652,
+        0.2981651376146789
       ]
     },
     {
@@ -18181,8 +18181,8 @@ const features =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        4,
-        328
+        0.10598111227701994,
+        0.12614678899082568
       ]
     },
     {
@@ -18191,8 +18191,8 @@ const features =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        9,
-        598
+        0.2518363064008394,
+        0.3669724770642202
       ]
     },
     {
@@ -18201,8 +18201,8 @@ const features =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        4,
-        295
+        0.2602308499475341,
+        0.5711009174311926
       ]
     },
     {
@@ -18211,8 +18211,8 @@ const features =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        12,
-        546
+        0.291710388247639,
+        0.3761467889908257
       ]
     },
     {
@@ -18221,8 +18221,8 @@ const features =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        18,
-        1311
+        0.3315844700944386,
+        0.7545871559633027
       ]
     },
     {
@@ -18231,8 +18231,8 @@ const features =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        5,
-        235
+        0.11752360965372508,
+        0.29128440366972475
       ]
     },
     {
@@ -18241,8 +18241,8 @@ const features =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        12,
-        443
+        0.17523609653725078,
+        0.42201834862385323
       ]
     },
     {
@@ -18251,8 +18251,8 @@ const features =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        5,
-        766
+        0.3126967471143757,
+        0.22018348623853212
       ]
     },
     {
@@ -18261,8 +18261,8 @@ const features =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        3,
-        321
+        0.23399790136411333,
+        0.2018348623853211
       ]
     },
     {
@@ -18271,8 +18271,8 @@ const features =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        25,
-        575
+        0.304302203567681,
+        0.3922018348623853
       ]
     },
     {
@@ -18281,8 +18281,8 @@ const features =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        3,
-        308
+        0.23399790136411333,
+        0.7178899082568807
       ]
     },
     {
@@ -18291,8 +18291,8 @@ const features =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        12,
-        252
+        0.2602308499475341,
+        0.33256880733944955
       ]
     },
     {
@@ -18301,8 +18301,8 @@ const features =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        10,
-        637
+        0.17523609653725078,
+        0.5206422018348624
       ]
     },
     {
@@ -18311,8 +18311,8 @@ const features =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        8,
-        266
+        0.13641133263378805,
+        0.2706422018348624
       ]
     },
     {
@@ -18321,8 +18321,8 @@ const features =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        10,
-        431
+        0.17418677859391396,
+        0.6422018348623854
       ]
     },
     {
@@ -18331,8 +18331,8 @@ const features =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        4,
-        804
+        0.2570828961175236,
+        0.20871559633027523
       ]
     },
     {
@@ -18341,8 +18341,8 @@ const features =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        7,
-        709
+        0.1720881427072403,
+        0.1926605504587156
       ]
     },
     {
@@ -18351,8 +18351,8 @@ const features =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        9,
-        758
+        0.14480587618048268,
+        0.36009174311926606
       ]
     },
     {
@@ -18361,8 +18361,8 @@ const features =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        97,
-        2081
+        0.19622245540398742,
+        0.5825688073394495
       ]
     },
     {
@@ -18371,8 +18371,8 @@ const features =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        9,
-        728
+        0.14480587618048268,
+        0.2706422018348624
       ]
     },
     {
@@ -18381,8 +18381,8 @@ const features =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        7,
-        1190
+        0.25498426023084997,
+        0.3119266055045872
       ]
     },
     {
@@ -18391,8 +18391,8 @@ const features =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        9,
-        618
+        0.1385099685204617,
+        0.27293577981651373
       ]
     },
     {
@@ -18401,8 +18401,8 @@ const features =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        14,
-        985
+        0.18467995802728226,
+        0.41284403669724773
       ]
     },
     {
@@ -18411,8 +18411,8 @@ const features =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        3,
-        549
+        0.32214060860440713,
+        0.31422018348623854
       ]
     },
     {
@@ -18421,8 +18421,8 @@ const features =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        5,
-        520
+        0.30535152151101785,
+        0.29128440366972475
       ]
     },
     {
@@ -18431,8 +18431,8 @@ const features =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        11,
-        610
+        0.24239244491080797,
+        0.5711009174311926
       ]
     },
     {
@@ -18441,8 +18441,8 @@ const features =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        3,
-        421
+        0.2801678908709339,
+        0.7385321100917431
       ]
     },
     {
@@ -18451,8 +18451,8 @@ const features =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        16,
-        805
+        0.3410283315844701,
+        0.4105504587155963
       ]
     },
     {
@@ -18461,8 +18461,8 @@ const features =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        16,
-        1070
+        0.15949632738719832,
+        0.7568807339449541
       ]
     },
     {
@@ -18471,8 +18471,8 @@ const features =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        4,
-        263
+        0.20566631689401887,
+        0.0779816513761468
       ]
     },
     {
@@ -18481,8 +18481,8 @@ const features =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        34,
-        579
+        0.32948583420776495,
+        0.4908256880733945
       ]
     },
     {
@@ -18491,8 +18491,8 @@ const features =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        21,
-        1236
+        0.2759706190975866,
+        0.2018348623853211
       ]
     },
     {
@@ -18501,8 +18501,8 @@ const features =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        6,
-        303
+        0.15739769150052466,
+        0.21788990825688073
       ]
     },
     {
@@ -18511,8 +18511,8 @@ const features =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        14,
-        790
+        0.30640083945435465,
+        0.3922018348623853
       ]
     },
     {
@@ -18521,8 +18521,8 @@ const features =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        6,
-        572
+        0.2728226652675761,
+        0.5481651376146789
       ]
     },
     {
@@ -18531,8 +18531,8 @@ const features =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        29,
-        1503
+        0.2025183630640084,
+        0.3394495412844037
       ]
     },
     {
@@ -18541,8 +18541,8 @@ const features =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        12,
-        877
+        0.17103882476390347,
+        0.5596330275229358
       ]
     },
     {
@@ -18551,8 +18551,8 @@ const features =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        10,
-        542
+        0.3252885624344176,
+        0.5321100917431193
       ]
     },
     {
@@ -18561,8 +18561,8 @@ const features =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        19,
-        612
+        0.2130115424973767,
+        0.43577981651376146
       ]
     },
     {
@@ -18571,8 +18571,8 @@ const features =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        9,
-        613
+        0.25813221406086045,
+        0.23853211009174313
       ]
     },
     {
@@ -18581,8 +18581,8 @@ const features =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        3,
-        297
+        0.12696747114375656,
+        0.08486238532110092
       ]
     },
     {
@@ -18591,8 +18591,8 @@ const features =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        3,
-        349
+        0.15320041972717732,
+        0.33715596330275227
       ]
     },
     {
@@ -18601,8 +18601,8 @@ const features =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        28,
-        425
+        0.11962224554039874,
+        0.48853211009174313
       ]
     },
     {
@@ -18611,8 +18611,8 @@ const features =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        18,
-        708
+        0.2266526757607555,
+        0.26146788990825687
       ]
     },
     {
@@ -18621,8 +18621,8 @@ const features =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        5,
-        835
+        0.08394543546694648,
+        0.5412844036697247
       ]
     },
     {
@@ -18631,8 +18631,8 @@ const features =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        2,
-        237
+        0,
+        0.36009174311926606
       ]
     },
     {
@@ -18641,8 +18641,8 @@ const features =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        20,
-        445
+        0.1458551941238195,
+        0.29357798165137616
       ]
     },
     {
@@ -18651,8 +18651,8 @@ const features =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        25,
-        1899
+        0.3001049317943337,
+        0.21330275229357798
       ]
     },
     {
@@ -18661,8 +18661,8 @@ const features =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        23,
-        1735
+        0.29275970619097585,
+        0.34174311926605505
       ]
     },
     {
@@ -18671,8 +18671,8 @@ const features =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        32,
-        2860
+        0.25813221406086045,
+        0.5114678899082569
       ]
     },
     {
@@ -18681,8 +18681,8 @@ const features =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        10,
-        594
+        0.23714585519412382,
+        0.7522935779816514
       ]
     },
     {
@@ -18691,8 +18691,8 @@ const features =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        46,
-        4796
+        0.34312696747114374,
+        0.4426605504587156
       ]
     },
     {
@@ -18701,8 +18701,8 @@ const features =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        20,
-        1946
+        0.161594963273872,
+        0.7775229357798165
       ]
     },
     {
@@ -18711,8 +18711,8 @@ const features =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        10,
-        1268
+        0.09233997901364113,
+        0.2545871559633027
       ]
     },
     {
@@ -18721,8 +18721,8 @@ const features =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        13,
-        1407
+        0.2675760755508919,
+        0.36009174311926606
       ]
     },
     {
@@ -18731,8 +18731,8 @@ const features =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        11,
-        1515
+        0.3483735571878279,
+        0.4724770642201835
       ]
     },
     {
@@ -18741,8 +18741,8 @@ const features =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        13,
-        1057
+        0.26128016789087094,
+        0.3440366972477064
       ]
     },
     {
@@ -18751,8 +18751,8 @@ const features =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        12,
-        555
+        0.27177334732423925,
+        0.45642201834862384
       ]
     },
     {
@@ -18761,8 +18761,8 @@ const features =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        5,
-        486
+        0.3011542497376705,
+        0.7178899082568807
       ]
     },
     {
@@ -18771,8 +18771,8 @@ const features =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        19,
-        1316
+        0.28961175236096537,
+        0.5137614678899083
       ]
     },
     {
@@ -18781,8 +18781,8 @@ const features =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        8,
-        1225
+        0.2969569779643232,
+        0.6903669724770642
       ]
     },
     {
@@ -18791,8 +18791,8 @@ const features =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        1,
-        485
+        0.28961175236096537,
+        0.6788990825688074
       ]
     },
     {
@@ -18801,8 +18801,8 @@ const features =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        8,
-        601
+        0.22560335781741866,
+        0.481651376146789
       ]
     },
     {
@@ -18811,8 +18811,8 @@ const features =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        20,
-        769
+        0.21196222455403987,
+        0.13761467889908258
       ]
     },
     {
@@ -18821,8 +18821,8 @@ const features =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        50,
-        1118
+        0.33263378803777544,
+        0.26146788990825687
       ]
     },
     {
@@ -18831,8 +18831,8 @@ const features =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        8,
-        381
+        0.3011542497376705,
+        0.4013761467889908
       ]
     },
     {
@@ -18841,8 +18841,8 @@ const features =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        3,
-        319
+        0.24344176285414482,
+        0.6995412844036697
       ]
     },
     {
@@ -18851,8 +18851,8 @@ const features =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        31,
-        1213
+        0.2161594963273872,
+        0.19954128440366972
       ]
     },
     {
@@ -18861,8 +18861,8 @@ const features =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        30,
-        1752
+        0.3620146904512067,
+        0.26605504587155965
       ]
     },
     {
@@ -18871,8 +18871,8 @@ const features =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        6,
-        372
+        0.1322140608604407,
+        0.24311926605504589
       ]
     },
     {
@@ -18881,8 +18881,8 @@ const features =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        11,
-        277
+        0.2025183630640084,
+        0.4013761467889908
       ]
     },
     {
@@ -18891,8 +18891,8 @@ const features =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        8,
-        1091
+        0.2203567681007345,
+        0.4197247706422018
       ]
     },
     {
@@ -18901,8 +18901,8 @@ const features =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        4,
-        394
+        0.3336831059811123,
+        0.3119266055045872
       ]
     },
     {
@@ -18911,8 +18911,8 @@ const features =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        13,
-        448
+        0.29590766002098634,
+        0.7087155963302753
       ]
     },
     {
@@ -18921,8 +18921,8 @@ const features =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        2,
-        307
+        0.23714585519412382,
+        0.7614678899082569
       ]
     },
     {
@@ -18931,8 +18931,8 @@ const features =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        6,
-        305
+        0.2990556138509968,
+        0.4197247706422018
       ]
     },
     {
@@ -18941,8 +18941,8 @@ const features =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        6,
-        552
+        0.24868835257082897,
+        0.42660550458715596
       ]
     },
     {
@@ -18951,8 +18951,8 @@ const features =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        3,
-        212
+        0.2130115424973767,
+        0.42201834862385323
       ]
     },
     {
@@ -18961,8 +18961,8 @@ const features =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        10,
-        206
+        0.19832109129066108,
+        0.3555045871559633
       ]
     },
     {
@@ -18971,8 +18971,8 @@ const features =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        4,
-        974
+        0.3410283315844701,
+        0.6903669724770642
       ]
     },
     {
@@ -18981,8 +18981,8 @@ const features =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        4,
-        850
+        0.3252885624344176,
+        0.7752293577981652
       ]
     },
     {
@@ -18991,8 +18991,8 @@ const features =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        7,
-        866
+        0.3483735571878279,
+        0.8004587155963303
       ]
     },
     {
@@ -19001,8 +19001,8 @@ const features =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        9,
-        435
+        0.32633788037775446,
+        0.7981651376146789
       ]
     },
     {
@@ -19011,8 +19011,8 @@ const features =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        12,
-        386
+        0.27911857292759706,
+        0.7155963302752294
       ]
     },
     {
@@ -19021,8 +19021,8 @@ const features =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        10,
-        599
+        0.3483735571878279,
+        0.8509174311926605
       ]
     },
     {
@@ -19031,8 +19031,8 @@ const features =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        9,
-        985
+        0.34207764952780695,
+        0.8279816513761468
       ]
     },
     {
@@ -19041,8 +19041,8 @@ const features =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        20,
-        660
+        0.3483735571878279,
+        0.805045871559633
       ]
     },
     {
@@ -19051,8 +19051,8 @@ const features =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        38,
-        519
+        0.3588667366211962,
+        0.5160550458715596
       ]
     },
     {
@@ -19061,8 +19061,8 @@ const features =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        22,
-        205
+        0.3473242392444911,
+        0.41743119266055045
       ]
     },
     {
@@ -19071,8 +19071,8 @@ const features =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        25,
-        457
+        0.38195173137460653,
+        0.5160550458715596
       ]
     },
     {
@@ -19081,8 +19081,8 @@ const features =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        16,
-        296
+        0.2833158447009444,
+        0.6926605504587156
       ]
     },
     {
@@ -19091,8 +19091,8 @@ const features =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        9,
-        242
+        0.2696747114375656,
+        0.25229357798165136
       ]
     },
     {
@@ -19101,8 +19101,8 @@ const features =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        22,
-        518
+        0.36306400839454356,
+        0.37155963302752293
       ]
     },
     {
@@ -19111,8 +19111,8 @@ const features =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        8,
-        125
+        0.27492130115424973,
+        0.3876146788990826
       ]
     },
     {
@@ -19121,8 +19121,8 @@ const features =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        38,
-        392
+        0.32948583420776495,
+        0.5573394495412844
       ]
     },
     {
@@ -19131,8 +19131,8 @@ const features =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        57,
-        3954
+        0.3389296956977964,
+        0.731651376146789
       ]
     },
     {
@@ -19141,8 +19141,8 @@ const features =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        16,
-        1076
+        0.16684155299055614,
+        0.7155963302752294
       ]
     },
     {
@@ -19151,8 +19151,8 @@ const features =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        67,
-        2825
+        0.3955928646379853,
+        0.8463302752293578
       ]
     },
     {
@@ -19161,8 +19161,8 @@ const features =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        33,
-        1385
+        0.3861490031479538,
+        0.7752293577981652
       ]
     },
     {
@@ -19171,8 +19171,8 @@ const features =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        35,
-        1388
+        0.316894018887723,
+        0.4426605504587156
       ]
     },
     {
@@ -19181,8 +19181,8 @@ const features =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        17,
-        944
+        0.30535152151101785,
+        0.8073394495412844
       ]
     },
     {
@@ -19191,8 +19191,8 @@ const features =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        36,
-        1527
+        0.2906610703043022,
+        0.6009174311926605
       ]
     },
     {
@@ -19201,8 +19201,8 @@ const features =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        19,
-        1104
+        0.22350472193074503,
+        0.5206422018348624
       ]
     },
     {
@@ -19211,8 +19211,8 @@ const features =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        7,
-        267
+        0.30640083945435465,
+        0.2775229357798165
       ]
     },
     {
@@ -19221,8 +19221,8 @@ const features =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        12,
-        180
+        0.2623294858342078,
+        0.20412844036697247
       ]
     },
     {
@@ -19231,8 +19231,8 @@ const features =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        15,
-        189
+        0.24763903462749212,
+        0.5619266055045872
       ]
     },
     {
@@ -19241,8 +19241,8 @@ const features =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        3,
-        144
+        0.30220356768100737,
+        0.75
       ]
     },
     {
@@ -19251,8 +19251,8 @@ const features =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        22,
-        282
+        0.3200419727177335,
+        0.38073394495412843
       ]
     },
     {
@@ -19261,8 +19261,8 @@ const features =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        18,
-        417
+        0.34312696747114374,
+        0.7018348623853211
       ]
     },
     {
@@ -19271,8 +19271,8 @@ const features =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        8,
-        113
+        0.11017838405036726,
+        0.5596330275229358
       ]
     },
     {
@@ -19281,8 +19281,8 @@ const features =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        14,
-        137
+        0.25498426023084997,
+        0.49311926605504586
       ]
     },
     {
@@ -19291,8 +19291,8 @@ const features =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        10,
-        881
+        0.24449108079748164,
+        0.3394495412844037
       ]
     },
     {
@@ -19301,8 +19301,8 @@ const features =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        3,
-        221
+        0.1248688352570829,
+        0.1536697247706422
       ]
     },
     {
@@ -19311,8 +19311,8 @@ const features =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        9,
-        508
+        0.13746065057712487,
+        0.44954128440366975
       ]
     },
     {
@@ -19321,8 +19321,8 @@ const features =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        9,
-        508
+        0.12906610703043023,
+        0.5619266055045872
       ]
     },
     {
@@ -19331,8 +19331,8 @@ const features =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        8,
-        387
+        0.1657922350472193,
+        0.21330275229357798
       ]
     },
     {
@@ -19341,8 +19341,8 @@ const features =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        15,
-        755
+        0.08394543546694648,
+        0.48394495412844035
       ]
     },
     {
@@ -19351,8 +19351,8 @@ const features =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        5,
-        239
+        0.01888772298006296,
+        0.5389908256880734
       ]
     },
     {
@@ -19361,8 +19361,8 @@ const features =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        6,
-        207
+        0.1521511017838405,
+        0.4724770642201835
       ]
     },
     {
@@ -19371,8 +19371,8 @@ const features =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        2,
-        197
+        0.20671563483735572,
+        0.4059633027522936
       ]
     },
     {
@@ -19381,8 +19381,8 @@ const features =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        4,
-        343
+        0.2633788037775446,
+        0.3646788990825688
       ]
     },
     {
@@ -19391,8 +19391,8 @@ const features =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        27,
-        693
+        0.29275970619097585,
+        0.555045871559633
       ]
     },
     {
@@ -19401,8 +19401,8 @@ const features =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        20,
-        562
+        0.3672612801678909,
+        0.8302752293577982
       ]
     },
     {
@@ -19411,8 +19411,8 @@ const features =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        35,
-        927
+        0.2969569779643232,
+        0.4724770642201835
       ]
     },
     {
@@ -19421,8 +19421,8 @@ const features =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        18,
-        916
+        0.19412381951731375,
+        0.7844036697247706
       ]
     },
     {
@@ -19431,8 +19431,8 @@ const features =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        15,
-        412
+        0.2518363064008394,
+        0.41284403669724773
       ]
     },
     {
@@ -19441,8 +19441,8 @@ const features =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        8,
-        411
+        0.23399790136411333,
+        0.5091743119266054
       ]
     },
     {
@@ -19451,8 +19451,8 @@ const features =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        12,
-        772
+        0.2539349422875131,
+        0.268348623853211
       ]
     },
     {
@@ -19461,8 +19461,8 @@ const features =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        16,
-        652
+        0.28961175236096537,
+        0.3302752293577982
       ]
     },
     {
@@ -19471,8 +19471,8 @@ const features =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        28,
-        913
+        0.3336831059811123,
+        0.3967889908256881
       ]
     },
     {
@@ -19481,8 +19481,8 @@ const features =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        13,
-        511
+        0.31899265477439664,
+        0.6077981651376146
       ]
     },
     {
@@ -19491,8 +19491,8 @@ const features =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        18,
-        806
+        0.3357817418677859,
+        0.3967889908256881
       ]
     },
     {
@@ -19501,8 +19501,8 @@ const features =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        13,
-        859
+        0.24344176285414482,
+        0.7798165137614679
       ]
     },
     {
@@ -19511,8 +19511,8 @@ const features =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        7,
-        470
+        0.22875131164742918,
+        0.6559633027522935
       ]
     },
     {
@@ -19521,8 +19521,8 @@ const features =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        12,
-        557
+        0.10178384050367262,
+        0.5229357798165137
       ]
     },
     {
@@ -19531,8 +19531,8 @@ const features =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        7,
-        325
+        0.1825813221406086,
+        0.27522935779816515
       ]
     },
     {
@@ -19541,8 +19541,8 @@ const features =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        7,
-        367
+        0.20041972717733472,
+        0.20412844036697247
       ]
     },
     {
@@ -19551,8 +19551,8 @@ const features =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        12,
-        362
+        0.0776495278069255,
+        0.44495412844036697
       ]
     },
     {
@@ -19561,8 +19561,8 @@ const features =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        3,
-        189
+        0.1720881427072403,
+        0.6192660550458715
       ]
     },
     {
@@ -19571,8 +19571,8 @@ const features =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        12,
-        468
+        0.2193074501573977,
+        0.3394495412844037
       ]
     },
     {
@@ -19581,8 +19581,8 @@ const features =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        7,
-        395
+        0.316894018887723,
+        0.286697247706422
       ]
     },
     {
@@ -19591,8 +19591,8 @@ const features =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        3,
-        154
+        0.03777544596012592,
+        0.43577981651376146
       ]
     },
     {
@@ -19601,8 +19601,8 @@ const features =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        11,
-        149
+        0.12381951731374606,
+        0.25
       ]
     },
     {
@@ -19611,8 +19611,8 @@ const features =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        3,
-        245
+        0.23294858342077648,
+        0.2706422018348624
       ]
     },
     {
@@ -19621,8 +19621,8 @@ const features =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        2,
-        148
+        0.291710388247639,
+        0.16743119266055045
       ]
     },
     {
@@ -19631,8 +19631,8 @@ const features =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        1,
-        124
+        0.17418677859391396,
+        0.6146788990825688
       ]
     },
     {
@@ -19641,8 +19641,8 @@ const features =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        1,
-        113
+        0.2203567681007345,
+        0.6399082568807339
       ]
     },
     {
@@ -19651,8 +19651,8 @@ const features =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        4,
-        109
+        0.229800629590766,
+        0.21559633027522937
       ]
     },
     {
@@ -19661,8 +19661,8 @@ const features =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        1,
-        64
+        0.11017838405036726,
+        0.22018348623853212
       ]
     },
     {
@@ -19671,8 +19671,8 @@ const features =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        1,
-        118
+        0.03672612801678909,
+        0.4105504587155963
       ]
     },
     {
@@ -19681,8 +19681,8 @@ const features =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        7,
-        128
+        0.1825813221406086,
+        0.3211009174311927
       ]
     },
     {
@@ -19691,8 +19691,8 @@ const features =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        1,
-        171
+        0.1689401888772298,
+        0.1628440366972477
       ]
     },
     {
@@ -19701,8 +19701,8 @@ const features =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        8,
-        555
+        0.10703043022035677,
+        0.1353211009174312
       ]
     },
     {
@@ -19711,8 +19711,8 @@ const features =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        2,
-        302
+        0.316894018887723,
+        0.4518348623853211
       ]
     },
     {
@@ -19721,8 +19721,8 @@ const features =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        3,
-        573
+        0.17103882476390347,
+        0.6536697247706422
       ]
     },
     {
@@ -19731,8 +19731,8 @@ const features =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        16,
-        2047
+        0.24344176285414482,
+        0.3532110091743119
       ]
     },
     {
@@ -19741,8 +19741,8 @@ const features =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        3,
-        973
+        0.05771248688352571,
+        0.3623853211009174
       ]
     },
     {
@@ -19751,8 +19751,8 @@ const features =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        1,
-        382
+        0.022035676810073453,
+        0.3876146788990826
       ]
     },
     {
@@ -19761,8 +19761,8 @@ const features =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        2,
-        297
+        0.14375655823714587,
+        0.30963302752293576
       ]
     },
     {
@@ -19771,8 +19771,8 @@ const features =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        22,
-        1157
+        0.34207764952780695,
+        0.3532110091743119
       ]
     },
     {
@@ -19781,8 +19781,8 @@ const features =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        13,
-        264
+        0.229800629590766,
+        0.26146788990825687
       ]
     },
     {
@@ -19791,8 +19791,8 @@ const features =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        12,
-        425
+        0.2938090241343127,
+        0.6100917431192661
       ]
     },
     {
@@ -19801,8 +19801,8 @@ const features =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        3,
-        106
+        0.2812172088142707,
+        0.7660550458715596
       ]
     },
     {
@@ -19811,8 +19811,8 @@ const features =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        27,
-        914
+        0.3357817418677859,
+        0.4954128440366973
       ]
     },
     {
@@ -19821,8 +19821,8 @@ const features =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        13,
-        697
+        0.304302203567681,
+        0.5894495412844036
       ]
     },
     {
@@ -19831,8 +19831,8 @@ const features =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        7,
-        230
+        0.2497376705141658,
+        0.46559633027522934
       ]
     },
     {
@@ -19841,8 +19841,8 @@ const features =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        16,
-        221
+        0.19727177334732424,
+        0.30045871559633025
       ]
     },
     {
@@ -19851,8 +19851,8 @@ const features =
       "student_name": "Jagadeesh kumar",
       "student_id": 1663953392594,
       "point": [
-        14,
-        996
+        0.3389296956977964,
+        0.36009174311926606
       ]
     },
     {
@@ -19861,8 +19861,8 @@ const features =
       "student_name": "Jagadeesh kumar",
       "student_id": 1663953392594,
       "point": [
-        10,
-        472
+        0.316894018887723,
+        0.39908256880733944
       ]
     },
     {
@@ -19871,8 +19871,8 @@ const features =
       "student_name": "Jagadeesh kumar",
       "student_id": 1663953392594,
       "point": [
-        15,
-        544
+        0.2728226652675761,
+        0.7706422018348624
       ]
     },
     {
@@ -19881,8 +19881,8 @@ const features =
       "student_name": "Jagadeesh kumar",
       "student_id": 1663953392594,
       "point": [
-        4,
-        179
+        0.3473242392444911,
+        0.731651376146789
       ]
     },
     {
@@ -19891,8 +19891,8 @@ const features =
       "student_name": "Jagadeesh kumar",
       "student_id": 1663953392594,
       "point": [
-        31,
-        613
+        0.29485834207764955,
+        0.591743119266055
       ]
     },
     {
@@ -19901,8 +19901,8 @@ const features =
       "student_name": "Jagadeesh kumar",
       "student_id": 1663953392594,
       "point": [
-        11,
-        538
+        0.2633788037775446,
+        0.5344036697247706
       ]
     },
     {
@@ -19911,8 +19911,8 @@ const features =
       "student_name": "Jagadeesh kumar",
       "student_id": 1663953392594,
       "point": [
-        14,
-        474
+        0.31374606505771246,
+        0.5344036697247706
       ]
     },
     {
@@ -19921,8 +19921,8 @@ const features =
       "student_name": "Jagadeesh kumar",
       "student_id": 1663953392594,
       "point": [
-        7,
-        235
+        0.27492130115424973,
+        0.6100917431192661
       ]
     },
     {
@@ -19931,8 +19931,8 @@ const features =
       "student_name": "ahmed",
       "student_id": 1663955839692,
       "point": [
-        5,
-        395
+        0.2738719832109129,
+        0.20642201834862386
       ]
     },
     {
@@ -19941,8 +19941,8 @@ const features =
       "student_name": "ahmed",
       "student_id": 1663955839692,
       "point": [
-        3,
-        252
+        0.2465897166841553,
+        0.21100917431192662
       ]
     },
     {
@@ -19951,8 +19951,8 @@ const features =
       "student_name": "ahmed",
       "student_id": 1663955839692,
       "point": [
-        6,
-        128
+        0.12696747114375656,
+        0.32339449541284404
       ]
     },
     {
@@ -19961,8 +19961,8 @@ const features =
       "student_name": "ahmed",
       "student_id": 1663955839692,
       "point": [
-        3,
-        143
+        0.14690451206715635,
+        0.44036697247706424
       ]
     },
     {
@@ -19971,8 +19971,8 @@ const features =
       "student_name": "ahmed",
       "student_id": 1663955839692,
       "point": [
-        16,
-        256
+        0.1521511017838405,
+        0.24770642201834864
       ]
     },
     {
@@ -19981,8 +19981,8 @@ const features =
       "student_name": "ahmed",
       "student_id": 1663955839692,
       "point": [
-        11,
-        189
+        0.2266526757607555,
+        0.24770642201834864
       ]
     },
     {
@@ -19991,8 +19991,8 @@ const features =
       "student_name": "ahmed",
       "student_id": 1663955839692,
       "point": [
-        6,
-        147
+        0.2528856243441763,
+        0.15137614678899083
       ]
     },
     {
@@ -20001,8 +20001,8 @@ const features =
       "student_name": "ahmed",
       "student_id": 1663955839692,
       "point": [
-        22,
-        367
+        0.23819517313746066,
+        0.3440366972477064
       ]
     },
     {
@@ -20011,8 +20011,8 @@ const features =
       "student_name": "airbass",
       "student_id": 1663959669044,
       "point": [
-        17,
-        1767
+        0.3588667366211962,
+        0.3486238532110092
       ]
     },
     {
@@ -20021,8 +20021,8 @@ const features =
       "student_name": "airbass",
       "student_id": 1663959669044,
       "point": [
-        20,
-        779
+        0.2969569779643232,
+        0.23623853211009174
       ]
     },
     {
@@ -20031,8 +20031,8 @@ const features =
       "student_name": "airbass",
       "student_id": 1663959669044,
       "point": [
-        16,
-        1629
+        0.2780692549842602,
+        0.8600917431192661
       ]
     },
     {
@@ -20041,8 +20041,8 @@ const features =
       "student_name": "airbass",
       "student_id": 1663959669044,
       "point": [
-        9,
-        1196
+        0.3273871983210913,
+        0.8555045871559633
       ]
     },
     {
@@ -20051,8 +20051,8 @@ const features =
       "student_name": "airbass",
       "student_id": 1663959669044,
       "point": [
-        26,
-        1470
+        0.2780692549842602,
+        0.3577981651376147
       ]
     },
     {
@@ -20061,8 +20061,8 @@ const features =
       "student_name": "airbass",
       "student_id": 1663959669044,
       "point": [
-        25,
-        1645
+        0.3242392444910808,
+        0.231651376146789
       ]
     },
     {
@@ -20071,8 +20071,8 @@ const features =
       "student_name": "airbass",
       "student_id": 1663959669044,
       "point": [
-        8,
-        728
+        0.07240293809024134,
+        0.713302752293578
       ]
     },
     {
@@ -20081,8 +20081,8 @@ const features =
       "student_name": "airbass",
       "student_id": 1663959669044,
       "point": [
-        26,
-        1448
+        0.21720881427072403,
+        0.3944954128440367
       ]
     },
     {
@@ -20091,8 +20091,8 @@ const features =
       "student_name": "Ruzgar",
       "student_id": 1663959723890,
       "point": [
-        6,
-        790
+        0.3001049317943337,
+        0.5321100917431193
       ]
     },
     {
@@ -20101,8 +20101,8 @@ const features =
       "student_name": "Ruzgar",
       "student_id": 1663959723890,
       "point": [
-        5,
-        367
+        0.22350472193074503,
+        0.24770642201834864
       ]
     },
     {
@@ -20111,8 +20111,8 @@ const features =
       "student_name": "Ruzgar",
       "student_id": 1663959723890,
       "point": [
-        7,
-        726
+        0.23504721930745015,
+        0.6284403669724771
       ]
     },
     {
@@ -20121,8 +20121,8 @@ const features =
       "student_name": "Ruzgar",
       "student_id": 1663959723890,
       "point": [
-        3,
-        550
+        0.17628541448058763,
+        0.7660550458715596
       ]
     },
     {
@@ -20131,8 +20131,8 @@ const features =
       "student_name": "Ruzgar",
       "student_id": 1663959723890,
       "point": [
-        5,
-        365
+        0.2696747114375656,
+        0.3073394495412844
       ]
     },
     {
@@ -20141,8 +20141,8 @@ const features =
       "student_name": "Ruzgar",
       "student_id": 1663959723890,
       "point": [
-        6,
-        599
+        0.18048268625393493,
+        0.48853211009174313
       ]
     },
     {
@@ -20151,8 +20151,8 @@ const features =
       "student_name": "Ruzgar",
       "student_id": 1663959723890,
       "point": [
-        2,
-        230
+        0.16054564533053514,
+        0.2981651376146789
       ]
     },
     {
@@ -20161,8 +20161,8 @@ const features =
       "student_name": "Ruzgar",
       "student_id": 1663959723890,
       "point": [
-        4,
-        233
+        0.19622245540398742,
+        0.41284403669724773
       ]
     },
     {
@@ -20171,8 +20171,8 @@ const features =
       "student_name": "Erick",
       "student_id": 1663959787784,
       "point": [
-        5,
-        306
+        0.2203567681007345,
+        0.49770642201834864
       ]
     },
     {
@@ -20181,8 +20181,8 @@ const features =
       "student_name": "Erick",
       "student_id": 1663959787784,
       "point": [
-        1,
-        121
+        0.1259181532004197,
+        0.19954128440366972
       ]
     },
     {
@@ -20191,8 +20191,8 @@ const features =
       "student_name": "Erick",
       "student_id": 1663959787784,
       "point": [
-        4,
-        276
+        0.21406086044071354,
+        0.555045871559633
       ]
     },
     {
@@ -20201,8 +20201,8 @@ const features =
       "student_name": "Erick",
       "student_id": 1663959787784,
       "point": [
-        3,
-        284
+        0.3242392444910808,
+        0.43577981651376146
       ]
     },
     {
@@ -20211,8 +20211,8 @@ const features =
       "student_name": "Erick",
       "student_id": 1663959787784,
       "point": [
-        7,
-        246
+        0.16684155299055614,
+        0.3623853211009174
       ]
     },
     {
@@ -20221,8 +20221,8 @@ const features =
       "student_name": "Erick",
       "student_id": 1663959787784,
       "point": [
-        1,
-        58
+        0.2780692549842602,
+        0.8623853211009175
       ]
     },
     {
@@ -20231,8 +20231,8 @@ const features =
       "student_name": "Erick",
       "student_id": 1663959787784,
       "point": [
-        4,
-        324
+        0.2738719832109129,
+        0.658256880733945
       ]
     },
     {
@@ -20241,8 +20241,8 @@ const features =
       "student_name": "Erick",
       "student_id": 1663959787784,
       "point": [
-        6,
-        335
+        0.24554039874081846,
+        0.6651376146788991
       ]
     },
     {
@@ -20251,8 +20251,8 @@ const features =
       "student_name": "Ketan",
       "student_id": 1663961253145,
       "point": [
-        18,
-        803
+        0.372507869884575,
+        0.44495412844036697
       ]
     },
     {
@@ -20261,8 +20261,8 @@ const features =
       "student_name": "Ketan",
       "student_id": 1663961253145,
       "point": [
-        7,
-        186
+        0.291710388247639,
+        0.26605504587155965
       ]
     },
     {
@@ -20271,8 +20271,8 @@ const features =
       "student_name": "Ketan",
       "student_id": 1663961253145,
       "point": [
-        10,
-        351
+        0.2990556138509968,
+        0.5275229357798165
       ]
     },
     {
@@ -20281,8 +20281,8 @@ const features =
       "student_name": "Ketan",
       "student_id": 1663961253145,
       "point": [
-        3,
-        159
+        0.2203567681007345,
+        0.5665137614678899
       ]
     },
     {
@@ -20291,8 +20291,8 @@ const features =
       "student_name": "Ketan",
       "student_id": 1663961253145,
       "point": [
-        18,
-        515
+        0.3074501573976915,
+        0.4036697247706422
       ]
     },
     {
@@ -20301,8 +20301,8 @@ const features =
       "student_name": "Ketan",
       "student_id": 1663961253145,
       "point": [
-        6,
-        311
+        0.2938090241343127,
+        0.41743119266055045
       ]
     },
     {
@@ -20311,8 +20311,8 @@ const features =
       "student_name": "Ketan",
       "student_id": 1663961253145,
       "point": [
-        2,
-        50
+        0.02938090241343127,
+        0.10091743119266056
       ]
     },
     {
@@ -20321,8 +20321,8 @@ const features =
       "student_name": "Ketan",
       "student_id": 1663961253145,
       "point": [
-        7,
-        205
+        0.16684155299055614,
+        0.4036697247706422
       ]
     },
     {
@@ -20331,8 +20331,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663963863766,
       "point": [
-        3,
-        592
+        0.316894018887723,
+        0.31880733944954126
       ]
     },
     {
@@ -20341,8 +20341,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663963863766,
       "point": [
-        5,
-        289
+        0.25498426023084997,
+        0.20871559633027523
       ]
     },
     {
@@ -20351,8 +20351,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663963863766,
       "point": [
-        8,
-        536
+        0.2602308499475341,
+        0.5229357798165137
       ]
     },
     {
@@ -20361,8 +20361,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663963863766,
       "point": [
-        5,
-        300
+        0.2193074501573977,
+        0.5986238532110092
       ]
     },
     {
@@ -20371,8 +20371,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663963863766,
       "point": [
-        8,
-        399
+        0.1888772298006296,
+        0.3876146788990826
       ]
     },
     {
@@ -20381,8 +20381,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663963863766,
       "point": [
-        10,
-        736
+        0.3273871983210913,
+        0.5711009174311926
       ]
     },
     {
@@ -20391,8 +20391,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663963863766,
       "point": [
-        6,
-        263
+        0.31374606505771246,
+        0.481651376146789
       ]
     },
     {
@@ -20401,8 +20401,8 @@ const features =
       "student_name": "Radu",
       "student_id": 1663963863766,
       "point": [
-        1,
-        87
+        0.15739769150052466,
+        0.3073394495412844
       ]
     },
     {
@@ -20411,8 +20411,8 @@ const features =
       "student_name": "rh",
       "student_id": 1663965910630,
       "point": [
-        4,
-        475
+        0.24449108079748164,
+        0.21788990825688073
       ]
     },
     {
@@ -20421,8 +20421,8 @@ const features =
       "student_name": "rh",
       "student_id": 1663965910630,
       "point": [
-        2,
-        332
+        0.1657922350472193,
+        0.16972477064220184
       ]
     },
     {
@@ -20431,8 +20431,8 @@ const features =
       "student_name": "rh",
       "student_id": 1663965910630,
       "point": [
-        6,
-        298
+        0.1626442812172088,
+        0.4380733944954128
       ]
     },
     {
@@ -20441,8 +20441,8 @@ const features =
       "student_name": "rh",
       "student_id": 1663965910630,
       "point": [
-        5,
-        236
+        0.21091290661070305,
+        0.5435779816513762
       ]
     },
     {
@@ -20451,8 +20451,8 @@ const features =
       "student_name": "rh",
       "student_id": 1663965910630,
       "point": [
-        27,
-        769
+        0.21091290661070305,
+        0.25688073394495414
       ]
     },
     {
@@ -20461,8 +20461,8 @@ const features =
       "student_name": "rh",
       "student_id": 1663965910630,
       "point": [
-        8,
-        485
+        0.1794333683105981,
+        0.11697247706422019
       ]
     },
     {
@@ -20471,8 +20471,8 @@ const features =
       "student_name": "rh",
       "student_id": 1663965910630,
       "point": [
-        9,
-        263
+        0.11122770199370409,
+        0.32798165137614677
       ]
     },
     {
@@ -20481,8 +20481,8 @@ const features =
       "student_name": "rh",
       "student_id": 1663965910630,
       "point": [
-        17,
-        390
+        0.13326337880377753,
+        0.3256880733944954
       ]
     },
     {
@@ -20491,8 +20491,8 @@ const features =
       "student_name": "NtotheG",
       "student_id": 1663966133916,
       "point": [
-        7,
-        539
+        0.27177334732423925,
+        0.23394495412844038
       ]
     },
     {
@@ -20501,8 +20501,8 @@ const features =
       "student_name": "NtotheG",
       "student_id": 1663966133916,
       "point": [
-        3,
-        206
+        0.16369359916054566,
+        0.1811926605504587
       ]
     },
     {
@@ -20511,8 +20511,8 @@ const features =
       "student_name": "NtotheG",
       "student_id": 1663966133916,
       "point": [
-        25,
-        345
+        0.2161594963273872,
+        0.555045871559633
       ]
     },
     {
@@ -20521,8 +20521,8 @@ const features =
       "student_name": "NtotheG",
       "student_id": 1663966133916,
       "point": [
-        5,
-        59
+        0.20671563483735572,
+        0.6055045871559633
       ]
     },
     {
@@ -20531,8 +20531,8 @@ const features =
       "student_name": "NtotheG",
       "student_id": 1663966133916,
       "point": [
-        31,
-        376
+        0.2812172088142707,
+        0.3463302752293578
       ]
     },
     {
@@ -20541,8 +20541,8 @@ const features =
       "student_name": "NtotheG",
       "student_id": 1663966133916,
       "point": [
-        13,
-        204
+        0.12067156348373557,
+        0.6330275229357798
       ]
     },
     {
@@ -20551,8 +20551,8 @@ const features =
       "student_name": "NtotheG",
       "student_id": 1663966133916,
       "point": [
-        9,
-        103
+        0.20566631689401887,
+        0.5275229357798165
       ]
     },
     {
@@ -20561,8 +20561,8 @@ const features =
       "student_name": "NtotheG",
       "student_id": 1663966133916,
       "point": [
-        11,
-        163
+        0.07135362014690451,
+        0.6559633027522935
       ]
     },
     {
@@ -20571,8 +20571,8 @@ const features =
       "student_name": "NathanBenelli",
       "student_id": 1663967177767,
       "point": [
-        5,
-        1464
+        0.24134312696747115,
+        0.2775229357798165
       ]
     },
     {
@@ -20581,8 +20581,8 @@ const features =
       "student_name": "NathanBenelli",
       "student_id": 1663967177767,
       "point": [
-        3,
-        450
+        0.21720881427072403,
+        0.28211009174311924
       ]
     },
     {
@@ -20591,8 +20591,8 @@ const features =
       "student_name": "NathanBenelli",
       "student_id": 1663967177767,
       "point": [
-        5,
-        876
+        0.2644281217208814,
+        0.6009174311926605
       ]
     },
     {
@@ -20601,8 +20601,8 @@ const features =
       "student_name": "NathanBenelli",
       "student_id": 1663967177767,
       "point": [
-        3,
-        589
+        0.2025183630640084,
+        0.5986238532110092
       ]
     },
     {
@@ -20611,8 +20611,8 @@ const features =
       "student_name": "NathanBenelli",
       "student_id": 1663967177767,
       "point": [
-        9,
-        615
+        0.20461699895068206,
+        0.3348623853211009
       ]
     },
     {
@@ -20621,8 +20621,8 @@ const features =
       "student_name": "NathanBenelli",
       "student_id": 1663967177767,
       "point": [
-        8,
-        1236
+        0.29800629590766003,
+        0.3073394495412844
       ]
     },
     {
@@ -20631,8 +20631,8 @@ const features =
       "student_name": "NathanBenelli",
       "student_id": 1663967177767,
       "point": [
-        3,
-        304
+        0.023084994753410283,
+        0.5963302752293578
       ]
     },
     {
@@ -20641,8 +20641,8 @@ const features =
       "student_name": "NathanBenelli",
       "student_id": 1663967177767,
       "point": [
-        2,
-        261
+        0.1689401888772298,
+        0.42660550458715596
       ]
     },
     {
@@ -20651,8 +20651,8 @@ const features =
       "student_name": "alireza hekmati 2 💥",
       "student_id": 1663968488419,
       "point": [
-        8,
-        1345
+        0.16998950682056663,
+        0.30504587155963303
       ]
     },
     {
@@ -20661,8 +20661,8 @@ const features =
       "student_name": "alireza hekmati 2 💥",
       "student_id": 1663968488419,
       "point": [
-        11,
-        776
+        0.22770199370409233,
+        0.3440366972477064
       ]
     },
     {
@@ -20671,8 +20671,8 @@ const features =
       "student_name": "alireza hekmati 2 💥",
       "student_id": 1663968488419,
       "point": [
-        10,
-        641
+        0.07240293809024134,
+        0.28211009174311924
       ]
     },
     {
@@ -20681,8 +20681,8 @@ const features =
       "student_name": "alireza hekmati 2 💥",
       "student_id": 1663968488419,
       "point": [
-        20,
-        1234
+        0.15110178384050368,
+        0.4518348623853211
       ]
     },
     {
@@ -20691,8 +20691,8 @@ const features =
       "student_name": "alireza hekmati 2 💥",
       "student_id": 1663968488419,
       "point": [
-        10,
-        410
+        0.09548793284365163,
+        0.33715596330275227
       ]
     },
     {
@@ -20701,8 +20701,8 @@ const features =
       "student_name": "alireza hekmati 2 💥",
       "student_id": 1663968488419,
       "point": [
-        12,
-        1044
+        0.24239244491080797,
+        0.5711009174311926
       ]
     },
     {
@@ -20711,8 +20711,8 @@ const features =
       "student_name": "alireza hekmati 2 💥",
       "student_id": 1663968488419,
       "point": [
-        6,
-        406
+        0.19412381951731375,
+        0.0389908256880734
       ]
     },
     {
@@ -20721,8 +20721,8 @@ const features =
       "student_name": "alireza hekmati 2 💥",
       "student_id": 1663968488419,
       "point": [
-        8,
-        617
+        0.06610703043022036,
+        0.42201834862385323
       ]
     },
     {
@@ -20731,8 +20731,8 @@ const features =
       "student_name": "Akshay ",
       "student_id": 1663971195546,
       "point": [
-        6,
-        435
+        0.33473242392444913,
+        0.5504587155963303
       ]
     },
     {
@@ -20741,8 +20741,8 @@ const features =
       "student_name": "Akshay ",
       "student_id": 1663971195546,
       "point": [
-        17,
-        422
+        0.35257082896117525,
+        0.5298165137614679
       ]
     },
     {
@@ -20751,8 +20751,8 @@ const features =
       "student_name": "Akshay ",
       "student_id": 1663971195546,
       "point": [
-        14,
-        367
+        0.3945435466946485,
+        0.5596330275229358
       ]
     },
     {
@@ -20761,8 +20761,8 @@ const features =
       "student_name": "Akshay ",
       "student_id": 1663971195546,
       "point": [
-        11,
-        315
+        0.40293809024134314,
+        0.7224770642201835
       ]
     },
     {
@@ -20771,8 +20771,8 @@ const features =
       "student_name": "Akshay ",
       "student_id": 1663971195546,
       "point": [
-        17,
-        436
+        0.3567681007345226,
+        0.5252293577981652
       ]
     },
     {
@@ -20781,8 +20781,8 @@ const features =
       "student_name": "Akshay ",
       "student_id": 1663971195546,
       "point": [
-        7,
-        366
+        0.372507869884575,
+        0.7706422018348624
       ]
     },
     {
@@ -20791,8 +20791,8 @@ const features =
       "student_name": "Akshay ",
       "student_id": 1663971195546,
       "point": [
-        7,
-        204
+        0.11857292759706191,
+        0.7110091743119266
       ]
     },
     {
@@ -20801,8 +20801,8 @@ const features =
       "student_name": "Akshay ",
       "student_id": 1663971195546,
       "point": [
-        10,
-        156
+        0.25498426023084997,
+        0.6009174311926605
       ]
     },
     {
@@ -20811,8 +20811,8 @@ const features =
       "student_name": "Armando",
       "student_id": 1663971277771,
       "point": [
-        24,
-        1387
+        0.16054564533053514,
+        0.20642201834862386
       ]
     },
     {
@@ -20821,8 +20821,8 @@ const features =
       "student_name": "Armando",
       "student_id": 1663971277771,
       "point": [
-        13,
-        810
+        0.2539349422875131,
+        0.37155963302752293
       ]
     },
     {
@@ -20831,8 +20831,8 @@ const features =
       "student_name": "Armando",
       "student_id": 1663971277771,
       "point": [
-        13,
-        984
+        0.24449108079748164,
+        0.5986238532110092
       ]
     },
     {
@@ -20841,8 +20841,8 @@ const features =
       "student_name": "Armando",
       "student_id": 1663971277771,
       "point": [
-        11,
-        1075
+        0.22875131164742918,
+        0.6513761467889908
       ]
     },
     {
@@ -20851,8 +20851,8 @@ const features =
       "student_name": "Armando",
       "student_id": 1663971277771,
       "point": [
-        20,
-        909
+        0.24449108079748164,
+        0.4243119266055046
       ]
     },
     {
@@ -20861,8 +20861,8 @@ const features =
       "student_name": "Armando",
       "student_id": 1663971277771,
       "point": [
-        17,
-        1202
+        0.30325288562434416,
+        0.7362385321100917
       ]
     },
     {
@@ -20871,8 +20871,8 @@ const features =
       "student_name": "Armando",
       "student_id": 1663971277771,
       "point": [
-        10,
-        401
+        0.24344176285414482,
+        0.5137614678899083
       ]
     },
     {
@@ -20881,8 +20881,8 @@ const features =
       "student_name": "Armando",
       "student_id": 1663971277771,
       "point": [
-        20,
-        375
+        0.229800629590766,
+        0.45642201834862384
       ]
     },
     {
@@ -20891,8 +20891,8 @@ const features =
       "student_name": "Trubu",
       "student_id": 1663974914822,
       "point": [
-        7,
-        566
+        0.385099685204617,
+        0.3532110091743119
       ]
     },
     {
@@ -20901,8 +20901,8 @@ const features =
       "student_name": "Trubu",
       "student_id": 1663974914822,
       "point": [
-        9,
-        272
+        0.3116474291710388,
+        0.29357798165137616
       ]
     },
     {
@@ -20911,8 +20911,8 @@ const features =
       "student_name": "Trubu",
       "student_id": 1663974914822,
       "point": [
-        8,
-        483
+        0.3095487932843652,
+        0.694954128440367
       ]
     },
     {
@@ -20921,8 +20921,8 @@ const features =
       "student_name": "Trubu",
       "student_id": 1663974914822,
       "point": [
-        21,
-        453
+        0.30325288562434416,
+        0.768348623853211
       ]
     },
     {
@@ -20931,8 +20931,8 @@ const features =
       "student_name": "Trubu",
       "student_id": 1663974914822,
       "point": [
-        19,
-        609
+        0.32948583420776495,
+        0.4380733944954128
       ]
     },
     {
@@ -20941,8 +20941,8 @@ const features =
       "student_name": "Trubu",
       "student_id": 1663974914822,
       "point": [
-        20,
-        564
+        0.2864637985309549,
+        0.6261467889908257
       ]
     },
     {
@@ -20951,8 +20951,8 @@ const features =
       "student_name": "Trubu",
       "student_id": 1663974914822,
       "point": [
-        4,
-        323
+        0.03672612801678909,
+        0.7431192660550459
       ]
     },
     {
@@ -20961,8 +20961,8 @@ const features =
       "student_name": "Trubu",
       "student_id": 1663974914822,
       "point": [
-        12,
-        486
+        0.3357817418677859,
+        0.7293577981651376
       ]
     },
     {
@@ -20971,8 +20971,8 @@ const features =
       "student_name": "basic coder",
       "student_id": 1663986437795,
       "point": [
-        23,
-        1761
+        0.25813221406086045,
+        0.27293577981651373
       ]
     },
     {
@@ -20981,8 +20981,8 @@ const features =
       "student_name": "basic coder",
       "student_id": 1663986437795,
       "point": [
-        98,
-        3953
+        0.32633788037775446,
+        0.5711009174311926
       ]
     },
     {
@@ -20991,8 +20991,8 @@ const features =
       "student_name": "basic coder",
       "student_id": 1663986437795,
       "point": [
-        32,
-        1674
+        0.2990556138509968,
+        0.4610091743119266
       ]
     },
     {
@@ -21001,8 +21001,8 @@ const features =
       "student_name": "basic coder",
       "student_id": 1663986437795,
       "point": [
-        29,
-        3218
+        0.34312696747114374,
+        0.805045871559633
       ]
     },
     {
@@ -21011,8 +21011,8 @@ const features =
       "student_name": "basic coder",
       "student_id": 1663986437795,
       "point": [
-        29,
-        1500
+        0.24134312696747115,
+        0.36009174311926606
       ]
     },
     {
@@ -21021,8 +21021,8 @@ const features =
       "student_name": "basic coder",
       "student_id": 1663986437795,
       "point": [
-        17,
-        1404
+        0.304302203567681,
+        0.6307339449541285
       ]
     },
     {
@@ -21031,8 +21031,8 @@ const features =
       "student_name": "basic coder",
       "student_id": 1663986437795,
       "point": [
-        9,
-        553
+        0.017838405036726127,
+        0.49311926605504586
       ]
     },
     {
@@ -21041,8 +21041,8 @@ const features =
       "student_name": "basic coder",
       "student_id": 1663986437795,
       "point": [
-        15,
-        845
+        0.3001049317943337,
+        0.6123853211009175
       ]
     },
     {
@@ -21051,8 +21051,8 @@ const features =
       "student_name": "Jay",
       "student_id": 1663990872471,
       "point": [
-        9,
-        646
+        0.32214060860440713,
+        0.25229357798165136
       ]
     },
     {
@@ -21061,8 +21061,8 @@ const features =
       "student_name": "Jay",
       "student_id": 1663990872471,
       "point": [
-        3,
-        309
+        0.2696747114375656,
+        0.2958715596330275
       ]
     },
     {
@@ -21071,8 +21071,8 @@ const features =
       "student_name": "Jay",
       "student_id": 1663990872471,
       "point": [
-        4,
-        208
+        0.23819517313746066,
+        0.29357798165137616
       ]
     },
     {
@@ -21081,8 +21081,8 @@ const features =
       "student_name": "Jay",
       "student_id": 1663990872471,
       "point": [
-        3,
-        194
+        0.18782791185729275,
+        0.5779816513761468
       ]
     },
     {
@@ -21091,8 +21091,8 @@ const features =
       "student_name": "Jay",
       "student_id": 1663990872471,
       "point": [
-        8,
-        465
+        0.25498426023084997,
+        0.3394495412844037
       ]
     },
     {
@@ -21101,8 +21101,8 @@ const features =
       "student_name": "Jay",
       "student_id": 1663990872471,
       "point": [
-        7,
-        569
+        0.29275970619097585,
+        0.3853211009174312
       ]
     },
     {
@@ -21111,8 +21111,8 @@ const features =
       "student_name": "Jay",
       "student_id": 1663990872471,
       "point": [
-        3,
-        307
+        0.2623294858342078,
+        0.35091743119266056
       ]
     },
     {
@@ -21121,8 +21121,8 @@ const features =
       "student_name": "Jay",
       "student_id": 1663990872471,
       "point": [
-        10,
-        380
+        0.1657922350472193,
+        0.30275229357798167
       ]
     },
     {
@@ -21131,8 +21131,8 @@ const features =
       "student_name": "Bilguun",
       "student_id": 1663998669646,
       "point": [
-        12,
-        1062
+        0.27492130115424973,
+        0.30504587155963303
       ]
     },
     {
@@ -21141,8 +21141,8 @@ const features =
       "student_name": "Bilguun",
       "student_id": 1663998669646,
       "point": [
-        11,
-        1351
+        0.1626442812172088,
+        0.27293577981651373
       ]
     },
     {
@@ -21151,8 +21151,8 @@ const features =
       "student_name": "Bilguun",
       "student_id": 1663998669646,
       "point": [
-        8,
-        276
+        0.12381951731374606,
+        0.3348623853211009
       ]
     },
     {
@@ -21161,8 +21161,8 @@ const features =
       "student_name": "Bilguun",
       "student_id": 1663998669646,
       "point": [
-        1,
-        184
+        0.13641133263378805,
+        0.3922018348623853
       ]
     },
     {
@@ -21171,8 +21171,8 @@ const features =
       "student_name": "Bilguun",
       "student_id": 1663998669646,
       "point": [
-        8,
-        214
+        0.22560335781741866,
+        0.33715596330275227
       ]
     },
     {
@@ -21181,8 +21181,8 @@ const features =
       "student_name": "Bilguun",
       "student_id": 1663998669646,
       "point": [
-        3,
-        373
+        0.2833158447009444,
+        0.3119266055045872
       ]
     },
     {
@@ -21191,8 +21191,8 @@ const features =
       "student_name": "Bilguun",
       "student_id": 1663998669646,
       "point": [
-        2,
-        175
+        0.20146904512067157,
+        0.268348623853211
       ]
     },
     {
@@ -21201,8 +21201,8 @@ const features =
       "student_name": "Bilguun",
       "student_id": 1663998669646,
       "point": [
-        3,
-        113
+        0.16998950682056663,
+        0.38990825688073394
       ]
     },
     {
@@ -21211,8 +21211,8 @@ const features =
       "student_name": "Mukul",
       "student_id": 1664000294175,
       "point": [
-        9,
-        639
+        0.3588667366211962,
+        0.44036697247706424
       ]
     },
     {
@@ -21221,8 +21221,8 @@ const features =
       "student_name": "Mukul",
       "student_id": 1664000294175,
       "point": [
-        5,
-        294
+        0.18782791185729275,
+        0.24770642201834864
       ]
     },
     {
@@ -21231,8 +21231,8 @@ const features =
       "student_name": "Mukul",
       "student_id": 1664000294175,
       "point": [
-        13,
-        581
+        0.23399790136411333,
+        0.3876146788990826
       ]
     },
     {
@@ -21241,8 +21241,8 @@ const features =
       "student_name": "Mukul",
       "student_id": 1664000294175,
       "point": [
-        8,
-        357
+        0.24134312696747115,
+        0.5321100917431193
       ]
     },
     {
@@ -21251,8 +21251,8 @@ const features =
       "student_name": "Mukul",
       "student_id": 1664000294175,
       "point": [
-        16,
-        389
+        0.1930745015739769,
+        0.25688073394495414
       ]
     },
     {
@@ -21261,8 +21261,8 @@ const features =
       "student_name": "Mukul",
       "student_id": 1664000294175,
       "point": [
-        13,
-        851
+        0.3242392444910808,
+        0.6055045871559633
       ]
     },
     {
@@ -21271,8 +21271,8 @@ const features =
       "student_name": "Mukul",
       "student_id": 1664000294175,
       "point": [
-        7,
-        238
+        0.13746065057712487,
+        0.3486238532110092
       ]
     },
     {
@@ -21281,8 +21281,8 @@ const features =
       "student_name": "Mukul",
       "student_id": 1664000294175,
       "point": [
-        18,
-        574
+        0.21511017838405036,
+        0.4197247706422018
       ]
     },
     {
@@ -21291,8 +21291,8 @@ const features =
       "student_name": "Ryan",
       "student_id": 1664002141533,
       "point": [
-        16,
-        1929
+        0.3945435466946485,
+        0.3669724770642202
       ]
     },
     {
@@ -21301,8 +21301,8 @@ const features =
       "student_name": "Ryan",
       "student_id": 1664002141533,
       "point": [
-        14,
-        888
+        0.24763903462749212,
+        0.3073394495412844
       ]
     },
     {
@@ -21311,8 +21311,8 @@ const features =
       "student_name": "Ryan",
       "student_id": 1664002141533,
       "point": [
-        21,
-        2695
+        0.372507869884575,
+        0.7087155963302753
       ]
     },
     {
@@ -21321,8 +21321,8 @@ const features =
       "student_name": "Ryan",
       "student_id": 1664002141533,
       "point": [
-        45,
-        3157
+        0.372507869884575,
+        0.8348623853211009
       ]
     },
     {
@@ -21331,8 +21331,8 @@ const features =
       "student_name": "Ryan",
       "student_id": 1664002141533,
       "point": [
-        26,
-        2052
+        0.28751311647429173,
+        0.32798165137614677
       ]
     },
     {
@@ -21341,8 +21341,8 @@ const features =
       "student_name": "Ryan",
       "student_id": 1664002141533,
       "point": [
-        20,
-        4253
+        0.35991605456453307,
+        0.7958715596330275
       ]
     },
     {
@@ -21351,8 +21351,8 @@ const features =
       "student_name": "Ryan",
       "student_id": 1664002141533,
       "point": [
-        12,
-        1060
+        0.02833158447009444,
+        0.7454128440366973
       ]
     },
     {
@@ -21361,8 +21361,8 @@ const features =
       "student_name": "Ryan",
       "student_id": 1664002141533,
       "point": [
-        23,
-        658
+        0.3483735571878279,
+        0.8211009174311926
       ]
     },
     {
@@ -21371,8 +21371,8 @@ const features =
       "student_name": "Larry",
       "student_id": 1664003542649,
       "point": [
-        33,
-        1690
+        0.36096537250786986,
+        0.25229357798165136
       ]
     },
     {
@@ -21381,8 +21381,8 @@ const features =
       "student_name": "Larry",
       "student_id": 1664003542649,
       "point": [
-        23,
-        1281
+        0.35991605456453307,
+        0.3211009174311927
       ]
     },
     {
@@ -21391,8 +21391,8 @@ const features =
       "student_name": "Larry",
       "student_id": 1664003542649,
       "point": [
-        21,
-        1090
+        0.17103882476390347,
+        0.6880733944954128
       ]
     },
     {
@@ -21401,8 +21401,8 @@ const features =
       "student_name": "Larry",
       "student_id": 1664003542649,
       "point": [
-        108,
-        1994
+        0.39034627492130114,
+        0.8807339449541285
       ]
     },
     {
@@ -21411,8 +21411,8 @@ const features =
       "student_name": "Larry",
       "student_id": 1664003542649,
       "point": [
-        24,
-        907
+        0.229800629590766,
+        0.4793577981651376
       ]
     },
     {
@@ -21421,8 +21421,8 @@ const features =
       "student_name": "Larry",
       "student_id": 1664003542649,
       "point": [
-        18,
-        1391
+        0.37670514165792235,
+        0.23623853211009174
       ]
     },
     {
@@ -21431,8 +21431,8 @@ const features =
       "student_name": "Larry",
       "student_id": 1664003542649,
       "point": [
-        21,
-        814
+        0.27177334732423925,
+        0.6903669724770642
       ]
     },
     {
@@ -21441,8 +21441,8 @@ const features =
       "student_name": "Larry",
       "student_id": 1664003542649,
       "point": [
-        21,
-        618
+        0.1720881427072403,
+        0.3440366972477064
       ]
     },
     {
@@ -21451,8 +21451,8 @@ const features =
       "student_name": "Samer",
       "student_id": 1664008759414,
       "point": [
-        9,
-        678
+        0.3200419727177335,
+        0.24770642201834864
       ]
     },
     {
@@ -21461,8 +21461,8 @@ const features =
       "student_name": "Samer",
       "student_id": 1664008759414,
       "point": [
-        4,
-        397
+        0.2497376705141658,
+        0.19495412844036697
       ]
     },
     {
@@ -21471,8 +21471,8 @@ const features =
       "student_name": "Samer",
       "student_id": 1664008759414,
       "point": [
-        9,
-        742
+        0.2770199370409234,
+        0.6720183486238532
       ]
     },
     {
@@ -21481,8 +21481,8 @@ const features =
       "student_name": "Samer",
       "student_id": 1664008759414,
       "point": [
-        1,
-        247
+        0.22875131164742918,
+        0.6100917431192661
       ]
     },
     {
@@ -21491,8 +21491,8 @@ const features =
       "student_name": "Samer",
       "student_id": 1664008759414,
       "point": [
-        13,
-        669
+        0.23399790136411333,
+        0.36926605504587157
       ]
     },
     {
@@ -21501,8 +21501,8 @@ const features =
       "student_name": "Samer",
       "student_id": 1664008759414,
       "point": [
-        17,
-        491
+        0.1353620146904512,
+        0.6238532110091743
       ]
     },
     {
@@ -21511,8 +21511,8 @@ const features =
       "student_name": "Samer",
       "student_id": 1664008759414,
       "point": [
-        2,
-        186
+        0.012591815320041973,
+        0.5275229357798165
       ]
     },
     {
@@ -21521,8 +21521,8 @@ const features =
       "student_name": "Samer",
       "student_id": 1664008759414,
       "point": [
-        3,
-        118
+        0.11962224554039874,
+        0.26605504587155965
       ]
     },
     {
@@ -21531,8 +21531,8 @@ const features =
       "student_name": "Harald",
       "student_id": 1664008963491,
       "point": [
-        15,
-        3341
+        0.24554039874081846,
+        0.4954128440366973
       ]
     },
     {
@@ -21541,8 +21541,8 @@ const features =
       "student_name": "Harald",
       "student_id": 1664008963491,
       "point": [
-        13,
-        1644
+        0.17103882476390347,
+        0.5114678899082569
       ]
     },
     {
@@ -21551,8 +21551,8 @@ const features =
       "student_name": "Harald",
       "student_id": 1664008963491,
       "point": [
-        15,
-        3186
+        0.24239244491080797,
+        0.5619266055045872
       ]
     },
     {
@@ -21561,8 +21561,8 @@ const features =
       "student_name": "Harald",
       "student_id": 1664008963491,
       "point": [
-        6,
-        1086
+        0.316894018887723,
+        0.7018348623853211
       ]
     },
     {
@@ -21571,8 +21571,8 @@ const features =
       "student_name": "Harald",
       "student_id": 1664008963491,
       "point": [
-        16,
-        2199
+        0.2696747114375656,
+        0.4036697247706422
       ]
     },
     {
@@ -21581,8 +21581,8 @@ const features =
       "student_name": "Harald",
       "student_id": 1664008963491,
       "point": [
-        17,
-        2120
+        0.10283315844700944,
+        0.5114678899082569
       ]
     },
     {
@@ -21591,8 +21591,8 @@ const features =
       "student_name": "Harald",
       "student_id": 1664008963491,
       "point": [
-        7,
-        1500
+        0.19202518363064008,
+        0.4426605504587156
       ]
     },
     {
@@ -21601,8 +21601,8 @@ const features =
       "student_name": "Harald",
       "student_id": 1664008963491,
       "point": [
-        12,
-        2470
+        0.14375655823714587,
+        0.6192660550458715
       ]
     },
     {
@@ -21611,8 +21611,8 @@ const features =
       "student_name": "Kaan",
       "student_id": 1664011946194,
       "point": [
-        15,
-        2251
+        0.36621196222455404,
+        0.3853211009174312
       ]
     },
     {
@@ -21621,8 +21621,8 @@ const features =
       "student_name": "Kaan",
       "student_id": 1664011946194,
       "point": [
-        4,
-        437
+        0.24868835257082897,
+        0.40825688073394495
       ]
     },
     {
@@ -21631,8 +21631,8 @@ const features =
       "student_name": "Kaan",
       "student_id": 1664011946194,
       "point": [
-        5,
-        533
+        0.23504721930745015,
+        0.518348623853211
       ]
     },
     {
@@ -21641,8 +21641,8 @@ const features =
       "student_name": "Kaan",
       "student_id": 1664011946194,
       "point": [
-        3,
-        437
+        0.2885624344176285,
+        0.7545871559633027
       ]
     },
     {
@@ -21651,8 +21651,8 @@ const features =
       "student_name": "Kaan",
       "student_id": 1664011946194,
       "point": [
-        29,
-        1390
+        0.24344176285414482,
+        0.3577981651376147
       ]
     },
     {
@@ -21661,8 +21661,8 @@ const features =
       "student_name": "Kaan",
       "student_id": 1664011946194,
       "point": [
-        12,
-        1349
+        0.2528856243441763,
+        0.6146788990825688
       ]
     },
     {
@@ -21671,8 +21671,8 @@ const features =
       "student_name": "Kaan",
       "student_id": 1664011946194,
       "point": [
-        5,
-        662
+        0.1689401888772298,
+        0.573394495412844
       ]
     },
     {
@@ -21681,8 +21681,8 @@ const features =
       "student_name": "Kaan",
       "student_id": 1664011946194,
       "point": [
-        10,
-        1127
+        0.2633788037775446,
+        0.5802752293577982
       ]
     },
     {
@@ -21691,8 +21691,8 @@ const features =
       "student_name": "Ritesh",
       "student_id": 1664012766983,
       "point": [
-        10,
-        313
+        0.33263378803777544,
+        0.5275229357798165
       ]
     },
     {
@@ -21701,8 +21701,8 @@ const features =
       "student_name": "Ritesh",
       "student_id": 1664012766983,
       "point": [
-        4,
-        172
+        0.16054564533053514,
+        0.0871559633027523
       ]
     },
     {
@@ -21711,8 +21711,8 @@ const features =
       "student_name": "Ritesh",
       "student_id": 1664012766983,
       "point": [
-        7,
-        182
+        0.1783840503672613,
+        0.20871559633027523
       ]
     },
     {
@@ -21721,8 +21721,8 @@ const features =
       "student_name": "Ritesh",
       "student_id": 1664012766983,
       "point": [
-        4,
-        138
+        0.1521511017838405,
+        0.24541284403669725
       ]
     },
     {
@@ -21731,8 +21731,8 @@ const features =
       "student_name": "Ritesh",
       "student_id": 1664012766983,
       "point": [
-        9,
-        306
+        0.20566631689401887,
+        0.22247706422018348
       ]
     },
     {
@@ -21741,8 +21741,8 @@ const features =
       "student_name": "Ritesh",
       "student_id": 1664012766983,
       "point": [
-        10,
-        593
+        0.15320041972717732,
+        0.6651376146788991
       ]
     },
     {
@@ -21751,8 +21751,8 @@ const features =
       "student_name": "Ritesh",
       "student_id": 1664012766983,
       "point": [
-        4,
-        112
+        0.22140608604407136,
+        0.0389908256880734
       ]
     },
     {
@@ -21761,8 +21761,8 @@ const features =
       "student_name": "Ritesh",
       "student_id": 1664012766983,
       "point": [
-        12,
-        257
+        0.1657922350472193,
+        0.30963302752293576
       ]
     },
     {
@@ -21771,8 +21771,8 @@ const features =
       "student_name": "Ruthvik ",
       "student_id": 1664014111576,
       "point": [
-        6,
-        276
+        0.2193074501573977,
+        0.2889908256880734
       ]
     },
     {
@@ -21781,8 +21781,8 @@ const features =
       "student_name": "Ruthvik ",
       "student_id": 1664014111576,
       "point": [
-        6,
-        159
+        0.20566631689401887,
+        0.1834862385321101
       ]
     },
     {
@@ -21791,8 +21791,8 @@ const features =
       "student_name": "Ruthvik ",
       "student_id": 1664014111576,
       "point": [
-        12,
-        213
+        0.19832109129066108,
+        0.6720183486238532
       ]
     },
     {
@@ -21801,8 +21801,8 @@ const features =
       "student_name": "Ruthvik ",
       "student_id": 1664014111576,
       "point": [
-        3,
-        158
+        0.2654774396642183,
+        0.7798165137614679
       ]
     },
     {
@@ -21811,8 +21811,8 @@ const features =
       "student_name": "Ruthvik ",
       "student_id": 1664014111576,
       "point": [
-        9,
-        183
+        0.25813221406086045,
+        0.5
       ]
     },
     {
@@ -21821,8 +21821,8 @@ const features =
       "student_name": "Ruthvik ",
       "student_id": 1664014111576,
       "point": [
-        7,
-        426
+        0.3001049317943337,
+        0.47477064220183485
       ]
     },
     {
@@ -21831,8 +21831,8 @@ const features =
       "student_name": "Ruthvik ",
       "student_id": 1664014111576,
       "point": [
-        10,
-        167
+        0.2906610703043022,
+        0.46788990825688076
       ]
     },
     {
@@ -21841,8 +21841,8 @@ const features =
       "student_name": "Ruthvik ",
       "student_id": 1664014111576,
       "point": [
-        21,
-        221
+        0.23294858342077648,
+        0.5389908256880734
       ]
     },
     {
@@ -21851,8 +21851,8 @@ const features =
       "student_name": "Roberto",
       "student_id": 1664017048215,
       "point": [
-        13,
-        569
+        0.25918153200419725,
+        0.2408256880733945
       ]
     },
     {
@@ -21861,8 +21861,8 @@ const features =
       "student_name": "Roberto",
       "student_id": 1664017048215,
       "point": [
-        8,
-        424
+        0.1783840503672613,
+        0.15825688073394495
       ]
     },
     {
@@ -21871,8 +21871,8 @@ const features =
       "student_name": "Roberto",
       "student_id": 1664017048215,
       "point": [
-        7,
-        280
+        0.21511017838405036,
+        0.3853211009174312
       ]
     },
     {
@@ -21881,8 +21881,8 @@ const features =
       "student_name": "Roberto",
       "student_id": 1664017048215,
       "point": [
-        4,
-        266
+        0.1930745015739769,
+        0.5481651376146789
       ]
     },
     {
@@ -21891,8 +21891,8 @@ const features =
       "student_name": "Roberto",
       "student_id": 1664017048215,
       "point": [
-        12,
-        539
+        0.27177334732423925,
+        0.25229357798165136
       ]
     },
     {
@@ -21901,8 +21901,8 @@ const features =
       "student_name": "Roberto",
       "student_id": 1664017048215,
       "point": [
-        10,
-        709
+        0.35571878279118574,
+        0.7178899082568807
       ]
     },
     {
@@ -21911,8 +21911,8 @@ const features =
       "student_name": "Roberto",
       "student_id": 1664017048215,
       "point": [
-        4,
-        316
+        0.13955928646379853,
+        0.26146788990825687
       ]
     },
     {
@@ -21921,8 +21921,8 @@ const features =
       "student_name": "Roberto",
       "student_id": 1664017048215,
       "point": [
-        3,
-        202
+        0.17418677859391396,
+        0.2958715596330275
       ]
     },
     {
@@ -21931,8 +21931,8 @@ const features =
       "student_name": "Mateus Rossi",
       "student_id": 1664018214844,
       "point": [
-        25,
-        1470
+        0.30640083945435465,
+        0.19495412844036697
       ]
     },
     {
@@ -21941,8 +21941,8 @@ const features =
       "student_name": "Mateus Rossi",
       "student_id": 1664018214844,
       "point": [
-        41,
-        1319
+        0.323189926547744,
+        0.47706422018348627
       ]
     },
     {
@@ -21951,8 +21951,8 @@ const features =
       "student_name": "Mateus Rossi",
       "student_id": 1664018214844,
       "point": [
-        80,
-        2884
+        0.30535152151101785,
+        0.6880733944954128
       ]
     },
     {
@@ -21961,8 +21961,8 @@ const features =
       "student_name": "Mateus Rossi",
       "student_id": 1664018214844,
       "point": [
-        24,
-        1373
+        0.310598111227702,
+        0.8142201834862385
       ]
     },
     {
@@ -21971,8 +21971,8 @@ const features =
       "student_name": "Mateus Rossi",
       "student_id": 1664018214844,
       "point": [
-        42,
-        1417
+        0.25078698845750264,
+        0.49311926605504586
       ]
     },
     {
@@ -21981,8 +21981,8 @@ const features =
       "student_name": "Mateus Rossi",
       "student_id": 1664018214844,
       "point": [
-        22,
-        1338
+        0.26652675760755506,
+        0.7385321100917431
       ]
     },
     {
@@ -21991,8 +21991,8 @@ const features =
       "student_name": "Mateus Rossi",
       "student_id": 1664018214844,
       "point": [
-        11,
-        380
+        0.14900314795383002,
+        0.536697247706422
       ]
     },
     {
@@ -22001,8 +22001,8 @@ const features =
       "student_name": "Mateus Rossi",
       "student_id": 1664018214844,
       "point": [
-        15,
-        390
+        0.16054564533053514,
+        0.31422018348623854
       ]
     },
     {
@@ -22011,8 +22011,8 @@ const features =
       "student_name": "Robert romanu",
       "student_id": 1664018361293,
       "point": [
-        20,
-        963
+        0.2990556138509968,
+        0.18807339449541285
       ]
     },
     {
@@ -22021,8 +22021,8 @@ const features =
       "student_name": "Robert romanu",
       "student_id": 1664018361293,
       "point": [
-        17,
-        738
+        0.2654774396642183,
+        0.3486238532110092
       ]
     },
     {
@@ -22031,8 +22031,8 @@ const features =
       "student_name": "Robert romanu",
       "student_id": 1664018361293,
       "point": [
-        25,
-        1074
+        0.2528856243441763,
+        0.4518348623853211
       ]
     },
     {
@@ -22041,8 +22041,8 @@ const features =
       "student_name": "Robert romanu",
       "student_id": 1664018361293,
       "point": [
-        25,
-        833
+        0.3578174186778594,
+        0.7408256880733946
       ]
     },
     {
@@ -22051,8 +22051,8 @@ const features =
       "student_name": "Robert romanu",
       "student_id": 1664018361293,
       "point": [
-        24,
-        767
+        0.1930745015739769,
+        0.29357798165137616
       ]
     },
     {
@@ -22061,8 +22061,8 @@ const features =
       "student_name": "Robert romanu",
       "student_id": 1664018361293,
       "point": [
-        17,
-        823
+        0.2696747114375656,
+        0.6192660550458715
       ]
     },
     {
@@ -22071,8 +22071,8 @@ const features =
       "student_name": "Robert romanu",
       "student_id": 1664018361293,
       "point": [
-        5,
-        238
+        0.0062959076600209865,
+        0.4954128440366973
       ]
     },
     {
@@ -22081,8 +22081,8 @@ const features =
       "student_name": "Robert romanu",
       "student_id": 1664018361293,
       "point": [
-        17,
-        547
+        0.18048268625393493,
+        0.3761467889908257
       ]
     },
     {
@@ -22091,8 +22091,8 @@ const features =
       "student_name": "Ledkoca",
       "student_id": 1664019777674,
       "point": [
-        18,
-        835
+        0.36306400839454356,
+        0.47477064220183485
       ]
     },
     {
@@ -22101,8 +22101,8 @@ const features =
       "student_name": "Ledkoca",
       "student_id": 1664019777674,
       "point": [
-        22,
-        829
+        0.2623294858342078,
+        0.4105504587155963
       ]
     },
     {
@@ -22111,8 +22111,8 @@ const features =
       "student_name": "Ledkoca",
       "student_id": 1664019777674,
       "point": [
-        9,
-        332
+        0.3095487932843652,
+        0.6444954128440367
       ]
     },
     {
@@ -22121,8 +22121,8 @@ const features =
       "student_name": "Ledkoca",
       "student_id": 1664019777674,
       "point": [
-        10,
-        295
+        0.2759706190975866,
+        0.7614678899082569
       ]
     },
     {
@@ -22131,8 +22131,8 @@ const features =
       "student_name": "Ledkoca",
       "student_id": 1664019777674,
       "point": [
-        21,
-        338
+        0.2864637985309549,
+        0.4036697247706422
       ]
     },
     {
@@ -22141,8 +22141,8 @@ const features =
       "student_name": "Ledkoca",
       "student_id": 1664019777674,
       "point": [
-        8,
-        688
+        0.31584470094438616,
+        0.6490825688073395
       ]
     },
     {
@@ -22151,8 +22151,8 @@ const features =
       "student_name": "Ledkoca",
       "student_id": 1664019777674,
       "point": [
-        9,
-        254
+        0.3095487932843652,
+        0.7362385321100917
       ]
     },
     {
@@ -22161,8 +22161,8 @@ const features =
       "student_name": "Ledkoca",
       "student_id": 1664019777674,
       "point": [
-        19,
-        375
+        0.2759706190975866,
+        0.555045871559633
       ]
     },
     {
@@ -22171,8 +22171,8 @@ const features =
       "student_name": "Gorav",
       "student_id": 1664021130166,
       "point": [
-        5,
-        648
+        0.29590766002098634,
+        0.3555045871559633
       ]
     },
     {
@@ -22181,8 +22181,8 @@ const features =
       "student_name": "Gorav",
       "student_id": 1664021130166,
       "point": [
-        5,
-        284
+        0.22455403987408185,
+        0.22477064220183487
       ]
     },
     {
@@ -22191,8 +22191,8 @@ const features =
       "student_name": "Gorav",
       "student_id": 1664021130166,
       "point": [
-        22,
-        394
+        0.2497376705141658,
+        0.5045871559633027
       ]
     },
     {
@@ -22201,8 +22201,8 @@ const features =
       "student_name": "Gorav",
       "student_id": 1664021130166,
       "point": [
-        5,
-        421
+        0.29485834207764955,
+        0.7729357798165137
       ]
     },
     {
@@ -22211,8 +22211,8 @@ const features =
       "student_name": "Gorav",
       "student_id": 1664021130166,
       "point": [
-        13,
-        336
+        0.25078698845750264,
+        0.31880733944954126
       ]
     },
     {
@@ -22221,8 +22221,8 @@ const features =
       "student_name": "Gorav",
       "student_id": 1664021130166,
       "point": [
-        18,
-        417
+        0.304302203567681,
+        0.5871559633027523
       ]
     },
     {
@@ -22231,8 +22231,8 @@ const features =
       "student_name": "Gorav",
       "student_id": 1664021130166,
       "point": [
-        6,
-        111
+        0.23294858342077648,
+        0.38990825688073394
       ]
     },
     {
@@ -22241,8 +22241,8 @@ const features =
       "student_name": "Gorav",
       "student_id": 1664021130166,
       "point": [
-        20,
-        470
+        0.2570828961175236,
+        0.7224770642201835
       ]
     },
     {
@@ -22251,8 +22251,8 @@ const features =
       "student_name": "Hocine",
       "student_id": 1664023001703,
       "point": [
-        5,
-        430
+        0.09548793284365163,
+        0.09862385321100918
       ]
     },
     {
@@ -22261,8 +22261,8 @@ const features =
       "student_name": "Hocine",
       "student_id": 1664023001703,
       "point": [
-        5,
-        310
+        0.2518363064008394,
+        0.21788990825688073
       ]
     },
     {
@@ -22271,8 +22271,8 @@ const features =
       "student_name": "Hocine",
       "student_id": 1664023001703,
       "point": [
-        4,
-        387
+        0.11017838405036726,
+        0.33715596330275227
       ]
     },
     {
@@ -22281,8 +22281,8 @@ const features =
       "student_name": "Hocine",
       "student_id": 1664023001703,
       "point": [
-        8,
-        907
+        0.3011542497376705,
+        0.5412844036697247
       ]
     },
     {
@@ -22291,8 +22291,8 @@ const features =
       "student_name": "Hocine",
       "student_id": 1664023001703,
       "point": [
-        9,
-        388
+        0.229800629590766,
+        0.22018348623853212
       ]
     },
     {
@@ -22301,8 +22301,8 @@ const features =
       "student_name": "Hocine",
       "student_id": 1664023001703,
       "point": [
-        8,
-        309
+        0.27177334732423925,
+        0.1926605504587156
       ]
     },
     {
@@ -22311,8 +22311,8 @@ const features =
       "student_name": "Hocine",
       "student_id": 1664023001703,
       "point": [
-        3,
-        157
+        0.005246589716684155,
+        0.21559633027522937
       ]
     },
     {
@@ -22321,8 +22321,8 @@ const features =
       "student_name": "Hocine",
       "student_id": 1664023001703,
       "point": [
-        4,
-        207
+        0.15424973767051417,
+        0.3073394495412844
       ]
     },
     {
@@ -22331,8 +22331,8 @@ const features =
       "student_name": "Vlad Cimpean",
       "student_id": 1664024964253,
       "point": [
-        45,
-        2855
+        0.23714585519412382,
+        0.38990825688073394
       ]
     },
     {
@@ -22341,8 +22341,8 @@ const features =
       "student_name": "Vlad Cimpean",
       "student_id": 1664024964253,
       "point": [
-        11,
-        653
+        0.1311647429171039,
+        0.19036697247706422
       ]
     },
     {
@@ -22351,8 +22351,8 @@ const features =
       "student_name": "Vlad Cimpean",
       "student_id": 1664024964253,
       "point": [
-        27,
-        2309
+        0.28961175236096537,
+        0.5481651376146789
       ]
     },
     {
@@ -22361,8 +22361,8 @@ const features =
       "student_name": "Vlad Cimpean",
       "student_id": 1664024964253,
       "point": [
-        31,
-        1083
+        0.32633788037775446,
+        0.823394495412844
       ]
     },
     {
@@ -22371,8 +22371,8 @@ const features =
       "student_name": "Vlad Cimpean",
       "student_id": 1664024964253,
       "point": [
-        29,
-        1170
+        0.2728226652675761,
+        0.3853211009174312
       ]
     },
     {
@@ -22381,8 +22381,8 @@ const features =
       "student_name": "Vlad Cimpean",
       "student_id": 1664024964253,
       "point": [
-        9,
-        1345
+        0.2770199370409234,
+        0.6261467889908257
       ]
     },
     {
@@ -22391,8 +22391,8 @@ const features =
       "student_name": "Vlad Cimpean",
       "student_id": 1664024964253,
       "point": [
-        4,
-        687
+        0.18363064008394545,
+        0.3440366972477064
       ]
     },
     {
@@ -22401,8 +22401,8 @@ const features =
       "student_name": "Vlad Cimpean",
       "student_id": 1664024964253,
       "point": [
-        23,
-        1068
+        0.23924449108079748,
+        0.5252293577981652
       ]
     },
     {
@@ -22411,8 +22411,8 @@ const features =
       "student_name": "ekmbcd",
       "student_id": 1664025068528,
       "point": [
-        5,
-        525
+        0.28751311647429173,
+        0.3211009174311927
       ]
     },
     {
@@ -22421,8 +22421,8 @@ const features =
       "student_name": "ekmbcd",
       "student_id": 1664025068528,
       "point": [
-        6,
-        532
+        0.26862539349422876,
+        0.3119266055045872
       ]
     },
     {
@@ -22431,8 +22431,8 @@ const features =
       "student_name": "ekmbcd",
       "student_id": 1664025068528,
       "point": [
-        9,
-        436
+        0.36621196222455404,
+        0.6032110091743119
       ]
     },
     {
@@ -22441,8 +22441,8 @@ const features =
       "student_name": "ekmbcd",
       "student_id": 1664025068528,
       "point": [
-        3,
-        207
+        0.23294858342077648,
+        0.6697247706422018
       ]
     },
     {
@@ -22451,8 +22451,8 @@ const features =
       "student_name": "ekmbcd",
       "student_id": 1664025068528,
       "point": [
-        7,
-        353
+        0.26862539349422876,
+        0.44036697247706424
       ]
     },
     {
@@ -22461,8 +22461,8 @@ const features =
       "student_name": "ekmbcd",
       "student_id": 1664025068528,
       "point": [
-        13,
-        825
+        0.2570828961175236,
+        0.6467889908256881
       ]
     },
     {
@@ -22471,8 +22471,8 @@ const features =
       "student_name": "ekmbcd",
       "student_id": 1664025068528,
       "point": [
-        7,
-        737
+        0.23189926547743966,
+        0.6467889908256881
       ]
     },
     {
@@ -22481,8 +22481,8 @@ const features =
       "student_name": "ekmbcd",
       "student_id": 1664025068528,
       "point": [
-        13,
-        306
+        0.2203567681007345,
+        0.4380733944954128
       ]
     },
     {
@@ -22491,8 +22491,8 @@ const features =
       "student_name": "Android_17",
       "student_id": 1664025646737,
       "point": [
-        23,
-        1817
+        0.34312696747114374,
+        0.46559633027522934
       ]
     },
     {
@@ -22501,8 +22501,8 @@ const features =
       "student_name": "Android_17",
       "student_id": 1664025646737,
       "point": [
-        13,
-        1170
+        0.378803777544596,
+        0.40825688073394495
       ]
     },
     {
@@ -22511,8 +22511,8 @@ const features =
       "student_name": "Android_17",
       "student_id": 1664025646737,
       "point": [
-        26,
-        1254
+        0.4018887722980063,
+        0.5848623853211009
       ]
     },
     {
@@ -22521,8 +22521,8 @@ const features =
       "student_name": "Android_17",
       "student_id": 1664025646737,
       "point": [
-        23,
-        1300
+        0.3861490031479538,
+        0.7752293577981652
       ]
     },
     {
@@ -22531,8 +22531,8 @@ const features =
       "student_name": "Android_17",
       "student_id": 1664025646737,
       "point": [
-        19,
-        737
+        0.3882476390346275,
+        0.5321100917431193
       ]
     },
     {
@@ -22541,8 +22541,8 @@ const features =
       "student_name": "Android_17",
       "student_id": 1664025646737,
       "point": [
-        13,
-        848
+        0.3882476390346275,
+        0.7591743119266054
       ]
     },
     {
@@ -22551,8 +22551,8 @@ const features =
       "student_name": "Android_17",
       "student_id": 1664025646737,
       "point": [
-        4,
-        351
+        0.23504721930745015,
+        0.7798165137614679
       ]
     },
     {
@@ -22561,8 +22561,8 @@ const features =
       "student_name": "Android_17",
       "student_id": 1664025646737,
       "point": [
-        22,
-        859
+        0.25078698845750264,
+        0.5389908256880734
       ]
     },
     {
@@ -22571,8 +22571,8 @@ const features =
       "student_name": "sayanii",
       "student_id": 1664027417955,
       "point": [
-        10,
-        619
+        0.2602308499475341,
+        0.32339449541284404
       ]
     },
     {
@@ -22581,8 +22581,8 @@ const features =
       "student_name": "sayanii",
       "student_id": 1664027417955,
       "point": [
-        9,
-        293
+        0.2780692549842602,
+        0.3761467889908257
       ]
     },
     {
@@ -22591,8 +22591,8 @@ const features =
       "student_name": "sayanii",
       "student_id": 1664027417955,
       "point": [
-        9,
-        410
+        0.30220356768100737,
+        0.4036697247706422
       ]
     },
     {
@@ -22601,8 +22601,8 @@ const features =
       "student_name": "sayanii",
       "student_id": 1664027417955,
       "point": [
-        2,
-        225
+        0.24239244491080797,
+        0.6123853211009175
       ]
     },
     {
@@ -22611,8 +22611,8 @@ const features =
       "student_name": "sayanii",
       "student_id": 1664027417955,
       "point": [
-        16,
-        572
+        0.22770199370409233,
+        0.30275229357798167
       ]
     },
     {
@@ -22621,8 +22621,8 @@ const features =
       "student_name": "sayanii",
       "student_id": 1664027417955,
       "point": [
-        5,
-        222
+        0.21720881427072403,
+        0.1811926605504587
       ]
     },
     {
@@ -22631,8 +22631,8 @@ const features =
       "student_name": "sayanii",
       "student_id": 1664027417955,
       "point": [
-        2,
-        177
+        0.17103882476390347,
+        0.3532110091743119
       ]
     },
     {
@@ -22641,8 +22641,8 @@ const features =
       "student_name": "sayanii",
       "student_id": 1664027417955,
       "point": [
-        18,
-        368
+        0.2518363064008394,
+        0.5848623853211009
       ]
     },
     {
@@ -22651,8 +22651,8 @@ const features =
       "student_name": "MZK",
       "student_id": 1664028885004,
       "point": [
-        19,
-        1698
+        0.2088142707240294,
+        0.22706422018348624
       ]
     },
     {
@@ -22661,8 +22661,8 @@ const features =
       "student_name": "MZK",
       "student_id": 1664028885004,
       "point": [
-        11,
-        553
+        0.12696747114375656,
+        0.2018348623853211
       ]
     },
     {
@@ -22671,8 +22671,8 @@ const features =
       "student_name": "MZK",
       "student_id": 1664028885004,
       "point": [
-        55,
-        3949
+        0.1888772298006296,
+        0.5825688073394495
       ]
     },
     {
@@ -22681,8 +22681,8 @@ const features =
       "student_name": "MZK",
       "student_id": 1664028885004,
       "point": [
-        35,
-        1985
+        0.4018887722980063,
+        0.5642201834862385
       ]
     },
     {
@@ -22691,8 +22691,8 @@ const features =
       "student_name": "MZK",
       "student_id": 1664028885004,
       "point": [
-        33,
-        4156
+        0.25918153200419725,
+        0.4243119266055046
       ]
     },
     {
@@ -22701,8 +22701,8 @@ const features =
       "student_name": "MZK",
       "student_id": 1664028885004,
       "point": [
-        27,
-        1011
+        0.2539349422875131,
+        0.29357798165137616
       ]
     },
     {
@@ -22711,8 +22711,8 @@ const features =
       "student_name": "MZK",
       "student_id": 1664028885004,
       "point": [
-        6,
-        288
+        0.016789087093389297,
+        0.4610091743119266
       ]
     },
     {
@@ -22721,8 +22721,8 @@ const features =
       "student_name": "MZK",
       "student_id": 1664028885004,
       "point": [
-        21,
-        691
+        0.18048268625393493,
+        0.4036697247706422
       ]
     },
     {
@@ -22731,8 +22731,8 @@ const features =
       "student_name": "rcx",
       "student_id": 1664030049840,
       "point": [
-        12,
-        970
+        0.385099685204617,
+        0.31880733944954126
       ]
     },
     {
@@ -22741,8 +22741,8 @@ const features =
       "student_name": "rcx",
       "student_id": 1664030049840,
       "point": [
-        3,
-        444
+        0.2938090241343127,
+        0.5229357798165137
       ]
     },
     {
@@ -22751,8 +22751,8 @@ const features =
       "student_name": "rcx",
       "student_id": 1664030049840,
       "point": [
-        9,
-        794
+        0.25078698845750264,
+        0.5412844036697247
       ]
     },
     {
@@ -22761,8 +22761,8 @@ const features =
       "student_name": "rcx",
       "student_id": 1664030049840,
       "point": [
-        3,
-        376
+        0.25813221406086045,
+        0.6330275229357798
       ]
     },
     {
@@ -22771,8 +22771,8 @@ const features =
       "student_name": "rcx",
       "student_id": 1664030049840,
       "point": [
-        9,
-        732
+        0.304302203567681,
+        0.4334862385321101
       ]
     },
     {
@@ -22781,8 +22781,8 @@ const features =
       "student_name": "rcx",
       "student_id": 1664030049840,
       "point": [
-        9,
-        1145
+        0.310598111227702,
+        0.7958715596330275
       ]
     },
     {
@@ -22791,8 +22791,8 @@ const features =
       "student_name": "rcx",
       "student_id": 1664030049840,
       "point": [
-        7,
-        810
+        0.1689401888772298,
+        0.731651376146789
       ]
     },
     {
@@ -22801,8 +22801,8 @@ const features =
       "student_name": "rcx",
       "student_id": 1664030049840,
       "point": [
-        7,
-        625
+        0.2906610703043022,
+        0.5619266055045872
       ]
     },
     {
@@ -22811,8 +22811,8 @@ const features =
       "student_name": "bpilakkat",
       "student_id": 1664030556516,
       "point": [
-        1,
-        259
+        0.2602308499475341,
+        0.18577981651376146
       ]
     },
     {
@@ -22821,8 +22821,8 @@ const features =
       "student_name": "bpilakkat",
       "student_id": 1664030556516,
       "point": [
-        5,
-        325
+        0.25918153200419725,
+        0.231651376146789
       ]
     },
     {
@@ -22831,8 +22831,8 @@ const features =
       "student_name": "bpilakkat",
       "student_id": 1664030556516,
       "point": [
-        6,
-        217
+        0.24763903462749212,
+        0.46788990825688076
       ]
     },
     {
@@ -22841,8 +22841,8 @@ const features =
       "student_name": "bpilakkat",
       "student_id": 1664030556516,
       "point": [
-        7,
-        220
+        0.2266526757607555,
+        0.5688073394495413
       ]
     },
     {
@@ -22851,8 +22851,8 @@ const features =
       "student_name": "bpilakkat",
       "student_id": 1664030556516,
       "point": [
-        9,
-        237
+        0.24449108079748164,
+        0.3577981651376147
       ]
     },
     {
@@ -22861,8 +22861,8 @@ const features =
       "student_name": "bpilakkat",
       "student_id": 1664030556516,
       "point": [
-        9,
-        463
+        0.25498426023084997,
+        0.41284403669724773
       ]
     },
     {
@@ -22871,8 +22871,8 @@ const features =
       "student_name": "bpilakkat",
       "student_id": 1664030556516,
       "point": [
-        3,
-        162
+        0.01049317943336831,
+        0.4105504587155963
       ]
     },
     {
@@ -22881,8 +22881,8 @@ const features =
       "student_name": "bpilakkat",
       "student_id": 1664030556516,
       "point": [
-        4,
-        157
+        0.15634837355718784,
+        0.33256880733944955
       ]
     },
     {
@@ -22891,8 +22891,8 @@ const features =
       "student_name": "Vishal Kumar",
       "student_id": 1664030729647,
       "point": [
-        11,
-        1097
+        0.28961175236096537,
+        0.286697247706422
       ]
     },
     {
@@ -22901,8 +22901,8 @@ const features =
       "student_name": "Vishal Kumar",
       "student_id": 1664030729647,
       "point": [
-        31,
-        1680
+        0.32633788037775446,
+        0.4793577981651376
       ]
     },
     {
@@ -22911,8 +22911,8 @@ const features =
       "student_name": "Vishal Kumar",
       "student_id": 1664030729647,
       "point": [
-        27,
-        1517
+        0.29800629590766003,
+        0.6697247706422018
       ]
     },
     {
@@ -22921,8 +22921,8 @@ const features =
       "student_name": "Vishal Kumar",
       "student_id": 1664030729647,
       "point": [
-        10,
-        1059
+        0.3305351521511018,
+        0.8394495412844036
       ]
     },
     {
@@ -22931,8 +22931,8 @@ const features =
       "student_name": "Vishal Kumar",
       "student_id": 1664030729647,
       "point": [
-        12,
-        1854
+        0.33263378803777544,
+        0.5252293577981652
       ]
     },
     {
@@ -22941,8 +22941,8 @@ const features =
       "student_name": "Vishal Kumar",
       "student_id": 1664030729647,
       "point": [
-        12,
-        1689
+        0.33683105981112277,
+        0.5298165137614679
       ]
     },
     {
@@ -22951,8 +22951,8 @@ const features =
       "student_name": "Vishal Kumar",
       "student_id": 1664030729647,
       "point": [
-        7,
-        872
+        0.22560335781741866,
+        0.5114678899082569
       ]
     },
     {
@@ -22961,8 +22961,8 @@ const features =
       "student_name": "Vishal Kumar",
       "student_id": 1664030729647,
       "point": [
-        14,
-        1355
+        0.18572927597061908,
+        0.3922018348623853
       ]
     },
     {
@@ -22971,8 +22971,8 @@ const features =
       "student_name": "Avinash",
       "student_id": 1664030751310,
       "point": [
-        9,
-        914
+        0.23924449108079748,
+        0.1536697247706422
       ]
     },
     {
@@ -22981,8 +22981,8 @@ const features =
       "student_name": "Avinash",
       "student_id": 1664030751310,
       "point": [
-        16,
-        603
+        0.13746065057712487,
+        0.1720183486238532
       ]
     },
     {
@@ -22991,8 +22991,8 @@ const features =
       "student_name": "Avinash",
       "student_id": 1664030751310,
       "point": [
-        19,
-        807
+        0.30535152151101785,
+        0.3577981651376147
       ]
     },
     {
@@ -23001,8 +23001,8 @@ const features =
       "student_name": "Avinash",
       "student_id": 1664030751310,
       "point": [
-        10,
-        461
+        0.2738719832109129,
+        0.6926605504587156
       ]
     },
     {
@@ -23011,8 +23011,8 @@ const features =
       "student_name": "Avinash",
       "student_id": 1664030751310,
       "point": [
-        3,
-        571
+        0.2623294858342078,
+        0.3669724770642202
       ]
     },
     {
@@ -23021,8 +23021,8 @@ const features =
       "student_name": "Avinash",
       "student_id": 1664030751310,
       "point": [
-        4,
-        394
+        0.2633788037775446,
+        0.45642201834862384
       ]
     },
     {
@@ -23031,8 +23031,8 @@ const features =
       "student_name": "Avinash",
       "student_id": 1664030751310,
       "point": [
-        4,
-        180
+        0.2696747114375656,
+        0.2408256880733945
       ]
     },
     {
@@ -23041,8 +23041,8 @@ const features =
       "student_name": "Avinash",
       "student_id": 1664030751310,
       "point": [
-        4,
-        127
+        0.17418677859391396,
+        0.3486238532110092
       ]
     },
     {
@@ -23051,8 +23051,8 @@ const features =
       "student_name": "Jules",
       "student_id": 1664031598093,
       "point": [
-        7,
-        258
+        0.2025183630640084,
+        0.22247706422018348
       ]
     },
     {
@@ -23061,8 +23061,8 @@ const features =
       "student_name": "Jules",
       "student_id": 1664031598093,
       "point": [
-        4,
-        386
+        0.18048268625393493,
+        0.2408256880733945
       ]
     },
     {
@@ -23071,8 +23071,8 @@ const features =
       "student_name": "Jules",
       "student_id": 1664031598093,
       "point": [
-        5,
-        239
+        0.15424973767051417,
+        0.5068807339449541
       ]
     },
     {
@@ -23081,8 +23081,8 @@ const features =
       "student_name": "Jules",
       "student_id": 1664031598093,
       "point": [
-        3,
-        260
+        0.20776495278069254,
+        0.6100917431192661
       ]
     },
     {
@@ -23091,8 +23091,8 @@ const features =
       "student_name": "Jules",
       "student_id": 1664031598093,
       "point": [
-        10,
-        165
+        0.18153200419727178,
+        0.27293577981651373
       ]
     },
     {
@@ -23101,8 +23101,8 @@ const features =
       "student_name": "Jules",
       "student_id": 1664031598093,
       "point": [
-        8,
-        304
+        0.23084994753410285,
+        0.12614678899082568
       ]
     },
     {
@@ -23111,8 +23111,8 @@ const features =
       "student_name": "Jules",
       "student_id": 1664031598093,
       "point": [
-        5,
-        142
+        0.02728226652675761,
+        0.45871559633027525
       ]
     },
     {
@@ -23121,8 +23121,8 @@ const features =
       "student_name": "Jules",
       "student_id": 1664031598093,
       "point": [
-        10,
-        109
+        0.10178384050367262,
+        0.3394495412844037
       ]
     },
     {
@@ -23131,8 +23131,8 @@ const features =
       "student_name": "Alex Mercer",
       "student_id": 1664032325240,
       "point": [
-        22,
-        2177
+        0.3252885624344176,
+        0.30045871559633025
       ]
     },
     {
@@ -23141,8 +23141,8 @@ const features =
       "student_name": "Alex Mercer",
       "student_id": 1664032325240,
       "point": [
-        10,
-        803
+        0.3441762854144806,
+        0.6353211009174312
       ]
     },
     {
@@ -23151,8 +23151,8 @@ const features =
       "student_name": "Alex Mercer",
       "student_id": 1664032325240,
       "point": [
-        127,
-        2310
+        0.40293809024134314,
+        0.75
       ]
     },
     {
@@ -23161,8 +23161,8 @@ const features =
       "student_name": "Alex Mercer",
       "student_id": 1664032325240,
       "point": [
-        53,
-        574
+        0.3683105981112277,
+        0.8784403669724771
       ]
     },
     {
@@ -23171,8 +23171,8 @@ const features =
       "student_name": "Alex Mercer",
       "student_id": 1664032325240,
       "point": [
-        29,
-        3143
+        0.3588667366211962,
+        0.5756880733944955
       ]
     },
     {
@@ -23181,8 +23181,8 @@ const features =
       "student_name": "Alex Mercer",
       "student_id": 1664032325240,
       "point": [
-        24,
-        1469
+        0.3704092339979014,
+        0.7477064220183486
       ]
     },
     {
@@ -23191,8 +23191,8 @@ const features =
       "student_name": "Alex Mercer",
       "student_id": 1664032325240,
       "point": [
-        9,
-        437
+        0.017838405036726127,
+        0.5022935779816514
       ]
     },
     {
@@ -23201,8 +23201,8 @@ const features =
       "student_name": "Alex Mercer",
       "student_id": 1664032325240,
       "point": [
-        8,
-        586
+        0.19727177334732424,
+        0.17889908256880735
       ]
     },
     {
@@ -23211,8 +23211,8 @@ const features =
       "student_name": "arj",
       "student_id": 1664033311552,
       "point": [
-        12,
-        1291
+        0.36306400839454356,
+        0.2889908256880734
       ]
     },
     {
@@ -23221,8 +23221,8 @@ const features =
       "student_name": "arj",
       "student_id": 1664033311552,
       "point": [
-        5,
-        678
+        0.25918153200419725,
+        0.31422018348623854
       ]
     },
     {
@@ -23231,8 +23231,8 @@ const features =
       "student_name": "arj",
       "student_id": 1664033311552,
       "point": [
-        21,
-        1211
+        0.2833158447009444,
+        0.5068807339449541
       ]
     },
     {
@@ -23241,8 +23241,8 @@ const features =
       "student_name": "arj",
       "student_id": 1664033311552,
       "point": [
-        17,
-        1230
+        0.323189926547744,
+        0.6490825688073395
       ]
     },
     {
@@ -23251,8 +23251,8 @@ const features =
       "student_name": "arj",
       "student_id": 1664033311552,
       "point": [
-        16,
-        1242
+        0.33473242392444913,
+        0.4724770642201835
       ]
     },
     {
@@ -23261,8 +23261,8 @@ const features =
       "student_name": "arj",
       "student_id": 1664033311552,
       "point": [
-        11,
-        861
+        0.25498426023084997,
+        0.6467889908256881
       ]
     },
     {
@@ -23271,8 +23271,8 @@ const features =
       "student_name": "arj",
       "student_id": 1664033311552,
       "point": [
-        6,
-        386
+        0.22245540398740818,
+        0.6238532110091743
       ]
     },
     {
@@ -23281,8 +23281,8 @@ const features =
       "student_name": "arj",
       "student_id": 1664033311552,
       "point": [
-        19,
-        801
+        0.17103882476390347,
+        0.44495412844036697
       ]
     },
     {
@@ -23291,8 +23291,8 @@ const features =
       "student_name": "Adi",
       "student_id": 1664034269872,
       "point": [
-        9,
-        908
+        0.35571878279118574,
+        0.28211009174311924
       ]
     },
     {
@@ -23301,8 +23301,8 @@ const features =
       "student_name": "Adi",
       "student_id": 1664034269872,
       "point": [
-        8,
-        573
+        0.29590766002098634,
+        0.33715596330275227
       ]
     },
     {
@@ -23311,8 +23311,8 @@ const features =
       "student_name": "Adi",
       "student_id": 1664034269872,
       "point": [
-        30,
-        1184
+        0.2497376705141658,
+        0.3967889908256881
       ]
     },
     {
@@ -23321,8 +23321,8 @@ const features =
       "student_name": "Adi",
       "student_id": 1664034269872,
       "point": [
-        4,
-        242
+        0.26652675760755506,
+        0.6169724770642202
       ]
     },
     {
@@ -23331,8 +23331,8 @@ const features =
       "student_name": "Adi",
       "student_id": 1664034269872,
       "point": [
-        20,
-        864
+        0.2812172088142707,
+        0.34174311926605505
       ]
     },
     {
@@ -23341,8 +23341,8 @@ const features =
       "student_name": "Adi",
       "student_id": 1664034269872,
       "point": [
-        25,
-        1389
+        0.26128016789087094,
+        0.694954128440367
       ]
     },
     {
@@ -23351,8 +23351,8 @@ const features =
       "student_name": "Adi",
       "student_id": 1664034269872,
       "point": [
-        8,
-        296
+        0.14690451206715635,
+        0.3623853211009174
       ]
     },
     {
@@ -23361,8 +23361,8 @@ const features =
       "student_name": "Adi",
       "student_id": 1664034269872,
       "point": [
-        26,
-        722
+        0.17523609653725078,
+        0.31422018348623854
       ]
     },
     {
@@ -23371,8 +23371,8 @@ const features =
       "student_name": "kasim",
       "student_id": 1664036551916,
       "point": [
-        15,
-        623
+        0.29800629590766003,
+        0.1926605504587156
       ]
     },
     {
@@ -23381,8 +23381,8 @@ const features =
       "student_name": "kasim",
       "student_id": 1664036551916,
       "point": [
-        7,
-        319
+        0.19727177334732424,
+        0.19954128440366972
       ]
     },
     {
@@ -23391,8 +23391,8 @@ const features =
       "student_name": "kasim",
       "student_id": 1664036551916,
       "point": [
-        28,
-        581
+        0.2497376705141658,
+        0.4724770642201835
       ]
     },
     {
@@ -23401,8 +23401,8 @@ const features =
       "student_name": "kasim",
       "student_id": 1664036551916,
       "point": [
-        5,
-        232
+        0.2707240293809024,
+        0.5619266055045872
       ]
     },
     {
@@ -23411,8 +23411,8 @@ const features =
       "student_name": "kasim",
       "student_id": 1664036551916,
       "point": [
-        30,
-        957
+        0.3273871983210913,
+        0.44036697247706424
       ]
     },
     {
@@ -23421,8 +23421,8 @@ const features =
       "student_name": "kasim",
       "student_id": 1664036551916,
       "point": [
-        8,
-        416
+        0.30640083945435465,
+        0.5802752293577982
       ]
     },
     {
@@ -23431,8 +23431,8 @@ const features =
       "student_name": "kasim",
       "student_id": 1664036551916,
       "point": [
-        8,
-        339
+        0.2570828961175236,
+        0.15825688073394495
       ]
     },
     {
@@ -23441,8 +23441,8 @@ const features =
       "student_name": "kasim",
       "student_id": 1664036551916,
       "point": [
-        20,
-        423
+        0.16684155299055614,
+        0.30275229357798167
       ]
     },
     {
@@ -23451,8 +23451,8 @@ const features =
       "student_name": "mazlum",
       "student_id": 1664038907275,
       "point": [
-        3,
-        634
+        0.18572927597061908,
+        0.2018348623853211
       ]
     },
     {
@@ -23461,8 +23461,8 @@ const features =
       "student_name": "mazlum",
       "student_id": 1664038907275,
       "point": [
-        9,
-        1175
+        0.2402938090241343,
+        0.231651376146789
       ]
     },
     {
@@ -23471,8 +23471,8 @@ const features =
       "student_name": "mazlum",
       "student_id": 1664038907275,
       "point": [
-        10,
-        695
+        0.12172088142707241,
+        0.5275229357798165
       ]
     },
     {
@@ -23481,8 +23481,8 @@ const features =
       "student_name": "mazlum",
       "student_id": 1664038907275,
       "point": [
-        2,
-        726
+        0.21720881427072403,
+        0.5435779816513762
       ]
     },
     {
@@ -23491,8 +23491,8 @@ const features =
       "student_name": "mazlum",
       "student_id": 1664038907275,
       "point": [
-        8,
-        475
+        0.25918153200419725,
+        0.3646788990825688
       ]
     },
     {
@@ -23501,8 +23501,8 @@ const features =
       "student_name": "mazlum",
       "student_id": 1664038907275,
       "point": [
-        13,
-        1142
+        0.3546694648478489,
+        0.30275229357798167
       ]
     },
     {
@@ -23511,8 +23511,8 @@ const features =
       "student_name": "mazlum",
       "student_id": 1664038907275,
       "point": [
-        7,
-        367
+        0.3378803777544596,
+        0.12155963302752294
       ]
     },
     {
@@ -23521,8 +23521,8 @@ const features =
       "student_name": "mazlum",
       "student_id": 1664038907275,
       "point": [
-        16,
-        468
+        0.2266526757607555,
+        0.4243119266055046
       ]
     },
     {
@@ -23531,8 +23531,8 @@ const features =
       "student_name": "someguy",
       "student_id": 1664042183409,
       "point": [
-        7,
-        534
+        0.3074501573976915,
+        0.25229357798165136
       ]
     },
     {
@@ -23541,8 +23541,8 @@ const features =
       "student_name": "someguy",
       "student_id": 1664042183409,
       "point": [
-        3,
-        255
+        0.18363064008394545,
+        0.13990825688073394
       ]
     },
     {
@@ -23551,8 +23551,8 @@ const features =
       "student_name": "someguy",
       "student_id": 1664042183409,
       "point": [
-        9,
-        530
+        0.11227701993704092,
+        0.4793577981651376
       ]
     },
     {
@@ -23561,8 +23561,8 @@ const features =
       "student_name": "someguy",
       "student_id": 1664042183409,
       "point": [
-        2,
-        217
+        0.19727177334732424,
+        0.6330275229357798
       ]
     },
     {
@@ -23571,8 +23571,8 @@ const features =
       "student_name": "someguy",
       "student_id": 1664042183409,
       "point": [
-        7,
-        336
+        0.12277019937040923,
+        0.23853211009174313
       ]
     },
     {
@@ -23581,8 +23581,8 @@ const features =
       "student_name": "someguy",
       "student_id": 1664042183409,
       "point": [
-        9,
-        438
+        0.20566631689401887,
+        0.32798165137614677
       ]
     },
     {
@@ -23591,8 +23591,8 @@ const features =
       "student_name": "someguy",
       "student_id": 1664042183409,
       "point": [
-        8,
-        343
+        0.2654774396642183,
+        0.09403669724770643
       ]
     },
     {
@@ -23601,8 +23601,8 @@ const features =
       "student_name": "someguy",
       "student_id": 1664042183409,
       "point": [
-        6,
-        213
+        0.21091290661070305,
+        0.48853211009174313
       ]
     },
     {
@@ -23611,8 +23611,8 @@ const features =
       "student_name": "nigger",
       "student_id": 1664042454725,
       "point": [
-        9,
-        497
+        0.310598111227702,
+        0.2798165137614679
       ]
     },
     {
@@ -23621,8 +23621,8 @@ const features =
       "student_name": "nigger",
       "student_id": 1664042454725,
       "point": [
-        3,
-        118
+        0.21196222455403987,
+        0.19954128440366972
       ]
     },
     {
@@ -23631,8 +23631,8 @@ const features =
       "student_name": "nigger",
       "student_id": 1664042454725,
       "point": [
-        11,
-        320
+        0.155299055613851,
+        0.6169724770642202
       ]
     },
     {
@@ -23641,8 +23641,8 @@ const features =
       "student_name": "nigger",
       "student_id": 1664042454725,
       "point": [
-        2,
-        191
+        0.18572927597061908,
+        0.5986238532110092
       ]
     },
     {
@@ -23651,8 +23651,8 @@ const features =
       "student_name": "nigger",
       "student_id": 1664042454725,
       "point": [
-        19,
-        369
+        0.35047219307450156,
+        0.658256880733945
       ]
     },
     {
@@ -23661,8 +23661,8 @@ const features =
       "student_name": "nigger",
       "student_id": 1664042454725,
       "point": [
-        5,
-        174
+        0.11647429171038824,
+        0.5344036697247706
       ]
     },
     {
@@ -23671,8 +23671,8 @@ const features =
       "student_name": "nigger",
       "student_id": 1664042454725,
       "point": [
-        3,
-        91
+        0.03987408184679958,
+        0.5412844036697247
       ]
     },
     {
@@ -23681,8 +23681,8 @@ const features =
       "student_name": "nigger",
       "student_id": 1664042454725,
       "point": [
-        6,
-        175
+        0.17103882476390347,
+        0.35091743119266056
       ]
     },
     {
@@ -23691,8 +23691,8 @@ const features =
       "student_name": "Albin",
       "student_id": 1664048574826,
       "point": [
-        16,
-        777
+        0.31374606505771246,
+        0.3348623853211009
       ]
     },
     {
@@ -23701,8 +23701,8 @@ const features =
       "student_name": "Albin",
       "student_id": 1664048574826,
       "point": [
-        9,
-        425
+        0.236096537250787,
+        0.20412844036697247
       ]
     },
     {
@@ -23711,8 +23711,8 @@ const features =
       "student_name": "Albin",
       "student_id": 1664048574826,
       "point": [
-        11,
-        522
+        0.17628541448058763,
+        0.25229357798165136
       ]
     },
     {
@@ -23721,8 +23721,8 @@ const features =
       "student_name": "Albin",
       "student_id": 1664048574826,
       "point": [
-        3,
-        313
+        0.21091290661070305,
+        0.3853211009174312
       ]
     },
     {
@@ -23731,8 +23731,8 @@ const features =
       "student_name": "Albin",
       "student_id": 1664048574826,
       "point": [
-        17,
-        403
+        0.22140608604407136,
+        0.24311926605504589
       ]
     },
     {
@@ -23741,8 +23741,8 @@ const features =
       "student_name": "Albin",
       "student_id": 1664048574826,
       "point": [
-        15,
-        492
+        0.12172088142707241,
+        0.6192660550458715
       ]
     },
     {
@@ -23751,8 +23751,8 @@ const features =
       "student_name": "Albin",
       "student_id": 1664048574826,
       "point": [
-        20,
-        515
+        0.27911857292759706,
+        0.09862385321100918
       ]
     },
     {
@@ -23761,8 +23761,8 @@ const features =
       "student_name": "Albin",
       "student_id": 1664048574826,
       "point": [
-        17,
-        618
+        0.2833158447009444,
+        0.4908256880733945
       ]
     },
     {
@@ -23771,8 +23771,8 @@ const features =
       "student_name": "brasil",
       "student_id": 1664048756422,
       "point": [
-        10,
-        667
+        0.3620146904512067,
+        0.3165137614678899
       ]
     },
     {
@@ -23781,8 +23781,8 @@ const features =
       "student_name": "brasil",
       "student_id": 1664048756422,
       "point": [
-        9,
-        534
+        0.22875131164742918,
+        0.2408256880733945
       ]
     },
     {
@@ -23791,8 +23791,8 @@ const features =
       "student_name": "brasil",
       "student_id": 1664048756422,
       "point": [
-        12,
-        718
+        0.2738719832109129,
+        0.4954128440366973
       ]
     },
     {
@@ -23801,8 +23801,8 @@ const features =
       "student_name": "brasil",
       "student_id": 1664048756422,
       "point": [
-        15,
-        823
+        0.27911857292759706,
+        0.5137614678899083
       ]
     },
     {
@@ -23811,8 +23811,8 @@ const features =
       "student_name": "brasil",
       "student_id": 1664048756422,
       "point": [
-        16,
-        1118
+        0.25918153200419725,
+        0.32339449541284404
       ]
     },
     {
@@ -23821,8 +23821,8 @@ const features =
       "student_name": "brasil",
       "student_id": 1664048756422,
       "point": [
-        15,
-        1156
+        0.27177334732423925,
+        0.4380733944954128
       ]
     },
     {
@@ -23831,8 +23831,8 @@ const features =
       "student_name": "brasil",
       "student_id": 1664048756422,
       "point": [
-        9,
-        714
+        0.2203567681007345,
+        0.45642201834862384
       ]
     },
     {
@@ -23841,8 +23841,8 @@ const features =
       "student_name": "brasil",
       "student_id": 1664048756422,
       "point": [
-        13,
-        820
+        0.21825813221406087,
+        0.4334862385321101
       ]
     },
     {
@@ -23851,8 +23851,8 @@ const features =
       "student_name": "Alexander",
       "student_id": 1664050297044,
       "point": [
-        4,
-        265
+        0.2266526757607555,
+        0.3555045871559633
       ]
     },
     {
@@ -23861,8 +23861,8 @@ const features =
       "student_name": "Alexander",
       "student_id": 1664050297044,
       "point": [
-        2,
-        258
+        0.25078698845750264,
+        0.22477064220183487
       ]
     },
     {
@@ -23871,8 +23871,8 @@ const features =
       "student_name": "Alexander",
       "student_id": 1664050297044,
       "point": [
-        2,
-        249
+        0.23084994753410285,
+        0.7431192660550459
       ]
     },
     {
@@ -23881,8 +23881,8 @@ const features =
       "student_name": "Alexander",
       "student_id": 1664050297044,
       "point": [
-        12,
-        717
+        0.3200419727177335,
+        0.7178899082568807
       ]
     },
     {
@@ -23891,8 +23891,8 @@ const features =
       "student_name": "Alexander",
       "student_id": 1664050297044,
       "point": [
-        23,
-        827
+        0.28541448058761804,
+        0.35091743119266056
       ]
     },
     {
@@ -23901,8 +23901,8 @@ const features =
       "student_name": "Alexander",
       "student_id": 1664050297044,
       "point": [
-        7,
-        671
+        0.291710388247639,
+        0.42201834862385323
       ]
     },
     {
@@ -23911,8 +23911,8 @@ const features =
       "student_name": "Alexander",
       "student_id": 1664050297044,
       "point": [
-        4,
-        390
+        0.033578174186778595,
+        0.5412844036697247
       ]
     },
     {
@@ -23921,8 +23921,8 @@ const features =
       "student_name": "Alexander",
       "student_id": 1664050297044,
       "point": [
-        3,
-        271
+        0.15320041972717732,
+        0.33715596330275227
       ]
     },
     {
@@ -23931,8 +23931,8 @@ const features =
       "student_name": "Shahadh",
       "student_id": 1664052232607,
       "point": [
-        8,
-        653
+        0.2602308499475341,
+        0.22706422018348624
       ]
     },
     {
@@ -23941,8 +23941,8 @@ const features =
       "student_name": "Shahadh",
       "student_id": 1664052232607,
       "point": [
-        4,
-        355
+        0.20671563483735572,
+        0.23394495412844038
       ]
     },
     {
@@ -23951,8 +23951,8 @@ const features =
       "student_name": "Shahadh",
       "student_id": 1664052232607,
       "point": [
-        23,
-        734
+        0.24554039874081846,
+        0.4036697247706422
       ]
     },
     {
@@ -23961,8 +23961,8 @@ const features =
       "student_name": "Shahadh",
       "student_id": 1664052232607,
       "point": [
-        4,
-        449
+        0.25078698845750264,
+        0.7293577981651376
       ]
     },
     {
@@ -23971,8 +23971,8 @@ const features =
       "student_name": "Shahadh",
       "student_id": 1664052232607,
       "point": [
-        26,
-        816
+        0.2098635886673662,
+        0.41743119266055045
       ]
     },
     {
@@ -23981,8 +23981,8 @@ const features =
       "student_name": "Shahadh",
       "student_id": 1664052232607,
       "point": [
-        30,
-        1319
+        0.1322140608604407,
+        0.7201834862385321
       ]
     },
     {
@@ -23991,8 +23991,8 @@ const features =
       "student_name": "Shahadh",
       "student_id": 1664052232607,
       "point": [
-        12,
-        634
+        0.2025183630640084,
+        0.4288990825688073
       ]
     },
     {
@@ -24001,8 +24001,8 @@ const features =
       "student_name": "Shahadh",
       "student_id": 1664052232607,
       "point": [
-        20,
-        625
+        0.17418677859391396,
+        0.36009174311926606
       ]
     },
     {
@@ -24011,8 +24011,8 @@ const features =
       "student_name": "Ricardo Aleixo",
       "student_id": 1664057034710,
       "point": [
-        3,
-        845
+        0.28541448058761804,
+        0.231651376146789
       ]
     },
     {
@@ -24021,8 +24021,8 @@ const features =
       "student_name": "Ricardo Aleixo",
       "student_id": 1664057034710,
       "point": [
-        3,
-        730
+        0.3305351521511018,
+        0.33256880733944955
       ]
     },
     {
@@ -24031,8 +24031,8 @@ const features =
       "student_name": "Ricardo Aleixo",
       "student_id": 1664057034710,
       "point": [
-        12,
-        1103
+        0.32214060860440713,
+        0.75
       ]
     },
     {
@@ -24041,8 +24041,8 @@ const features =
       "student_name": "Ricardo Aleixo",
       "student_id": 1664057034710,
       "point": [
-        3,
-        427
+        0.2497376705141658,
+        0.7247706422018348
       ]
     },
     {
@@ -24051,8 +24051,8 @@ const features =
       "student_name": "Ricardo Aleixo",
       "student_id": 1664057034710,
       "point": [
-        14,
-        1463
+        0.3179433368310598,
+        0.47706422018348627
       ]
     },
     {
@@ -24061,8 +24061,8 @@ const features =
       "student_name": "Ricardo Aleixo",
       "student_id": 1664057034710,
       "point": [
-        22,
-        1498
+        0.29485834207764955,
+        0.5756880733944955
       ]
     },
     {
@@ -24071,8 +24071,8 @@ const features =
       "student_name": "Ricardo Aleixo",
       "student_id": 1664057034710,
       "point": [
-        9,
-        868
+        0.18572927597061908,
+        0.5894495412844036
       ]
     },
     {
@@ -24081,8 +24081,8 @@ const features =
       "student_name": "Ricardo Aleixo",
       "student_id": 1664057034710,
       "point": [
-        24,
-        1562
+        0.229800629590766,
+        0.8371559633027523
       ]
     },
     {
@@ -24091,8 +24091,8 @@ const features =
       "student_name": "Tiina",
       "student_id": 1664057072596,
       "point": [
-        26,
-        1762
+        0.39244491080797483,
+        0.41284403669724773
       ]
     },
     {
@@ -24101,8 +24101,8 @@ const features =
       "student_name": "Tiina",
       "student_id": 1664057072596,
       "point": [
-        8,
-        416
+        0.2833158447009444,
+        0.1651376146788991
       ]
     },
     {
@@ -24111,8 +24111,8 @@ const features =
       "student_name": "Tiina",
       "student_id": 1664057072596,
       "point": [
-        23,
-        1075
+        0.33263378803777544,
+        0.5252293577981652
       ]
     },
     {
@@ -24121,8 +24121,8 @@ const features =
       "student_name": "Tiina",
       "student_id": 1664057072596,
       "point": [
-        9,
-        379
+        0.23189926547743966,
+        0.6261467889908257
       ]
     },
     {
@@ -24131,8 +24131,8 @@ const features =
       "student_name": "Tiina",
       "student_id": 1664057072596,
       "point": [
-        26,
-        753
+        0.28961175236096537,
+        0.38990825688073394
       ]
     },
     {
@@ -24141,8 +24141,8 @@ const features =
       "student_name": "Tiina",
       "student_id": 1664057072596,
       "point": [
-        19,
-        824
+        0.29275970619097585,
+        0.1926605504587156
       ]
     },
     {
@@ -24151,8 +24151,8 @@ const features =
       "student_name": "Tiina",
       "student_id": 1664057072596,
       "point": [
-        14,
-        448
+        0.01993704092339979,
+        0.5275229357798165
       ]
     },
     {
@@ -24161,8 +24161,8 @@ const features =
       "student_name": "Tiina",
       "student_id": 1664057072596,
       "point": [
-        22,
-        734
+        0.1825813221406086,
+        0.3876146788990826
       ]
     },
     {
@@ -24171,8 +24171,8 @@ const features =
       "student_name": "Ragg",
       "student_id": 1664069291503,
       "point": [
-        4,
-        717
+        0.2990556138509968,
+        0.33256880733944955
       ]
     },
     {
@@ -24181,8 +24181,8 @@ const features =
       "student_name": "Ragg",
       "student_id": 1664069291503,
       "point": [
-        2,
-        168
+        0.1783840503672613,
+        0.25229357798165136
       ]
     },
     {
@@ -24191,8 +24191,8 @@ const features =
       "student_name": "Ragg",
       "student_id": 1664069291503,
       "point": [
-        8,
-        599
+        0.26862539349422876,
+        0.7178899082568807
       ]
     },
     {
@@ -24201,8 +24201,8 @@ const features =
       "student_name": "Ragg",
       "student_id": 1664069291503,
       "point": [
-        3,
-        327
+        0.2623294858342078,
+        0.6330275229357798
       ]
     },
     {
@@ -24211,8 +24211,8 @@ const features =
       "student_name": "Ragg",
       "student_id": 1664069291503,
       "point": [
-        17,
-        554
+        0.26652675760755506,
+        0.5848623853211009
       ]
     },
     {
@@ -24221,8 +24221,8 @@ const features =
       "student_name": "Ragg",
       "student_id": 1664069291503,
       "point": [
-        12,
-        737
+        0.1689401888772298,
+        0.8532110091743119
       ]
     },
     {
@@ -24231,8 +24231,8 @@ const features =
       "student_name": "Ragg",
       "student_id": 1664069291503,
       "point": [
-        9,
-        639
+        0.10178384050367262,
+        0.7614678899082569
       ]
     },
     {
@@ -24241,8 +24241,8 @@ const features =
       "student_name": "Ragg",
       "student_id": 1664069291503,
       "point": [
-        12,
-        514
+        0.2707240293809024,
+        0.5298165137614679
       ]
     },
     {
@@ -24251,8 +24251,8 @@ const features =
       "student_name": "Aime",
       "student_id": 1664070678115,
       "point": [
-        133,
-        7380
+        0.33997901364113325,
+        0.6123853211009175
       ]
     },
     {
@@ -24261,8 +24261,8 @@ const features =
       "student_name": "Aime",
       "student_id": 1664070678115,
       "point": [
-        102,
-        4192
+        0.3284365162644281,
+        0.5963302752293578
       ]
     },
     {
@@ -24271,8 +24271,8 @@ const features =
       "student_name": "Aime",
       "student_id": 1664070678115,
       "point": [
-        64,
-        5395
+        0.40293809024134314,
+        0.7660550458715596
       ]
     },
     {
@@ -24281,8 +24281,8 @@ const features =
       "student_name": "Aime",
       "student_id": 1664070678115,
       "point": [
-        62,
-        3090
+        0.40293809024134314,
+        0.676605504587156
       ]
     },
     {
@@ -24291,8 +24291,8 @@ const features =
       "student_name": "Aime",
       "student_id": 1664070678115,
       "point": [
-        76,
-        7004
+        0.34942287513116477,
+        0.5481651376146789
       ]
     },
     {
@@ -24301,8 +24301,8 @@ const features =
       "student_name": "Aime",
       "student_id": 1664070678115,
       "point": [
-        24,
-        3275
+        0.2623294858342078,
+        0.6123853211009175
       ]
     },
     {
@@ -24311,8 +24311,8 @@ const features =
       "student_name": "Aime",
       "student_id": 1664070678115,
       "point": [
-        8,
-        857
+        0.030430220356768102,
+        0.7522935779816514
       ]
     },
     {
@@ -24321,8 +24321,8 @@ const features =
       "student_name": "Aime",
       "student_id": 1664070678115,
       "point": [
-        58,
-        2733
+        0.2770199370409234,
+        0.536697247706422
       ]
     },
     {
@@ -24331,8 +24331,8 @@ const features =
       "student_name": "Kuba",
       "student_id": 1664071180078,
       "point": [
-        15,
-        1456
+        0.3095487932843652,
+        0.26376146788990823
       ]
     },
     {
@@ -24341,8 +24341,8 @@ const features =
       "student_name": "Kuba",
       "student_id": 1664071180078,
       "point": [
-        17,
-        1736
+        0.27911857292759706,
+        0.40825688073394495
       ]
     },
     {
@@ -24351,8 +24351,8 @@ const features =
       "student_name": "Kuba",
       "student_id": 1664071180078,
       "point": [
-        48,
-        3497
+        0.3746065057712487,
+        0.4908256880733945
       ]
     },
     {
@@ -24361,8 +24361,8 @@ const features =
       "student_name": "Kuba",
       "student_id": 1664071180078,
       "point": [
-        51,
-        2389
+        0.28751311647429173,
+        0.805045871559633
       ]
     },
     {
@@ -24371,8 +24371,8 @@ const features =
       "student_name": "Kuba",
       "student_id": 1664071180078,
       "point": [
-        66,
-        4753
+        0.3882476390346275,
+        0.48623853211009177
       ]
     },
     {
@@ -24381,8 +24381,8 @@ const features =
       "student_name": "Kuba",
       "student_id": 1664071180078,
       "point": [
-        33,
-        4156
+        0.29800629590766003,
+        0.8440366972477065
       ]
     },
     {
@@ -24391,8 +24391,8 @@ const features =
       "student_name": "Kuba",
       "student_id": 1664071180078,
       "point": [
-        16,
-        1904
+        0.23714585519412382,
+        0.8348623853211009
       ]
     },
     {
@@ -24401,8 +24401,8 @@ const features =
       "student_name": "Kuba",
       "student_id": 1664071180078,
       "point": [
-        53,
-        3687
+        0.323189926547744,
+        0.6559633027522935
       ]
     },
     {
@@ -24411,8 +24411,8 @@ const features =
       "student_name": "Carlos",
       "student_id": 1664080802484,
       "point": [
-        16,
-        606
+        0.16054564533053514,
+        0.16972477064220184
       ]
     },
     {
@@ -24421,8 +24421,8 @@ const features =
       "student_name": "Carlos",
       "student_id": 1664080802484,
       "point": [
-        14,
-        466
+        0.14690451206715635,
+        0.1834862385321101
       ]
     },
     {
@@ -24431,8 +24431,8 @@ const features =
       "student_name": "Carlos",
       "student_id": 1664080802484,
       "point": [
-        22,
-        929
+        0.33683105981112277,
+        0.44495412844036697
       ]
     },
     {
@@ -24441,8 +24441,8 @@ const features =
       "student_name": "Carlos",
       "student_id": 1664080802484,
       "point": [
-        39,
-        1286
+        0.30640083945435465,
+        0.7293577981651376
       ]
     },
     {
@@ -24451,8 +24451,8 @@ const features =
       "student_name": "Carlos",
       "student_id": 1664080802484,
       "point": [
-        27,
-        1098
+        0.30220356768100737,
+        0.4541284403669725
       ]
     },
     {
@@ -24461,8 +24461,8 @@ const features =
       "student_name": "Carlos",
       "student_id": 1664080802484,
       "point": [
-        21,
-        1232
+        0.3116474291710388,
+        0.3646788990825688
       ]
     },
     {
@@ -24471,8 +24471,8 @@ const features =
       "student_name": "Carlos",
       "student_id": 1664080802484,
       "point": [
-        9,
-        624
+        0.2770199370409234,
+        0.3577981651376147
       ]
     },
     {
@@ -24481,8 +24481,8 @@ const features =
       "student_name": "Carlos",
       "student_id": 1664080802484,
       "point": [
-        21,
-        703
+        0.17103882476390347,
+        0.3394495412844037
       ]
     },
     {
@@ -24491,8 +24491,8 @@ const features =
       "student_name": "sakthi",
       "student_id": 1664081698954,
       "point": [
-        4,
-        695
+        0.2098635886673662,
+        0.22018348623853212
       ]
     },
     {
@@ -24501,8 +24501,8 @@ const features =
       "student_name": "sakthi",
       "student_id": 1664081698954,
       "point": [
-        5,
-        194
+        0.14690451206715635,
+        0.22018348623853212
       ]
     },
     {
@@ -24511,8 +24511,8 @@ const features =
       "student_name": "sakthi",
       "student_id": 1664081698954,
       "point": [
-        5,
-        356
+        0.1248688352570829,
+        0.1811926605504587
       ]
     },
     {
@@ -24521,8 +24521,8 @@ const features =
       "student_name": "sakthi",
       "student_id": 1664081698954,
       "point": [
-        8,
-        510
+        0.2161594963273872,
+        0.5963302752293578
       ]
     },
     {
@@ -24531,8 +24531,8 @@ const features =
       "student_name": "sakthi",
       "student_id": 1664081698954,
       "point": [
-        8,
-        414
+        0.2193074501573977,
+        0.3967889908256881
       ]
     },
     {
@@ -24541,8 +24541,8 @@ const features =
       "student_name": "sakthi",
       "student_id": 1664081698954,
       "point": [
-        6,
-        593
+        0.1993704092339979,
+        0.29128440366972475
       ]
     },
     {
@@ -24551,8 +24551,8 @@ const features =
       "student_name": "sakthi",
       "student_id": 1664081698954,
       "point": [
-        2,
-        185
+        0.07450157397691501,
+        0.26376146788990823
       ]
     },
     {
@@ -24561,8 +24561,8 @@ const features =
       "student_name": "sakthi",
       "student_id": 1664081698954,
       "point": [
-        3,
-        167
+        0.09863588667366212,
+        0.2981651376146789
       ]
     },
     {
@@ -24571,8 +24571,8 @@ const features =
       "student_name": "mcaamano",
       "student_id": 1664085303517,
       "point": [
-        14,
-        796
+        0.30535152151101785,
+        0.1743119266055046
       ]
     },
     {
@@ -24581,8 +24581,8 @@ const features =
       "student_name": "mcaamano",
       "student_id": 1664085303517,
       "point": [
-        3,
-        491
+        0.2990556138509968,
+        0.2706422018348624
       ]
     },
     {
@@ -24591,8 +24591,8 @@ const features =
       "student_name": "mcaamano",
       "student_id": 1664085303517,
       "point": [
-        10,
-        488
+        0.236096537250787,
+        0.463302752293578
       ]
     },
     {
@@ -24601,8 +24601,8 @@ const features =
       "student_name": "mcaamano",
       "student_id": 1664085303517,
       "point": [
-        4,
-        468
+        0.18782791185729275,
+        0.6100917431192661
       ]
     },
     {
@@ -24611,8 +24611,8 @@ const features =
       "student_name": "mcaamano",
       "student_id": 1664085303517,
       "point": [
-        17,
-        1100
+        0.19517313746065057,
+        0.23623853211009174
       ]
     },
     {
@@ -24621,8 +24621,8 @@ const features =
       "student_name": "mcaamano",
       "student_id": 1664085303517,
       "point": [
-        31,
-        1047
+        0.3578174186778594,
+        0.6422018348623854
       ]
     },
     {
@@ -24631,8 +24631,8 @@ const features =
       "student_name": "mcaamano",
       "student_id": 1664085303517,
       "point": [
-        6,
-        648
+        0.29590766002098634,
+        0.5160550458715596
       ]
     },
     {
@@ -24641,8 +24641,8 @@ const features =
       "student_name": "mcaamano",
       "student_id": 1664085303517,
       "point": [
-        24,
-        862
+        0.2812172088142707,
+        0.6146788990825688
       ]
     },
     {
@@ -24651,8 +24651,8 @@ const features =
       "student_name": "Jani",
       "student_id": 1664089433449,
       "point": [
-        14,
-        302
+        0.3315844700944386,
+        0.6307339449541285
       ]
     },
     {
@@ -24661,8 +24661,8 @@ const features =
       "student_name": "Jani",
       "student_id": 1664089433449,
       "point": [
-        6,
-        253
+        0.3074501573976915,
+        0.38073394495412843
       ]
     },
     {
@@ -24671,8 +24671,8 @@ const features =
       "student_name": "Jani",
       "student_id": 1664089433449,
       "point": [
-        10,
-        467
+        0.33473242392444913,
+        0.6674311926605505
       ]
     },
     {
@@ -24681,8 +24681,8 @@ const features =
       "student_name": "Jani",
       "student_id": 1664089433449,
       "point": [
-        9,
-        349
+        0.3200419727177335,
+        0.8440366972477065
       ]
     },
     {
@@ -24691,8 +24691,8 @@ const features =
       "student_name": "Jani",
       "student_id": 1664089433449,
       "point": [
-        15,
-        281
+        0.2644281217208814,
+        0.4197247706422018
       ]
     },
     {
@@ -24701,8 +24701,8 @@ const features =
       "student_name": "Jani",
       "student_id": 1664089433449,
       "point": [
-        11,
-        365
+        0.27177334732423925,
+        0.7293577981651376
       ]
     },
     {
@@ -24711,8 +24711,8 @@ const features =
       "student_name": "Jani",
       "student_id": 1664089433449,
       "point": [
-        5,
-        192
+        0.06610703043022036,
+        0.6857798165137615
       ]
     },
     {
@@ -24721,8 +24721,8 @@ const features =
       "student_name": "Jani",
       "student_id": 1664089433449,
       "point": [
-        10,
-        99
+        0.1825813221406086,
+        0.5
       ]
     },
     {
@@ -24731,8 +24731,8 @@ const features =
       "student_name": "Daban",
       "student_id": 1664090710974,
       "point": [
-        12,
-        525
+        0.2938090241343127,
+        0.39908256880733944
       ]
     },
     {
@@ -24741,8 +24741,8 @@ const features =
       "student_name": "Daban",
       "student_id": 1664090710974,
       "point": [
-        6,
-        440
+        0.2728226652675761,
+        0.19954128440366972
       ]
     },
     {
@@ -24751,8 +24751,8 @@ const features =
       "student_name": "Daban",
       "student_id": 1664090710974,
       "point": [
-        14,
-        699
+        0.25918153200419725,
+        0.4334862385321101
       ]
     },
     {
@@ -24761,8 +24761,8 @@ const features =
       "student_name": "Daban",
       "student_id": 1664090710974,
       "point": [
-        12,
-        302
+        0.2161594963273872,
+        0.8646788990825688
       ]
     },
     {
@@ -24771,8 +24771,8 @@ const features =
       "student_name": "Daban",
       "student_id": 1664090710974,
       "point": [
-        16,
-        604
+        0.2885624344176285,
+        0.5137614678899083
       ]
     },
     {
@@ -24781,8 +24781,8 @@ const features =
       "student_name": "Daban",
       "student_id": 1664090710974,
       "point": [
-        14,
-        249
+        0.28751311647429173,
+        0.29357798165137616
       ]
     },
     {
@@ -24791,8 +24791,8 @@ const features =
       "student_name": "Daban",
       "student_id": 1664090710974,
       "point": [
-        7,
-        371
+        0.3011542497376705,
+        0.1353211009174312
       ]
     },
     {
@@ -24801,8 +24801,8 @@ const features =
       "student_name": "Daban",
       "student_id": 1664090710974,
       "point": [
-        17,
-        375
+        0.40713536201469047,
+        0.30045871559633025
       ]
     },
     {
@@ -24811,8 +24811,8 @@ const features =
       "student_name": "hayes",
       "student_id": 1664091721008,
       "point": [
-        16,
-        2047
+        0.37985309548793283,
+        0.45642201834862384
       ]
     },
     {
@@ -24821,8 +24821,8 @@ const features =
       "student_name": "hayes",
       "student_id": 1664091721008,
       "point": [
-        9,
-        1172
+        0.316894018887723,
+        0.40825688073394495
       ]
     },
     {
@@ -24831,8 +24831,8 @@ const features =
       "student_name": "hayes",
       "student_id": 1664091721008,
       "point": [
-        10,
-        1294
+        0.20041972717733472,
+        0.6376146788990825
       ]
     },
     {
@@ -24841,8 +24841,8 @@ const features =
       "student_name": "hayes",
       "student_id": 1664091721008,
       "point": [
-        3,
-        628
+        0.33473242392444913,
+        0.7041284403669725
       ]
     },
     {
@@ -24851,8 +24851,8 @@ const features =
       "student_name": "hayes",
       "student_id": 1664091721008,
       "point": [
-        14,
-        1209
+        0.2801678908709339,
+        0.4013761467889908
       ]
     },
     {
@@ -24861,8 +24861,8 @@ const features =
       "student_name": "hayes",
       "student_id": 1664091721008,
       "point": [
-        6,
-        1342
+        0.32633788037775446,
+        0.16743119266055045
       ]
     },
     {
@@ -24871,8 +24871,8 @@ const features =
       "student_name": "hayes",
       "student_id": 1664091721008,
       "point": [
-        4,
-        1067
+        0.04931794333683106,
+        0.731651376146789
       ]
     },
     {
@@ -24881,8 +24881,8 @@ const features =
       "student_name": "hayes",
       "student_id": 1664091721008,
       "point": [
-        2,
-        531
+        0.385099685204617,
+        0.7729357798165137
       ]
     },
     {
@@ -24891,8 +24891,8 @@ const features =
       "student_name": "mta",
       "student_id": 1664091847458,
       "point": [
-        21,
-        1154
+        0.23399790136411333,
+        0.21330275229357798
       ]
     },
     {
@@ -24901,8 +24901,8 @@ const features =
       "student_name": "mta",
       "student_id": 1664091847458,
       "point": [
-        3,
-        141
+        0.09758656873032528,
+        0.17660550458715596
       ]
     },
     {
@@ -24911,8 +24911,8 @@ const features =
       "student_name": "mta",
       "student_id": 1664091847458,
       "point": [
-        27,
-        907
+        0.1626442812172088,
+        0.518348623853211
       ]
     },
     {
@@ -24921,8 +24921,8 @@ const features =
       "student_name": "mta",
       "student_id": 1664091847458,
       "point": [
-        6,
-        1129
+        0.20776495278069254,
+        0.6330275229357798
       ]
     },
     {
@@ -24931,8 +24931,8 @@ const features =
       "student_name": "mta",
       "student_id": 1664091847458,
       "point": [
-        15,
-        561
+        0.1322140608604407,
+        0.17660550458715596
       ]
     },
     {
@@ -24941,8 +24941,8 @@ const features =
       "student_name": "mta",
       "student_id": 1664091847458,
       "point": [
-        16,
-        1295
+        0.11332633788037776,
+        0.7087155963302753
       ]
     },
     {
@@ -24951,8 +24951,8 @@ const features =
       "student_name": "mta",
       "student_id": 1664091847458,
       "point": [
-        3,
-        267
+        0.1521511017838405,
+        0.30275229357798167
       ]
     },
     {
@@ -24961,8 +24961,8 @@ const features =
       "student_name": "mta",
       "student_id": 1664091847458,
       "point": [
-        3,
-        113
+        0.15110178384050368,
+        0.49770642201834864
       ]
     },
     {
@@ -24971,8 +24971,8 @@ const features =
       "student_name": "aitor",
       "student_id": 1664092225145,
       "point": [
-        10,
-        656
+        0.21511017838405036,
+        0.28440366972477066
       ]
     },
     {
@@ -24981,8 +24981,8 @@ const features =
       "student_name": "aitor",
       "student_id": 1664092225145,
       "point": [
-        5,
-        421
+        0.23399790136411333,
+        0.0871559633027523
       ]
     },
     {
@@ -24991,8 +24991,8 @@ const features =
       "student_name": "aitor",
       "student_id": 1664092225145,
       "point": [
-        17,
-        708
+        0.23294858342077648,
+        0.44495412844036697
       ]
     },
     {
@@ -25001,8 +25001,8 @@ const features =
       "student_name": "aitor",
       "student_id": 1664092225145,
       "point": [
-        8,
-        504
+        0.15739769150052466,
+        0.5206422018348624
       ]
     },
     {
@@ -25011,8 +25011,8 @@ const features =
       "student_name": "aitor",
       "student_id": 1664092225145,
       "point": [
-        24,
-        638
+        0.22875131164742918,
+        0.1743119266055046
       ]
     },
     {
@@ -25021,8 +25021,8 @@ const features =
       "student_name": "aitor",
       "student_id": 1664092225145,
       "point": [
-        23,
-        1185
+        0.37985309548793283,
+        0.2889908256880734
       ]
     },
     {
@@ -25031,8 +25031,8 @@ const features =
       "student_name": "aitor",
       "student_id": 1664092225145,
       "point": [
-        7,
-        672
+        0.2696747114375656,
+        0.5665137614678899
       ]
     },
     {
@@ -25041,8 +25041,8 @@ const features =
       "student_name": "aitor",
       "student_id": 1664092225145,
       "point": [
-        17,
-        326
+        0.12067156348373557,
+        0.30963302752293576
       ]
     },
     {
@@ -25051,8 +25051,8 @@ const features =
       "student_name": "nanda",
       "student_id": 1664094261972,
       "point": [
-        13,
-        1163
+        0.3284365162644281,
+        0.3211009174311927
       ]
     },
     {
@@ -25061,8 +25061,8 @@ const features =
       "student_name": "nanda",
       "student_id": 1664094261972,
       "point": [
-        13,
-        514
+        0.1888772298006296,
+        0.14908256880733944
       ]
     },
     {
@@ -25071,8 +25071,8 @@ const features =
       "student_name": "nanda",
       "student_id": 1664094261972,
       "point": [
-        12,
-        524
+        0.24868835257082897,
+        0.38990825688073394
       ]
     },
     {
@@ -25081,8 +25081,8 @@ const features =
       "student_name": "nanda",
       "student_id": 1664094261972,
       "point": [
-        1,
-        572
+        0.3001049317943337,
+        0.7935779816513762
       ]
     },
     {
@@ -25091,8 +25091,8 @@ const features =
       "student_name": "nanda",
       "student_id": 1664094261972,
       "point": [
-        11,
-        550
+        0.21720881427072403,
+        0.37844036697247707
       ]
     },
     {
@@ -25101,8 +25101,8 @@ const features =
       "student_name": "nanda",
       "student_id": 1664094261972,
       "point": [
-        19,
-        870
+        0.2738719832109129,
+        0.5963302752293578
       ]
     },
     {
@@ -25111,8 +25111,8 @@ const features =
       "student_name": "nanda",
       "student_id": 1664094261972,
       "point": [
-        5,
-        136
+        0.14060860440713535,
+        0.06651376146788991
       ]
     },
     {
@@ -25121,8 +25121,8 @@ const features =
       "student_name": "nanda",
       "student_id": 1664094261972,
       "point": [
-        37,
-        524
+        0.1888772298006296,
+        0.38990825688073394
       ]
     },
     {
@@ -25131,8 +25131,8 @@ const features =
       "student_name": "taner",
       "student_id": 1664094971846,
       "point": [
-        11,
-        1341
+        0.34312696747114374,
+        0.231651376146789
       ]
     },
     {
@@ -25141,8 +25141,8 @@ const features =
       "student_name": "taner",
       "student_id": 1664094971846,
       "point": [
-        6,
-        757
+        0.3074501573976915,
+        0.23623853211009174
       ]
     },
     {
@@ -25151,8 +25151,8 @@ const features =
       "student_name": "taner",
       "student_id": 1664094971846,
       "point": [
-        8,
-        787
+        0.2906610703043022,
+        0.43577981651376146
       ]
     },
     {
@@ -25161,8 +25161,8 @@ const features =
       "student_name": "taner",
       "student_id": 1664094971846,
       "point": [
-        5,
-        576
+        0.2497376705141658,
+        0.7752293577981652
       ]
     },
     {
@@ -25171,8 +25171,8 @@ const features =
       "student_name": "taner",
       "student_id": 1664094971846,
       "point": [
-        21,
-        892
+        0.2644281217208814,
+        0.39908256880733944
       ]
     },
     {
@@ -25181,8 +25181,8 @@ const features =
       "student_name": "taner",
       "student_id": 1664094971846,
       "point": [
-        21,
-        1391
+        0.2738719832109129,
+        0.1834862385321101
       ]
     },
     {
@@ -25191,8 +25191,8 @@ const features =
       "student_name": "taner",
       "student_id": 1664094971846,
       "point": [
-        10,
-        939
+        0.15320041972717732,
+        0.44724770642201833
       ]
     },
     {
@@ -25201,8 +25201,8 @@ const features =
       "student_name": "taner",
       "student_id": 1664094971846,
       "point": [
-        3,
-        86
+        0.20461699895068206,
+        0.31880733944954126
       ]
     },
     {
@@ -25211,8 +25211,8 @@ const features =
       "student_name": "Lukson",
       "student_id": 1664095689168,
       "point": [
-        5,
-        992
+        0.28751311647429173,
+        0.3440366972477064
       ]
     },
     {
@@ -25221,8 +25221,8 @@ const features =
       "student_name": "Lukson",
       "student_id": 1664095689168,
       "point": [
-        3,
-        423
+        0.11647429171038824,
+        0.13073394495412843
       ]
     },
     {
@@ -25231,8 +25231,8 @@ const features =
       "student_name": "Lukson",
       "student_id": 1664095689168,
       "point": [
-        10,
-        635
+        0.2770199370409234,
+        0.6055045871559633
       ]
     },
     {
@@ -25241,8 +25241,8 @@ const features =
       "student_name": "Lukson",
       "student_id": 1664095689168,
       "point": [
-        2,
-        479
+        0.2528856243441763,
+        0.6674311926605505
       ]
     },
     {
@@ -25251,8 +25251,8 @@ const features =
       "student_name": "Lukson",
       "student_id": 1664095689168,
       "point": [
-        6,
-        484
+        0.21720881427072403,
+        0.3394495412844037
       ]
     },
     {
@@ -25261,8 +25261,8 @@ const features =
       "student_name": "Lukson",
       "student_id": 1664095689168,
       "point": [
-        5,
-        883
+        0.28751311647429173,
+        0.2775229357798165
       ]
     },
     {
@@ -25271,8 +25271,8 @@ const features =
       "student_name": "Lukson",
       "student_id": 1664095689168,
       "point": [
-        3,
-        210
+        0.01049317943336831,
+        0.5344036697247706
       ]
     },
     {
@@ -25281,8 +25281,8 @@ const features =
       "student_name": "Lukson",
       "student_id": 1664095689168,
       "point": [
-        3,
-        223
+        0.14690451206715635,
+        0.3646788990825688
       ]
     },
     {
@@ -25291,8 +25291,8 @@ const features =
       "student_name": "Meruem",
       "student_id": 1664098362339,
       "point": [
-        22,
-        1952
+        0.28226652675760755,
+        0.19954128440366972
       ]
     },
     {
@@ -25301,8 +25301,8 @@ const features =
       "student_name": "Meruem",
       "student_id": 1664098362339,
       "point": [
-        51,
-        2359
+        0.29590766002098634,
+        0.25688073394495414
       ]
     },
     {
@@ -25311,8 +25311,8 @@ const features =
       "student_name": "Meruem",
       "student_id": 1664098362339,
       "point": [
-        25,
-        2635
+        0.26652675760755506,
+        0.7064220183486238
       ]
     },
     {
@@ -25321,8 +25321,8 @@ const features =
       "student_name": "Meruem",
       "student_id": 1664098362339,
       "point": [
-        4,
-        232
+        0.17628541448058763,
+        0.8784403669724771
       ]
     },
     {
@@ -25331,8 +25331,8 @@ const features =
       "student_name": "Meruem",
       "student_id": 1664098362339,
       "point": [
-        32,
-        1554
+        0.2602308499475341,
+        0.28440366972477066
       ]
     },
     {
@@ -25341,8 +25341,8 @@ const features =
       "student_name": "Meruem",
       "student_id": 1664098362339,
       "point": [
-        9,
-        1442
+        0.2539349422875131,
+        0.3876146788990826
       ]
     },
     {
@@ -25351,8 +25351,8 @@ const features =
       "student_name": "Meruem",
       "student_id": 1664098362339,
       "point": [
-        5,
-        894
+        0.25498426023084997,
+        0.38073394495412843
       ]
     },
     {
@@ -25361,8 +25361,8 @@ const features =
       "student_name": "Meruem",
       "student_id": 1664098362339,
       "point": [
-        29,
-        1486
+        0.22770199370409233,
+        0.45642201834862384
       ]
     },
     {
@@ -25371,8 +25371,8 @@ const features =
       "student_name": "DracoWhitefire",
       "student_id": 1664098393909,
       "point": [
-        9,
-        1333
+        0.3588667366211962,
+        0.37155963302752293
       ]
     },
     {
@@ -25381,8 +25381,8 @@ const features =
       "student_name": "DracoWhitefire",
       "student_id": 1664098393909,
       "point": [
-        4,
-        695
+        0.36935991605456453,
+        0.6651376146788991
       ]
     },
     {
@@ -25391,8 +25391,8 @@ const features =
       "student_name": "DracoWhitefire",
       "student_id": 1664098393909,
       "point": [
-        21,
-        1364
+        0.3410283315844701,
+        0.5527522935779816
       ]
     },
     {
@@ -25401,8 +25401,8 @@ const features =
       "student_name": "DracoWhitefire",
       "student_id": 1664098393909,
       "point": [
-        5,
-        1084
+        0.2780692549842602,
+        0.8279816513761468
       ]
     },
     {
@@ -25411,8 +25411,8 @@ const features =
       "student_name": "DracoWhitefire",
       "student_id": 1664098393909,
       "point": [
-        10,
-        772
+        0.2885624344176285,
+        0.4288990825688073
       ]
     },
     {
@@ -25421,8 +25421,8 @@ const features =
       "student_name": "DracoWhitefire",
       "student_id": 1664098393909,
       "point": [
-        12,
-        976
+        0.3462749213011542,
+        0.7935779816513762
       ]
     },
     {
@@ -25431,8 +25431,8 @@ const features =
       "student_name": "DracoWhitefire",
       "student_id": 1664098393909,
       "point": [
-        5,
-        745
+        0.28961175236096537,
+        0.768348623853211
       ]
     },
     {
@@ -25441,8 +25441,8 @@ const features =
       "student_name": "DracoWhitefire",
       "student_id": 1664098393909,
       "point": [
-        16,
-        1224
+        0.1930745015739769,
+        0.8463302752293578
       ]
     },
     {
@@ -25451,8 +25451,8 @@ const features =
       "student_name": "Yuvraj",
       "student_id": 1664101766713,
       "point": [
-        7,
-        1214
+        0.2088142707240294,
+        0.3922018348623853
       ]
     },
     {
@@ -25461,8 +25461,8 @@ const features =
       "student_name": "Yuvraj",
       "student_id": 1664101766713,
       "point": [
-        6,
-        410
+        0.21196222455403987,
+        0.1444954128440367
       ]
     },
     {
@@ -25471,8 +25471,8 @@ const features =
       "student_name": "Yuvraj",
       "student_id": 1664101766713,
       "point": [
-        3,
-        700
+        0.23504721930745015,
+        0.47706422018348627
       ]
     },
     {
@@ -25481,8 +25481,8 @@ const features =
       "student_name": "Yuvraj",
       "student_id": 1664101766713,
       "point": [
-        1,
-        336
+        0.12172088142707241,
+        0.44724770642201833
       ]
     },
     {
@@ -25491,8 +25491,8 @@ const features =
       "student_name": "Yuvraj",
       "student_id": 1664101766713,
       "point": [
-        10,
-        696
+        0.15634837355718784,
+        0.268348623853211
       ]
     },
     {
@@ -25501,8 +25501,8 @@ const features =
       "student_name": "Yuvraj",
       "student_id": 1664101766713,
       "point": [
-        14,
-        1307
+        0.2780692549842602,
+        0.5711009174311926
       ]
     },
     {
@@ -25511,8 +25511,8 @@ const features =
       "student_name": "Yuvraj",
       "student_id": 1664101766713,
       "point": [
-        2,
-        468
+        0.18048268625393493,
+        0.3876146788990826
       ]
     },
     {
@@ -25521,8 +25521,8 @@ const features =
       "student_name": "Yuvraj",
       "student_id": 1664101766713,
       "point": [
-        7,
-        648
+        0.14480587618048268,
+        0.3486238532110092
       ]
     },
     {
@@ -25531,8 +25531,8 @@ const features =
       "student_name": "sekaiNoTameni",
       "student_id": 1664103889923,
       "point": [
-        10,
-        608
+        0.2770199370409234,
+        0.3830275229357798
       ]
     },
     {
@@ -25541,8 +25541,8 @@ const features =
       "student_name": "sekaiNoTameni",
       "student_id": 1664103889923,
       "point": [
-        7,
-        411
+        0.22770199370409233,
+        0.4793577981651376
       ]
     },
     {
@@ -25551,8 +25551,8 @@ const features =
       "student_name": "sekaiNoTameni",
       "student_id": 1664103889923,
       "point": [
-        5,
-        280
+        0.3378803777544596,
+        0.6055045871559633
       ]
     },
     {
@@ -25561,8 +25561,8 @@ const features =
       "student_name": "sekaiNoTameni",
       "student_id": 1664103889923,
       "point": [
-        4,
-        215
+        0.2088142707240294,
+        0.5275229357798165
       ]
     },
     {
@@ -25571,8 +25571,8 @@ const features =
       "student_name": "sekaiNoTameni",
       "student_id": 1664103889923,
       "point": [
-        8,
-        311
+        0.19097586568730326,
+        0.22477064220183487
       ]
     },
     {
@@ -25581,8 +25581,8 @@ const features =
       "student_name": "sekaiNoTameni",
       "student_id": 1664103889923,
       "point": [
-        11,
-        407
+        0.23189926547743966,
+        0.43577981651376146
       ]
     },
     {
@@ -25591,8 +25591,8 @@ const features =
       "student_name": "sekaiNoTameni",
       "student_id": 1664103889923,
       "point": [
-        7,
-        144
+        0.15320041972717732,
+        0.6123853211009175
       ]
     },
     {
@@ -25601,8 +25601,8 @@ const features =
       "student_name": "sekaiNoTameni",
       "student_id": 1664103889923,
       "point": [
-        7,
-        303
+        0.22875131164742918,
+        0.5091743119266054
       ]
     },
     {
@@ -25611,8 +25611,8 @@ const features =
       "student_name": "KoderKookie",
       "student_id": 1664104180524,
       "point": [
-        4,
-        951
+        0.30640083945435465,
+        0.20871559633027523
       ]
     },
     {
@@ -25621,8 +25621,8 @@ const features =
       "student_name": "KoderKookie",
       "student_id": 1664104180524,
       "point": [
-        22,
-        798
+        0.23189926547743966,
+        0.1651376146788991
       ]
     },
     {
@@ -25631,8 +25631,8 @@ const features =
       "student_name": "KoderKookie",
       "student_id": 1664104180524,
       "point": [
-        28,
-        1874
+        0.21511017838405036,
+        0.25229357798165136
       ]
     },
     {
@@ -25641,8 +25641,8 @@ const features =
       "student_name": "KoderKookie",
       "student_id": 1664104180524,
       "point": [
-        14,
-        1954
+        0.3410283315844701,
+        0.768348623853211
       ]
     },
     {
@@ -25651,8 +25651,8 @@ const features =
       "student_name": "KoderKookie",
       "student_id": 1664104180524,
       "point": [
-        18,
-        1040
+        0.28541448058761804,
+        0.2706422018348624
       ]
     },
     {
@@ -25661,8 +25661,8 @@ const features =
       "student_name": "KoderKookie",
       "student_id": 1664104180524,
       "point": [
-        3,
-        716
+        0.2465897166841553,
+        0.4288990825688073
       ]
     },
     {
@@ -25671,8 +25671,8 @@ const features =
       "student_name": "KoderKookie",
       "student_id": 1664104180524,
       "point": [
-        4,
-        404
+        0.024134312696747113,
+        0.4541284403669725
       ]
     },
     {
@@ -25681,8 +25681,8 @@ const features =
       "student_name": "KoderKookie",
       "student_id": 1664104180524,
       "point": [
-        2,
-        314
+        0.13746065057712487,
+        0.2545871559633027
       ]
     },
     {
@@ -25691,8 +25691,8 @@ const features =
       "student_name": "Faizan Ahmed",
       "student_id": 1664106136045,
       "point": [
-        9,
-        523
+        0.3683105981112277,
+        0.46559633027522934
       ]
     },
     {
@@ -25701,8 +25701,8 @@ const features =
       "student_name": "Faizan Ahmed",
       "student_id": 1664106136045,
       "point": [
-        11,
-        562
+        0.27911857292759706,
+        0.5229357798165137
       ]
     },
     {
@@ -25711,8 +25711,8 @@ const features =
       "student_name": "Faizan Ahmed",
       "student_id": 1664106136045,
       "point": [
-        11,
-        281
+        0.20146904512067157,
+        0.6353211009174312
       ]
     },
     {
@@ -25721,8 +25721,8 @@ const features =
       "student_name": "Faizan Ahmed",
       "student_id": 1664106136045,
       "point": [
-        4,
-        247
+        0.2738719832109129,
+        0.7408256880733946
       ]
     },
     {
@@ -25731,8 +25731,8 @@ const features =
       "student_name": "Faizan Ahmed",
       "student_id": 1664106136045,
       "point": [
-        13,
-        364
+        0.30849947534102834,
+        0.6811926605504587
       ]
     },
     {
@@ -25741,8 +25741,8 @@ const features =
       "student_name": "Faizan Ahmed",
       "student_id": 1664106136045,
       "point": [
-        9,
-        267
+        0.20776495278069254,
+        0.7614678899082569
       ]
     },
     {
@@ -25751,8 +25751,8 @@ const features =
       "student_name": "Faizan Ahmed",
       "student_id": 1664106136045,
       "point": [
-        9,
-        359
+        0.2644281217208814,
+        0.47706422018348627
       ]
     },
     {
@@ -25761,8 +25761,8 @@ const features =
       "student_name": "Faizan Ahmed",
       "student_id": 1664106136045,
       "point": [
-        8,
-        295
+        0.26652675760755506,
+        0.6238532110091743
       ]
     },
     {
@@ -25771,8 +25771,8 @@ const features =
       "student_name": "Andrei C",
       "student_id": 1664108078233,
       "point": [
-        25,
-        1644
+        0.3756558237145855,
+        0.16055045871559634
       ]
     },
     {
@@ -25781,8 +25781,8 @@ const features =
       "student_name": "Andrei C",
       "student_id": 1664108078233,
       "point": [
-        14,
-        816
+        0.1626442812172088,
+        0.11009174311926606
       ]
     },
     {
@@ -25791,8 +25791,8 @@ const features =
       "student_name": "Andrei C",
       "student_id": 1664108078233,
       "point": [
-        21,
-        913
+        0.17733473242392445,
+        0.481651376146789
       ]
     },
     {
@@ -25801,8 +25801,8 @@ const features =
       "student_name": "Andrei C",
       "student_id": 1664108078233,
       "point": [
-        13,
-        820
+        0.14060860440713535,
+        0.6788990825688074
       ]
     },
     {
@@ -25811,8 +25811,8 @@ const features =
       "student_name": "Andrei C",
       "student_id": 1664108078233,
       "point": [
-        33,
-        1834
+        0.2812172088142707,
+        0.3440366972477064
       ]
     },
     {
@@ -25821,8 +25821,8 @@ const features =
       "student_name": "Andrei C",
       "student_id": 1664108078233,
       "point": [
-        20,
-        1123
+        0.2759706190975866,
+        0.11238532110091744
       ]
     },
     {
@@ -25831,8 +25831,8 @@ const features =
       "student_name": "Andrei C",
       "student_id": 1664108078233,
       "point": [
-        11,
-        486
+        0.09653725078698845,
+        0.23623853211009174
       ]
     },
     {
@@ -25841,8 +25841,8 @@ const features =
       "student_name": "Andrei C",
       "student_id": 1664108078233,
       "point": [
-        21,
-        628
+        0.14480587618048268,
+        0.2706422018348624
       ]
     },
     {
@@ -25851,8 +25851,8 @@ const features =
       "student_name": "Lakshya",
       "student_id": 1664110010395,
       "point": [
-        6,
-        418
+        0.28226652675760755,
+        0.26605504587155965
       ]
     },
     {
@@ -25861,8 +25861,8 @@ const features =
       "student_name": "Lakshya",
       "student_id": 1664110010395,
       "point": [
-        3,
-        150
+        0.2738719832109129,
+        0.3256880733944954
       ]
     },
     {
@@ -25871,8 +25871,8 @@ const features =
       "student_name": "Lakshya",
       "student_id": 1664110010395,
       "point": [
-        4,
-        239
+        0.26652675760755506,
+        0.4334862385321101
       ]
     },
     {
@@ -25881,8 +25881,8 @@ const features =
       "student_name": "Lakshya",
       "student_id": 1664110010395,
       "point": [
-        3,
-        102
+        0.18153200419727178,
+        0.5412844036697247
       ]
     },
     {
@@ -25891,8 +25891,8 @@ const features =
       "student_name": "Lakshya",
       "student_id": 1664110010395,
       "point": [
-        7,
-        192
+        0.30849947534102834,
+        0.268348623853211
       ]
     },
     {
@@ -25901,8 +25901,8 @@ const features =
       "student_name": "Lakshya",
       "student_id": 1664110010395,
       "point": [
-        6,
-        359
+        0.3273871983210913,
+        0.4334862385321101
       ]
     },
     {
@@ -25911,8 +25911,8 @@ const features =
       "student_name": "Lakshya",
       "student_id": 1664110010395,
       "point": [
-        2,
-        238
+        0.16369359916054566,
+        0.286697247706422
       ]
     },
     {
@@ -25921,8 +25921,8 @@ const features =
       "student_name": "Lakshya",
       "student_id": 1664110010395,
       "point": [
-        22,
-        357
+        0.1626442812172088,
+        0.3440366972477064
       ]
     },
     {
@@ -25931,8 +25931,8 @@ const features =
       "student_name": "Siva",
       "student_id": 1664112328873,
       "point": [
-        3,
-        445
+        0.2696747114375656,
+        0.34174311926605505
       ]
     },
     {
@@ -25941,8 +25941,8 @@ const features =
       "student_name": "Siva",
       "student_id": 1664112328873,
       "point": [
-        7,
-        531
+        0.28751311647429173,
+        0.3302752293577982
       ]
     },
     {
@@ -25951,8 +25951,8 @@ const features =
       "student_name": "Siva",
       "student_id": 1664112328873,
       "point": [
-        19,
-        597
+        0.32214060860440713,
+        0.6009174311926605
       ]
     },
     {
@@ -25961,8 +25961,8 @@ const features =
       "student_name": "Siva",
       "student_id": 1664112328873,
       "point": [
-        13,
-        491
+        0.2465897166841553,
+        0.7064220183486238
       ]
     },
     {
@@ -25971,8 +25971,8 @@ const features =
       "student_name": "Siva",
       "student_id": 1664112328873,
       "point": [
-        12,
-        316
+        0.2696747114375656,
+        0.4059633027522936
       ]
     },
     {
@@ -25981,8 +25981,8 @@ const features =
       "student_name": "Siva",
       "student_id": 1664112328873,
       "point": [
-        9,
-        470
+        0.1458551941238195,
+        0.6605504587155964
       ]
     },
     {
@@ -25991,8 +25991,8 @@ const features =
       "student_name": "Siva",
       "student_id": 1664112328873,
       "point": [
-        11,
-        349
+        0.26128016789087094,
+        0.5481651376146789
       ]
     },
     {
@@ -26001,8 +26001,8 @@ const features =
       "student_name": "Siva",
       "student_id": 1664112328873,
       "point": [
-        7,
-        448
+        0.23714585519412382,
+        0.5688073394495413
       ]
     },
     {
@@ -26011,8 +26011,8 @@ const features =
       "student_name": "Hussein kadhim",
       "student_id": 1664112853562,
       "point": [
-        5,
-        511
+        0.304302203567681,
+        0.41284403669724773
       ]
     },
     {
@@ -26021,8 +26021,8 @@ const features =
       "student_name": "Hussein kadhim",
       "student_id": 1664112853562,
       "point": [
-        2,
-        220
+        0.25813221406086045,
+        0.26146788990825687
       ]
     },
     {
@@ -26031,8 +26031,8 @@ const features =
       "student_name": "Hussein kadhim",
       "student_id": 1664112853562,
       "point": [
-        10,
-        560
+        0.35047219307450156,
+        0.555045871559633
       ]
     },
     {
@@ -26041,8 +26041,8 @@ const features =
       "student_name": "Hussein kadhim",
       "student_id": 1664112853562,
       "point": [
-        3,
-        177
+        0.22245540398740818,
+        0.9518348623853211
       ]
     },
     {
@@ -26051,8 +26051,8 @@ const features =
       "student_name": "Hussein kadhim",
       "student_id": 1664112853562,
       "point": [
-        9,
-        266
+        0.2696747114375656,
+        0.42201834862385323
       ]
     },
     {
@@ -26061,8 +26061,8 @@ const features =
       "student_name": "Hussein kadhim",
       "student_id": 1664112853562,
       "point": [
-        21,
-        712
+        0.2654774396642183,
+        0.4701834862385321
       ]
     },
     {
@@ -26071,8 +26071,8 @@ const features =
       "student_name": "Hussein kadhim",
       "student_id": 1664112853562,
       "point": [
-        5,
-        258
+        0.15320041972717732,
+        0.38073394495412843
       ]
     },
     {
@@ -26081,8 +26081,8 @@ const features =
       "student_name": "Hussein kadhim",
       "student_id": 1664112853562,
       "point": [
-        18,
-        242
+        0.16789087093389296,
+        0.42660550458715596
       ]
     },
     {
@@ -26091,8 +26091,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1664113069653,
       "point": [
-        10,
-        1537
+        0.310598111227702,
+        0.33256880733944955
       ]
     },
     {
@@ -26101,8 +26101,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1664113069653,
       "point": [
-        4,
-        1577
+        0.3378803777544596,
+        0.3646788990825688
       ]
     },
     {
@@ -26111,8 +26111,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1664113069653,
       "point": [
-        20,
-        1767
+        0.25918153200419725,
+        0.463302752293578
       ]
     },
     {
@@ -26121,8 +26121,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1664113069653,
       "point": [
-        15,
-        1361
+        0.1930745015739769,
+        0.8188073394495413
       ]
     },
     {
@@ -26131,8 +26131,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1664113069653,
       "point": [
-        27,
-        1651
+        0.3095487932843652,
+        0.3532110091743119
       ]
     },
     {
@@ -26141,8 +26141,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1664113069653,
       "point": [
-        20,
-        1374
+        0.26862539349422876,
+        0.1559633027522936
       ]
     },
     {
@@ -26151,8 +26151,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1664113069653,
       "point": [
-        13,
-        1189
+        0.23189926547743966,
+        0.286697247706422
       ]
     },
     {
@@ -26161,8 +26161,8 @@ const features =
       "student_name": "Daniel",
       "student_id": 1664113069653,
       "point": [
-        8,
-        605
+        0.19622245540398742,
+        0.44954128440366975
       ]
     },
     {
@@ -26171,8 +26171,8 @@ const features =
       "student_name": "TheRockerRush",
       "student_id": 1664117101769,
       "point": [
-        16,
-        417
+        0.2633788037775446,
+        0.3073394495412844
       ]
     },
     {
@@ -26181,8 +26181,8 @@ const features =
       "student_name": "TheRockerRush",
       "student_id": 1664117101769,
       "point": [
-        21,
-        265
+        0.20356768100734524,
+        0.3853211009174312
       ]
     },
     {
@@ -26191,8 +26191,8 @@ const features =
       "student_name": "TheRockerRush",
       "student_id": 1664117101769,
       "point": [
-        13,
-        185
+        0.23084994753410285,
+        0.3577981651376147
       ]
     },
     {
@@ -26201,8 +26201,8 @@ const features =
       "student_name": "TheRockerRush",
       "student_id": 1664117101769,
       "point": [
-        4,
-        202
+        0.2402938090241343,
+        0.47477064220183485
       ]
     },
     {
@@ -26211,8 +26211,8 @@ const features =
       "student_name": "TheRockerRush",
       "student_id": 1664117101769,
       "point": [
-        13,
-        180
+        0.1731374606505771,
+        0.31422018348623854
       ]
     },
     {
@@ -26221,8 +26221,8 @@ const features =
       "student_name": "TheRockerRush",
       "student_id": 1664117101769,
       "point": [
-        12,
-        395
+        0.27492130115424973,
+        0.28211009174311924
       ]
     },
     {
@@ -26231,8 +26231,8 @@ const features =
       "student_name": "TheRockerRush",
       "student_id": 1664117101769,
       "point": [
-        10,
-        154
+        0.035676810073452254,
+        0.3119266055045872
       ]
     },
     {
@@ -26241,8 +26241,8 @@ const features =
       "student_name": "TheRockerRush",
       "student_id": 1664117101769,
       "point": [
-        16,
-        133
+        0.16998950682056663,
+        0.3922018348623853
       ]
     },
     {
@@ -26251,8 +26251,8 @@ const features =
       "student_name": "Ali Gohar",
       "student_id": 1664118978175,
       "point": [
-        7,
-        885
+        0.3200419727177335,
+        0.2981651376146789
       ]
     },
     {
@@ -26261,8 +26261,8 @@ const features =
       "student_name": "Ali Gohar",
       "student_id": 1664118978175,
       "point": [
-        1,
-        255
+        0.15739769150052466,
+        0.16972477064220184
       ]
     },
     {
@@ -26271,8 +26271,8 @@ const features =
       "student_name": "Ali Gohar",
       "student_id": 1664118978175,
       "point": [
-        13,
-        952
+        0.18467995802728226,
+        0.4701834862385321
       ]
     },
     {
@@ -26281,8 +26281,8 @@ const features =
       "student_name": "Ali Gohar",
       "student_id": 1664118978175,
       "point": [
-        3,
-        466
+        0.2675760755508919,
+        0.7660550458715596
       ]
     },
     {
@@ -26291,8 +26291,8 @@ const features =
       "student_name": "Ali Gohar",
       "student_id": 1664118978175,
       "point": [
-        10,
-        801
+        0.24763903462749212,
+        0.29128440366972475
       ]
     },
     {
@@ -26301,8 +26301,8 @@ const features =
       "student_name": "Ali Gohar",
       "student_id": 1664118978175,
       "point": [
-        5,
-        811
+        0.18572927597061908,
+        0.8256880733944955
       ]
     },
     {
@@ -26311,8 +26311,8 @@ const features =
       "student_name": "Ali Gohar",
       "student_id": 1664118978175,
       "point": [
-        6,
-        389
+        0.27492130115424973,
+        0.518348623853211
       ]
     },
     {
@@ -26321,8 +26321,8 @@ const features =
       "student_name": "Ali Gohar",
       "student_id": 1664118978175,
       "point": [
-        3,
-        257
+        0.22875131164742918,
+        0.6100917431192661
       ]
     },
     {
@@ -26331,8 +26331,8 @@ const features =
       "student_name": "Urax",
       "student_id": 1664129724088,
       "point": [
-        16,
-        941
+        0.28751311647429173,
+        0.34174311926605505
       ]
     },
     {
@@ -26341,8 +26341,8 @@ const features =
       "student_name": "Urax",
       "student_id": 1664129724088,
       "point": [
-        13,
-        477
+        0.20041972717733472,
+        0.17660550458715596
       ]
     },
     {
@@ -26351,8 +26351,8 @@ const features =
       "student_name": "Urax",
       "student_id": 1664129724088,
       "point": [
-        18,
-        666
+        0.229800629590766,
+        0.5137614678899083
       ]
     },
     {
@@ -26361,8 +26361,8 @@ const features =
       "student_name": "Urax",
       "student_id": 1664129724088,
       "point": [
-        69,
-        1466
+        0.28226652675760755,
+        0.6169724770642202
       ]
     },
     {
@@ -26371,8 +26371,8 @@ const features =
       "student_name": "Urax",
       "student_id": 1664129724088,
       "point": [
-        11,
-        670
+        0.1689401888772298,
+        0.31880733944954126
       ]
     },
     {
@@ -26381,8 +26381,8 @@ const features =
       "student_name": "Urax",
       "student_id": 1664129724088,
       "point": [
-        9,
-        672
+        0.2518363064008394,
+        0.2018348623853211
       ]
     },
     {
@@ -26391,8 +26391,8 @@ const features =
       "student_name": "Urax",
       "student_id": 1664129724088,
       "point": [
-        14,
-        420
+        0.0472193074501574,
+        0.7224770642201835
       ]
     },
     {
@@ -26401,8 +26401,8 @@ const features =
       "student_name": "Urax",
       "student_id": 1664129724088,
       "point": [
-        11,
-        456
+        0.22140608604407136,
+        0.45642201834862384
       ]
     },
     {
@@ -26411,8 +26411,8 @@ const features =
       "student_name": "John Doe",
       "student_id": 1664141324320,
       "point": [
-        14,
-        1476
+        0.2539349422875131,
+        0.21559633027522937
       ]
     },
     {
@@ -26421,8 +26421,8 @@ const features =
       "student_name": "John Doe",
       "student_id": 1664141324320,
       "point": [
-        2,
-        464
+        0.13955928646379853,
+        0.12844036697247707
       ]
     },
     {
@@ -26431,8 +26431,8 @@ const features =
       "student_name": "John Doe",
       "student_id": 1664141324320,
       "point": [
-        7,
-        818
+        0.19097586568730326,
+        0.44495412844036697
       ]
     },
     {
@@ -26441,8 +26441,8 @@ const features =
       "student_name": "John Doe",
       "student_id": 1664141324320,
       "point": [
-        2,
-        1016
+        0.21825813221406087,
+        0.6307339449541285
       ]
     },
     {
@@ -26451,8 +26451,8 @@ const features =
       "student_name": "John Doe",
       "student_id": 1664141324320,
       "point": [
-        6,
-        968
+        0.22770199370409233,
+        0.2408256880733945
       ]
     },
     {
@@ -26461,8 +26461,8 @@ const features =
       "student_name": "John Doe",
       "student_id": 1664141324320,
       "point": [
-        11,
-        1159
+        0.13641133263378805,
+        0.45642201834862384
       ]
     },
     {
@@ -26471,8 +26471,8 @@ const features =
       "student_name": "John Doe",
       "student_id": 1664141324320,
       "point": [
-        1,
-        344
+        0.00944386149003148,
+        0.5344036697247706
       ]
     },
     {
@@ -26481,8 +26481,8 @@ const features =
       "student_name": "John Doe",
       "student_id": 1664141324320,
       "point": [
-        7,
-        695
+        0.24239244491080797,
+        0.4908256880733945
       ]
     },
     {
@@ -26491,8 +26491,8 @@ const features =
       "student_name": "Claudiu",
       "student_id": 1664142893259,
       "point": [
-        123,
-        15162
+        0.3515215110178384,
+        0.231651376146789
       ]
     },
     {
@@ -26501,8 +26501,8 @@ const features =
       "student_name": "Claudiu",
       "student_id": 1664142893259,
       "point": [
-        1,
-        1340
+        0.21720881427072403,
+        0.5068807339449541
       ]
     },
     {
@@ -26511,8 +26511,8 @@ const features =
       "student_name": "Claudiu",
       "student_id": 1664142893259,
       "point": [
-        123,
-        11273
+        0.3567681007345226,
+        0.6422018348623854
       ]
     },
     {
@@ -26521,8 +26521,8 @@ const features =
       "student_name": "Claudiu",
       "student_id": 1664142893259,
       "point": [
-        28,
-        1301
+        0.40398740818467993,
+        0.4243119266055046
       ]
     },
     {
@@ -26531,8 +26531,8 @@ const features =
       "student_name": "Claudiu",
       "student_id": 1664142893259,
       "point": [
-        17,
-        1197
+        0.09233997901364113,
+        0.4288990825688073
       ]
     },
     {
@@ -26541,8 +26541,8 @@ const features =
       "student_name": "Claudiu",
       "student_id": 1664142893259,
       "point": [
-        39,
-        3274
+        0.1416579223504722,
+        0.805045871559633
       ]
     },
     {
@@ -26551,8 +26551,8 @@ const features =
       "student_name": "Claudiu",
       "student_id": 1664142893259,
       "point": [
-        25,
-        3850
+        0.3473242392444911,
+        0.6743119266055045
       ]
     },
     {
@@ -26561,8 +26561,8 @@ const features =
       "student_name": "Claudiu",
       "student_id": 1664142893259,
       "point": [
-        8,
-        315
+        0.18992654774396642,
+        0.27522935779816515
       ]
     },
     {
@@ -26571,8 +26571,8 @@ const features =
       "student_name": "Glenn",
       "student_id": 1664143648264,
       "point": [
-        5,
-        752
+        0.24134312696747115,
+        0.3211009174311927
       ]
     },
     {
@@ -26581,8 +26581,8 @@ const features =
       "student_name": "Glenn",
       "student_id": 1664143648264,
       "point": [
-        5,
-        285
+        0.1888772298006296,
+        0.22247706422018348
       ]
     },
     {
@@ -26591,8 +26591,8 @@ const features =
       "student_name": "Glenn",
       "student_id": 1664143648264,
       "point": [
-        10,
-        835
+        0.21720881427072403,
+        0.6055045871559633
       ]
     },
     {
@@ -26601,8 +26601,8 @@ const features =
       "student_name": "Glenn",
       "student_id": 1664143648264,
       "point": [
-        4,
-        487
+        0.17523609653725078,
+        0.5871559633027523
       ]
     },
     {
@@ -26611,8 +26611,8 @@ const features =
       "student_name": "Glenn",
       "student_id": 1664143648264,
       "point": [
-        15,
-        910
+        0.24554039874081846,
+        0.3876146788990826
       ]
     },
     {
@@ -26621,8 +26621,8 @@ const features =
       "student_name": "Glenn",
       "student_id": 1664143648264,
       "point": [
-        20,
-        1703
+        0.33263378803777544,
+        0.5137614678899083
       ]
     },
     {
@@ -26631,8 +26631,8 @@ const features =
       "student_name": "Glenn",
       "student_id": 1664143648264,
       "point": [
-        9,
-        331
+        0.17103882476390347,
+        0.36926605504587157
       ]
     },
     {
@@ -26641,8 +26641,8 @@ const features =
       "student_name": "Glenn",
       "student_id": 1664143648264,
       "point": [
-        21,
-        708
+        0.22140608604407136,
+        0.17889908256880735
       ]
     },
     {
@@ -26651,8 +26651,8 @@ const features =
       "student_name": "Amit",
       "student_id": 1664145569539,
       "point": [
-        6,
-        1093
+        0.3074501573976915,
+        0.24311926605504589
       ]
     },
     {
@@ -26661,8 +26661,8 @@ const features =
       "student_name": "Amit",
       "student_id": 1664145569539,
       "point": [
-        2,
-        455
+        0.20776495278069254,
+        0.19036697247706422
       ]
     },
     {
@@ -26671,8 +26671,8 @@ const features =
       "student_name": "Amit",
       "student_id": 1664145569539,
       "point": [
-        10,
-        1149
+        0.2707240293809024,
+        0.6238532110091743
       ]
     },
     {
@@ -26681,8 +26681,8 @@ const features =
       "student_name": "Amit",
       "student_id": 1664145569539,
       "point": [
-        7,
-        608
+        0.21511017838405036,
+        0.6903669724770642
       ]
     },
     {
@@ -26691,8 +26691,8 @@ const features =
       "student_name": "Amit",
       "student_id": 1664145569539,
       "point": [
-        22,
-        1189
+        0.23399790136411333,
+        0.30963302752293576
       ]
     },
     {
@@ -26701,8 +26701,8 @@ const features =
       "student_name": "Amit",
       "student_id": 1664145569539,
       "point": [
-        21,
-        2256
+        0.2969569779643232,
+        0.5688073394495413
       ]
     },
     {
@@ -26711,8 +26711,8 @@ const features =
       "student_name": "Amit",
       "student_id": 1664145569539,
       "point": [
-        17,
-        1161
+        0.033578174186778595,
+        0.6972477064220184
       ]
     },
     {
@@ -26721,8 +26721,8 @@ const features =
       "student_name": "Amit",
       "student_id": 1664145569539,
       "point": [
-        35,
-        1059
+        0.15949632738719832,
+        0.4518348623853211
       ]
     },
     {
@@ -26731,8 +26731,8 @@ const features =
       "student_name": "Pazini",
       "student_id": 1664146709261,
       "point": [
-        3,
-        287
+        0.1888772298006296,
+        0.27522935779816515
       ]
     },
     {
@@ -26741,8 +26741,8 @@ const features =
       "student_name": "Pazini",
       "student_id": 1664146709261,
       "point": [
-        4,
-        186
+        0.19832109129066108,
+        0.3348623853211009
       ]
     },
     {
@@ -26751,8 +26751,8 @@ const features =
       "student_name": "Pazini",
       "student_id": 1664146709261,
       "point": [
-        4,
-        250
+        0.20566631689401887,
+        0.4105504587155963
       ]
     },
     {
@@ -26761,8 +26761,8 @@ const features =
       "student_name": "Pazini",
       "student_id": 1664146709261,
       "point": [
-        4,
-        152
+        0.1521511017838405,
+        0.4197247706422018
       ]
     },
     {
@@ -26771,8 +26771,8 @@ const features =
       "student_name": "Pazini",
       "student_id": 1664146709261,
       "point": [
-        3,
-        375
+        0.25813221406086045,
+        0.46788990825688076
       ]
     },
     {
@@ -26781,8 +26781,8 @@ const features =
       "student_name": "Pazini",
       "student_id": 1664146709261,
       "point": [
-        9,
-        536
+        0.2728226652675761,
+        0.37844036697247707
       ]
     },
     {
@@ -26791,8 +26791,8 @@ const features =
       "student_name": "Pazini",
       "student_id": 1664146709261,
       "point": [
-        3,
-        277
+        0.07869884575026233,
+        0.5229357798165137
       ]
     },
     {
@@ -26801,8 +26801,8 @@ const features =
       "student_name": "Pazini",
       "student_id": 1664146709261,
       "point": [
-        14,
-        310
+        0.1731374606505771,
+        0.3555045871559633
       ]
     },
     {
@@ -26811,8 +26811,8 @@ const features =
       "student_name": "kes",
       "student_id": 1664158111738,
       "point": [
-        7,
-        711
+        0.20041972717733472,
+        0.10321100917431193
       ]
     },
     {
@@ -26821,8 +26821,8 @@ const features =
       "student_name": "kes",
       "student_id": 1664158111738,
       "point": [
-        4,
-        145
+        0.19412381951731375,
+        0.19724770642201836
       ]
     },
     {
@@ -26831,8 +26831,8 @@ const features =
       "student_name": "kes",
       "student_id": 1664158111738,
       "point": [
-        6,
-        622
+        0.15949632738719832,
+        0.2775229357798165
       ]
     },
     {
@@ -26841,8 +26841,8 @@ const features =
       "student_name": "kes",
       "student_id": 1664158111738,
       "point": [
-        30,
-        1065
+        0.33997901364113325,
+        0.7110091743119266
       ]
     },
     {
@@ -26851,8 +26851,8 @@ const features =
       "student_name": "kes",
       "student_id": 1664158111738,
       "point": [
-        22,
-        2299
+        0.17418677859391396,
+        0.4013761467889908
       ]
     },
     {
@@ -26861,8 +26861,8 @@ const features =
       "student_name": "kes",
       "student_id": 1664158111738,
       "point": [
-        9,
-        1104
+        0.12277019937040923,
+        0.48853211009174313
       ]
     },
     {
@@ -26871,8 +26871,8 @@ const features =
       "student_name": "kes",
       "student_id": 1664158111738,
       "point": [
-        10,
-        996
+        0.1416579223504722,
+        0.48853211009174313
       ]
     },
     {
@@ -26881,8 +26881,8 @@ const features =
       "student_name": "kes",
       "student_id": 1664158111738,
       "point": [
-        15,
-        349
+        0.19622245540398742,
+        0.49770642201834864
       ]
     },
     {
@@ -26891,8 +26891,8 @@ const features =
       "student_name": "Etienne",
       "student_id": 1664159406326,
       "point": [
-        24,
-        993
+        0.24239244491080797,
+        0.3463302752293578
       ]
     },
     {
@@ -26901,8 +26901,8 @@ const features =
       "student_name": "Etienne",
       "student_id": 1664159406326,
       "point": [
-        6,
-        804
+        0.20671563483735572,
+        0.24311926605504589
       ]
     },
     {
@@ -26911,8 +26911,8 @@ const features =
       "student_name": "Etienne",
       "student_id": 1664159406326,
       "point": [
-        22,
-        636
+        0.20461699895068206,
+        0.35091743119266056
       ]
     },
     {
@@ -26921,8 +26921,8 @@ const features =
       "student_name": "Etienne",
       "student_id": 1664159406326,
       "point": [
-        20,
-        1475
+        0.22350472193074503,
+        0.5412844036697247
       ]
     },
     {
@@ -26931,8 +26931,8 @@ const features =
       "student_name": "Etienne",
       "student_id": 1664159406326,
       "point": [
-        9,
-        473
+        0.2528856243441763,
+        0.44954128440366975
       ]
     },
     {
@@ -26941,8 +26941,8 @@ const features =
       "student_name": "Etienne",
       "student_id": 1664159406326,
       "point": [
-        8,
-        463
+        0.21406086044071354,
+        0.694954128440367
       ]
     },
     {
@@ -26951,8 +26951,8 @@ const features =
       "student_name": "Etienne",
       "student_id": 1664159406326,
       "point": [
-        9,
-        1040
+        0.22770199370409233,
+        0.3256880733944954
       ]
     },
     {
@@ -26961,8 +26961,8 @@ const features =
       "student_name": "Etienne",
       "student_id": 1664159406326,
       "point": [
-        20,
-        834
+        0.15320041972717732,
+        0.7477064220183486
       ]
     },
     {
@@ -26971,8 +26971,8 @@ const features =
       "student_name": "Hollayemi18 ",
       "student_id": 1664161812004,
       "point": [
-        13,
-        296
+        0.3357817418677859,
+        0.32798165137614677
       ]
     },
     {
@@ -26981,8 +26981,8 @@ const features =
       "student_name": "Hollayemi18 ",
       "student_id": 1664161812004,
       "point": [
-        6,
-        220
+        0.24134312696747115,
+        0.28211009174311924
       ]
     },
     {
@@ -26991,8 +26991,8 @@ const features =
       "student_name": "Hollayemi18 ",
       "student_id": 1664161812004,
       "point": [
-        8,
-        247
+        0.2528856243441763,
+        0.5871559633027523
       ]
     },
     {
@@ -27001,8 +27001,8 @@ const features =
       "student_name": "Hollayemi18 ",
       "student_id": 1664161812004,
       "point": [
-        16,
-        287
+        0.2969569779643232,
+        0.823394495412844
       ]
     },
     {
@@ -27011,8 +27011,8 @@ const features =
       "student_name": "Hollayemi18 ",
       "student_id": 1664161812004,
       "point": [
-        13,
-        270
+        0.26862539349422876,
+        0.48623853211009177
       ]
     },
     {
@@ -27021,8 +27021,8 @@ const features =
       "student_name": "Hollayemi18 ",
       "student_id": 1664161812004,
       "point": [
-        9,
-        242
+        0.2864637985309549,
+        0.518348623853211
       ]
     },
     {
@@ -27031,8 +27031,8 @@ const features =
       "student_name": "Hollayemi18 ",
       "student_id": 1664161812004,
       "point": [
-        7,
-        196
+        0.06190975865687303,
+        0.5229357798165137
       ]
     },
     {
@@ -27041,8 +27041,8 @@ const features =
       "student_name": "Hollayemi18 ",
       "student_id": 1664161812004,
       "point": [
-        5,
-        115
+        0.15949632738719832,
+        0.4518348623853211
       ]
     },
     {
@@ -27051,8 +27051,8 @@ const features =
       "student_name": "vj",
       "student_id": 1664165262010,
       "point": [
-        2,
-        694
+        0.236096537250787,
+        0.23853211009174313
       ]
     },
     {
@@ -27061,8 +27061,8 @@ const features =
       "student_name": "vj",
       "student_id": 1664165262010,
       "point": [
-        8,
-        312
+        0.18677859391395593,
+        0.481651376146789
       ]
     },
     {
@@ -27071,8 +27071,8 @@ const features =
       "student_name": "vj",
       "student_id": 1664165262010,
       "point": [
-        7,
-        436
+        0.18992654774396642,
+        0.5642201834862385
       ]
     },
     {
@@ -27081,8 +27081,8 @@ const features =
       "student_name": "vj",
       "student_id": 1664165262010,
       "point": [
-        3,
-        189
+        0.25918153200419725,
+        0.7821100917431193
       ]
     },
     {
@@ -27091,8 +27091,8 @@ const features =
       "student_name": "vj",
       "student_id": 1664165262010,
       "point": [
-        14,
-        443
+        0.28751311647429173,
+        0.5
       ]
     },
     {
@@ -27101,8 +27101,8 @@ const features =
       "student_name": "vj",
       "student_id": 1664165262010,
       "point": [
-        8,
-        582
+        0.29485834207764955,
+        0.5688073394495413
       ]
     },
     {
@@ -27111,8 +27111,8 @@ const features =
       "student_name": "vj",
       "student_id": 1664165262010,
       "point": [
-        1,
-        287
+        0.1049317943336831,
+        0.41743119266055045
       ]
     },
     {
@@ -27121,8 +27121,8 @@ const features =
       "student_name": "vj",
       "student_id": 1664165262010,
       "point": [
-        26,
-        294
+        0.2696747114375656,
+        0.5642201834862385
       ]
     },
     {
@@ -27131,8 +27131,8 @@ const features =
       "student_name": "khalil",
       "student_id": 1664166094920,
       "point": [
-        8,
-        389
+        0.33997901364113325,
+        0.2545871559633027
       ]
     },
     {
@@ -27141,8 +27141,8 @@ const features =
       "student_name": "khalil",
       "student_id": 1664166094920,
       "point": [
-        5,
-        183
+        0.20776495278069254,
+        0.23623853211009174
       ]
     },
     {
@@ -27151,8 +27151,8 @@ const features =
       "student_name": "khalil",
       "student_id": 1664166094920,
       "point": [
-        9,
-        244
+        0.15005246589716684,
+        0.5527522935779816
       ]
     },
     {
@@ -27161,8 +27161,8 @@ const features =
       "student_name": "khalil",
       "student_id": 1664166094920,
       "point": [
-        17,
-        387
+        0.236096537250787,
+        0.5802752293577982
       ]
     },
     {
@@ -27171,8 +27171,8 @@ const features =
       "student_name": "khalil",
       "student_id": 1664166094920,
       "point": [
-        14,
-        395
+        0.2812172088142707,
+        0.286697247706422
       ]
     },
     {
@@ -27181,8 +27181,8 @@ const features =
       "student_name": "khalil",
       "student_id": 1664166094920,
       "point": [
-        11,
-        475
+        0.12067156348373557,
+        0.6880733944954128
       ]
     },
     {
@@ -27191,8 +27191,8 @@ const features =
       "student_name": "khalil",
       "student_id": 1664166094920,
       "point": [
-        4,
-        355
+        0.29800629590766003,
+        0.6077981651376146
       ]
     },
     {
@@ -27201,8 +27201,8 @@ const features =
       "student_name": "khalil",
       "student_id": 1664166094920,
       "point": [
-        18,
-        394
+        0.19202518363064008,
+        0.286697247706422
       ]
     },
     {
@@ -27211,8 +27211,8 @@ const features =
       "student_name": "Manasvi",
       "student_id": 1664166734783,
       "point": [
-        13,
-        1127
+        0.378803777544596,
+        0.3440366972477064
       ]
     },
     {
@@ -27221,8 +27221,8 @@ const features =
       "student_name": "Manasvi",
       "student_id": 1664166734783,
       "point": [
-        17,
-        1148
+        0.28961175236096537,
+        0.5
       ]
     },
     {
@@ -27231,8 +27231,8 @@ const features =
       "student_name": "Manasvi",
       "student_id": 1664166734783,
       "point": [
-        26,
-        1306
+        0.3546694648478489,
+        0.5435779816513762
       ]
     },
     {
@@ -27241,8 +27241,8 @@ const features =
       "student_name": "Manasvi",
       "student_id": 1664166734783,
       "point": [
-        10,
-        446
+        0.27492130115424973,
+        0.7293577981651376
       ]
     },
     {
@@ -27251,8 +27251,8 @@ const features =
       "student_name": "Manasvi",
       "student_id": 1664166734783,
       "point": [
-        26,
-        1371
+        0.2938090241343127,
+        0.38073394495412843
       ]
     },
     {
@@ -27261,8 +27261,8 @@ const features =
       "student_name": "Manasvi",
       "student_id": 1664166734783,
       "point": [
-        14,
-        1056
+        0.3242392444910808,
+        0.6100917431192661
       ]
     },
     {
@@ -27271,8 +27271,8 @@ const features =
       "student_name": "Manasvi",
       "student_id": 1664166734783,
       "point": [
-        6,
-        320
+        0.21720881427072403,
+        0.6513761467889908
       ]
     },
     {
@@ -27281,8 +27281,8 @@ const features =
       "student_name": "Manasvi",
       "student_id": 1664166734783,
       "point": [
-        15,
-        592
+        0.2738719832109129,
+        0.45871559633027525
       ]
     },
     {
@@ -27291,8 +27291,8 @@ const features =
       "student_name": "sunshine",
       "student_id": 1664168621609,
       "point": [
-        3,
-        574
+        0.16684155299055614,
+        0.11009174311926606
       ]
     },
     {
@@ -27301,8 +27301,8 @@ const features =
       "student_name": "sunshine",
       "student_id": 1664168621609,
       "point": [
-        5,
-        781
+        0.09024134312696747,
+        0.37155963302752293
       ]
     },
     {
@@ -27311,8 +27311,8 @@ const features =
       "student_name": "sunshine",
       "student_id": 1664168621609,
       "point": [
-        8,
-        550
+        0.12277019937040923,
+        0.42660550458715596
       ]
     },
     {
@@ -27321,8 +27321,8 @@ const features =
       "student_name": "sunshine",
       "student_id": 1664168621609,
       "point": [
-        2,
-        657
+        0.23294858342077648,
+        0.573394495412844
       ]
     },
     {
@@ -27331,8 +27331,8 @@ const features =
       "student_name": "sunshine",
       "student_id": 1664168621609,
       "point": [
-        7,
-        389
+        0.21406086044071354,
+        0.27522935779816515
       ]
     },
     {
@@ -27341,8 +27341,8 @@ const features =
       "student_name": "sunshine",
       "student_id": 1664168621609,
       "point": [
-        5,
-        467
+        0.20041972717733472,
+        0.4243119266055046
       ]
     },
     {
@@ -27351,8 +27351,8 @@ const features =
       "student_name": "sunshine",
       "student_id": 1664168621609,
       "point": [
-        3,
-        266
+        0.08814270724029381,
+        0.4013761467889908
       ]
     },
     {
@@ -27361,8 +27361,8 @@ const features =
       "student_name": "sunshine",
       "student_id": 1664168621609,
       "point": [
-        5,
-        297
+        0.1657922350472193,
+        0.38073394495412843
       ]
     },
     {
@@ -27371,8 +27371,8 @@ const features =
       "student_name": "snake8",
       "student_id": 1664171773317,
       "point": [
-        27,
-        541
+        0.5246589716684156,
+        0.24311926605504589
       ]
     },
     {
@@ -27381,8 +27381,8 @@ const features =
       "student_name": "snake8",
       "student_id": 1664171773317,
       "point": [
-        128,
-        1549
+        0.2864637985309549,
+        0.30963302752293576
       ]
     },
     {
@@ -27391,8 +27391,8 @@ const features =
       "student_name": "snake8",
       "student_id": 1664171773317,
       "point": [
-        20,
-        347
+        0.45750262329485836,
+        0.4954128440366973
       ]
     },
     {
@@ -27401,8 +27401,8 @@ const features =
       "student_name": "snake8",
       "student_id": 1664171773317,
       "point": [
-        18,
-        438
+        0.2675760755508919,
+        0.6444954128440367
       ]
     },
     {
@@ -27411,8 +27411,8 @@ const features =
       "student_name": "snake8",
       "student_id": 1664171773317,
       "point": [
-        25,
-        481
+        0.21720881427072403,
+        0.22706422018348624
       ]
     },
     {
@@ -27421,8 +27421,8 @@ const features =
       "student_name": "snake8",
       "student_id": 1664171773317,
       "point": [
-        30,
-        752
+        0.23819517313746066,
+        0.6123853211009175
       ]
     },
     {
@@ -27431,8 +27431,8 @@ const features =
       "student_name": "snake8",
       "student_id": 1664171773317,
       "point": [
-        14,
-        265
+        0.14375655823714587,
+        0.5894495412844036
       ]
     },
     {
@@ -27441,8 +27441,8 @@ const features =
       "student_name": "snake8",
       "student_id": 1664171773317,
       "point": [
-        24,
-        779
+        0.20671563483735572,
+        0.4724770642201835
       ]
     },
     {
@@ -27451,8 +27451,8 @@ const features =
       "student_name": "casafurix",
       "student_id": 1664172425451,
       "point": [
-        3,
-        158
+        0.16054564533053514,
+        0.20412844036697247
       ]
     },
     {
@@ -27461,8 +27461,8 @@ const features =
       "student_name": "casafurix",
       "student_id": 1664172425451,
       "point": [
-        3,
-        98
+        0.13641133263378805,
+        0.08027522935779817
       ]
     },
     {
@@ -27471,8 +27471,8 @@ const features =
       "student_name": "casafurix",
       "student_id": 1664172425451,
       "point": [
-        3,
-        190
+        0.15110178384050368,
+        0.4013761467889908
       ]
     },
     {
@@ -27481,8 +27481,8 @@ const features =
       "student_name": "casafurix",
       "student_id": 1664172425451,
       "point": [
-        3,
-        153
+        0.14270724029380902,
+        0.42201834862385323
       ]
     },
     {
@@ -27491,8 +27491,8 @@ const features =
       "student_name": "casafurix",
       "student_id": 1664172425451,
       "point": [
-        5,
-        114
+        0.13641133263378805,
+        0.1743119266055046
       ]
     },
     {
@@ -27501,8 +27501,8 @@ const features =
       "student_name": "casafurix",
       "student_id": 1664172425451,
       "point": [
-        6,
-        287
+        0.26128016789087094,
+        0.19495412844036697
       ]
     },
     {
@@ -27511,8 +27511,8 @@ const features =
       "student_name": "casafurix",
       "student_id": 1664172425451,
       "point": [
-        9,
-        157
+        0.15739769150052466,
+        0.05504587155963303
       ]
     },
     {
@@ -27521,8 +27521,8 @@ const features =
       "student_name": "casafurix",
       "student_id": 1664172425451,
       "point": [
-        14,
-        271
+        0.13431269674711438,
+        0.268348623853211
       ]
     },
     {
@@ -27531,8 +27531,8 @@ const features =
       "student_name": "Eternam",
       "student_id": 1664179695008,
       "point": [
-        8,
-        488
+        0.3441762854144806,
+        0.3669724770642202
       ]
     },
     {
@@ -27541,8 +27541,8 @@ const features =
       "student_name": "Eternam",
       "student_id": 1664179695008,
       "point": [
-        10,
-        761
+        0.33263378803777544,
+        0.6123853211009175
       ]
     },
     {
@@ -27551,8 +27551,8 @@ const features =
       "student_name": "Eternam",
       "student_id": 1664179695008,
       "point": [
-        12,
-        403
+        0.3389296956977964,
+        0.7110091743119266
       ]
     },
     {
@@ -27561,8 +27561,8 @@ const features =
       "student_name": "Eternam",
       "student_id": 1664179695008,
       "point": [
-        11,
-        504
+        0.316894018887723,
+        0.7545871559633027
       ]
     },
     {
@@ -27571,8 +27571,8 @@ const features =
       "student_name": "Eternam",
       "student_id": 1664179695008,
       "point": [
-        13,
-        372
+        0.2801678908709339,
+        0.4197247706422018
       ]
     },
     {
@@ -27581,8 +27581,8 @@ const features =
       "student_name": "Eternam",
       "student_id": 1664179695008,
       "point": [
-        6,
-        373
+        0.3389296956977964,
+        0.7201834862385321
       ]
     },
     {
@@ -27591,8 +27591,8 @@ const features =
       "student_name": "Eternam",
       "student_id": 1664179695008,
       "point": [
-        1,
-        243
+        0.2161594963273872,
+        0.5619266055045872
       ]
     },
     {
@@ -27601,8 +27601,8 @@ const features =
       "student_name": "Eternam",
       "student_id": 1664179695008,
       "point": [
-        6,
-        604
+        0.4018887722980063,
+        0.8899082568807339
       ]
     },
     {
@@ -27611,8 +27611,8 @@ const features =
       "student_name": "Frank",
       "student_id": 1664183114637,
       "point": [
-        14,
-        1132
+        0.3252885624344176,
+        0.3669724770642202
       ]
     },
     {
@@ -27621,8 +27621,8 @@ const features =
       "student_name": "Frank",
       "student_id": 1664183114637,
       "point": [
-        10,
-        827
+        0.3095487932843652,
+        0.41743119266055045
       ]
     },
     {
@@ -27631,8 +27631,8 @@ const features =
       "student_name": "Frank",
       "student_id": 1664183114637,
       "point": [
-        10,
-        490
+        0.19622245540398742,
+        0.5573394495412844
       ]
     },
     {
@@ -27641,8 +27641,8 @@ const features =
       "student_name": "Frank",
       "student_id": 1664183114637,
       "point": [
-        1,
-        446
+        0.23294858342077648,
+        0.7018348623853211
       ]
     },
     {
@@ -27651,8 +27651,8 @@ const features =
       "student_name": "Frank",
       "student_id": 1664183114637,
       "point": [
-        10,
-        421
+        0.26862539349422876,
+        0.37844036697247707
       ]
     },
     {
@@ -27661,8 +27661,8 @@ const features =
       "student_name": "Frank",
       "student_id": 1664183114637,
       "point": [
-        9,
-        695
+        0.1584470094438615,
+        0.6972477064220184
       ]
     },
     {
@@ -27671,8 +27671,8 @@ const features =
       "student_name": "Frank",
       "student_id": 1664183114637,
       "point": [
-        8,
-        350
+        0.09863588667366212,
+        0.6146788990825688
       ]
     },
     {
@@ -27681,8 +27681,8 @@ const features =
       "student_name": "Frank",
       "student_id": 1664183114637,
       "point": [
-        8,
-        256
+        0.2266526757607555,
+        0.5802752293577982
       ]
     },
     {
@@ -27691,8 +27691,8 @@ const features =
       "student_name": "Arkadiusz",
       "student_id": 1664187808815,
       "point": [
-        8,
-        615
+        0.3641133263378804,
+        0.20642201834862386
       ]
     },
     {
@@ -27701,8 +27701,8 @@ const features =
       "student_name": "Arkadiusz",
       "student_id": 1664187808815,
       "point": [
-        5,
-        453
+        0.28226652675760755,
+        0.3623853211009174
       ]
     },
     {
@@ -27711,8 +27711,8 @@ const features =
       "student_name": "Arkadiusz",
       "student_id": 1664187808815,
       "point": [
-        38,
-        1730
+        0.16998950682056663,
+        0.6077981651376146
       ]
     },
     {
@@ -27721,8 +27721,8 @@ const features =
       "student_name": "Arkadiusz",
       "student_id": 1664187808815,
       "point": [
-        19,
-        803
+        0.2801678908709339,
+        0.7821100917431193
       ]
     },
     {
@@ -27731,8 +27731,8 @@ const features =
       "student_name": "Arkadiusz",
       "student_id": 1664187808815,
       "point": [
-        8,
-        334
+        0.28436516264428124,
+        0.26376146788990823
       ]
     },
     {
@@ -27741,8 +27741,8 @@ const features =
       "student_name": "Arkadiusz",
       "student_id": 1664187808815,
       "point": [
-        11,
-        576
+        0.0944386149003148,
+        0.6880733944954128
       ]
     },
     {
@@ -27751,8 +27751,8 @@ const features =
       "student_name": "Arkadiusz",
       "student_id": 1664187808815,
       "point": [
-        2,
-        226
+        0.25813221406086045,
+        0.3165137614678899
       ]
     },
     {
@@ -27761,8 +27761,8 @@ const features =
       "student_name": "Arkadiusz",
       "student_id": 1664187808815,
       "point": [
-        10,
-        348
+        0.13011542497376705,
+        0.4724770642201835
       ]
     },
     {
@@ -27771,8 +27771,8 @@ const features =
       "student_name": "Swaroop",
       "student_id": 1664198862892,
       "point": [
-        7,
-        950
+        0.3074501573976915,
+        0.2981651376146789
       ]
     },
     {
@@ -27781,8 +27781,8 @@ const features =
       "student_name": "Swaroop",
       "student_id": 1664198862892,
       "point": [
-        7,
-        418
+        0.23084994753410285,
+        0.22706422018348624
       ]
     },
     {
@@ -27791,8 +27791,8 @@ const features =
       "student_name": "Swaroop",
       "student_id": 1664198862892,
       "point": [
-        7,
-        674
+        0.1794333683105981,
+        0.4610091743119266
       ]
     },
     {
@@ -27801,8 +27801,8 @@ const features =
       "student_name": "Swaroop",
       "student_id": 1664198862892,
       "point": [
-        3,
-        366
+        0.16369359916054566,
+        0.6490825688073395
       ]
     },
     {
@@ -27811,8 +27811,8 @@ const features =
       "student_name": "Swaroop",
       "student_id": 1664198862892,
       "point": [
-        13,
-        849
+        0.31584470094438616,
+        0.4724770642201835
       ]
     },
     {
@@ -27821,8 +27821,8 @@ const features =
       "student_name": "Swaroop",
       "student_id": 1664198862892,
       "point": [
-        12,
-        518
+        0.15634837355718784,
+        0.6261467889908257
       ]
     },
     {
@@ -27831,8 +27831,8 @@ const features =
       "student_name": "Swaroop",
       "student_id": 1664198862892,
       "point": [
-        3,
-        225
+        0.15949632738719832,
+        0.30963302752293576
       ]
     },
     {
@@ -27841,8 +27841,8 @@ const features =
       "student_name": "Swaroop",
       "student_id": 1664198862892,
       "point": [
-        7,
-        258
+        0.1930745015739769,
+        0.4059633027522936
       ]
     },
     {
@@ -27851,8 +27851,8 @@ const features =
       "student_name": "AA",
       "student_id": 1664211977462,
       "point": [
-        9,
-        398
+        0.25603357817418676,
+        0.4243119266055046
       ]
     },
     {
@@ -27861,8 +27861,8 @@ const features =
       "student_name": "AA",
       "student_id": 1664211977462,
       "point": [
-        19,
-        333
+        0.22875131164742918,
+        0.36009174311926606
       ]
     },
     {
@@ -27871,8 +27871,8 @@ const features =
       "student_name": "AA",
       "student_id": 1664211977462,
       "point": [
-        24,
-        757
+        0.24344176285414482,
+        0.44724770642201833
       ]
     },
     {
@@ -27881,8 +27881,8 @@ const features =
       "student_name": "AA",
       "student_id": 1664211977462,
       "point": [
-        24,
-        969
+        0.3315844700944386,
+        0.7752293577981652
       ]
     },
     {
@@ -27891,8 +27891,8 @@ const features =
       "student_name": "AA",
       "student_id": 1664211977462,
       "point": [
-        20,
-        456
+        0.23189926547743966,
+        0.45642201834862384
       ]
     },
     {
@@ -27901,8 +27901,8 @@ const features =
       "student_name": "AA",
       "student_id": 1664211977462,
       "point": [
-        11,
-        477
+        0.23189926547743966,
+        0.6788990825688074
       ]
     },
     {
@@ -27911,8 +27911,8 @@ const features =
       "student_name": "AA",
       "student_id": 1664211977462,
       "point": [
-        2,
-        90
+        0.05246589716684155,
+        0.3967889908256881
       ]
     },
     {
@@ -27921,8 +27921,8 @@ const features =
       "student_name": "AA",
       "student_id": 1664211977462,
       "point": [
-        2,
-        61
+        0.04302203567681007,
+        0.3211009174311927
       ]
     },
     {
@@ -27931,8 +27931,8 @@ const features =
       "student_name": "ankush",
       "student_id": 1664212352303,
       "point": [
-        11,
-        926
+        0.32633788037775446,
+        0.49770642201834864
       ]
     },
     {
@@ -27941,8 +27941,8 @@ const features =
       "student_name": "ankush",
       "student_id": 1664212352303,
       "point": [
-        2,
-        261
+        0.20146904512067157,
+        0.37844036697247707
       ]
     },
     {
@@ -27951,8 +27951,8 @@ const features =
       "student_name": "ankush",
       "student_id": 1664212352303,
       "point": [
-        19,
-        1293
+        0.28226652675760755,
+        0.5
       ]
     },
     {
@@ -27961,8 +27961,8 @@ const features =
       "student_name": "ankush",
       "student_id": 1664212352303,
       "point": [
-        19,
-        1115
+        0.3389296956977964,
+        0.5802752293577982
       ]
     },
     {
@@ -27971,8 +27971,8 @@ const features =
       "student_name": "ankush",
       "student_id": 1664212352303,
       "point": [
-        11,
-        503
+        0.20671563483735572,
+        0.41743119266055045
       ]
     },
     {
@@ -27981,8 +27981,8 @@ const features =
       "student_name": "ankush",
       "student_id": 1664212352303,
       "point": [
-        5,
-        303
+        0.2402938090241343,
+        0.48394495412844035
       ]
     },
     {
@@ -27991,8 +27991,8 @@ const features =
       "student_name": "ankush",
       "student_id": 1664212352303,
       "point": [
-        7,
-        598
+        0.06295907660020986,
+        0.5596330275229358
       ]
     },
     {
@@ -28001,8 +28001,8 @@ const features =
       "student_name": "ankush",
       "student_id": 1664212352303,
       "point": [
-        13,
-        371
+        0.1783840503672613,
+        0.46788990825688076
       ]
     },
     {
@@ -28011,8 +28011,8 @@ const features =
       "student_name": "Mahmud",
       "student_id": 1664214639149,
       "point": [
-        5,
-        313
+        0.2570828961175236,
+        0.2591743119266055
       ]
     },
     {
@@ -28021,8 +28021,8 @@ const features =
       "student_name": "Mahmud",
       "student_id": 1664214639149,
       "point": [
-        6,
-        394
+        0.21406086044071354,
+        0.21788990825688073
       ]
     },
     {
@@ -28031,8 +28031,8 @@ const features =
       "student_name": "Mahmud",
       "student_id": 1664214639149,
       "point": [
-        16,
-        610
+        0.2675760755508919,
+        0.33256880733944955
       ]
     },
     {
@@ -28041,8 +28041,8 @@ const features =
       "student_name": "Mahmud",
       "student_id": 1664214639149,
       "point": [
-        6,
-        468
+        0.24344176285414482,
+        0.5825688073394495
       ]
     },
     {
@@ -28051,8 +28051,8 @@ const features =
       "student_name": "Mahmud",
       "student_id": 1664214639149,
       "point": [
-        8,
-        220
+        0.12277019937040923,
+        0.16055045871559634
       ]
     },
     {
@@ -28061,8 +28061,8 @@ const features =
       "student_name": "Mahmud",
       "student_id": 1664214639149,
       "point": [
-        7,
-        472
+        0.23189926547743966,
+        0.481651376146789
       ]
     },
     {
@@ -28071,8 +28071,8 @@ const features =
       "student_name": "Mahmud",
       "student_id": 1664214639149,
       "point": [
-        8,
-        246
+        0.04407135362014691,
+        0.6330275229357798
       ]
     },
     {
@@ -28081,8 +28081,8 @@ const features =
       "student_name": "Mahmud",
       "student_id": 1664214639149,
       "point": [
-        15,
-        273
+        0.1385099685204617,
+        0.2889908256880734
       ]
     },
     {
@@ -28091,8 +28091,8 @@ const features =
       "student_name": "prophet",
       "student_id": 1664215549945,
       "point": [
-        16,
-        1353
+        0.2025183630640084,
+        0.22247706422018348
       ]
     },
     {
@@ -28101,8 +28101,8 @@ const features =
       "student_name": "prophet",
       "student_id": 1664215549945,
       "point": [
-        10,
-        615
+        0.1993704092339979,
+        0.22935779816513763
       ]
     },
     {
@@ -28111,8 +28111,8 @@ const features =
       "student_name": "prophet",
       "student_id": 1664215549945,
       "point": [
-        9,
-        803
+        0.3200419727177335,
+        0.6261467889908257
       ]
     },
     {
@@ -28121,8 +28121,8 @@ const features =
       "student_name": "prophet",
       "student_id": 1664215549945,
       "point": [
-        7,
-        479
+        0.25078698845750264,
+        0.7591743119266054
       ]
     },
     {
@@ -28131,8 +28131,8 @@ const features =
       "student_name": "prophet",
       "student_id": 1664215549945,
       "point": [
-        20,
-        1412
+        0.2969569779643232,
+        0.5435779816513762
       ]
     },
     {
@@ -28141,8 +28141,8 @@ const features =
       "student_name": "prophet",
       "student_id": 1664215549945,
       "point": [
-        12,
-        1051
+        0.0944386149003148,
+        0.44036697247706424
       ]
     },
     {
@@ -28151,8 +28151,8 @@ const features =
       "student_name": "prophet",
       "student_id": 1664215549945,
       "point": [
-        10,
-        914
+        0.1888772298006296,
+        0.41743119266055045
       ]
     },
     {
@@ -28161,8 +28161,8 @@ const features =
       "student_name": "prophet",
       "student_id": 1664215549945,
       "point": [
-        3,
-        203
+        0.17733473242392445,
+        0.3302752293577982
       ]
     },
     {
@@ -28171,8 +28171,8 @@ const features =
       "student_name": "Jitendar",
       "student_id": 1664216767013,
       "point": [
-        18,
-        1113
+        0.29275970619097585,
+        0.5068807339449541
       ]
     },
     {
@@ -28181,8 +28181,8 @@ const features =
       "student_name": "Jitendar",
       "student_id": 1664216767013,
       "point": [
-        6,
-        430
+        0.32214060860440713,
+        0.5022935779816514
       ]
     },
     {
@@ -28191,8 +28191,8 @@ const features =
       "student_name": "Jitendar",
       "student_id": 1664216767013,
       "point": [
-        2,
-        227
+        0.18677859391395593,
+        0.5619266055045872
       ]
     },
     {
@@ -28201,8 +28201,8 @@ const features =
       "student_name": "Jitendar",
       "student_id": 1664216767013,
       "point": [
-        3,
-        91
+        0.2203567681007345,
+        0.6261467889908257
       ]
     },
     {
@@ -28211,8 +28211,8 @@ const features =
       "student_name": "Jitendar",
       "student_id": 1664216767013,
       "point": [
-        20,
-        289
+        0.2728226652675761,
+        0.463302752293578
       ]
     },
     {
@@ -28221,8 +28221,8 @@ const features =
       "student_name": "Jitendar",
       "student_id": 1664216767013,
       "point": [
-        8,
-        268
+        0.3284365162644281,
+        0.27522935779816515
       ]
     },
     {
@@ -28231,8 +28231,8 @@ const features =
       "student_name": "Jitendar",
       "student_id": 1664216767013,
       "point": [
-        5,
-        55
+        0.03147953830010493,
+        0.49311926605504586
       ]
     },
     {
@@ -28241,8 +28241,8 @@ const features =
       "student_name": "Jitendar",
       "student_id": 1664216767013,
       "point": [
-        13,
-        190
+        0.1322140608604407,
+        0.4013761467889908
       ]
     },
     {
@@ -28251,8 +28251,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1664223676278,
       "point": [
-        7,
-        1428
+        0.39034627492130114,
+        0.3922018348623853
       ]
     },
     {
@@ -28261,8 +28261,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1664223676278,
       "point": [
-        9,
-        1164
+        0.3389296956977964,
+        0.19036697247706422
       ]
     },
     {
@@ -28271,8 +28271,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1664223676278,
       "point": [
-        37,
-        1472
+        0.32633788037775446,
+        0.5688073394495413
       ]
     },
     {
@@ -28281,8 +28281,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1664223676278,
       "point": [
-        3,
-        565
+        0.22245540398740818,
+        0.7775229357798165
       ]
     },
     {
@@ -28291,8 +28291,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1664223676278,
       "point": [
-        15,
-        1346
+        0.30220356768100737,
+        0.35091743119266056
       ]
     },
     {
@@ -28301,8 +28301,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1664223676278,
       "point": [
-        21,
-        1106
+        0.28751311647429173,
+        0.6811926605504587
       ]
     },
     {
@@ -28311,8 +28311,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1664223676278,
       "point": [
-        8,
-        519
+        0.022035676810073453,
+        0.75
       ]
     },
     {
@@ -28321,8 +28321,8 @@ const features =
       "student_name": "Thomas",
       "student_id": 1664223676278,
       "point": [
-        3,
-        256
+        0.14375655823714587,
+        0.3256880733944954
       ]
     },
     {
@@ -28331,8 +28331,8 @@ const features =
       "student_name": "Ghsamm",
       "student_id": 1664231276788,
       "point": [
-        6,
-        628
+        0.2990556138509968,
+        0.28211009174311924
       ]
     },
     {
@@ -28341,8 +28341,8 @@ const features =
       "student_name": "Ghsamm",
       "student_id": 1664231276788,
       "point": [
-        4,
-        297
+        0.19727177334732424,
+        0.2981651376146789
       ]
     },
     {
@@ -28351,8 +28351,8 @@ const features =
       "student_name": "Ghsamm",
       "student_id": 1664231276788,
       "point": [
-        8,
-        294
+        0.16684155299055614,
+        0.5481651376146789
       ]
     },
     {
@@ -28361,8 +28361,8 @@ const features =
       "student_name": "Ghsamm",
       "student_id": 1664231276788,
       "point": [
-        8,
-        341
+        0.1825813221406086,
+        0.4610091743119266
       ]
     },
     {
@@ -28371,8 +28371,8 @@ const features =
       "student_name": "Ghsamm",
       "student_id": 1664231276788,
       "point": [
-        8,
-        372
+        0.22770199370409233,
+        0.3463302752293578
       ]
     },
     {
@@ -28381,8 +28381,8 @@ const features =
       "student_name": "Ghsamm",
       "student_id": 1664231276788,
       "point": [
-        14,
-        336
+        0.2465897166841553,
+        0.31422018348623854
       ]
     },
     {
@@ -28391,8 +28391,8 @@ const features =
       "student_name": "Ghsamm",
       "student_id": 1664231276788,
       "point": [
-        4,
-        212
+        0.14375655823714587,
+        0.3577981651376147
       ]
     },
     {
@@ -28401,8 +28401,8 @@ const features =
       "student_name": "Ghsamm",
       "student_id": 1664231276788,
       "point": [
-        15,
-        205
+        0.21406086044071354,
+        0.5
       ]
     },
     {
@@ -28411,8 +28411,8 @@ const features =
       "student_name": "Franz",
       "student_id": 1664234714252,
       "point": [
-        6,
-        854
+        0.21091290661070305,
+        0.13761467889908258
       ]
     },
     {
@@ -28421,8 +28421,8 @@ const features =
       "student_name": "Franz",
       "student_id": 1664234714252,
       "point": [
-        2,
-        434
+        0.3011542497376705,
+        0.4013761467889908
       ]
     },
     {
@@ -28431,8 +28431,8 @@ const features =
       "student_name": "Franz",
       "student_id": 1664234714252,
       "point": [
-        30,
-        1722
+        0.3620146904512067,
+        0.6697247706422018
       ]
     },
     {
@@ -28441,8 +28441,8 @@ const features =
       "student_name": "Franz",
       "student_id": 1664234714252,
       "point": [
-        120,
-        1605
+        0.304302203567681,
+        0.841743119266055
       ]
     },
     {
@@ -28451,8 +28451,8 @@ const features =
       "student_name": "Franz",
       "student_id": 1664234714252,
       "point": [
-        35,
-        1406
+        0.316894018887723,
+        0.4013761467889908
       ]
     },
     {
@@ -28461,8 +28461,8 @@ const features =
       "student_name": "Franz",
       "student_id": 1664234714252,
       "point": [
-        33,
-        1295
+        0.15949632738719832,
+        0.8165137614678899
       ]
     },
     {
@@ -28471,8 +28471,8 @@ const features =
       "student_name": "Franz",
       "student_id": 1664234714252,
       "point": [
-        10,
-        438
+        0.37355718782791186,
+        0.1353211009174312
       ]
     },
     {
@@ -28481,8 +28481,8 @@ const features =
       "student_name": "Franz",
       "student_id": 1664234714252,
       "point": [
-        9,
-        533
+        0.2759706190975866,
+        0.6353211009174312
       ]
     },
     {
@@ -28491,8 +28491,8 @@ const features =
       "student_name": "sads",
       "student_id": 1664235320853,
       "point": [
-        4,
-        333
+        0.3116474291710388,
+        0.268348623853211
       ]
     },
     {
@@ -28501,8 +28501,8 @@ const features =
       "student_name": "sads",
       "student_id": 1664235320853,
       "point": [
-        1,
-        67
+        0.1385099685204617,
+        0.22706422018348624
       ]
     },
     {
@@ -28511,8 +28511,8 @@ const features =
       "student_name": "sads",
       "student_id": 1664235320853,
       "point": [
-        7,
-        140
+        0.21825813221406087,
+        0.4908256880733945
       ]
     },
     {
@@ -28521,8 +28521,8 @@ const features =
       "student_name": "sads",
       "student_id": 1664235320853,
       "point": [
-        1,
-        154
+        0.18992654774396642,
+        0.5137614678899083
       ]
     },
     {
@@ -28531,8 +28531,8 @@ const features =
       "student_name": "sads",
       "student_id": 1664235320853,
       "point": [
-        5,
-        153
+        0.2906610703043022,
+        0.47706422018348627
       ]
     },
     {
@@ -28541,8 +28541,8 @@ const features =
       "student_name": "sads",
       "student_id": 1664235320853,
       "point": [
-        6,
-        264
+        0.25813221406086045,
+        0.47706422018348627
       ]
     },
     {
@@ -28551,8 +28551,8 @@ const features =
       "student_name": "sads",
       "student_id": 1664235320853,
       "point": [
-        1,
-        132
+        0.08709338929695698,
+        0.7477064220183486
       ]
     },
     {
@@ -28561,8 +28561,8 @@ const features =
       "student_name": "sads",
       "student_id": 1664235320853,
       "point": [
-        10,
-        200
+        0.14690451206715635,
+        0.45642201834862384
       ]
     },
     {
@@ -28571,8 +28571,8 @@ const features =
       "student_name": "Santiago",
       "student_id": 1664253915632,
       "point": [
-        3,
-        574
+        0.2098635886673662,
+        0.2018348623853211
       ]
     },
     {
@@ -28581,8 +28581,8 @@ const features =
       "student_name": "Santiago",
       "student_id": 1664253915632,
       "point": [
-        2,
-        291
+        0.15320041972717732,
+        0.14908256880733944
       ]
     },
     {
@@ -28591,8 +28591,8 @@ const features =
       "student_name": "Santiago",
       "student_id": 1664253915632,
       "point": [
-        5,
-        589
+        0.19832109129066108,
+        0.3830275229357798
       ]
     },
     {
@@ -28601,8 +28601,8 @@ const features =
       "student_name": "Santiago",
       "student_id": 1664253915632,
       "point": [
-        5,
-        480
+        0.18677859391395593,
+        0.49770642201834864
       ]
     },
     {
@@ -28611,8 +28611,8 @@ const features =
       "student_name": "Santiago",
       "student_id": 1664253915632,
       "point": [
-        14,
-        2029
+        0.2623294858342078,
+        0.3555045871559633
       ]
     },
     {
@@ -28621,8 +28621,8 @@ const features =
       "student_name": "Santiago",
       "student_id": 1664253915632,
       "point": [
-        9,
-        980
+        0.14270724029380902,
+        0.5275229357798165
       ]
     },
     {
@@ -28631,8 +28631,8 @@ const features =
       "student_name": "Santiago",
       "student_id": 1664253915632,
       "point": [
-        4,
-        467
+        0.046169989506820566,
+        0.6490825688073395
       ]
     },
     {
@@ -28641,8 +28641,8 @@ const features =
       "student_name": "Santiago",
       "student_id": 1664253915632,
       "point": [
-        11,
-        1414
+        0.16998950682056663,
+        0.481651376146789
       ]
     },
     {
@@ -28651,8 +28651,8 @@ const features =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        5,
-        956
+        0.24763903462749212,
+        0.3211009174311927
       ]
     },
     {
@@ -28661,8 +28661,8 @@ const features =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        2,
-        205
+        0.11437565582371459,
+        0.09174311926605505
       ]
     },
     {
@@ -28671,8 +28671,8 @@ const features =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        5,
-        772
+        0.15005246589716684,
+        0.29128440366972475
       ]
     },
     {
@@ -28681,8 +28681,8 @@ const features =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        2,
-        354
+        0.08394543546694648,
+        0.2775229357798165
       ]
     },
     {
@@ -28691,8 +28691,8 @@ const features =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        6,
-        358
+        0.1783840503672613,
+        0.27522935779816515
       ]
     },
     {
@@ -28701,8 +28701,8 @@ const features =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        7,
-        228
+        0.11752360965372508,
+        0.28440366972477066
       ]
     },
     {
@@ -28711,8 +28711,8 @@ const features =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        1,
-        455
+        0.1385099685204617,
+        0.1834862385321101
       ]
     },
     {
@@ -28721,8 +28721,8 @@ const features =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        3,
-        124
+        0.1080797481636936,
+        0.26376146788990823
       ]
     },
     {
@@ -28731,8 +28731,8 @@ const features =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        2,
-        323
+        0.24344176285414482,
+        0.18807339449541285
       ]
     },
     {
@@ -28741,8 +28741,8 @@ const features =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        6,
-        372
+        0.2497376705141658,
+        0.1536697247706422
       ]
     },
     {
@@ -28751,8 +28751,8 @@ const features =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        4,
-        261
+        0.23294858342077648,
+        0.5091743119266054
       ]
     },
     {
@@ -28761,8 +28761,8 @@ const features =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        5,
-        356
+        0.27492130115424973,
+        0.6490825688073395
       ]
     },
     {
@@ -28771,8 +28771,8 @@ const features =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        15,
-        530
+        0.2570828961175236,
+        0.25688073394495414
       ]
     },
     {
@@ -28781,8 +28781,8 @@ const features =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        5,
-        383
+        0.3389296956977964,
+        0.30963302752293576
       ]
     },
     {
@@ -28791,8 +28791,8 @@ const features =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        7,
-        275
+        0.21406086044071354,
+        0.481651376146789
       ]
     },
     {
@@ -28801,8 +28801,8 @@ const features =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        14,
-        306
+        0.25603357817418676,
+        0.4426605504587156
       ]
     },
     {
@@ -28811,8 +28811,8 @@ const features =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        14,
-        1238
+        0.17628541448058763,
+        0.29128440366972475
       ]
     },
     {
@@ -28821,8 +28821,8 @@ const features =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        29,
-        1006
+        0.20671563483735572,
+        0.38073394495412843
       ]
     },
     {
@@ -28831,8 +28831,8 @@ const features =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        22,
-        1150
+        0.1783840503672613,
+        0.38990825688073394
       ]
     },
     {
@@ -28841,8 +28841,8 @@ const features =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        18,
-        631
+        0.2098635886673662,
+        0.5458715596330275
       ]
     },
     {
@@ -28851,8 +28851,8 @@ const features =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        58,
-        2231
+        0.13746065057712487,
+        0.3073394495412844
       ]
     },
     {
@@ -28861,8 +28861,8 @@ const features =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        20,
-        1879
+        0.15005246589716684,
+        0.44954128440366975
       ]
     },
     {
@@ -28871,8 +28871,8 @@ const features =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        15,
-        1584
+        0.18363064008394545,
+        0.6513761467889908
       ]
     },
     {
@@ -28881,8 +28881,8 @@ const features =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        28,
-        2295
+        0.25918153200419725,
+        0.6353211009174312
       ]
     },
     {
@@ -28891,8 +28891,8 @@ const features =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        5,
-        552
+        0.3001049317943337,
+        0.33715596330275227
       ]
     },
     {
@@ -28901,8 +28901,8 @@ const features =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        8,
-        309
+        0.2402938090241343,
+        0.4380733944954128
       ]
     },
     {
@@ -28911,8 +28911,8 @@ const features =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        9,
-        455
+        0.2203567681007345,
+        0.5022935779816514
       ]
     },
     {
@@ -28921,8 +28921,8 @@ const features =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        14,
-        718
+        0.3357817418677859,
+        0.7178899082568807
       ]
     },
     {
@@ -28931,8 +28931,8 @@ const features =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        6,
-        456
+        0.2623294858342078,
+        0.3302752293577982
       ]
     },
     {
@@ -28941,8 +28941,8 @@ const features =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        6,
-        571
+        0.310598111227702,
+        0.5596330275229358
       ]
     },
     {
@@ -28951,8 +28951,8 @@ const features =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        12,
-        564
+        0.24868835257082897,
+        0.7729357798165137
       ]
     },
     {
@@ -28961,8 +28961,8 @@ const features =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        18,
-        819
+        0.15320041972717732,
+        0.8211009174311926
       ]
     },
     {
@@ -28971,8 +28971,8 @@ const features =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        5,
-        828
+        0.36621196222455404,
+        0.3394495412844037
       ]
     },
     {
@@ -28981,8 +28981,8 @@ const features =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        13,
-        537
+        0.2696747114375656,
+        0.26605504587155965
       ]
     },
     {
@@ -28991,8 +28991,8 @@ const features =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        15,
-        736
+        0.2025183630640084,
+        0.5275229357798165
       ]
     },
     {
@@ -29001,8 +29001,8 @@ const features =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        11,
-        961
+        0.29275970619097585,
+        0.7912844036697247
       ]
     },
     {
@@ -29011,8 +29011,8 @@ const features =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        10,
-        360
+        0.291710388247639,
+        0.3623853211009174
       ]
     },
     {
@@ -29021,8 +29021,8 @@ const features =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        11,
-        758
+        0.3410283315844701,
+        0.41743119266055045
       ]
     },
     {
@@ -29031,8 +29031,8 @@ const features =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        9,
-        556
+        0.14375655823714587,
+        0.44495412844036697
       ]
     },
     {
@@ -29041,8 +29041,8 @@ const features =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        1,
-        105
+        0.22350472193074503,
+        0.3577981651376147
       ]
     },
     {
@@ -29051,8 +29051,8 @@ const features =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        7,
-        702
+        0.32633788037775446,
+        0.3165137614678899
       ]
     },
     {
@@ -29061,8 +29061,8 @@ const features =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        3,
-        347
+        0.3179433368310598,
+        0.5252293577981652
       ]
     },
     {
@@ -29071,8 +29071,8 @@ const features =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        13,
-        569
+        0.33263378803777544,
+        0.6926605504587156
       ]
     },
     {
@@ -29081,8 +29081,8 @@ const features =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        3,
-        900
+        0.29275970619097585,
+        0.7522935779816514
       ]
     },
     {
@@ -29091,8 +29091,8 @@ const features =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        9,
-        584
+        0.3074501573976915,
+        0.44724770642201833
       ]
     },
     {
@@ -29101,8 +29101,8 @@ const features =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        6,
-        818
+        0.3945435466946485,
+        0.7454128440366973
       ]
     },
     {
@@ -29111,8 +29111,8 @@ const features =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        8,
-        450
+        0.1080797481636936,
+        0.7729357798165137
       ]
     },
     {
@@ -29121,8 +29121,8 @@ const features =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        3,
-        301
+        0.24554039874081846,
+        0.44954128440366975
       ]
     },
     {
@@ -29131,8 +29131,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        15,
-        940
+        0.3746065057712487,
+        0.2591743119266055
       ]
     },
     {
@@ -29141,8 +29141,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        4,
-        389
+        0.2570828961175236,
+        0.21788990825688073
       ]
     },
     {
@@ -29151,8 +29151,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        7,
-        487
+        0.13955928646379853,
+        0.3830275229357798
       ]
     },
     {
@@ -29161,8 +29161,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        8,
-        448
+        0.3578174186778594,
+        0.8486238532110092
       ]
     },
     {
@@ -29171,8 +29171,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        25,
-        1067
+        0.2864637985309549,
+        0.4334862385321101
       ]
     },
     {
@@ -29181,8 +29181,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        5,
-        654
+        0.39244491080797483,
+        0.2545871559633027
       ]
     },
     {
@@ -29191,8 +29191,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        5,
-        270
+        0.02728226652675761,
+        0.7362385321100917
       ]
     },
     {
@@ -29201,8 +29201,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        10,
-        512
+        0.15739769150052466,
+        0.41284403669724773
       ]
     },
     {
@@ -29211,8 +29211,8 @@ const features =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        8,
-        1211
+        0.26862539349422876,
+        0.2798165137614679
       ]
     },
     {
@@ -29221,8 +29221,8 @@ const features =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        3,
-        340
+        0.18153200419727178,
+        0.11238532110091744
       ]
     },
     {
@@ -29231,8 +29231,8 @@ const features =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        17,
-        1610
+        0.25498426023084997,
+        0.8394495412844036
       ]
     },
     {
@@ -29241,8 +29241,8 @@ const features =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        4,
-        604
+        0.23504721930745015,
+        0.7591743119266054
       ]
     },
     {
@@ -29251,8 +29251,8 @@ const features =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        30,
-        1830
+        0.20356768100734524,
+        0.2981651376146789
       ]
     },
     {
@@ -29261,8 +29261,8 @@ const features =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        15,
-        1566
+        0.21406086044071354,
+        0.518348623853211
       ]
     },
     {
@@ -29271,8 +29271,8 @@ const features =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        13,
-        969
+        0.24449108079748164,
+        0.3646788990825688
       ]
     },
     {
@@ -29281,8 +29281,8 @@ const features =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        34,
-        1248
+        0.26862539349422876,
+        0.5389908256880734
       ]
     },
     {
@@ -29291,8 +29291,8 @@ const features =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        8,
-        272
+        0.20041972717733472,
+        0.31422018348623854
       ]
     },
     {
@@ -29301,8 +29301,8 @@ const features =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        12,
-        204
+        0.14270724029380902,
+        0.22706422018348624
       ]
     },
     {
@@ -29311,8 +29311,8 @@ const features =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        10,
-        262
+        0.1353620146904512,
+        0.6146788990825688
       ]
     },
     {
@@ -29321,8 +29321,8 @@ const features =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        7,
-        346
+        0.2025183630640084,
+        0.6399082568807339
       ]
     },
     {
@@ -29331,8 +29331,8 @@ const features =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        22,
-        283
+        0.17103882476390347,
+        0.3669724770642202
       ]
     },
     {
@@ -29341,8 +29341,8 @@ const features =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        10,
-        417
+        0.26128016789087094,
+        0.5114678899082569
       ]
     },
     {
@@ -29351,8 +29351,8 @@ const features =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        15,
-        374
+        0.09338929695697797,
+        0.4610091743119266
       ]
     },
     {
@@ -29361,8 +29361,8 @@ const features =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        24,
-        426
+        0.15634837355718784,
+        0.42660550458715596
       ]
     },
     {
@@ -29371,8 +29371,8 @@ const features =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        7,
-        238
+        0.19097586568730326,
+        0.3073394495412844
       ]
     },
     {
@@ -29381,8 +29381,8 @@ const features =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        6,
-        140
+        0.23189926547743966,
+        0.18807339449541285
       ]
     },
     {
@@ -29391,8 +29391,8 @@ const features =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        7,
-        158
+        0.15110178384050368,
+        0.3302752293577982
       ]
     },
     {
@@ -29401,8 +29401,8 @@ const features =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        9,
-        332
+        0.2864637985309549,
+        0.6857798165137615
       ]
     },
     {
@@ -29411,8 +29411,8 @@ const features =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        7,
-        140
+        0.1385099685204617,
+        0.23853211009174313
       ]
     },
     {
@@ -29421,8 +29421,8 @@ const features =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        6,
-        191
+        0.2203567681007345,
+        0.38073394495412843
       ]
     },
     {
@@ -29431,8 +29431,8 @@ const features =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        6,
-        109
+        0.03462749213011543,
+        0.3463302752293578
       ]
     },
     {
@@ -29441,8 +29441,8 @@ const features =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        11,
-        90
+        0.15110178384050368,
+        0.3256880733944954
       ]
     },
     {
@@ -29451,8 +29451,8 @@ const features =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        5,
-        567
+        0.26128016789087094,
+        0.39908256880733944
       ]
     },
     {
@@ -29461,8 +29461,8 @@ const features =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        5,
-        151
+        0.22875131164742918,
+        0.23394495412844038
       ]
     },
     {
@@ -29471,8 +29471,8 @@ const features =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        6,
-        306
+        0.1689401888772298,
+        0.5
       ]
     },
     {
@@ -29481,8 +29481,8 @@ const features =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        4,
-        229
+        0.16369359916054566,
+        0.5504587155963303
       ]
     },
     {
@@ -29491,8 +29491,8 @@ const features =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        6,
-        252
+        0.25813221406086045,
+        0.34174311926605505
       ]
     },
     {
@@ -29501,8 +29501,8 @@ const features =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        10,
-        384
+        0.33473242392444913,
+        0.24770642201834864
       ]
     },
     {
@@ -29511,8 +29511,8 @@ const features =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        3,
-        401
+        0.022035676810073453,
+        0.5
       ]
     },
     {
@@ -29521,8 +29521,8 @@ const features =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        11,
-        349
+        0.24344176285414482,
+        0.5940366972477065
       ]
     },
     {
@@ -29531,8 +29531,8 @@ const features =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        22,
-        209
+        0.19517313746065057,
+        0.12614678899082568
       ]
     },
     {
@@ -29541,8 +29541,8 @@ const features =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        18,
-        172
+        0.16054564533053514,
+        0.12614678899082568
       ]
     },
     {
@@ -29551,8 +29551,8 @@ const features =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        32,
-        216
+        0.1626442812172088,
+        0.5963302752293578
       ]
     },
     {
@@ -29561,8 +29561,8 @@ const features =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        21,
-        102
+        0.1311647429171039,
+        0.5321100917431193
       ]
     },
     {
@@ -29571,8 +29571,8 @@ const features =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        33,
-        365
+        0.18363064008394545,
+        0.28211009174311924
       ]
     },
     {
@@ -29581,8 +29581,8 @@ const features =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        34,
-        571
+        0.15739769150052466,
+        0.5229357798165137
       ]
     },
     {
@@ -29591,8 +29591,8 @@ const features =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        11,
-        210
+        0.02833158447009444,
+        0.3876146788990826
       ]
     },
     {
@@ -29601,8 +29601,8 @@ const features =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        31,
-        188
+        0.15424973767051417,
+        0.33715596330275227
       ]
     },
     {
@@ -29611,8 +29611,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        13,
-        292
+        0.2161594963273872,
+        0.3486238532110092
       ]
     },
     {
@@ -29621,8 +29621,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        3,
-        165
+        0.3147953830010493,
+        0.32798165137614677
       ]
     },
     {
@@ -29631,8 +29631,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        14,
-        281
+        0.3378803777544596,
+        0.7224770642201835
       ]
     },
     {
@@ -29641,8 +29641,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        78,
-        651
+        0.29485834207764955,
+        0.8279816513761468
       ]
     },
     {
@@ -29651,8 +29651,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        11,
-        394
+        0.27177334732423925,
+        0.5825688073394495
       ]
     },
     {
@@ -29661,8 +29661,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        6,
-        288
+        0.3378803777544596,
+        0.3463302752293578
       ]
     },
     {
@@ -29671,8 +29671,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        9,
-        174
+        0.04302203567681007,
+        0.7041284403669725
       ]
     },
     {
@@ -29681,8 +29681,8 @@ const features =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        4,
-        111
+        0.2402938090241343,
+        0.5045871559633027
       ]
     },
     {
@@ -29691,8 +29691,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        6,
-        449
+        0.3588667366211962,
+        0.38990825688073394
       ]
     },
     {
@@ -29701,8 +29701,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        10,
-        393
+        0.304302203567681,
+        0.20412844036697247
       ]
     },
     {
@@ -29711,8 +29711,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        5,
-        365
+        0.21091290661070305,
+        0.6788990825688074
       ]
     },
     {
@@ -29721,8 +29721,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        3,
-        394
+        0.304302203567681,
+        0.8738532110091743
       ]
     },
     {
@@ -29731,8 +29731,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        8,
-        201
+        0.2528856243441763,
+        0.3394495412844037
       ]
     },
     {
@@ -29741,8 +29741,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        15,
-        760
+        0.3116474291710388,
+        0.6605504587155964
       ]
     },
     {
@@ -29751,8 +29751,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        7,
-        178
+        0.3441762854144806,
+        0.43577981651376146
       ]
     },
     {
@@ -29761,8 +29761,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        16,
-        274
+        0.2266526757607555,
+        0.555045871559633
       ]
     },
     {
@@ -29771,8 +29771,8 @@ const features =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        5,
-        465
+        0.2812172088142707,
+        0.36926605504587157
       ]
     },
     {
@@ -29781,8 +29781,8 @@ const features =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        4,
-        294
+        0.25498426023084997,
+        0.41284403669724773
       ]
     },
     {
@@ -29791,8 +29791,8 @@ const features =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        3,
-        245
+        0.15424973767051417,
+        0.4380733944954128
       ]
     },
     {
@@ -29801,8 +29801,8 @@ const features =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        3,
-        120
+        0.1521511017838405,
+        0.41284403669724773
       ]
     },
     {
@@ -29811,8 +29811,8 @@ const features =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        9,
-        282
+        0.2528856243441763,
+        0.28440366972477066
       ]
     },
     {
@@ -29821,8 +29821,8 @@ const features =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        4,
-        294
+        0.21720881427072403,
+        0.26605504587155965
       ]
     },
     {
@@ -29831,8 +29831,8 @@ const features =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        5,
-        98
+        0.01993704092339979,
+        0.28440366972477066
       ]
     },
     {
@@ -29841,8 +29841,8 @@ const features =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        4,
-        75
+        0.11542497376705142,
+        0.2591743119266055
       ]
     },
     {
@@ -29851,8 +29851,8 @@ const features =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        15,
-        1584
+        0.22560335781741866,
+        0.27522935779816515
       ]
     },
     {
@@ -29861,8 +29861,8 @@ const features =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        9,
-        330
+        0.2266526757607555,
+        0.44954128440366975
       ]
     },
     {
@@ -29871,8 +29871,8 @@ const features =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        12,
-        412
+        0.1584470094438615,
+        0.4518348623853211
       ]
     },
     {
@@ -29881,8 +29881,8 @@ const features =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        4,
-        377
+        0.2602308499475341,
+        0.7912844036697247
       ]
     },
     {
@@ -29891,8 +29891,8 @@ const features =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        15,
-        499
+        0.22770199370409233,
+        0.44495412844036697
       ]
     },
     {
@@ -29901,8 +29901,8 @@ const features =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        17,
-        851
+        0.06925498426023086,
+        0.6100917431192661
       ]
     },
     {
@@ -29911,8 +29911,8 @@ const features =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        9,
-        355
+        0.013641133263378805,
+        0.45871559633027525
       ]
     },
     {
@@ -29921,8 +29921,8 @@ const features =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        10,
-        502
+        0.1993704092339979,
+        0.3922018348623853
       ]
     },
     {
@@ -29931,8 +29931,8 @@ const features =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        4,
-        501
+        0.24763903462749212,
+        0.1720183486238532
       ]
     },
     {
@@ -29941,8 +29941,8 @@ const features =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        7,
-        404
+        0.2193074501573977,
+        0.25688073394495414
       ]
     },
     {
@@ -29951,8 +29951,8 @@ const features =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        5,
-        444
+        0.24134312696747115,
+        0.36926605504587157
       ]
     },
     {
@@ -29961,8 +29961,8 @@ const features =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        4,
-        360
+        0.1657922350472193,
+        0.6444954128440367
       ]
     },
     {
@@ -29971,8 +29971,8 @@ const features =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        10,
-        541
+        0.2707240293809024,
+        0.40825688073394495
       ]
     },
     {
@@ -29981,8 +29981,8 @@ const features =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        17,
-        754
+        0.22560335781741866,
+        0.6674311926605505
       ]
     },
     {
@@ -29991,8 +29991,8 @@ const features =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        8,
-        365
+        0.1248688352570829,
+        0.41284403669724773
       ]
     },
     {
@@ -30001,8 +30001,8 @@ const features =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        9,
-        403
+        0.18467995802728226,
+        0.42660550458715596
       ]
     },
     {
@@ -30011,8 +30011,8 @@ const features =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        2,
-        586
+        0.19202518363064008,
+        0.20412844036697247
       ]
     },
     {
@@ -30021,8 +30021,8 @@ const features =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        4,
-        147
+        0.07974816369359916,
+        0.06880733944954129
       ]
     },
     {
@@ -30031,8 +30031,8 @@ const features =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        7,
-        377
+        0.16684155299055614,
+        0.36009174311926606
       ]
     },
     {
@@ -30041,8 +30041,8 @@ const features =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        3,
-        180
+        0.15005246589716684,
+        0.463302752293578
       ]
     },
     {
@@ -30051,8 +30051,8 @@ const features =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        13,
-        421
+        0.10388247639034627,
+        0.1444954128440367
       ]
     },
     {
@@ -30061,8 +30061,8 @@ const features =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        13,
-        742
+        0.23189926547743966,
+        0.20412844036697247
       ]
     },
     {
@@ -30071,8 +30071,8 @@ const features =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        2,
-        199
+        0.10178384050367262,
+        0
       ]
     },
     {
@@ -30081,8 +30081,8 @@ const features =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        7,
-        295
+        0.15634837355718784,
+        0.2706422018348624
       ]
     },
     {
@@ -30091,8 +30091,8 @@ const features =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        6,
-        1106
+        0.28751311647429173,
+        0.21100917431192662
       ]
     },
     {
@@ -30101,8 +30101,8 @@ const features =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        21,
-        1116
+        0.18048268625393493,
+        0.5137614678899083
       ]
     },
     {
@@ -30111,8 +30111,8 @@ const features =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        10,
-        803
+        0.2402938090241343,
+        0.4380733944954128
       ]
     },
     {
@@ -30121,8 +30121,8 @@ const features =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        38,
-        960
+        0.23714585519412382,
+        0.6651376146788991
       ]
     },
     {
@@ -30131,8 +30131,8 @@ const features =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        10,
-        806
+        0.1993704092339979,
+        0.36926605504587157
       ]
     },
     {
@@ -30141,8 +30141,8 @@ const features =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        10,
-        1029
+        0.18153200419727178,
+        0.6284403669724771
       ]
     },
     {
@@ -30151,8 +30151,8 @@ const features =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        7,
-        422
+        0.1385099685204617,
+        0.46559633027522934
       ]
     },
     {
@@ -30161,8 +30161,8 @@ const features =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        19,
-        830
+        0.1888772298006296,
+        0.44724770642201833
       ]
     },
     {
@@ -30171,8 +30171,8 @@ const features =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        13,
-        1204
+        0.3210912906610703,
+        0.3532110091743119
       ]
     },
     {
@@ -30181,8 +30181,8 @@ const features =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        6,
-        844
+        0.3336831059811123,
+        0.34174311926605505
       ]
     },
     {
@@ -30191,8 +30191,8 @@ const features =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        4,
-        404
+        0.16054564533053514,
+        0.4151376146788991
       ]
     },
     {
@@ -30201,8 +30201,8 @@ const features =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        3,
-        314
+        0.3200419727177335,
+        0.7568807339449541
       ]
     },
     {
@@ -30211,8 +30211,8 @@ const features =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        18,
-        1156
+        0.30640083945435465,
+        0.46559633027522934
       ]
     },
     {
@@ -30221,8 +30221,8 @@ const features =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        9,
-        708
+        0.3126967471143757,
+        0.2981651376146789
       ]
     },
     {
@@ -30231,8 +30231,8 @@ const features =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        4,
-        505
+        0.02833158447009444,
+        0.676605504587156
       ]
     },
     {
@@ -30241,8 +30241,8 @@ const features =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        4,
-        362
+        0.14900314795383002,
+        0.3256880733944954
       ]
     },
     {
@@ -30251,8 +30251,8 @@ const features =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        6,
-        574
+        0.1385099685204617,
+        0.08944954128440367
       ]
     },
     {
@@ -30261,8 +30261,8 @@ const features =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        3,
-        276
+        0.08604407135362015,
+        0.045871559633027525
       ]
     },
     {
@@ -30271,8 +30271,8 @@ const features =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        1,
-        211
+        0.05771248688352571,
+        0.26146788990825687
       ]
     },
     {
@@ -30281,8 +30281,8 @@ const features =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        3,
-        263
+        0.17523609653725078,
+        0.5458715596330275
       ]
     },
     {
@@ -30291,8 +30291,8 @@ const features =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        15,
-        1017
+        0.29275970619097585,
+        0.3486238532110092
       ]
     },
     {
@@ -30301,8 +30301,8 @@ const features =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        5,
-        1022
+        0.1049317943336831,
+        0.5688073394495413
       ]
     },
     {
@@ -30311,8 +30311,8 @@ const features =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        5,
-        512
+        0.10388247639034627,
+        0.2981651376146789
       ]
     },
     {
@@ -30321,8 +30321,8 @@ const features =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        8,
-        394
+        0.13746065057712487,
+        0.31422018348623854
       ]
     },
     {
@@ -30331,8 +30331,8 @@ const features =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        17,
-        695
+        0.24449108079748164,
+        0.27522935779816515
       ]
     },
     {
@@ -30341,8 +30341,8 @@ const features =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        9,
-        309
+        0.16474291710388247,
+        0.17660550458715596
       ]
     },
     {
@@ -30351,8 +30351,8 @@ const features =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        8,
-        368
+        0.10073452256033578,
+        0.5298165137614679
       ]
     },
     {
@@ -30361,8 +30361,8 @@ const features =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        24,
-        375
+        0.16474291710388247,
+        0.5344036697247706
       ]
     },
     {
@@ -30371,8 +30371,8 @@ const features =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        22,
-        435
+        0.2203567681007345,
+        0.32798165137614677
       ]
     },
     {
@@ -30381,8 +30381,8 @@ const features =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        17,
-        624
+        0.1322140608604407,
+        0.573394495412844
       ]
     },
     {
@@ -30391,8 +30391,8 @@ const features =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        6,
-        138
+        0.05456453305351522,
+        0.5091743119266054
       ]
     },
     {
@@ -30401,8 +30401,8 @@ const features =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        16,
-        239
+        0.1416579223504722,
+        0.27522935779816515
       ]
     },
     {
@@ -30411,8 +30411,8 @@ const features =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        10,
-        667
+        0.2633788037775446,
+        0.2706422018348624
       ]
     },
     {
@@ -30421,8 +30421,8 @@ const features =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        5,
-        332
+        0.2780692549842602,
+        0.17660550458715596
       ]
     },
     {
@@ -30431,8 +30431,8 @@ const features =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        7,
-        325
+        0.23294858342077648,
+        0.41743119266055045
       ]
     },
     {
@@ -30441,8 +30441,8 @@ const features =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        6,
-        278
+        0.17103882476390347,
+        0.3577981651376147
       ]
     },
     {
@@ -30451,8 +30451,8 @@ const features =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        10,
-        340
+        0.2161594963273872,
+        0.1628440366972477
       ]
     },
     {
@@ -30461,8 +30461,8 @@ const features =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        8,
-        296
+        0.2497376705141658,
+        0.14678899082568808
       ]
     },
     {
@@ -30471,8 +30471,8 @@ const features =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        3,
-        200
+        0.0062959076600209865,
+        0.34174311926605505
       ]
     },
     {
@@ -30481,8 +30481,8 @@ const features =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        11,
-        297
+        0.25498426023084997,
+        0.5
       ]
     },
     {
@@ -30491,8 +30491,8 @@ const features =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        3,
-        738
+        0.28751311647429173,
+        0.2798165137614679
       ]
     },
     {
@@ -30501,8 +30501,8 @@ const features =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        5,
-        624
+        0.291710388247639,
+        0.22018348623853212
       ]
     },
     {
@@ -30511,8 +30511,8 @@ const features =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        17,
-        987
+        0.2402938090241343,
+        0.5963302752293578
       ]
     },
     {
@@ -30521,8 +30521,8 @@ const features =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        13,
-        874
+        0.24763903462749212,
+        0.7362385321100917
       ]
     },
     {
@@ -30531,8 +30531,8 @@ const features =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        14,
-        1041
+        0.26862539349422876,
+        0.30504587155963303
       ]
     },
     {
@@ -30541,8 +30541,8 @@ const features =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        24,
-        2079
+        0.2969569779643232,
+        0.7155963302752294
       ]
     },
     {
@@ -30551,8 +30551,8 @@ const features =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        6,
-        743
+        0.20146904512067157,
+        0.6146788990825688
       ]
     },
     {
@@ -30561,8 +30561,8 @@ const features =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        13,
-        968
+        0.22140608604407136,
+        0.49311926605504586
       ]
     },
     {
@@ -30571,8 +30571,8 @@ const features =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        17,
-        647
+        0.3515215110178384,
+        0.286697247706422
       ]
     },
     {
@@ -30581,8 +30581,8 @@ const features =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        6,
-        385
+        0.2696747114375656,
+        0.4151376146788991
       ]
     },
     {
@@ -30591,8 +30591,8 @@ const features =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        14,
-        630
+        0.3273871983210913,
+        0.7775229357798165
       ]
     },
     {
@@ -30601,8 +30601,8 @@ const features =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        10,
-        641
+        0.31899265477439664,
+        0.7729357798165137
       ]
     },
     {
@@ -30611,8 +30611,8 @@ const features =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        12,
-        541
+        0.25813221406086045,
+        0.3486238532110092
       ]
     },
     {
@@ -30621,8 +30621,8 @@ const features =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        14,
-        550
+        0.18782791185729275,
+        0.7981651376146789
       ]
     },
     {
@@ -30631,8 +30631,8 @@ const features =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        7,
-        370
+        0.12696747114375656,
+        0.8509174311926605
       ]
     },
     {
@@ -30641,8 +30641,8 @@ const features =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        10,
-        506
+        0.24868835257082897,
+        0.6077981651376146
       ]
     },
     {
@@ -30651,8 +30651,8 @@ const features =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        44,
-        3225
+        0.20356768100734524,
+        0.19954128440366972
       ]
     },
     {
@@ -30661,8 +30661,8 @@ const features =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        27,
-        1567
+        0.3284365162644281,
+        0.22477064220183487
       ]
     },
     {
@@ -30671,8 +30671,8 @@ const features =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        34,
-        2595
+        0.3473242392444911,
+        0.4036697247706422
       ]
     },
     {
@@ -30681,8 +30681,8 @@ const features =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        63,
-        2312
+        0.23924449108079748,
+        0.5573394495412844
       ]
     },
     {
@@ -30691,8 +30691,8 @@ const features =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        39,
-        2097
+        0.23084994753410285,
+        0.30045871559633025
       ]
     },
     {
@@ -30701,8 +30701,8 @@ const features =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        27,
-        1519
+        0.2738719832109129,
+        0.5114678899082569
       ]
     },
     {
@@ -30711,8 +30711,8 @@ const features =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        19,
-        1231
+        0.18992654774396642,
+        0.3532110091743119
       ]
     },
     {
@@ -30721,8 +30721,8 @@ const features =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        6,
-        656
+        0.155299055613851,
+        0.3394495412844037
       ]
     },
     {
@@ -30731,8 +30731,8 @@ const features =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        11,
-        1316
+        0.3336831059811123,
+        0.15825688073394495
       ]
     },
     {
@@ -30741,8 +30741,8 @@ const features =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        9,
-        882
+        0.23294858342077648,
+        0.30045871559633025
       ]
     },
     {
@@ -30751,8 +30751,8 @@ const features =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        9,
-        441
+        0.22140608604407136,
+        0.4334862385321101
       ]
     },
     {
@@ -30761,8 +30761,8 @@ const features =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        7,
-        355
+        0.236096537250787,
+        0.6788990825688074
       ]
     },
     {
@@ -30771,8 +30771,8 @@ const features =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        25,
-        1256
+        0.2193074501573977,
+        0.3119266055045872
       ]
     },
     {
@@ -30781,8 +30781,8 @@ const features =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        31,
-        1456
+        0.12381951731374606,
+        0.7018348623853211
       ]
     },
     {
@@ -30791,8 +30791,8 @@ const features =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        10,
-        709
+        0.16998950682056663,
+        0.7041284403669725
       ]
     },
     {
@@ -30801,8 +30801,8 @@ const features =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        1,
-        103
+        0.19622245540398742,
+        0.5389908256880734
       ]
     },
     {
@@ -30811,8 +30811,8 @@ const features =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        10,
-        570
+        0.3441762854144806,
+        0.3532110091743119
       ]
     },
     {
@@ -30821,8 +30821,8 @@ const features =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        5,
-        398
+        0.29485834207764955,
+        0.2981651376146789
       ]
     },
     {
@@ -30831,8 +30831,8 @@ const features =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        5,
-        391
+        0.30849947534102834,
+        0.36009174311926606
       ]
     },
     {
@@ -30841,8 +30841,8 @@ const features =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        6,
-        453
+        0.19832109129066108,
+        0.6009174311926605
       ]
     },
     {
@@ -30851,8 +30851,8 @@ const features =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        9,
-        598
+        0.30220356768100737,
+        0.286697247706422
       ]
     },
     {
@@ -30861,8 +30861,8 @@ const features =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        5,
-        272
+        0.28436516264428124,
+        0.43577981651376146
       ]
     },
     {
@@ -30871,8 +30871,8 @@ const features =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        6,
-        186
+        0.07030430220356768,
+        0.6192660550458715
       ]
     },
     {
@@ -30881,8 +30881,8 @@ const features =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        4,
-        428
+        0.1930745015739769,
+        0.4380733944954128
       ]
     },
     {
@@ -30891,8 +30891,8 @@ const features =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        5,
-        248
+        0.17418677859391396,
+        0.3486238532110092
       ]
     },
     {
@@ -30901,8 +30901,8 @@ const features =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        3,
-        138
+        0.18048268625393493,
+        0.27293577981651373
       ]
     },
     {
@@ -30911,8 +30911,8 @@ const features =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        4,
-        199
+        0.13746065057712487,
+        0.3922018348623853
       ]
     },
     {
@@ -30921,8 +30921,8 @@ const features =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        5,
-        162
+        0.17733473242392445,
+        0.5344036697247706
       ]
     },
     {
@@ -30931,8 +30931,8 @@ const features =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        17,
-        411
+        0.21196222455403987,
+        0.3761467889908257
       ]
     },
     {
@@ -30941,8 +30941,8 @@ const features =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        10,
-        464
+        0.2728226652675761,
+        0.26605504587155965
       ]
     },
     {
@@ -30951,8 +30951,8 @@ const features =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        3,
-        131
+        0.024134312696747113,
+        0.33715596330275227
       ]
     },
     {
@@ -30961,8 +30961,8 @@ const features =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        7,
-        122
+        0.1731374606505771,
+        0.44036697247706424
       ]
     },
     {
@@ -30971,8 +30971,8 @@ const features =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        15,
-        1906
+        0.310598111227702,
+        0.4541284403669725
       ]
     },
     {
@@ -30981,8 +30981,8 @@ const features =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        24,
-        1395
+        0.1825813221406086,
+        0.1926605504587156
       ]
     },
     {
@@ -30991,8 +30991,8 @@ const features =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        33,
-        1483
+        0.25498426023084997,
+        0.6330275229357798
       ]
     },
     {
@@ -31001,8 +31001,8 @@ const features =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        52,
-        2325
+        0.4060860440713536,
+        0.8256880733944955
       ]
     },
     {
@@ -31011,8 +31011,8 @@ const features =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        146,
-        3708
+        0.27911857292759706,
+        0.3486238532110092
       ]
     },
     {
@@ -31021,8 +31021,8 @@ const features =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        28,
-        1038
+        0.12172088142707241,
+        0.5275229357798165
       ]
     },
     {
@@ -31031,8 +31031,8 @@ const features =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        32,
-        1110
+        0.14375655823714587,
+        0.39908256880733944
       ]
     },
     {
@@ -31041,8 +31041,8 @@ const features =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        62,
-        2443
+        0.161594963273872,
+        0.3555045871559633
       ]
     },
     {
@@ -31051,8 +31051,8 @@ const features =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        21,
-        1668
+        0.31374606505771246,
+        0.24770642201834864
       ]
     },
     {
@@ -31061,8 +31061,8 @@ const features =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        8,
-        174
+        0.1794333683105981,
+        0.10321100917431193
       ]
     },
     {
@@ -31071,8 +31071,8 @@ const features =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        40,
-        2340
+        1,
+        0.3165137614678899
       ]
     },
     {
@@ -31081,8 +31081,8 @@ const features =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        4,
-        748
+        0.23504721930745015,
+        0.6628440366972477
       ]
     },
     {
@@ -31091,8 +31091,8 @@ const features =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        53,
-        8971
+        0.1720881427072403,
+        0.28440366972477066
       ]
     },
     {
@@ -31101,8 +31101,8 @@ const features =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        34,
-        5970
+        0.3378803777544596,
+        0.24770642201834864
       ]
     },
     {
@@ -31111,8 +31111,8 @@ const features =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        17,
-        1988
+        0.07450157397691501,
+        0.7591743119266054
       ]
     },
     {
@@ -31121,8 +31121,8 @@ const features =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        77,
-        2252
+        0.21511017838405036,
+        0.49770642201834864
       ]
     },
     {
@@ -31131,8 +31131,8 @@ const features =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        17,
-        1080
+        0.2738719832109129,
+        0.28211009174311924
       ]
     },
     {
@@ -31141,8 +31141,8 @@ const features =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        2,
-        226
+        0.2759706190975866,
+        0.22706422018348624
       ]
     },
     {
@@ -31151,8 +31151,8 @@ const features =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        8,
-        550
+        0.20461699895068206,
+        0.6467889908256881
       ]
     },
     {
@@ -31161,8 +31161,8 @@ const features =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        29,
-        1084
+        0.3620146904512067,
+        0.7385321100917431
       ]
     },
     {
@@ -31171,8 +31171,8 @@ const features =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        23,
-        930
+        0.32633788037775446,
+        0.5298165137614679
       ]
     },
     {
@@ -31181,8 +31181,8 @@ const features =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        16,
-        1114
+        0.35047219307450156,
+        0.5894495412844036
       ]
     },
     {
@@ -31191,8 +31191,8 @@ const features =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        12,
-        553
+        0.2623294858342078,
+        0.5504587155963303
       ]
     },
     {
@@ -31201,8 +31201,8 @@ const features =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        23,
-        1006
+        0.2812172088142707,
+        0.49770642201834864
       ]
     },
     {
@@ -31211,8 +31211,8 @@ const features =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        1,
-        395
+        0.30325288562434416,
+        0.23853211009174313
       ]
     },
     {
@@ -31221,8 +31221,8 @@ const features =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        5,
-        304
+        0.24344176285414482,
+        0.3463302752293578
       ]
     },
     {
@@ -31231,8 +31231,8 @@ const features =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        7,
-        301
+        0.2770199370409234,
+        0.5825688073394495
       ]
     },
     {
@@ -31241,8 +31241,8 @@ const features =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        3,
-        499
+        0.25498426023084997,
+        0.6192660550458715
       ]
     },
     {
@@ -31251,8 +31251,8 @@ const features =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        16,
-        784
+        0.22350472193074503,
+        0.30045871559633025
       ]
     },
     {
@@ -31261,8 +31261,8 @@ const features =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        22,
-        1415
+        0.2770199370409234,
+        0.6903669724770642
       ]
     },
     {
@@ -31271,8 +31271,8 @@ const features =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        12,
-        333
+        0.19727177334732424,
+        0.37155963302752293
       ]
     },
     {
@@ -31281,8 +31281,8 @@ const features =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        14,
-        722
+        0.18572927597061908,
+        0.4243119266055046
       ]
     },
     {
@@ -31291,8 +31291,8 @@ const features =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        16,
-        1311
+        0.3683105981112277,
+        0.2545871559633027
       ]
     },
     {
@@ -31301,8 +31301,8 @@ const features =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        13,
-        912
+        0.3378803777544596,
+        0.3967889908256881
       ]
     },
     {
@@ -31311,8 +31311,8 @@ const features =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        19,
-        730
+        0.18467995802728226,
+        0.46559633027522934
       ]
     },
     {
@@ -31321,8 +31321,8 @@ const features =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        25,
-        1105
+        0.28751311647429173,
+        0.7155963302752294
       ]
     },
     {
@@ -31331,8 +31331,8 @@ const features =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        22,
-        509
+        0.29590766002098634,
+        0.41743119266055045
       ]
     },
     {
@@ -31341,8 +31341,8 @@ const features =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        14,
-        778
+        0.3441762854144806,
+        0.7064220183486238
       ]
     },
     {
@@ -31351,8 +31351,8 @@ const features =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        9,
-        465
+        0.17628541448058763,
+        0.48853211009174313
       ]
     },
     {
@@ -31361,8 +31361,8 @@ const features =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        13,
-        489
+        0.20356768100734524,
+        0.3876146788990826
       ]
     },
     {
@@ -31371,8 +31371,8 @@ const features =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        5,
-        730
+        0.2770199370409234,
+        0.3853211009174312
       ]
     },
     {
@@ -31381,8 +31381,8 @@ const features =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        6,
-        694
+        0.2780692549842602,
+        0.23853211009174313
       ]
     },
     {
@@ -31391,8 +31391,8 @@ const features =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        5,
-        776
+        0.23819517313746066,
+        0.658256880733945
       ]
     },
     {
@@ -31401,8 +31401,8 @@ const features =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        1,
-        598
+        0.30220356768100737,
+        0.8302752293577982
       ]
     },
     {
@@ -31411,8 +31411,8 @@ const features =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        9,
-        1172
+        0.28541448058761804,
+        0.42201834862385323
       ]
     },
     {
@@ -31421,8 +31421,8 @@ const features =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        5,
-        642
+        0.2402938090241343,
+        0.5711009174311926
       ]
     },
     {
@@ -31431,8 +31431,8 @@ const features =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        3,
-        422
+        0.1353620146904512,
+        0.463302752293578
       ]
     },
     {
@@ -31441,8 +31441,8 @@ const features =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        17,
-        768
+        0.28436516264428124,
+        0.5252293577981652
       ]
     },
     {
@@ -31451,8 +31451,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        8,
-        1180
+        0.3473242392444911,
+        0.5137614678899083
       ]
     },
     {
@@ -31461,8 +31461,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        3,
-        392
+        0.23189926547743966,
+        0.16743119266055045
       ]
     },
     {
@@ -31471,8 +31471,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        3,
-        300
+        0.2025183630640084,
+        0.5206422018348624
       ]
     },
     {
@@ -31481,8 +31481,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        20,
-        539
+        0.26128016789087094,
+        0.7568807339449541
       ]
     },
     {
@@ -31491,8 +31491,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        11,
-        603
+        0.2130115424973767,
+        0.2981651376146789
       ]
     },
     {
@@ -31501,8 +31501,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        10,
-        956
+        0.316894018887723,
+        0.19724770642201836
       ]
     },
     {
@@ -31511,8 +31511,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        5,
-        411
+        0.08709338929695698,
+        0.47477064220183485
       ]
     },
     {
@@ -31521,8 +31521,8 @@ const features =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        17,
-        606
+        0.25603357817418676,
+        0.4793577981651376
       ]
     },
     {
@@ -31531,8 +31531,8 @@ const features =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        12,
-        1194
+        0.31899265477439664,
+        0.25229357798165136
       ]
     },
     {
@@ -31541,8 +31541,8 @@ const features =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        6,
-        923
+        0.3515215110178384,
+        0.4426605504587156
       ]
     },
     {
@@ -31551,8 +31551,8 @@ const features =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        16,
-        1053
+        0.3882476390346275,
+        0.6720183486238532
       ]
     },
     {
@@ -31561,8 +31561,8 @@ const features =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        10,
-        760
+        0.229800629590766,
+        0.4908256880733945
       ]
     },
     {
@@ -31571,8 +31571,8 @@ const features =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        19,
-        1749
+        0.35571878279118574,
+        0.5894495412844036
       ]
     },
     {
@@ -31581,8 +31581,8 @@ const features =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        13,
-        1684
+        0.39664218258132217,
+        0.5114678899082569
       ]
     },
     {
@@ -31591,8 +31591,8 @@ const features =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        9,
-        819
+        0.291710388247639,
+        0.10321100917431193
       ]
     },
     {
@@ -31601,8 +31601,8 @@ const features =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        18,
-        962
+        0.23294858342077648,
+        0.4541284403669725
       ]
     },
     {
@@ -31611,8 +31611,8 @@ const features =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        5,
-        1302
+        0.30535152151101785,
+        0.4518348623853211
       ]
     },
     {
@@ -31621,8 +31621,8 @@ const features =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        19,
-        1699
+        0.2203567681007345,
+        0.33715596330275227
       ]
     },
     {
@@ -31631,8 +31631,8 @@ const features =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        16,
-        764
+        0.23819517313746066,
+        0.694954128440367
       ]
     },
     {
@@ -31641,8 +31641,8 @@ const features =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        2,
-        753
+        0.323189926547744,
+        0.8073394495412844
       ]
     },
     {
@@ -31651,8 +31651,8 @@ const features =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        13,
-        1237
+        0.27492130115424973,
+        0.5022935779816514
       ]
     },
     {
@@ -31661,8 +31661,8 @@ const features =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        14,
-        1889
+        0.3567681007345226,
+        0.5756880733944955
       ]
     },
     {
@@ -31671,8 +31671,8 @@ const features =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        10,
-        988
+        0.19202518363064008,
+        0.37844036697247707
       ]
     },
     {
@@ -31681,8 +31681,8 @@ const features =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        20,
-        778
+        0.11857292759706191,
+        0.24311926605504589
       ]
     },
     {
@@ -31691,8 +31691,8 @@ const features =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        6,
-        505
+        0.3378803777544596,
+        0.27293577981651373
       ]
     },
     {
@@ -31701,8 +31701,8 @@ const features =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        9,
-        331
+        0.2696747114375656,
+        0.2706422018348624
       ]
     },
     {
@@ -31711,8 +31711,8 @@ const features =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        4,
-        142
+        0.2203567681007345,
+        0.47706422018348627
       ]
     },
     {
@@ -31721,8 +31721,8 @@ const features =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        8,
-        360
+        0.3546694648478489,
+        0.6880733944954128
       ]
     },
     {
@@ -31731,8 +31731,8 @@ const features =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        10,
-        313
+        0.23819517313746066,
+        0.3738532110091743
       ]
     },
     {
@@ -31741,8 +31741,8 @@ const features =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        2,
-        261
+        0.2990556138509968,
+        0.6100917431192661
       ]
     },
     {
@@ -31751,8 +31751,8 @@ const features =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        4,
-        85
+        0.1794333683105981,
+        0.3830275229357798
       ]
     },
     {
@@ -31761,8 +31761,8 @@ const features =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        2,
-        58
+        0.1689401888772298,
+        0.37155963302752293
       ]
     },
     {
@@ -31771,8 +31771,8 @@ const features =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        7,
-        1019
+        0.28751311647429173,
+        0.26146788990825687
       ]
     },
     {
@@ -31781,8 +31781,8 @@ const features =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        7,
-        910
+        0.1888772298006296,
+        0.1353211009174312
       ]
     },
     {
@@ -31791,8 +31791,8 @@ const features =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        4,
-        592
+        0.1888772298006296,
+        0.46788990825688076
       ]
     },
     {
@@ -31801,8 +31801,8 @@ const features =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        3,
-        272
+        0.14375655823714587,
+        0.5321100917431193
       ]
     },
     {
@@ -31811,8 +31811,8 @@ const features =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        7,
-        867
+        0.14375655823714587,
+        0.22477064220183487
       ]
     },
     {
@@ -31821,8 +31821,8 @@ const features =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        8,
-        781
+        0.10178384050367262,
+        0.5206422018348624
       ]
     },
     {
@@ -31831,8 +31831,8 @@ const features =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        1,
-        280
+        0.080797481636936,
+        0.19495412844036697
       ]
     },
     {
@@ -31841,8 +31841,8 @@ const features =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        9,
-        570
+        0.16369359916054566,
+        0.5
       ]
     },
     {
@@ -31851,8 +31851,8 @@ const features =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        7,
-        721
+        0.24868835257082897,
+        0.39908256880733944
       ]
     },
     {
@@ -31861,8 +31861,8 @@ const features =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        6,
-        517
+        0.2539349422875131,
+        0.30275229357798167
       ]
     },
     {
@@ -31871,8 +31871,8 @@ const features =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        5,
-        534
+        0.2633788037775446,
+        0.6169724770642202
       ]
     },
     {
@@ -31881,8 +31881,8 @@ const features =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        3,
-        342
+        0.21720881427072403,
+        0.7591743119266054
       ]
     },
     {
@@ -31891,8 +31891,8 @@ const features =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        8,
-        531
+        0.28961175236096537,
+        0.3853211009174312
       ]
     },
     {
@@ -31901,8 +31901,8 @@ const features =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        13,
-        857
+        0.24449108079748164,
+        0.5688073394495413
       ]
     },
     {
@@ -31911,8 +31911,8 @@ const features =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        9,
-        1044
+        0.2864637985309549,
+        0.6536697247706422
       ]
     },
     {
@@ -31921,8 +31921,8 @@ const features =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        12,
-        712
+        0.2098635886673662,
+        0.5458715596330275
       ]
     },
     {
@@ -31931,8 +31931,8 @@ const features =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        107,
-        955
+        0.3987408184679958,
+        0.45871559633027525
       ]
     },
     {
@@ -31941,8 +31941,8 @@ const features =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        57,
-        496
+        0.2728226652675761,
+        0.43119266055045874
       ]
     },
     {
@@ -31951,8 +31951,8 @@ const features =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        111,
-        1732
+        0.35571878279118574,
+        0.7935779816513762
       ]
     },
     {
@@ -31961,8 +31961,8 @@ const features =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        130,
-        1615
+        0.304302203567681,
+        0.7798165137614679
       ]
     },
     {
@@ -31971,8 +31971,8 @@ const features =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        92,
-        934
+        0.3389296956977964,
+        0.694954128440367
       ]
     },
     {
@@ -31981,8 +31981,8 @@ const features =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        19,
-        1456
+        0.3483735571878279,
+        0.536697247706422
       ]
     },
     {
@@ -31991,8 +31991,8 @@ const features =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        33,
-        1345
+        0.30535152151101785,
+        0.5068807339449541
       ]
     },
     {
@@ -32001,8 +32001,8 @@ const features =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        31,
-        1559
+        0.23819517313746066,
+        0.6605504587155964
       ]
     },
     {
@@ -32011,8 +32011,8 @@ const features =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        6,
-        911
+        0.2539349422875131,
+        0.23623853211009174
       ]
     },
     {
@@ -32021,8 +32021,8 @@ const features =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        2,
-        297
+        0.3389296956977964,
+        0.3853211009174312
       ]
     },
     {
@@ -32031,8 +32031,8 @@ const features =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        25,
-        1840
+        0.2675760755508919,
+        0.5871559633027523
       ]
     },
     {
@@ -32041,8 +32041,8 @@ const features =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        13,
-        1189
+        0.20146904512067157,
+        0.7041284403669725
       ]
     },
     {
@@ -32051,8 +32051,8 @@ const features =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        15,
-        733
+        0.26128016789087094,
+        0.5022935779816514
       ]
     },
     {
@@ -32061,8 +32061,8 @@ const features =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        16,
-        1184
+        0.36306400839454356,
+        0.17660550458715596
       ]
     },
     {
@@ -32071,8 +32071,8 @@ const features =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        11,
-        876
+        0.3473242392444911,
+        0.02522935779816514
       ]
     },
     {
@@ -32081,8 +32081,8 @@ const features =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        18,
-        785
+        0.18153200419727178,
+        0.481651376146789
       ]
     },
     {
@@ -32091,8 +32091,8 @@ const features =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        10,
-        680
+        0.35257082896117525,
+        0.38990825688073394
       ]
     },
     {
@@ -32101,8 +32101,8 @@ const features =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        10,
-        639
+        0.3273871983210913,
+        0.36009174311926606
       ]
     },
     {
@@ -32111,8 +32111,8 @@ const features =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        10,
-        462
+        0.23189926547743966,
+        0.6192660550458715
       ]
     },
     {
@@ -32121,8 +32121,8 @@ const features =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        13,
-        474
+        0.32214060860440713,
+        0.7637614678899083
       ]
     },
     {
@@ -32131,8 +32131,8 @@ const features =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        4,
-        273
+        0.2465897166841553,
+        0.5665137614678899
       ]
     },
     {
@@ -32141,8 +32141,8 @@ const features =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        9,
-        279
+        0.21825813221406087,
+        0.7155963302752294
       ]
     },
     {
@@ -32151,8 +32151,8 @@ const features =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        4,
-        166
+        0.15949632738719832,
+        0.6674311926605505
       ]
     },
     {
@@ -32161,8 +32161,8 @@ const features =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        12,
-        371
+        0.2098635886673662,
+        0.481651376146789
       ]
     },
     {
@@ -32171,8 +32171,8 @@ const features =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        9,
-        1381
+        0.34207764952780695,
+        0.31422018348623854
       ]
     },
     {
@@ -32181,8 +32181,8 @@ const features =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        2,
-        219
+        0.1731374606505771,
+        0.17889908256880735
       ]
     },
     {
@@ -32191,8 +32191,8 @@ const features =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        16,
-        726
+        0.21511017838405036,
+        0.5825688073394495
       ]
     },
     {
@@ -32201,8 +32201,8 @@ const features =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        3,
-        398
+        0.22140608604407136,
+        0.7293577981651376
       ]
     },
     {
@@ -32211,8 +32211,8 @@ const features =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        11,
-        472
+        0.13011542497376705,
+        0.24311926605504589
       ]
     },
     {
@@ -32221,8 +32221,8 @@ const features =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        20,
-        1414
+        0.34312696747114374,
+        0.7660550458715596
       ]
     },
     {
@@ -32231,8 +32231,8 @@ const features =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        12,
-        1687
+        0.17103882476390347,
+        0.38073394495412843
       ]
     },
     {
@@ -32241,8 +32241,8 @@ const features =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        14,
-        732
+        0.19097586568730326,
+        0.39908256880733944
       ]
     },
     {
@@ -32251,8 +32251,8 @@ const features =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        6,
-        177
+        0.23189926547743966,
+        0.3669724770642202
       ]
     },
     {
@@ -32261,8 +32261,8 @@ const features =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        6,
-        394
+        0.12172088142707241,
+        0.11926605504587157
       ]
     },
     {
@@ -32271,8 +32271,8 @@ const features =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        20,
-        1000
+        0.28436516264428124,
+        0.5711009174311926
       ]
     },
     {
@@ -32281,8 +32281,8 @@ const features =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        11,
-        422
+        0.23504721930745015,
+        0.6100917431192661
       ]
     },
     {
@@ -32291,8 +32291,8 @@ const features =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        9,
-        378
+        0.21825813221406087,
+        0.23623853211009174
       ]
     },
     {
@@ -32301,8 +32301,8 @@ const features =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        11,
-        620
+        0.23924449108079748,
+        0.3463302752293578
       ]
     },
     {
@@ -32311,8 +32311,8 @@ const features =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        7,
-        357
+        0.017838405036726127,
+        0.5779816513761468
       ]
     },
     {
@@ -32321,8 +32321,8 @@ const features =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        9,
-        333
+        0.07974816369359916,
+        0.1926605504587156
       ]
     },
     {
@@ -32331,8 +32331,8 @@ const features =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        5,
-        334
+        0.26652675760755506,
+        0.22706422018348624
       ]
     },
     {
@@ -32341,8 +32341,8 @@ const features =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        4,
-        210
+        0.24449108079748164,
+        0.22477064220183487
       ]
     },
     {
@@ -32351,8 +32351,8 @@ const features =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        1,
-        145
+        0.20776495278069254,
+        0.41284403669724773
       ]
     },
     {
@@ -32361,8 +32361,8 @@ const features =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        9,
-        473
+        0.2770199370409234,
+        0.6330275229357798
       ]
     },
     {
@@ -32371,8 +32371,8 @@ const features =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        23,
-        922
+        0.34312696747114374,
+        0.5389908256880734
       ]
     },
     {
@@ -32381,8 +32381,8 @@ const features =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        15,
-        1285
+        0.2623294858342078,
+        0.8623853211009175
       ]
     },
     {
@@ -32391,8 +32391,8 @@ const features =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        10,
-        1023
+        0.26128016789087094,
+        0.6995412844036697
       ]
     },
     {
@@ -32401,8 +32401,8 @@ const features =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        23,
-        1697
+        0.3410283315844701,
+        0.6972477064220184
       ]
     },
     {
@@ -32411,8 +32411,8 @@ const features =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        5,
-        649
+        0.29800629590766003,
+        0.2798165137614679
       ]
     },
     {
@@ -32421,8 +32421,8 @@ const features =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        11,
-        591
+        0.161594963273872,
+        0.1811926605504587
       ]
     },
     {
@@ -32431,8 +32431,8 @@ const features =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        13,
-        782
+        0.30849947534102834,
+        0.43577981651376146
       ]
     },
     {
@@ -32441,8 +32441,8 @@ const features =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        14,
-        868
+        0.3777544596012592,
+        0.591743119266055
       ]
     },
     {
@@ -32451,8 +32451,8 @@ const features =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        12,
-        876
+        0.3147953830010493,
+        0.38073394495412843
       ]
     },
     {
@@ -32461,8 +32461,8 @@ const features =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        12,
-        1240
+        0.25603357817418676,
+        0.48853211009174313
       ]
     },
     {
@@ -32471,8 +32471,8 @@ const features =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        5,
-        267
+        0.17733473242392445,
+        0.37155963302752293
       ]
     },
     {
@@ -32481,8 +32481,8 @@ const features =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        9,
-        432
+        0.18467995802728226,
+        0.34174311926605505
       ]
     },
     {
@@ -32491,8 +32491,8 @@ const features =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        5,
-        766
+        0.32948583420776495,
+        0.42660550458715596
       ]
     },
     {
@@ -32501,8 +32501,8 @@ const features =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        3,
-        205
+        0.3284365162644281,
+        0.17889908256880735
       ]
     },
     {
@@ -32511,8 +32511,8 @@ const features =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        5,
-        613
+        0.2990556138509968,
+        0.5711009174311926
       ]
     },
     {
@@ -32521,8 +32521,8 @@ const features =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        1,
-        471
+        0.23714585519412382,
+        0.6605504587155964
       ]
     },
     {
@@ -32531,8 +32531,8 @@ const features =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        9,
-        285
+        0.2518363064008394,
+        0.5275229357798165
       ]
     },
     {
@@ -32541,8 +32541,8 @@ const features =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        4,
-        347
+        0.35571878279118574,
+        0.5619266055045872
       ]
     },
     {
@@ -32551,8 +32551,8 @@ const features =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        2,
-        207
+        0.25813221406086045,
+        0.4151376146788991
       ]
     },
     {
@@ -32561,8 +32561,8 @@ const features =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        2,
-        98
+        0.19097586568730326,
+        0.4380733944954128
       ]
     },
     {
@@ -32571,8 +32571,8 @@ const features =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        10,
-        1292
+        0.2885624344176285,
+        0.3440366972477064
       ]
     },
     {
@@ -32581,8 +32581,8 @@ const features =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        5,
-        299
+        0.14690451206715635,
+        0.18807339449541285
       ]
     },
     {
@@ -32591,8 +32591,8 @@ const features =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        8,
-        525
+        0.16789087093389296,
+        0.47706422018348627
       ]
     },
     {
@@ -32601,8 +32601,8 @@ const features =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        5,
-        713
+        0.1458551941238195,
+        0.6422018348623854
       ]
     },
     {
@@ -32611,8 +32611,8 @@ const features =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        7,
-        481
+        0.20671563483735572,
+        0.3623853211009174
       ]
     },
     {
@@ -32621,8 +32621,8 @@ const features =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        12,
-        1215
+        0.2570828961175236,
+        0.5688073394495413
       ]
     },
     {
@@ -32631,8 +32631,8 @@ const features =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        10,
-        728
+        0.18363064008394545,
+        0.5045871559633027
       ]
     },
     {
@@ -32641,8 +32641,8 @@ const features =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        20,
-        686
+        0.25078698845750264,
+        0.49311926605504586
       ]
     },
     {
@@ -32651,8 +32651,8 @@ const features =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        18,
-        1010
+        0.29590766002098634,
+        0.3440366972477064
       ]
     },
     {
@@ -32661,8 +32661,8 @@ const features =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        21,
-        662
+        0.21406086044071354,
+        0.12385321100917432
       ]
     },
     {
@@ -32671,8 +32671,8 @@ const features =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        10,
-        422
+        0.12067156348373557,
+        0.231651376146789
       ]
     },
     {
@@ -32681,8 +32681,8 @@ const features =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        13,
-        334
+        0.25498426023084997,
+        0.6628440366972477
       ]
     },
     {
@@ -32691,8 +32691,8 @@ const features =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        9,
-        586
+        0.18677859391395593,
+        0.28440366972477066
       ]
     },
     {
@@ -32701,8 +32701,8 @@ const features =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        9,
-        619
+        0.22350472193074503,
+        0.42660550458715596
       ]
     },
     {
@@ -32711,8 +32711,8 @@ const features =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        7,
-        413
+        0.022035676810073453,
+        0.4701834862385321
       ]
     },
     {
@@ -32721,8 +32721,8 @@ const features =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        21,
-        616
+        0.12172088142707241,
+        0.27522935779816515
       ]
     },
     {
@@ -32731,8 +32731,8 @@ const features =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        6,
-        420
+        0.31374606505771246,
+        0.30963302752293576
       ]
     },
     {
@@ -32741,8 +32741,8 @@ const features =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        3,
-        173
+        0.2518363064008394,
+        0.29357798165137616
       ]
     },
     {
@@ -32751,8 +32751,8 @@ const features =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        8,
-        186
+        0.3651626442812172,
+        0.5871559633027523
       ]
     },
     {
@@ -32761,8 +32761,8 @@ const features =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        10,
-        340
+        0.38719832109129065,
+        0.5871559633027523
       ]
     },
     {
@@ -32771,8 +32771,8 @@ const features =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        8,
-        269
+        0.304302203567681,
+        0.3761467889908257
       ]
     },
     {
@@ -32781,8 +32781,8 @@ const features =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        4,
-        284
+        0.23924449108079748,
+        0.5435779816513762
       ]
     },
     {
@@ -32791,8 +32791,8 @@ const features =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        4,
-        226
+        0.23294858342077648,
+        0.37155963302752293
       ]
     },
     {
@@ -32801,8 +32801,8 @@ const features =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        12,
-        187
+        0.2161594963273872,
+        0.4518348623853211
       ]
     },
     {
@@ -32811,8 +32811,8 @@ const features =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        16,
-        831
+        0.3179433368310598,
+        0.23394495412844038
       ]
     },
     {
@@ -32821,8 +32821,8 @@ const features =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        15,
-        504
+        0.22770199370409233,
+        0.13302752293577982
       ]
     },
     {
@@ -32831,8 +32831,8 @@ const features =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        15,
-        910
+        0.2759706190975866,
+        0.5068807339449541
       ]
     },
     {
@@ -32841,8 +32841,8 @@ const features =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        9,
-        509
+        0.30220356768100737,
+        0.6284403669724771
       ]
     },
     {
@@ -32851,8 +32851,8 @@ const features =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        13,
-        648
+        0.27492130115424973,
+        0.31422018348623854
       ]
     },
     {
@@ -32861,8 +32861,8 @@ const features =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        7,
-        837
+        0.08919202518363065,
+        0.6169724770642202
       ]
     },
     {
@@ -32871,8 +32871,8 @@ const features =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        6,
-        204
+        0.04512067156348373,
+        0.44036697247706424
       ]
     },
     {
@@ -32881,8 +32881,8 @@ const features =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        7,
-        366
+        0.1626442812172088,
+        0.4151376146788991
       ]
     },
     {
@@ -32891,8 +32891,8 @@ const features =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        9,
-        1109
+        0.30325288562434416,
+        0.24311926605504589
       ]
     },
     {
@@ -32901,8 +32901,8 @@ const features =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        4,
-        436
+        0.20356768100734524,
+        0.1834862385321101
       ]
     },
     {
@@ -32911,8 +32911,8 @@ const features =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        7,
-        487
+        0.22560335781741866,
+        0.5344036697247706
       ]
     },
     {
@@ -32921,8 +32921,8 @@ const features =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        3,
-        259
+        0.23084994753410285,
+        0.6513761467889908
       ]
     },
     {
@@ -32931,8 +32931,8 @@ const features =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        15,
-        673
+        0.2528856243441763,
+        0.41284403669724773
       ]
     },
     {
@@ -32941,8 +32941,8 @@ const features =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        7,
-        787
+        0.2644281217208814,
+        0.5963302752293578
       ]
     },
     {
@@ -32951,8 +32951,8 @@ const features =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        4,
-        380
+        0.17733473242392445,
+        0.5160550458715596
       ]
     },
     {
@@ -32961,8 +32961,8 @@ const features =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        9,
-        510
+        0.19832109129066108,
+        0.3944954128440367
       ]
     },
     {
@@ -32971,8 +32971,8 @@ const features =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        5,
-        231
+        0.3410283315844701,
+        0.5206422018348624
       ]
     },
     {
@@ -32981,8 +32981,8 @@ const features =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        6,
-        242
+        0.18992654774396642,
+        0.25688073394495414
       ]
     },
     {
@@ -32991,8 +32991,8 @@ const features =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        6,
-        184
+        0.1930745015739769,
+        0.5137614678899083
       ]
     },
     {
@@ -33001,8 +33001,8 @@ const features =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        9,
-        331
+        0.23189926547743966,
+        0.6261467889908257
       ]
     },
     {
@@ -33011,8 +33011,8 @@ const features =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        14,
-        334
+        0.2130115424973767,
+        0.26376146788990823
       ]
     },
     {
@@ -33021,8 +33021,8 @@ const features =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        16,
-        722
+        0.236096537250787,
+        0.6651376146788991
       ]
     },
     {
@@ -33031,8 +33031,8 @@ const features =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        7,
-        86
+        0.11227701993704092,
+        0.3073394495412844
       ]
     },
     {
@@ -33041,8 +33041,8 @@ const features =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        5,
-        65
+        0.12172088142707241,
+        0.30275229357798167
       ]
     },
     {
@@ -33051,8 +33051,8 @@ const features =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        21,
-        843
+        0.23399790136411333,
+        0.14908256880733944
       ]
     },
     {
@@ -33061,8 +33061,8 @@ const features =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        10,
-        220
+        0.18363064008394545,
+        0.21788990825688073
       ]
     },
     {
@@ -33071,8 +33071,8 @@ const features =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        25,
-        1036
+        0.12381951731374606,
+        0.27293577981651373
       ]
     },
     {
@@ -33081,8 +33081,8 @@ const features =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        6,
-        465
+        0.40083945435466944,
+        0.658256880733945
       ]
     },
     {
@@ -33091,8 +33091,8 @@ const features =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        26,
-        1121
+        0.20356768100734524,
+        0.3967889908256881
       ]
     },
     {
@@ -33101,8 +33101,8 @@ const features =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        17,
-        1358
+        0.2707240293809024,
+        0.20412844036697247
       ]
     },
     {
@@ -33111,8 +33111,8 @@ const features =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        8,
-        478
+        0.00944386149003148,
+        0.20412844036697247
       ]
     },
     {
@@ -33121,8 +33121,8 @@ const features =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        10,
-        515
+        0.07974816369359916,
+        0.1743119266055046
       ]
     },
     {
@@ -33131,8 +33131,8 @@ const features =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        5,
-        549
+        0.3651626442812172,
+        0.3119266055045872
       ]
     },
     {
@@ -33141,8 +33141,8 @@ const features =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        2,
-        380
+        0.2518363064008394,
+        0.26376146788990823
       ]
     },
     {
@@ -33151,8 +33151,8 @@ const features =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        10,
-        484
+        0.32633788037775446,
+        0.676605504587156
       ]
     },
     {
@@ -33161,8 +33161,8 @@ const features =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        8,
-        528
+        0.3588667366211962,
+        0.7889908256880734
       ]
     },
     {
@@ -33171,8 +33171,8 @@ const features =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        9,
-        545
+        0.30849947534102834,
+        0.4793577981651376
       ]
     },
     {
@@ -33181,8 +33181,8 @@ const features =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        8,
-        544
+        0.36935991605456453,
+        0.7706422018348624
       ]
     },
     {
@@ -33191,8 +33191,8 @@ const features =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        6,
-        385
+        0.3242392444910808,
+        0.6284403669724771
       ]
     },
     {
@@ -33201,8 +33201,8 @@ const features =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        8,
-        330
+        0.2518363064008394,
+        0.5114678899082569
       ]
     },
     {
@@ -33211,8 +33211,8 @@ const features =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        11,
-        320
+        0.19412381951731375,
+        0.22477064220183487
       ]
     },
     {
@@ -33221,8 +33221,8 @@ const features =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        4,
-        135
+        0.16684155299055614,
+        0.10550458715596331
       ]
     },
     {
@@ -33231,8 +33231,8 @@ const features =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        9,
-        225
+        0.20776495278069254,
+        0.4197247706422018
       ]
     },
     {
@@ -33241,8 +33241,8 @@ const features =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        19,
-        317
+        0.16369359916054566,
+        0.49311926605504586
       ]
     },
     {
@@ -33251,8 +33251,8 @@ const features =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        13,
-        863
+        0.2759706190975866,
+        0.44954128440366975
       ]
     },
     {
@@ -33261,8 +33261,8 @@ const features =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        6,
-        455
+        0.12696747114375656,
+        0.7591743119266054
       ]
     },
     {
@@ -33271,8 +33271,8 @@ const features =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        11,
-        345
+        0.11542497376705142,
+        0.5871559633027523
       ]
     },
     {
@@ -33281,8 +33281,8 @@ const features =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        15,
-        359
+        0.18992654774396642,
+        0.4701834862385321
       ]
     },
     {
@@ -33291,8 +33291,8 @@ const features =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        6,
-        717
+        0.32948583420776495,
+        0.3555045871559633
       ]
     },
     {
@@ -33301,8 +33301,8 @@ const features =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        3,
-        200
+        0.2098635886673662,
+        0.21559633027522937
       ]
     },
     {
@@ -33311,8 +33311,8 @@ const features =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        16,
-        624
+        0.39979013641133265,
+        0.6811926605504587
       ]
     },
     {
@@ -33321,8 +33321,8 @@ const features =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        11,
-        374
+        0.32214060860440713,
+        0.8830275229357798
       ]
     },
     {
@@ -33331,8 +33331,8 @@ const features =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        12,
-        323
+        0.33263378803777544,
+        0.4197247706422018
       ]
     },
     {
@@ -33341,8 +33341,8 @@ const features =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        6,
-        345
+        0.14270724029380902,
+        0.7155963302752294
       ]
     },
     {
@@ -33351,8 +33351,8 @@ const features =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        3,
-        215
+        0.06715634837355719,
+        0.6307339449541285
       ]
     },
     {
@@ -33361,8 +33361,8 @@ const features =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        13,
-        397
+        0.33473242392444913,
+        0.8119266055045872
       ]
     },
     {
@@ -33371,8 +33371,8 @@ const features =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        6,
-        1398
+        0.19727177334732424,
+        0.15825688073394495
       ]
     },
     {
@@ -33381,8 +33381,8 @@ const features =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        5,
-        689
+        0.2098635886673662,
+        0.21559633027522937
       ]
     },
     {
@@ -33391,8 +33391,8 @@ const features =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        5,
-        505
+        0.23189926547743966,
+        0.5412844036697247
       ]
     },
     {
@@ -33401,8 +33401,8 @@ const features =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        2,
-        385
+        0.2759706190975866,
+        0.658256880733945
       ]
     },
     {
@@ -33411,8 +33411,8 @@ const features =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        8,
-        1174
+        0.21091290661070305,
+        0.29128440366972475
       ]
     },
     {
@@ -33421,8 +33421,8 @@ const features =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        6,
-        883
+        0.2780692549842602,
+        0.4334862385321101
       ]
     },
     {
@@ -33431,8 +33431,8 @@ const features =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        5,
-        499
+        0.1416579223504722,
+        0.481651376146789
       ]
     },
     {
@@ -33441,8 +33441,8 @@ const features =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        3,
-        201
+        0.1731374606505771,
+        0.3165137614678899
       ]
     },
     {
@@ -33451,8 +33451,8 @@ const features =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        9,
-        876
+        0.34942287513116477,
+        0.3623853211009174
       ]
     },
     {
@@ -33461,8 +33461,8 @@ const features =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        4,
-        718
+        0.31899265477439664,
+        0.22018348623853212
       ]
     },
     {
@@ -33471,8 +33471,8 @@ const features =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        12,
-        323
+        0.2602308499475341,
+        0.6238532110091743
       ]
     },
     {
@@ -33481,8 +33481,8 @@ const features =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        23,
-        1474
+        0.3001049317943337,
+        0.7293577981651376
       ]
     },
     {
@@ -33491,8 +33491,8 @@ const features =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        20,
-        1065
+        0.23924449108079748,
+        0.26376146788990823
       ]
     },
     {
@@ -33501,8 +33501,8 @@ const features =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        7,
-        1365
+        0.3483735571878279,
+        0.48623853211009177
       ]
     },
     {
@@ -33511,8 +33511,8 @@ const features =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        2,
-        270
+        0.2654774396642183,
+        0.4243119266055046
       ]
     },
     {
@@ -33521,8 +33521,8 @@ const features =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        18,
-        1007
+        0.3305351521511018,
+        0.6215596330275229
       ]
     },
     {
@@ -33531,8 +33531,8 @@ const features =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        29,
-        1555
+        0.19832109129066108,
+        0.14220183486238533
       ]
     },
     {
@@ -33541,8 +33541,8 @@ const features =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        3,
-        423
+        0.15110178384050368,
+        0.09862385321100918
       ]
     },
     {
@@ -33551,8 +33551,8 @@ const features =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        14,
-        498
+        0.18992654774396642,
+        0.45642201834862384
       ]
     },
     {
@@ -33561,8 +33561,8 @@ const features =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        15,
-        531
+        0.161594963273872,
+        0.44495412844036697
       ]
     },
     {
@@ -33571,8 +33571,8 @@ const features =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        37,
-        1794
+        0.20776495278069254,
+        0.26376146788990823
       ]
     },
     {
@@ -33581,8 +33581,8 @@ const features =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        25,
-        1282
+        0.11857292759706191,
+        0.5458715596330275
       ]
     },
     {
@@ -33591,8 +33591,8 @@ const features =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        8,
-        255
+        0.03462749213011543,
+        0.2798165137614679
       ]
     },
     {
@@ -33601,8 +33601,8 @@ const features =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        2,
-        125
+        0.15949632738719832,
+        0.30963302752293576
       ]
     },
     {
@@ -33611,8 +33611,8 @@ const features =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        23,
-        3023
+        0.3273871983210913,
+        0.3440366972477064
       ]
     },
     {
@@ -33621,8 +33621,8 @@ const features =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        7,
-        1070
+        0.24449108079748164,
+        0.18577981651376146
       ]
     },
     {
@@ -33631,8 +33631,8 @@ const features =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        10,
-        1799
+        0.16474291710388247,
+        0.4701834862385321
       ]
     },
     {
@@ -33641,8 +33641,8 @@ const features =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        4,
-        1191
+        0.40293809024134314,
+        0.4908256880733945
       ]
     },
     {
@@ -33651,8 +33651,8 @@ const features =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        11,
-        1601
+        0.3126967471143757,
+        0.4610091743119266
       ]
     },
     {
@@ -33661,8 +33661,8 @@ const features =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        3,
-        1744
+        0.15424973767051417,
+        0.6353211009174312
       ]
     },
     {
@@ -33671,8 +33671,8 @@ const features =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        8,
-        1026
+        0.23714585519412382,
+        0.06651376146788991
       ]
     },
     {
@@ -33681,8 +33681,8 @@ const features =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        9,
-        1431
+        0.2203567681007345,
+        0.4908256880733945
       ]
     },
     {
@@ -33691,8 +33691,8 @@ const features =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        7,
-        1723
+        0.28226652675760755,
+        0.4013761467889908
       ]
     },
     {
@@ -33701,8 +33701,8 @@ const features =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        5,
-        840
+        0.2696747114375656,
+        0.4013761467889908
       ]
     },
     {
@@ -33711,8 +33711,8 @@ const features =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        25,
-        2614
+        0.38405036726128017,
+        0.5711009174311926
       ]
     },
     {
@@ -33721,8 +33721,8 @@ const features =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        3,
-        480
+        0.2266526757607555,
+        0.7224770642201835
       ]
     },
     {
@@ -33731,8 +33731,8 @@ const features =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        28,
-        3275
+        0.229800629590766,
+        0.24541284403669725
       ]
     },
     {
@@ -33741,8 +33741,8 @@ const features =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        20,
-        3730
+        0.24344176285414482,
+        0.5642201834862385
       ]
     },
     {
@@ -33751,8 +33751,8 @@ const features =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        8,
-        1657
+        0.25918153200419725,
+        0.6123853211009175
       ]
     },
     {
@@ -33761,8 +33761,8 @@ const features =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        20,
-        2501
+        0.20671563483735572,
+        0.47706422018348627
       ]
     },
     {
@@ -33771,8 +33771,8 @@ const features =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        5,
-        104
+        0.23714585519412382,
+        0.4036697247706422
       ]
     },
     {
@@ -33781,8 +33781,8 @@ const features =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        4,
-        68
+        0.21825813221406087,
+        0.5344036697247706
       ]
     },
     {
@@ -33791,8 +33791,8 @@ const features =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        2,
-        159
+        0.2025183630640084,
+        0.6422018348623854
       ]
     },
     {
@@ -33801,8 +33801,8 @@ const features =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        5,
-        259
+        0.2088142707240294,
+        0.6490825688073395
       ]
     },
     {
@@ -33811,8 +33811,8 @@ const features =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        9,
-        195
+        0.2193074501573977,
+        0.5825688073394495
       ]
     },
     {
@@ -33821,8 +33821,8 @@ const features =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        6,
-        248
+        0.22875131164742918,
+        0.694954128440367
       ]
     },
     {
@@ -33831,8 +33831,8 @@ const features =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        5,
-        241
+        0.26128016789087094,
+        0.6811926605504587
       ]
     },
     {
@@ -33841,8 +33841,8 @@ const features =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        1,
-        148
+        0.28436516264428124,
+        0.30504587155963303
       ]
     },
     {
@@ -33851,8 +33851,8 @@ const features =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        25,
-        1411
+        0.2633788037775446,
+        0.1720183486238532
       ]
     },
     {
@@ -33861,8 +33861,8 @@ const features =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        23,
-        1016
+        0.2864637985309549,
+        0.3119266055045872
       ]
     },
     {
@@ -33871,8 +33871,8 @@ const features =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        16,
-        997
+        0.1626442812172088,
+        0.5665137614678899
       ]
     },
     {
@@ -33881,8 +33881,8 @@ const features =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        3,
-        248
+        0.2654774396642183,
+        0.6261467889908257
       ]
     },
     {
@@ -33891,8 +33891,8 @@ const features =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        63,
-        2506
+        0.3378803777544596,
+        0.38990825688073394
       ]
     },
     {
@@ -33901,8 +33901,8 @@ const features =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        41,
-        1338
+        0.3473242392444911,
+        0.5940366972477065
       ]
     },
     {
@@ -33911,8 +33911,8 @@ const features =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        9,
-        362
+        0.07135362014690451,
+        0.32339449541284404
       ]
     },
     {
@@ -33921,8 +33921,8 @@ const features =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        42,
-        1809
+        0.2266526757607555,
+        0.48853211009174313
       ]
     },
     {
@@ -33931,8 +33931,8 @@ const features =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        8,
-        788
+        0.2497376705141658,
+        0.1651376146788991
       ]
     },
     {
@@ -33941,8 +33941,8 @@ const features =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        10,
-        642
+        0.18992654774396642,
+        0.22247706422018348
       ]
     },
     {
@@ -33951,8 +33951,8 @@ const features =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        7,
-        477
+        0.2497376705141658,
+        0.5275229357798165
       ]
     },
     {
@@ -33961,8 +33961,8 @@ const features =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        3,
-        305
+        0.20671563483735572,
+        0.5688073394495413
       ]
     },
     {
@@ -33971,8 +33971,8 @@ const features =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        20,
-        523
+        0.30325288562434416,
+        0.41743119266055045
       ]
     },
     {
@@ -33981,8 +33981,8 @@ const features =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        5,
-        686
+        0.3651626442812172,
+        0.20412844036697247
       ]
     },
     {
@@ -33991,8 +33991,8 @@ const features =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        1,
-        44
+        0.06505771248688352,
+        0.22018348623853212
       ]
     },
     {
@@ -34001,8 +34001,8 @@ const features =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        4,
-        148
+        0.29800629590766003,
+        0.3577981651376147
       ]
     },
     {
@@ -34011,8 +34011,8 @@ const features =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        16,
-        922
+        0.23189926547743966,
+        0.2706422018348624
       ]
     },
     {
@@ -34021,8 +34021,8 @@ const features =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        18,
-        1148
+        0.2633788037775446,
+        0.3302752293577982
       ]
     },
     {
@@ -34031,8 +34031,8 @@ const features =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        18,
-        1743
+        0.31374606505771246,
+        0.4724770642201835
       ]
     },
     {
@@ -34041,8 +34041,8 @@ const features =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        27,
-        1191
+        0.3284365162644281,
+        0.8348623853211009
       ]
     },
     {
@@ -34051,8 +34051,8 @@ const features =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        12,
-        772
+        0.23084994753410285,
+        0.43577981651376146
       ]
     },
     {
@@ -34061,8 +34061,8 @@ const features =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        8,
-        704
+        0.2675760755508919,
+        0.7041284403669725
       ]
     },
     {
@@ -34071,8 +34071,8 @@ const features =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        5,
-        522
+        0.16474291710388247,
+        0.7637614678899083
       ]
     },
     {
@@ -34081,8 +34081,8 @@ const features =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        18,
-        339
+        0.18782791185729275,
+        0.44036697247706424
       ]
     },
     {
@@ -34091,8 +34091,8 @@ const features =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        6,
-        636
+        0.2623294858342078,
+        0.3211009174311927
       ]
     },
     {
@@ -34101,8 +34101,8 @@ const features =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        8,
-        353
+        0.24134312696747115,
+        0.1743119266055046
       ]
     },
     {
@@ -34111,8 +34111,8 @@ const features =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        5,
-        386
+        0.2203567681007345,
+        0.3348623853211009
       ]
     },
     {
@@ -34121,8 +34121,8 @@ const features =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        5,
-        426
+        0.2528856243441763,
+        0.6743119266055045
       ]
     },
     {
@@ -34131,8 +34131,8 @@ const features =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        6,
-        391
+        0.21196222455403987,
+        0.2775229357798165
       ]
     },
     {
@@ -34141,8 +34141,8 @@ const features =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        5,
-        501
+        0.14795383001049317,
+        0.35091743119266056
       ]
     },
     {
@@ -34151,8 +34151,8 @@ const features =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        3,
-        218
+        0.07660020986358866,
+        0.1720183486238532
       ]
     },
     {
@@ -34161,8 +34161,8 @@ const features =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        8,
-        177
+        0.09653725078698845,
+        0.25
       ]
     },
     {
@@ -34171,8 +34171,8 @@ const features =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        14,
-        496
+        0.3777544596012592,
+        0.3555045871559633
       ]
     },
     {
@@ -34181,8 +34181,8 @@ const features =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        4,
-        357
+        0.3074501573976915,
+        0.22935779816513763
       ]
     },
     {
@@ -34191,8 +34191,8 @@ const features =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        14,
-        296
+        0.2707240293809024,
+        0.5412844036697247
       ]
     },
     {
@@ -34201,8 +34201,8 @@ const features =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        12,
-        178
+        0.2098635886673662,
+        0.5825688073394495
       ]
     },
     {
@@ -34211,8 +34211,8 @@ const features =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        7,
-        150
+        0.2088142707240294,
+        0.33256880733944955
       ]
     },
     {
@@ -34221,8 +34221,8 @@ const features =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        4,
-        161
+        0.11962224554039874,
+        0.4724770642201835
       ]
     },
     {
@@ -34231,8 +34231,8 @@ const features =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        3,
-        107
+        0.033578174186778595,
+        0.3440366972477064
       ]
     },
     {
@@ -34241,8 +34241,8 @@ const features =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        8,
-        148
+        0.14375655823714587,
+        0.3761467889908257
       ]
     },
     {
@@ -34251,8 +34251,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        12,
-        172
+        0.26652675760755506,
+        0.6307339449541285
       ]
     },
     {
@@ -34261,8 +34261,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        13,
-        521
+        0.2528856243441763,
+        0.3944954128440367
       ]
     },
     {
@@ -34271,8 +34271,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        10,
-        438
+        0.3882476390346275,
+        0.43577981651376146
       ]
     },
     {
@@ -34281,8 +34281,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        19,
-        768
+        0.316894018887723,
+        0.676605504587156
       ]
     },
     {
@@ -34291,8 +34291,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        16,
-        333
+        0.23084994753410285,
+        0.3669724770642202
       ]
     },
     {
@@ -34301,8 +34301,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        24,
-        852
+        0.378803777544596,
+        0.805045871559633
       ]
     },
     {
@@ -34311,8 +34311,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        3,
-        189
+        0.19412381951731375,
+        0.34174311926605505
       ]
     },
     {
@@ -34321,8 +34321,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        8,
-        233
+        0.16998950682056663,
+        0.3256880733944954
       ]
     },
     {
@@ -34331,8 +34331,8 @@ const features =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        14,
-        1005
+        0.1794333683105981,
+        0.24311926605504589
       ]
     },
     {
@@ -34341,8 +34341,8 @@ const features =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        18,
-        549
+        0.1311647429171039,
+        0.13073394495412843
       ]
     },
     {
@@ -34351,8 +34351,8 @@ const features =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        11,
-        649
+        0.17733473242392445,
+        0.23394495412844038
       ]
     },
     {
@@ -34361,8 +34361,8 @@ const features =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        10,
-        367
+        0.16369359916054566,
+        0.5596330275229358
       ]
     },
     {
@@ -34371,8 +34371,8 @@ const features =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        22,
-        772
+        0.20461699895068206,
+        0.22018348623853212
       ]
     },
     {
@@ -34381,8 +34381,8 @@ const features =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        8,
-        1147
+        0.28541448058761804,
+        0.5229357798165137
       ]
     },
     {
@@ -34391,8 +34391,8 @@ const features =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        3,
-        269
+        0.15424973767051417,
+        0.27293577981651373
       ]
     },
     {
@@ -34401,8 +34401,8 @@ const features =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        2,
-        242
+        0.11542497376705142,
+        0.26146788990825687
       ]
     },
     {
@@ -34411,8 +34411,8 @@ const features =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        6,
-        601
+        0.17523609653725078,
+        0.5091743119266054
       ]
     },
     {
@@ -34421,8 +34421,8 @@ const features =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        8,
-        459
+        0.21406086044071354,
+        0.1559633027522936
       ]
     },
     {
@@ -34431,8 +34431,8 @@ const features =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        31,
-        1800
+        0.2497376705141658,
+        0.48394495412844035
       ]
     },
     {
@@ -34441,8 +34441,8 @@ const features =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        7,
-        517
+        0.08499475341028331,
+        0.5665137614678899
       ]
     },
     {
@@ -34451,8 +34451,8 @@ const features =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        44,
-        1455
+        0.27911857292759706,
+        0.3738532110091743
       ]
     },
     {
@@ -34461,8 +34461,8 @@ const features =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        11,
-        888
+        0.11962224554039874,
+        0.5802752293577982
       ]
     },
     {
@@ -34471,8 +34471,8 @@ const features =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        11,
-        764
+        0.0776495278069255,
+        0.5779816513761468
       ]
     },
     {
@@ -34481,8 +34481,8 @@ const features =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        9,
-        408
+        0.13326337880377753,
+        0.286697247706422
       ]
     },
     {
@@ -34491,8 +34491,8 @@ const features =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        9,
-        1888
+        0.3651626442812172,
+        0.3761467889908257
       ]
     },
     {
@@ -34501,8 +34501,8 @@ const features =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        4,
-        747
+        0.2161594963273872,
+        0.13073394495412843
       ]
     },
     {
@@ -34511,8 +34511,8 @@ const features =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        11,
-        1526
+        0.22875131164742918,
+        0.6215596330275229
       ]
     },
     {
@@ -34521,8 +34521,8 @@ const features =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        8,
-        959
+        0.19517313746065057,
+        0.5802752293577982
       ]
     },
     {
@@ -34531,8 +34531,8 @@ const features =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        13,
-        1962
+        0.21511017838405036,
+        0.2798165137614679
       ]
     },
     {
@@ -34541,8 +34541,8 @@ const features =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        21,
-        2549
+        0.22560335781741866,
+        0.6146788990825688
       ]
     },
     {
@@ -34551,8 +34551,8 @@ const features =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        5,
-        1001
+        0.1689401888772298,
+        0.32339449541284404
       ]
     },
     {
@@ -34561,8 +34561,8 @@ const features =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        2,
-        379
+        0.08289611752360965,
+        0.1811926605504587
       ]
     },
     {
@@ -34571,8 +34571,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        5,
-        500
+        0.32633788037775446,
+        0.25229357798165136
       ]
     },
     {
@@ -34581,8 +34581,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        3,
-        389
+        0.25603357817418676,
+        0.2958715596330275
       ]
     },
     {
@@ -34591,8 +34591,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        7,
-        571
+        0.23924449108079748,
+        0.7362385321100917
       ]
     },
     {
@@ -34601,8 +34601,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        3,
-        306
+        0.2518363064008394,
+        0.7362385321100917
       ]
     },
     {
@@ -34611,8 +34611,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        9,
-        330
+        0.18467995802728226,
+        0.231651376146789
       ]
     },
     {
@@ -34621,8 +34621,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        9,
-        482
+        0.2990556138509968,
+        0.2798165137614679
       ]
     },
     {
@@ -34631,8 +34631,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        17,
-        282
+        0.2969569779643232,
+        0.5275229357798165
       ]
     },
     {
@@ -34641,8 +34641,8 @@ const features =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        9,
-        360
+        0.4092339979013641,
+        0.37844036697247707
       ]
     },
     {
@@ -34651,8 +34651,8 @@ const features =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        18,
-        2068
+        0.3777544596012592,
+        0.3256880733944954
       ]
     },
     {
@@ -34661,8 +34661,8 @@ const features =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        13,
-        1021
+        0.24763903462749212,
+        0.25
       ]
     },
     {
@@ -34671,8 +34671,8 @@ const features =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        36,
-        1692
+        0.40398740818467993,
+        0.8532110091743119
       ]
     },
     {
@@ -34681,8 +34681,8 @@ const features =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        80,
-        1769
+        0.40293809024134314,
+        0.8669724770642202
       ]
     },
     {
@@ -34691,8 +34691,8 @@ const features =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        23,
-        1002
+        0.3441762854144806,
+        0.463302752293578
       ]
     },
     {
@@ -34701,8 +34701,8 @@ const features =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        6,
-        527
+        0.11227701993704092,
+        0.5298165137614679
       ]
     },
     {
@@ -34711,8 +34711,8 @@ const features =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        3,
-        399
+        0.14480587618048268,
+        0.46788990825688076
       ]
     },
     {
@@ -34721,8 +34721,8 @@ const features =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        13,
-        706
+        0.11122770199370409,
+        0.37155963302752293
       ]
     },
     {
@@ -34731,8 +34731,8 @@ const features =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        7,
-        1215
+        0.18467995802728226,
+        0.12385321100917432
       ]
     },
     {
@@ -34741,8 +34741,8 @@ const features =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        14,
-        908
+        0.18572927597061908,
+        0.2706422018348624
       ]
     },
     {
@@ -34751,8 +34751,8 @@ const features =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        1,
-        160
+        0.0944386149003148,
+        0.3073394495412844
       ]
     },
     {
@@ -34761,8 +34761,8 @@ const features =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        18,
-        1466
+        0.2025183630640084,
+        0.3073394495412844
       ]
     },
     {
@@ -34771,8 +34771,8 @@ const features =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        10,
-        1060
+        0.2402938090241343,
+        0.2545871559633027
       ]
     },
     {
@@ -34781,8 +34781,8 @@ const features =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        4,
-        441
+        0.2161594963273872,
+        0.10779816513761468
       ]
     },
     {
@@ -34791,8 +34791,8 @@ const features =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        3,
-        292
+        0.00944386149003148,
+        0.2889908256880734
       ]
     },
     {
@@ -34801,8 +34801,8 @@ const features =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        2,
-        139
+        0.09968520461699895,
+        0.19036697247706422
       ]
     },
     {
@@ -34811,8 +34811,8 @@ const features =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        4,
-        877
+        0.23084994753410285,
+        0.28211009174311924
       ]
     },
     {
@@ -34821,8 +34821,8 @@ const features =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        2,
-        435
+        0.1825813221406086,
+        0.17660550458715596
       ]
     },
     {
@@ -34831,8 +34831,8 @@ const features =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        6,
-        354
+        0.05876180482686254,
+        0.28440366972477066
       ]
     },
     {
@@ -34841,8 +34841,8 @@ const features =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        2,
-        656
+        0.10073452256033578,
+        0.5481651376146789
       ]
     },
     {
@@ -34851,8 +34851,8 @@ const features =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        14,
-        1063
+        0.20146904512067157,
+        0.4197247706422018
       ]
     },
     {
@@ -34861,8 +34861,8 @@ const features =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        8,
-        1412
+        0.10598111227701994,
+        0.5825688073394495
       ]
     },
     {
@@ -34871,8 +34871,8 @@ const features =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        4,
-        394
+        0.015739769150052464,
+        0.3623853211009174
       ]
     },
     {
@@ -34881,8 +34881,8 @@ const features =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        3,
-        426
+        0.11122770199370409,
+        0.27522935779816515
       ]
     },
     {
@@ -34891,8 +34891,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        3,
-        201
+        0.2969569779643232,
+        0.3853211009174312
       ]
     },
     {
@@ -34901,8 +34901,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        3,
-        127
+        0.2497376705141658,
+        0.2775229357798165
       ]
     },
     {
@@ -34911,8 +34911,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        6,
-        378
+        0.2497376705141658,
+        0.7178899082568807
       ]
     },
     {
@@ -34921,8 +34921,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        17,
-        664
+        0.2906610703043022,
+        0.8394495412844036
       ]
     },
     {
@@ -34931,8 +34931,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        14,
-        366
+        0.18363064008394545,
+        0.32798165137614677
       ]
     },
     {
@@ -34941,8 +34941,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        6,
-        343
+        0.31584470094438616,
+        0.5596330275229358
       ]
     },
     {
@@ -34951,8 +34951,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        3,
-        114
+        0.15949632738719832,
+        0.30504587155963303
       ]
     },
     {
@@ -34961,8 +34961,8 @@ const features =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        2,
-        49
+        0.13955928646379853,
+        0.43119266055045874
       ]
     },
     {
@@ -34971,8 +34971,8 @@ const features =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        9,
-        819
+        0.3011542497376705,
+        0.18577981651376146
       ]
     },
     {
@@ -34981,8 +34981,8 @@ const features =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        14,
-        500
+        0.27911857292759706,
+        0.18577981651376146
       ]
     },
     {
@@ -34991,8 +34991,8 @@ const features =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        9,
-        427
+        0.2025183630640084,
+        0.4610091743119266
       ]
     },
     {
@@ -35001,8 +35001,8 @@ const features =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        12,
-        574
+        0.28436516264428124,
+        0.731651376146789
       ]
     },
     {
@@ -35011,8 +35011,8 @@ const features =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        14,
-        891
+        0.19412381951731375,
+        0.30275229357798167
       ]
     },
     {
@@ -35021,8 +35021,8 @@ const features =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        27,
-        1170
+        0.15424973767051417,
+        0.7247706422018348
       ]
     },
     {
@@ -35031,8 +35031,8 @@ const features =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        8,
-        375
+        0.10912906610703044,
+        0.4197247706422018
       ]
     },
     {
@@ -35041,8 +35041,8 @@ const features =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        3,
-        238
+        0.23399790136411333,
+        0.5298165137614679
       ]
     },
     {
@@ -35051,8 +35051,8 @@ const features =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        10,
-        1445
+        0.31374606505771246,
+        0.20871559633027523
       ]
     },
     {
@@ -35061,8 +35061,8 @@ const features =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        18,
-        1805
+        0.33997901364113325,
+        0.3623853211009174
       ]
     },
     {
@@ -35071,8 +35071,8 @@ const features =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        16,
-        1856
+        0.2602308499475341,
+        0.6628440366972477
       ]
     },
     {
@@ -35081,8 +35081,8 @@ const features =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        12,
-        1161
+        0.2465897166841553,
+        0.7064220183486238
       ]
     },
     {
@@ -35091,8 +35091,8 @@ const features =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        8,
-        1226
+        0.229800629590766,
+        0.27522935779816515
       ]
     },
     {
@@ -35101,8 +35101,8 @@ const features =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        14,
-        1833
+        0.2864637985309549,
+        0.6720183486238532
       ]
     },
     {
@@ -35111,8 +35111,8 @@ const features =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        6,
-        1006
+        0.30640083945435465,
+        0.6215596330275229
       ]
     },
     {
@@ -35121,8 +35121,8 @@ const features =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        9,
-        913
+        0.2738719832109129,
+        0.5091743119266054
       ]
     },
     {
@@ -35131,8 +35131,8 @@ const features =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        7,
-        249
+        0.2623294858342078,
+        0.38073394495412843
       ]
     },
     {
@@ -35141,8 +35141,8 @@ const features =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        3,
-        190
+        0.23294858342077648,
+        0.3073394495412844
       ]
     },
     {
@@ -35151,8 +35151,8 @@ const features =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        8,
-        381
+        0.24449108079748164,
+        0.5756880733944955
       ]
     },
     {
@@ -35161,8 +35161,8 @@ const features =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        9,
-        138
+        0.22560335781741866,
+        0.7362385321100917
       ]
     },
     {
@@ -35171,8 +35171,8 @@ const features =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        12,
-        208
+        0.23504721930745015,
+        0.4013761467889908
       ]
     },
     {
@@ -35181,8 +35181,8 @@ const features =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        7,
-        296
+        0.31374606505771246,
+        0.31422018348623854
       ]
     },
     {
@@ -35191,8 +35191,8 @@ const features =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        7,
-        278
+        0.22455403987408185,
+        0.6169724770642202
       ]
     },
     {
@@ -35201,8 +35201,8 @@ const features =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        7,
-        132
+        0.18153200419727178,
+        0.42660550458715596
       ]
     },
     {
@@ -35211,8 +35211,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        9,
-        508
+        0.291710388247639,
+        0.37155963302752293
       ]
     },
     {
@@ -35221,8 +35221,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        16,
-        473
+        0.25813221406086045,
+        0.26605504587155965
       ]
     },
     {
@@ -35231,8 +35231,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        18,
-        551
+        0.3252885624344176,
+        0.5665137614678899
       ]
     },
     {
@@ -35241,8 +35241,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        11,
-        608
+        0.3273871983210913,
+        0.8394495412844036
       ]
     },
     {
@@ -35251,8 +35251,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        13,
-        521
+        0.30849947534102834,
+        0.4724770642201835
       ]
     },
     {
@@ -35261,8 +35261,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        9,
-        385
+        0.3357817418677859,
+        0.3119266055045872
       ]
     },
     {
@@ -35271,8 +35271,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        1,
-        205
+        0.30640083945435465,
+        0.05504587155963303
       ]
     },
     {
@@ -35281,8 +35281,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        16,
-        262
+        0.1993704092339979,
+        0.49770642201834864
       ]
     },
     {
@@ -35291,8 +35291,8 @@ const features =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        10,
-        1139
+        0.2969569779643232,
+        0.2775229357798165
       ]
     },
     {
@@ -35301,8 +35301,8 @@ const features =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        13,
-        539
+        0.19622245540398742,
+        0.1720183486238532
       ]
     },
     {
@@ -35311,8 +35311,8 @@ const features =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        13,
-        428
+        0.24763903462749212,
+        0.4954128440366973
       ]
     },
     {
@@ -35321,8 +35321,8 @@ const features =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        4,
-        276
+        0.24554039874081846,
+        0.7110091743119266
       ]
     },
     {
@@ -35331,8 +35331,8 @@ const features =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        20,
-        495
+        0.20461699895068206,
+        0.49311926605504586
       ]
     },
     {
@@ -35341,8 +35341,8 @@ const features =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        11,
-        904
+        0.316894018887723,
+        0.6123853211009175
       ]
     },
     {
@@ -35351,8 +35351,8 @@ const features =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        10,
-        401
+        0.14060860440713535,
+        0.37844036697247707
       ]
     },
     {
@@ -35361,8 +35361,8 @@ const features =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        24,
-        605
+        0.13746065057712487,
+        0.3555045871559633
       ]
     },
     {
@@ -35371,8 +35371,8 @@ const features =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        1,
-        191
+        0.1248688352570829,
+        0.48853211009174313
       ]
     },
     {
@@ -35381,8 +35381,8 @@ const features =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        1,
-        424
+        0.33473242392444913,
+        0.713302752293578
       ]
     },
     {
@@ -35391,8 +35391,8 @@ const features =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        4,
-        94
+        0.22875131164742918,
+        0.3876146788990826
       ]
     },
     {
@@ -35401,8 +35401,8 @@ const features =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        1,
-        228
+        0.3200419727177335,
+        0.518348623853211
       ]
     },
     {
@@ -35411,8 +35411,8 @@ const features =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        1,
-        247
+        0.30325288562434416,
+        0.7247706422018348
       ]
     },
     {
@@ -35421,8 +35421,8 @@ const features =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        8,
-        271
+        0.2088142707240294,
+        0.7408256880733946
       ]
     },
     {
@@ -35431,8 +35431,8 @@ const features =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        1,
-        103
+        0.18572927597061908,
+        0.5871559633027523
       ]
     },
     {
@@ -35441,8 +35441,8 @@ const features =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        2,
-        90
+        0.18467995802728226,
+        0.6353211009174312
       ]
     },
     {
@@ -35451,8 +35451,8 @@ const features =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        3,
-        292
+        0.22350472193074503,
+        0.20871559633027523
       ]
     },
     {
@@ -35461,8 +35461,8 @@ const features =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        3,
-        222
+        0.20146904512067157,
+        0.18577981651376146
       ]
     },
     {
@@ -35471,8 +35471,8 @@ const features =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        3,
-        337
+        0.12906610703043023,
+        0.3853211009174312
       ]
     },
     {
@@ -35481,8 +35481,8 @@ const features =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        1,
-        277
+        0.1825813221406086,
+        0.5756880733944955
       ]
     },
     {
@@ -35491,8 +35491,8 @@ const features =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        7,
-        251
+        0.2623294858342078,
+        0.3348623853211009
       ]
     },
     {
@@ -35501,8 +35501,8 @@ const features =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        8,
-        370
+        0.3001049317943337,
+        0.5504587155963303
       ]
     },
     {
@@ -35511,8 +35511,8 @@ const features =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        5,
-        166
+        0.1353620146904512,
+        0.48853211009174313
       ]
     },
     {
@@ -35521,8 +35521,8 @@ const features =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        7,
-        196
+        0.1731374606505771,
+        0.3669724770642202
       ]
     },
     {
@@ -35531,8 +35531,8 @@ const features =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        8,
-        556
+        0.27177334732423925,
+        0.1926605504587156
       ]
     },
     {
@@ -35541,8 +35541,8 @@ const features =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        7,
-        529
+        0.08814270724029381,
+        0.21330275229357798
       ]
     },
     {
@@ -35551,8 +35551,8 @@ const features =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        10,
-        614
+        0.155299055613851,
+        0.47706422018348627
       ]
     },
     {
@@ -35561,8 +35561,8 @@ const features =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        14,
-        959
+        0.25603357817418676,
+        0.6169724770642202
       ]
     },
     {
@@ -35571,8 +35571,8 @@ const features =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        30,
-        1188
+        0.2759706190975866,
+        0.3486238532110092
       ]
     },
     {
@@ -35581,8 +35581,8 @@ const features =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        18,
-        828
+        0.19202518363064008,
+        0.5344036697247706
       ]
     },
     {
@@ -35591,8 +35591,8 @@ const features =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        13,
-        889
+        0.2088142707240294,
+        0.555045871559633
       ]
     },
     {
@@ -35601,8 +35601,8 @@ const features =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        5,
-        617
+        0.2623294858342078,
+        0.5756880733944955
       ]
     },
     {
@@ -35611,8 +35611,8 @@ const features =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        4,
-        532
+        0.2738719832109129,
+        0.24770642201834864
       ]
     },
     {
@@ -35621,8 +35621,8 @@ const features =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        2,
-        312
+        0.15739769150052466,
+        0.48394495412844035
       ]
     },
     {
@@ -35631,8 +35631,8 @@ const features =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        15,
-        942
+        0.25918153200419725,
+        0.6169724770642202
       ]
     },
     {
@@ -35641,8 +35641,8 @@ const features =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        1,
-        370
+        0.16369359916054566,
+        0.7431192660550459
       ]
     },
     {
@@ -35651,8 +35651,8 @@ const features =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        22,
-        582
+        0.24763903462749212,
+        0.33715596330275227
       ]
     },
     {
@@ -35661,8 +35661,8 @@ const features =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        12,
-        815
+        0.1720881427072403,
+        0.7660550458715596
       ]
     },
     {
@@ -35671,8 +35671,8 @@ const features =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        4,
-        266
+        0.09338929695697797,
+        0.7110091743119266
       ]
     },
     {
@@ -35681,8 +35681,8 @@ const features =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        4,
-        166
+        0.25078698845750264,
+        0.43119266055045874
       ]
     },
     {
@@ -35691,8 +35691,8 @@ const features =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        6,
-        439
+        0.3704092339979014,
+        0.5619266055045872
       ]
     },
     {
@@ -35701,8 +35701,8 @@ const features =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        12,
-        182
+        0.25813221406086045,
+        0.22477064220183487
       ]
     },
     {
@@ -35711,8 +35711,8 @@ const features =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        23,
-        443
+        0.3305351521511018,
+        0.5802752293577982
       ]
     },
     {
@@ -35721,8 +35721,8 @@ const features =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        3,
-        468
+        0.35571878279118574,
+        0.786697247706422
       ]
     },
     {
@@ -35731,8 +35731,8 @@ const features =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        22,
-        294
+        0.3210912906610703,
+        0.6628440366972477
       ]
     },
     {
@@ -35741,8 +35741,8 @@ const features =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        14,
-        373
+        0.3683105981112277,
+        0.7339449541284404
       ]
     },
     {
@@ -35751,8 +35751,8 @@ const features =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        12,
-        197
+        0.3441762854144806,
+        0.7155963302752294
       ]
     },
     {
@@ -35761,8 +35761,8 @@ const features =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        9,
-        234
+        0.22350472193074503,
+        0.6536697247706422
       ]
     },
     {
@@ -35771,8 +35771,8 @@ const features =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        8,
-        700
+        0.2812172088142707,
+        0.37155963302752293
       ]
     },
     {
@@ -35781,8 +35781,8 @@ const features =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        13,
-        475
+        0.22560335781741866,
+        0.3623853211009174
       ]
     },
     {
@@ -35791,8 +35791,8 @@ const features =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        3,
-        325
+        0.19097586568730326,
+        0.6100917431192661
       ]
     },
     {
@@ -35801,8 +35801,8 @@ const features =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        5,
-        212
+        0.316894018887723,
+        0.7545871559633027
       ]
     },
     {
@@ -35811,8 +35811,8 @@ const features =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        24,
-        1501
+        0.3620146904512067,
+        0.8027522935779816
       ]
     },
     {
@@ -35821,8 +35821,8 @@ const features =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        14,
-        914
+        0.34522560335781743,
+        0.2889908256880734
       ]
     },
     {
@@ -35831,8 +35831,8 @@ const features =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        10,
-        469
+        0.053515215110178385,
+        0.5573394495412844
       ]
     },
     {
@@ -35841,8 +35841,8 @@ const features =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        15,
-        547
+        0.2497376705141658,
+        0.5642201834862385
       ]
     },
     {
@@ -35851,8 +35851,8 @@ const features =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        8,
-        506
+        0.2801678908709339,
+        0.2018348623853211
       ]
     },
     {
@@ -35861,8 +35861,8 @@ const features =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        8,
-        263
+        0.14795383001049317,
+        0.13990825688073394
       ]
     },
     {
@@ -35871,8 +35871,8 @@ const features =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        8,
-        494
+        0.1626442812172088,
+        0.23394495412844038
       ]
     },
     {
@@ -35881,8 +35881,8 @@ const features =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        7,
-        123
+        0.046169989506820566,
+        0.24541284403669725
       ]
     },
     {
@@ -35891,8 +35891,8 @@ const features =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        14,
-        410
+        0.1322140608604407,
+        0.231651376146789
       ]
     },
     {
@@ -35901,8 +35901,8 @@ const features =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        19,
-        583
+        0.1930745015739769,
+        0.30504587155963303
       ]
     },
     {
@@ -35911,8 +35911,8 @@ const features =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        11,
-        345
+        0.16789087093389296,
+        0.22477064220183487
       ]
     },
     {
@@ -35921,8 +35921,8 @@ const features =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        7,
-        267
+        0.18572927597061908,
+        0.3967889908256881
       ]
     },
     {
@@ -35931,8 +35931,8 @@ const features =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        18,
-        368
+        0.30220356768100737,
+        0.5940366972477065
       ]
     },
     {
@@ -35941,8 +35941,8 @@ const features =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        5,
-        146
+        0.22770199370409233,
+        0.24541284403669725
       ]
     },
     {
@@ -35951,8 +35951,8 @@ const features =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        5,
-        272
+        0.1385099685204617,
+        0.3922018348623853
       ]
     },
     {
@@ -35961,8 +35961,8 @@ const features =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        4,
-        184
+        0.2130115424973767,
+        0.6032110091743119
       ]
     },
     {
@@ -35971,8 +35971,8 @@ const features =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        18,
-        248
+        0.2518363064008394,
+        0.3876146788990826
       ]
     },
     {
@@ -35981,8 +35981,8 @@ const features =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        1,
-        244
+        0.16369359916054566,
+        0.44724770642201833
       ]
     },
     {
@@ -35991,8 +35991,8 @@ const features =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        3,
-        154
+        0.12801678908709338,
+        0.591743119266055
       ]
     },
     {
@@ -36001,8 +36001,8 @@ const features =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        5,
-        211
+        0.12801678908709338,
+        0.3440366972477064
       ]
     },
     {
@@ -36011,8 +36011,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        86,
-        6592
+        0.3777544596012592,
+        0.48394495412844035
       ]
     },
     {
@@ -36021,8 +36021,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        33,
-        1959
+        0.36935991605456453,
+        0.5229357798165137
       ]
     },
     {
@@ -36031,8 +36031,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        30,
-        1750
+        0.26652675760755506,
+        0.5045871559633027
       ]
     },
     {
@@ -36041,8 +36041,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        36,
-        2418
+        0.3252885624344176,
+        0.7889908256880734
       ]
     },
     {
@@ -36051,8 +36051,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        64,
-        2975
+        0.32214060860440713,
+        0.5275229357798165
       ]
     },
     {
@@ -36061,8 +36061,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        30,
-        2170
+        0.18467995802728226,
+        0.7981651376146789
       ]
     },
     {
@@ -36071,8 +36071,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        12,
-        1250
+        0.3378803777544596,
+        0.5344036697247706
       ]
     },
     {
@@ -36081,8 +36081,8 @@ const features =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        22,
-        1619
+        0.23294858342077648,
+        0.5435779816513762
       ]
     },
     {
@@ -36091,8 +36091,8 @@ const features =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        7,
-        321
+        0.3116474291710388,
+        0.29357798165137616
       ]
     },
     {
@@ -36101,8 +36101,8 @@ const features =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        6,
-        273
+        0.20146904512067157,
+        0.13990825688073394
       ]
     },
     {
@@ -36111,8 +36111,8 @@ const features =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        13,
-        379
+        0.23504721930745015,
+        0.5642201834862385
       ]
     },
     {
@@ -36121,8 +36121,8 @@ const features =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        3,
-        181
+        0.22245540398740818,
+        0.6743119266055045
       ]
     },
     {
@@ -36131,8 +36131,8 @@ const features =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        5,
-        166
+        0.26128016789087094,
+        0.3669724770642202
       ]
     },
     {
@@ -36141,8 +36141,8 @@ const features =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        7,
-        393
+        0.18572927597061908,
+        0.3463302752293578
       ]
     },
     {
@@ -36151,8 +36151,8 @@ const features =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        2,
-        164
+        0.03987408184679958,
+        0.6376146788990825
       ]
     },
     {
@@ -36161,8 +36161,8 @@ const features =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        3,
-        123
+        0.18992654774396642,
+        0.44724770642201833
       ]
     },
     {
@@ -36171,8 +36171,8 @@ const features =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        5,
-        474
+        0.3252885624344176,
+        0.3577981651376147
       ]
     },
     {
@@ -36181,8 +36181,8 @@ const features =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        5,
-        418
+        0.3126967471143757,
+        0.43119266055045874
       ]
     },
     {
@@ -36191,8 +36191,8 @@ const features =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        17,
-        558
+        0.2570828961175236,
+        0.6192660550458715
       ]
     },
     {
@@ -36201,8 +36201,8 @@ const features =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        3,
-        272
+        0.3147953830010493,
+        0.7614678899082569
       ]
     },
     {
@@ -36211,8 +36211,8 @@ const features =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        13,
-        558
+        0.3389296956977964,
+        0.536697247706422
       ]
     },
     {
@@ -36221,8 +36221,8 @@ const features =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        7,
-        610
+        0.33997901364113325,
+        0.8463302752293578
       ]
     },
     {
@@ -36231,8 +36231,8 @@ const features =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        8,
-        367
+        0.2707240293809024,
+        0.6605504587155964
       ]
     },
     {
@@ -36241,8 +36241,8 @@ const features =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        12,
-        317
+        0.27492130115424973,
+        0.518348623853211
       ]
     },
     {
@@ -36251,8 +36251,8 @@ const features =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        4,
-        819
+        0.35257082896117525,
+        0.3348623853211009
       ]
     },
     {
@@ -36261,8 +36261,8 @@ const features =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        7,
-        667
+        0.26862539349422876,
+        0.33256880733944955
       ]
     },
     {
@@ -36271,8 +36271,8 @@ const features =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        5,
-        522
+        0.20041972717733472,
+        0.555045871559633
       ]
     },
     {
@@ -36281,8 +36281,8 @@ const features =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        6,
-        533
+        0.3147953830010493,
+        0.6330275229357798
       ]
     },
     {
@@ -36291,8 +36291,8 @@ const features =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        19,
-        1124
+        0.24763903462749212,
+        0.3830275229357798
       ]
     },
     {
@@ -36301,8 +36301,8 @@ const features =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        19,
-        2275
+        0.3252885624344176,
+        0.5619266055045872
       ]
     },
     {
@@ -36311,8 +36311,8 @@ const features =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        7,
-        469
+        0.3126967471143757,
+        0.022935779816513763
       ]
     },
     {
@@ -36321,8 +36321,8 @@ const features =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        24,
-        906
+        0.28751311647429173,
+        0.5527522935779816
       ]
     },
     {
@@ -36331,8 +36331,8 @@ const features =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        10,
-        575
+        0.2465897166841553,
+        0.26376146788990823
       ]
     },
     {
@@ -36341,8 +36341,8 @@ const features =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        3,
-        181
+        0.17418677859391396,
+        0.08256880733944955
       ]
     },
     {
@@ -36351,8 +36351,8 @@ const features =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        12,
-        431
+        0.19412381951731375,
+        0.29128440366972475
       ]
     },
     {
@@ -36361,8 +36361,8 @@ const features =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        5,
-        519
+        0.3756558237145855,
+        0.6284403669724771
       ]
     },
     {
@@ -36371,8 +36371,8 @@ const features =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        12,
-        458
+        0.2465897166841553,
+        0.3669724770642202
       ]
     },
     {
@@ -36381,8 +36381,8 @@ const features =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        15,
-        775
+        0.3651626442812172,
+        0.29128440366972475
       ]
     },
     {
@@ -36391,8 +36391,8 @@ const features =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        9,
-        476
+        0.05771248688352571,
+        0.5068807339449541
       ]
     },
     {
@@ -36401,8 +36401,8 @@ const features =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        2,
-        362
+        0.3011542497376705,
+        0.5458715596330275
       ]
     },
     {
@@ -36411,8 +36411,8 @@ const features =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        10,
-        1146
+        0.3284365162644281,
+        0.2408256880733945
       ]
     },
     {
@@ -36421,8 +36421,8 @@ const features =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        8,
-        578
+        0.2990556138509968,
+        0.23394495412844038
       ]
     },
     {
@@ -36431,8 +36431,8 @@ const features =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        6,
-        348
+        0.20776495278069254,
+        0.6422018348623854
       ]
     },
     {
@@ -36441,8 +36441,8 @@ const features =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        3,
-        188
+        0.20146904512067157,
+        0.4610091743119266
       ]
     },
     {
@@ -36451,8 +36451,8 @@ const features =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        7,
-        460
+        0.2707240293809024,
+        0.268348623853211
       ]
     },
     {
@@ -36461,8 +36461,8 @@ const features =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        8,
-        876
+        0.32948583420776495,
+        0.5229357798165137
       ]
     },
     {
@@ -36471,8 +36471,8 @@ const features =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        7,
-        381
+        0.1888772298006296,
+        0.5481651376146789
       ]
     },
     {
@@ -36481,8 +36481,8 @@ const features =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        34,
-        830
+        0.21825813221406087,
+        0.39908256880733944
       ]
     },
     {
@@ -36491,8 +36491,8 @@ const features =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        16,
-        607
+        0.36621196222455404,
+        0.39908256880733944
       ]
     },
     {
@@ -36501,8 +36501,8 @@ const features =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        5,
-        542
+        0.2938090241343127,
+        0.33256880733944955
       ]
     },
     {
@@ -36511,8 +36511,8 @@ const features =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        15,
-        303
+        0.2528856243441763,
+        0.2958715596330275
       ]
     },
     {
@@ -36521,8 +36521,8 @@ const features =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        6,
-        336
+        0.161594963273872,
+        0.5068807339449541
       ]
     },
     {
@@ -36531,8 +36531,8 @@ const features =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        14,
-        342
+        0.25813221406086045,
+        0.37844036697247707
       ]
     },
     {
@@ -36541,8 +36541,8 @@ const features =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        4,
-        232
+        0.33683105981112277,
+        0.6536697247706422
       ]
     },
     {
@@ -36551,8 +36551,8 @@ const features =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        5,
-        218
+        0.1080797481636936,
+        0.5894495412844036
       ]
     },
     {
@@ -36561,8 +36561,8 @@ const features =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        3,
-        67
+        0.20356768100734524,
+        0.5022935779816514
       ]
     },
     {
@@ -36571,8 +36571,8 @@ const features =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        4,
-        718
+        0.26128016789087094,
+        0.16972477064220184
       ]
     },
     {
@@ -36581,8 +36581,8 @@ const features =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        2,
-        772
+        0.27911857292759706,
+        0.1444954128440367
       ]
     },
     {
@@ -36591,8 +36591,8 @@ const features =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        20,
-        1335
+        0.3955928646379853,
+        0.6605504587155964
       ]
     },
     {
@@ -36601,8 +36601,8 @@ const features =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        18,
-        2013
+        0.2602308499475341,
+        0.841743119266055
       ]
     },
     {
@@ -36611,8 +36611,8 @@ const features =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        23,
-        1132
+        0.2203567681007345,
+        0.3853211009174312
       ]
     },
     {
@@ -36621,8 +36621,8 @@ const features =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        16,
-        1199
+        0.17733473242392445,
+        0.5321100917431193
       ]
     },
     {
@@ -36631,8 +36631,8 @@ const features =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        12,
-        788
+        0.23504721930745015,
+        0.4288990825688073
       ]
     },
     {
@@ -36641,8 +36641,8 @@ const features =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        15,
-        354
+        0.20041972717733472,
+        0.46559633027522934
       ]
     },
     {
@@ -36651,8 +36651,8 @@ const features =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        6,
-        716
+        0.22770199370409233,
+        0.1926605504587156
       ]
     },
     {
@@ -36661,8 +36661,8 @@ const features =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        22,
-        678
+        0.24134312696747115,
+        0.3738532110091743
       ]
     },
     {
@@ -36671,8 +36671,8 @@ const features =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        10,
-        445
+        0.27492130115424973,
+        0.4036697247706422
       ]
     },
     {
@@ -36681,8 +36681,8 @@ const features =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        3,
-        259
+        0.18782791185729275,
+        0.47706422018348627
       ]
     },
     {
@@ -36691,8 +36691,8 @@ const features =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        15,
-        460
+        0.13011542497376705,
+        0.17889908256880735
       ]
     },
     {
@@ -36701,8 +36701,8 @@ const features =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        4,
-        517
+        0.2528856243441763,
+        0.13761467889908258
       ]
     },
     {
@@ -36711,8 +36711,8 @@ const features =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        5,
-        151
+        0.10598111227701994,
+        0.3623853211009174
       ]
     },
     {
@@ -36721,8 +36721,8 @@ const features =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        12,
-        173
+        0.15005246589716684,
+        0.27293577981651373
       ]
     },
     {
@@ -36731,8 +36731,8 @@ const features =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        11,
-        638
+        0.19412381951731375,
+        0.25
       ]
     },
     {
@@ -36741,8 +36741,8 @@ const features =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        14,
-        532
+        0.11647429171038824,
+        0.10550458715596331
       ]
     },
     {
@@ -36751,8 +36751,8 @@ const features =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        26,
-        898
+        0.23924449108079748,
+        0.658256880733945
       ]
     },
     {
@@ -36761,8 +36761,8 @@ const features =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        4,
-        552
+        0.21091290661070305,
+        0.6926605504587156
       ]
     },
     {
@@ -36771,8 +36771,8 @@ const features =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        17,
-        975
+        0.1993704092339979,
+        0.38073394495412843
       ]
     },
     {
@@ -36781,8 +36781,8 @@ const features =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        21,
-        907
+        0.06820566631689402,
+        0.5688073394495413
       ]
     },
     {
@@ -36791,8 +36791,8 @@ const features =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        8,
-        642
+        0.03672612801678909,
+        0.4334862385321101
       ]
     },
     {
@@ -36801,8 +36801,8 @@ const features =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        6,
-        283
+        0.12277019937040923,
+        0.2706422018348624
       ]
     },
     {
@@ -36811,8 +36811,8 @@ const features =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        17,
-        1168
+        0.30325288562434416,
+        0.22247706422018348
       ]
     },
     {
@@ -36821,8 +36821,8 @@ const features =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        8,
-        405
+        0.26862539349422876,
+        0.2981651376146789
       ]
     },
     {
@@ -36831,8 +36831,8 @@ const features =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        6,
-        527
+        0.22140608604407136,
+        0.6169724770642202
       ]
     },
     {
@@ -36841,8 +36841,8 @@ const features =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        2,
-        221
+        0.1657922350472193,
+        0.5779816513761468
       ]
     },
     {
@@ -36851,8 +36851,8 @@ const features =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        14,
-        487
+        0.21511017838405036,
+        0.3073394495412844
       ]
     },
     {
@@ -36861,8 +36861,8 @@ const features =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        7,
-        498
+        0.25918153200419725,
+        0.4701834862385321
       ]
     },
     {
@@ -36871,8 +36871,8 @@ const features =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        6,
-        152
+        0.22140608604407136,
+        0.6788990825688074
       ]
     },
     {
@@ -36881,8 +36881,8 @@ const features =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        4,
-        183
+        0.23399790136411333,
+        0.5527522935779816
       ]
     },
     {
@@ -36891,8 +36891,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        3,
-        294
+        0.15424973767051417,
+        0.5435779816513762
       ]
     },
     {
@@ -36901,8 +36901,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        6,
-        160
+        0.07974816369359916,
+        0.2775229357798165
       ]
     },
     {
@@ -36911,8 +36911,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        2,
-        455
+        0.1626442812172088,
+        0.26376146788990823
       ]
     },
     {
@@ -36921,8 +36921,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        2,
-        103
+        0.06820566631689402,
+        0.21330275229357798
       ]
     },
     {
@@ -36931,8 +36931,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        5,
-        390
+        0.23399790136411333,
+        0.3738532110091743
       ]
     },
     {
@@ -36941,8 +36941,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        7,
-        324
+        0.2938090241343127,
+        0.768348623853211
       ]
     },
     {
@@ -36951,8 +36951,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        3,
-        253
+        0.1080797481636936,
+        0.37844036697247707
       ]
     },
     {
@@ -36961,8 +36961,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        2,
-        120
+        0.229800629590766,
+        0.42201834862385323
       ]
     },
     {
@@ -36971,8 +36971,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        1,
-        151
+        0.32633788037775446,
+        0.5756880733944955
       ]
     },
     {
@@ -36981,8 +36981,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        1,
-        149
+        0.30640083945435465,
+        0.35091743119266056
       ]
     },
     {
@@ -36991,8 +36991,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        1,
-        142
+        0.24239244491080797,
+        0.29357798165137616
       ]
     },
     {
@@ -37001,8 +37001,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        3,
-        122
+        0.15005246589716684,
+        0.5275229357798165
       ]
     },
     {
@@ -37011,8 +37011,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        1,
-        169
+        0.20566631689401887,
+        0.5802752293577982
       ]
     },
     {
@@ -37021,8 +37021,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        1,
-        124
+        0.18048268625393493,
+        0.5619266055045872
       ]
     },
     {
@@ -37031,8 +37031,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        1,
-        214
+        0.34942287513116477,
+        0.8555045871559633
       ]
     },
     {
@@ -37041,8 +37041,8 @@ const features =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        1,
-        240
+        0.19097586568730326,
+        0.6697247706422018
       ]
     },
     {
@@ -37051,8 +37051,8 @@ const features =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        7,
-        674
+        0.2770199370409234,
+        0.18807339449541285
       ]
     },
     {
@@ -37061,8 +37061,8 @@ const features =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        3,
-        327
+        0.06295907660020986,
+        0.2545871559633027
       ]
     },
     {
@@ -37071,8 +37071,8 @@ const features =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        5,
-        294
+        0.14690451206715635,
+        0.27522935779816515
       ]
     },
     {
@@ -37081,8 +37081,8 @@ const features =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        3,
-        238
+        0.2203567681007345,
+        0.5825688073394495
       ]
     },
     {
@@ -37091,8 +37091,8 @@ const features =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        10,
-        301
+        0.1794333683105981,
+        0.22477064220183487
       ]
     },
     {
@@ -37101,8 +37101,8 @@ const features =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        9,
-        281
+        0.22770199370409233,
+        0.13761467889908258
       ]
     },
     {
@@ -37111,8 +37111,8 @@ const features =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        3,
-        203
+        0.023084994753410283,
+        0.29128440366972475
       ]
     },
     {
@@ -37121,8 +37121,8 @@ const features =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        14,
-        220
+        0.10283315844700944,
+        0.22247706422018348
       ]
     },
     {
@@ -37131,8 +37131,8 @@ const features =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        7,
-        416
+        0.1993704092339979,
+        0.1743119266055046
       ]
     },
     {
@@ -37141,8 +37141,8 @@ const features =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        4,
-        162
+        0.2728226652675761,
+        0.17889908256880735
       ]
     },
     {
@@ -37151,8 +37151,8 @@ const features =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        8,
-        243
+        0.21406086044071354,
+        0.5642201834862385
       ]
     },
     {
@@ -37161,8 +37161,8 @@ const features =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        3,
-        216
+        0.19202518363064008,
+        0.7821100917431193
       ]
     },
     {
@@ -37171,8 +37171,8 @@ const features =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        3,
-        457
+        0.3095487932843652,
+        0.5940366972477065
       ]
     },
     {
@@ -37181,8 +37181,8 @@ const features =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        1,
-        423
+        0.25813221406086045,
+        0.16972477064220184
       ]
     },
     {
@@ -37191,8 +37191,8 @@ const features =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        2,
-        259
+        0.03252885624344176,
+        0.7729357798165137
       ]
     },
     {
@@ -37201,8 +37201,8 @@ const features =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        8,
-        509
+        0.30535152151101785,
+        0.6788990825688074
       ]
     },
     {
@@ -37211,8 +37211,8 @@ const features =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        11,
-        966
+        0.3273871983210913,
+        0.2775229357798165
       ]
     },
     {
@@ -37221,8 +37221,8 @@ const features =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        7,
-        368
+        0.2885624344176285,
+        0.19036697247706422
       ]
     },
     {
@@ -37231,8 +37231,8 @@ const features =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        8,
-        422
+        0.24554039874081846,
+        0.5894495412844036
       ]
     },
     {
@@ -37241,8 +37241,8 @@ const features =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        5,
-        429
+        0.17628541448058763,
+        0.5298165137614679
       ]
     },
     {
@@ -37251,8 +37251,8 @@ const features =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        22,
-        668
+        0.27492130115424973,
+        0.32339449541284404
       ]
     },
     {
@@ -37261,8 +37261,8 @@ const features =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        12,
-        805
+        0.38405036726128017,
+        0.2408256880733945
       ]
     },
     {
@@ -37271,8 +37271,8 @@ const features =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        2,
-        323
+        0.17628541448058763,
+        0.5527522935779816
       ]
     },
     {
@@ -37281,8 +37281,8 @@ const features =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        16,
-        388
+        0.16998950682056663,
+        0.27522935779816515
       ]
     },
     {
@@ -37291,8 +37291,8 @@ const features =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        16,
-        791
+        0.2738719832109129,
+        0.20412844036697247
       ]
     },
     {
@@ -37301,8 +37301,8 @@ const features =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        8,
-        485
+        0.10388247639034627,
+        0.49770642201834864
       ]
     },
     {
@@ -37311,8 +37311,8 @@ const features =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        10,
-        371
+        0.2402938090241343,
+        0.36009174311926606
       ]
     },
     {
@@ -37321,8 +37321,8 @@ const features =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        4,
-        172
+        0.14795383001049317,
+        0.3853211009174312
       ]
     },
     {
@@ -37331,8 +37331,8 @@ const features =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        14,
-        308
+        0.18677859391395593,
+        0.31422018348623854
       ]
     },
     {
@@ -37341,8 +37341,8 @@ const features =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        13,
-        280
+        0.20041972717733472,
+        0.14678899082568808
       ]
     },
     {
@@ -37351,8 +37351,8 @@ const features =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        7,
-        173
+        0.026232948583420776,
+        0.3944954128440367
       ]
     },
     {
@@ -37361,8 +37361,8 @@ const features =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        18,
-        329
+        0.10703043022035677,
+        0.2591743119266055
       ]
     },
     {
@@ -37371,8 +37371,8 @@ const features =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        9,
-        1285
+        0.28541448058761804,
+        0.21100917431192662
       ]
     },
     {
@@ -37381,8 +37381,8 @@ const features =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        8,
-        980
+        0.22245540398740818,
+        0.15825688073394495
       ]
     },
     {
@@ -37391,8 +37391,8 @@ const features =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        24,
-        1711
+        0.2161594963273872,
+        0.38073394495412843
       ]
     },
     {
@@ -37401,8 +37401,8 @@ const features =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        11,
-        1420
+        0.3147953830010493,
+        0.8371559633027523
       ]
     },
     {
@@ -37411,8 +37411,8 @@ const features =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        20,
-        1301
+        0.23189926547743966,
+        0.30504587155963303
       ]
     },
     {
@@ -37421,8 +37421,8 @@ const features =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        21,
-        1674
+        0.23399790136411333,
+        0.6995412844036697
       ]
     },
     {
@@ -37431,8 +37431,8 @@ const features =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        15,
-        887
+        0.007345225603357817,
+        0.4793577981651376
       ]
     },
     {
@@ -37441,8 +37441,8 @@ const features =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        20,
-        1332
+        0.23819517313746066,
+        0.4610091743119266
       ]
     },
     {
@@ -37451,8 +37451,8 @@ const features =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        18,
-        1078
+        0.2812172088142707,
+        0.1651376146788991
       ]
     },
     {
@@ -37461,8 +37461,8 @@ const features =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        14,
-        504
+        0.2098635886673662,
+        0.2706422018348624
       ]
     },
     {
@@ -37471,8 +37471,8 @@ const features =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        14,
-        641
+        0.17103882476390347,
+        0.38990825688073394
       ]
     },
     {
@@ -37481,8 +37481,8 @@ const features =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        16,
-        625
+        0.39034627492130114,
+        0.7706422018348624
       ]
     },
     {
@@ -37491,8 +37491,8 @@ const features =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        30,
-        1284
+        0.3011542497376705,
+        0.45642201834862384
       ]
     },
     {
@@ -37501,8 +37501,8 @@ const features =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        9,
-        937
+        0.21196222455403987,
+        0.8119266055045872
       ]
     },
     {
@@ -37511,8 +37511,8 @@ const features =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        5,
-        453
+        0.25498426023084997,
+        0.5504587155963303
       ]
     },
     {
@@ -37521,8 +37521,8 @@ const features =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        10,
-        480
+        0.161594963273872,
+        0.3623853211009174
       ]
     },
     {
@@ -37531,8 +37531,8 @@ const features =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        6,
-        675
+        0.24239244491080797,
+        0.2408256880733945
       ]
     },
     {
@@ -37541,8 +37541,8 @@ const features =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        4,
-        529
+        0.2025183630640084,
+        0.21559633027522937
       ]
     },
     {
@@ -37551,8 +37551,8 @@ const features =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        8,
-        757
+        0.1626442812172088,
+        0.3532110091743119
       ]
     },
     {
@@ -37561,8 +37561,8 @@ const features =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        1,
-        563
+        0.12801678908709338,
+        0.48394495412844035
       ]
     },
     {
@@ -37571,8 +37571,8 @@ const features =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        11,
-        787
+        0.20671563483735572,
+        0.26146788990825687
       ]
     },
     {
@@ -37581,8 +37581,8 @@ const features =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        8,
-        1182
+        0.2738719832109129,
+        0.6077981651376146
       ]
     },
     {
@@ -37591,8 +37591,8 @@ const features =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        6,
-        395
+        0.16684155299055614,
+        0.536697247706422
       ]
     },
     {
@@ -37601,8 +37601,8 @@ const features =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        9,
-        903
+        0.22770199370409233,
+        0.45871559633027525
       ]
     },
     {
@@ -37611,8 +37611,8 @@ const features =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        8,
-        1561
+        0.30325288562434416,
+        0.3165137614678899
       ]
     },
     {
@@ -37621,8 +37621,8 @@ const features =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        7,
-        801
+        0.23084994753410285,
+        0.2408256880733945
       ]
     },
     {
@@ -37631,8 +37631,8 @@ const features =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        13,
-        1328
+        0.3357817418677859,
+        0.5229357798165137
       ]
     },
     {
@@ -37641,8 +37641,8 @@ const features =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        3,
-        973
+        0.28961175236096537,
+        0.6628440366972477
       ]
     },
     {
@@ -37651,8 +37651,8 @@ const features =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        11,
-        1063
+        0.2728226652675761,
+        0.481651376146789
       ]
     },
     {
@@ -37661,8 +37661,8 @@ const features =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        7,
-        897
+        0.32948583420776495,
+        0.34174311926605505
       ]
     },
     {
@@ -37671,8 +37671,8 @@ const features =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        4,
-        571
+        0.236096537250787,
+        0.5344036697247706
       ]
     },
     {
@@ -37681,8 +37681,8 @@ const features =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        14,
-        628
+        0.236096537250787,
+        0.5229357798165137
       ]
     },
     {
@@ -37691,8 +37691,8 @@ const features =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        23,
-        1474
+        0.3620146904512067,
+        0.20871559633027523
       ]
     },
     {
@@ -37701,8 +37701,8 @@ const features =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        3,
-        600
+        0.4018887722980063,
+        0.1628440366972477
       ]
     },
     {
@@ -37711,8 +37711,8 @@ const features =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        13,
-        1248
+        0.1416579223504722,
+        0.43119266055045874
       ]
     },
     {
@@ -37721,8 +37721,8 @@ const features =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        13,
-        1387
+        0.11437565582371459,
+        0.4036697247706422
       ]
     },
     {
@@ -37731,8 +37731,8 @@ const features =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        19,
-        1707
+        0.19832109129066108,
+        0.25688073394495414
       ]
     },
     {
@@ -37741,8 +37741,8 @@ const features =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        22,
-        2929
+        0.2539349422875131,
+        0.39908256880733944
       ]
     },
     {
@@ -37751,8 +37751,8 @@ const features =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        6,
-        468
+        0.025183630640083946,
+        0.3967889908256881
       ]
     },
     {
@@ -37761,8 +37761,8 @@ const features =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        29,
-        2516
+        0.3273871983210913,
+        0.8165137614678899
       ]
     },
     {
@@ -37771,8 +37771,8 @@ const features =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        18,
-        750
+        0.23084994753410285,
+        0.1743119266055046
       ]
     },
     {
@@ -37781,8 +37781,8 @@ const features =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        15,
-        613
+        0.21196222455403987,
+        0.1536697247706422
       ]
     },
     {
@@ -37791,8 +37791,8 @@ const features =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        30,
-        1512
+        0.2780692549842602,
+        0.40825688073394495
       ]
     },
     {
@@ -37801,8 +37801,8 @@ const features =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        5,
-        371
+        0.3546694648478489,
+        0.7431192660550459
       ]
     },
     {
@@ -37811,8 +37811,8 @@ const features =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        31,
-        1552
+        0.304302203567681,
+        0.37155963302752293
       ]
     },
     {
@@ -37821,8 +37821,8 @@ const features =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        8,
-        767
+        0.3830010493179433,
+        0.22018348623853212
       ]
     },
     {
@@ -37831,8 +37831,8 @@ const features =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        26,
-        1026
+        0.022035676810073453,
+        0.6559633027522935
       ]
     },
     {
@@ -37841,8 +37841,8 @@ const features =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        16,
-        708
+        0.29590766002098634,
+        0.5573394495412844
       ]
     },
     {
@@ -37851,8 +37851,8 @@ const features =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        6,
-        957
+        0.29485834207764955,
+        0.22935779816513763
       ]
     },
     {
@@ -37861,8 +37861,8 @@ const features =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        2,
-        497
+        0.1993704092339979,
+        0.19724770642201836
       ]
     },
     {
@@ -37871,8 +37871,8 @@ const features =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        16,
-        1209
+        0.25603357817418676,
+        0.6100917431192661
       ]
     },
     {
@@ -37881,8 +37881,8 @@ const features =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        6,
-        1010
+        0.11017838405036726,
+        0.6720183486238532
       ]
     },
     {
@@ -37891,8 +37891,8 @@ const features =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        15,
-        974
+        0.10703043022035677,
+        0.16743119266055045
       ]
     },
     {
@@ -37901,8 +37901,8 @@ const features =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        13,
-        1303
+        0.09024134312696747,
+        0.5389908256880734
       ]
     },
     {
@@ -37911,8 +37911,8 @@ const features =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        5,
-        374
+        0.00944386149003148,
+        0.2798165137614679
       ]
     },
     {
@@ -37921,8 +37921,8 @@ const features =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        15,
-        500
+        0.1825813221406086,
+        0.481651376146789
       ]
     },
     {
@@ -37931,8 +37931,8 @@ const features =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        6,
-        860
+        0.28226652675760755,
+        0.26376146788990823
       ]
     },
     {
@@ -37941,8 +37941,8 @@ const features =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        6,
-        369
+        0.21406086044071354,
+        0.19036697247706422
       ]
     },
     {
@@ -37951,8 +37951,8 @@ const features =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        9,
-        569
+        0.19622245540398742,
+        0.5435779816513762
       ]
     },
     {
@@ -37961,8 +37961,8 @@ const features =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        9,
-        436
+        0.22455403987408185,
+        0.6192660550458715
       ]
     },
     {
@@ -37971,8 +37971,8 @@ const features =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        21,
-        991
+        0.2780692549842602,
+        0.44495412844036697
       ]
     },
     {
@@ -37981,8 +37981,8 @@ const features =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        16,
-        1042
+        0.35991605456453307,
+        0.286697247706422
       ]
     },
     {
@@ -37991,8 +37991,8 @@ const features =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        7,
-        354
+        0.012591815320041973,
+        0.591743119266055
       ]
     },
     {
@@ -38001,8 +38001,8 @@ const features =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        16,
-        360
+        0.23924449108079748,
+        0.49311926605504586
       ]
     },
     {
@@ -38011,8 +38011,8 @@ const features =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        17,
-        785
+        0.23924449108079748,
+        0.3486238532110092
       ]
     },
     {
@@ -38021,8 +38021,8 @@ const features =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        14,
-        436
+        0.22455403987408185,
+        0.26146788990825687
       ]
     },
     {
@@ -38031,8 +38031,8 @@ const features =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        15,
-        480
+        0.08499475341028331,
+        0.3761467889908257
       ]
     },
     {
@@ -38041,8 +38041,8 @@ const features =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        7,
-        479
+        0.1626442812172088,
+        0.5275229357798165
       ]
     },
     {
@@ -38051,8 +38051,8 @@ const features =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        14,
-        695
+        0.2465897166841553,
+        0.2958715596330275
       ]
     },
     {
@@ -38061,8 +38061,8 @@ const features =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        11,
-        783
+        0.13955928646379853,
+        0.6628440366972477
       ]
     },
     {
@@ -38071,8 +38071,8 @@ const features =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        9,
-        356
+        0.022035676810073453,
+        0.591743119266055
       ]
     },
     {
@@ -38081,8 +38081,8 @@ const features =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        9,
-        330
+        0.2938090241343127,
+        0.6032110091743119
       ]
     },
     {
@@ -38091,8 +38091,8 @@ const features =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        11,
-        881
+        0.310598111227702,
+        0.28440366972477066
       ]
     },
     {
@@ -38101,8 +38101,8 @@ const features =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        6,
-        801
+        0.20461699895068206,
+        0.2889908256880734
       ]
     },
     {
@@ -38111,8 +38111,8 @@ const features =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        10,
-        389
+        0.11227701993704092,
+        0.30275229357798167
       ]
     },
     {
@@ -38121,8 +38121,8 @@ const features =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        5,
-        459
+        0.4018887722980063,
+        0.6651376146788991
       ]
     },
     {
@@ -38131,8 +38131,8 @@ const features =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        9,
-        540
+        0.2130115424973767,
+        0.25688073394495414
       ]
     },
     {
@@ -38141,8 +38141,8 @@ const features =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        10,
-        667
+        0.14270724029380902,
+        0.45871559633027525
       ]
     },
     {
@@ -38151,8 +38151,8 @@ const features =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        10,
-        376
+        0.16684155299055614,
+        0.44036697247706424
       ]
     },
     {
@@ -38161,8 +38161,8 @@ const features =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        4,
-        371
+        0.19832109129066108,
+        0.41284403669724773
       ]
     },
     {
@@ -38171,8 +38171,8 @@ const features =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        6,
-        930
+        0.06400839454354669,
+        0.23394495412844038
       ]
     },
     {
@@ -38181,8 +38181,8 @@ const features =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        9,
-        1072
+        0.1584470094438615,
+        0.28440366972477066
       ]
     },
     {
@@ -38191,8 +38191,8 @@ const features =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        18,
-        1774
+        0.1783840503672613,
+        0.7339449541284404
       ]
     },
     {
@@ -38201,8 +38201,8 @@ const features =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        4,
-        793
+        0.3315844700944386,
+        0.731651376146789
       ]
     },
     {
@@ -38211,8 +38211,8 @@ const features =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        6,
-        640
+        0.1385099685204617,
+        0.4518348623853211
       ]
     },
     {
@@ -38221,8 +38221,8 @@ const features =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        4,
-        501
+        0.11437565582371459,
+        0.6215596330275229
       ]
     },
     {
@@ -38231,8 +38231,8 @@ const features =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        3,
-        188
+        0.19202518363064008,
+        0.75
       ]
     },
     {
@@ -38241,8 +38241,8 @@ const features =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        8,
-        1068
+        0.21720881427072403,
+        0.5412844036697247
       ]
     },
     {
@@ -38251,8 +38251,8 @@ const features =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        7,
-        1108
+        0.34522560335781743,
+        0.2798165137614679
       ]
     },
     {
@@ -38261,8 +38261,8 @@ const features =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        5,
-        670
+        0.2770199370409234,
+        0.3073394495412844
       ]
     },
     {
@@ -38271,8 +38271,8 @@ const features =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        12,
-        583
+        0.25498426023084997,
+        0.4518348623853211
       ]
     },
     {
@@ -38281,8 +38281,8 @@ const features =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        4,
-        566
+        0.27911857292759706,
+        0.6284403669724771
       ]
     },
     {
@@ -38291,8 +38291,8 @@ const features =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        11,
-        538
+        0.22140608604407136,
+        0.28440366972477066
       ]
     },
     {
@@ -38301,8 +38301,8 @@ const features =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        9,
-        898
+        0.29800629590766003,
+        0.5756880733944955
       ]
     },
     {
@@ -38311,8 +38311,8 @@ const features =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        7,
-        491
+        0.27177334732423925,
+        0.41743119266055045
       ]
     },
     {
@@ -38321,8 +38321,8 @@ const features =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        20,
-        825
+        0.3441762854144806,
+        0.75
       ]
     },
     {
@@ -38331,8 +38331,8 @@ const features =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        4,
-        653
+        0.30849947534102834,
+        0.2018348623853211
       ]
     },
     {
@@ -38341,8 +38341,8 @@ const features =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        8,
-        415
+        0.30325288562434416,
+        0.2018348623853211
       ]
     },
     {
@@ -38351,8 +38351,8 @@ const features =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        6,
-        299
+        0.1416579223504722,
+        0.4151376146788991
       ]
     },
     {
@@ -38361,8 +38361,8 @@ const features =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        6,
-        520
+        0.28226652675760755,
+        0.7522935779816514
       ]
     },
     {
@@ -38371,8 +38371,8 @@ const features =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        21,
-        650
+        0.3179433368310598,
+        0.5619266055045872
       ]
     },
     {
@@ -38381,8 +38381,8 @@ const features =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        6,
-        563
+        0.29485834207764955,
+        0.5068807339449541
       ]
     },
     {
@@ -38391,8 +38391,8 @@ const features =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        3,
-        264
+        0.08394543546694648,
+        0.6077981651376146
       ]
     },
     {
@@ -38401,8 +38401,8 @@ const features =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        7,
-        246
+        0.19202518363064008,
+        0.3853211009174312
       ]
     },
     {
@@ -38411,8 +38411,8 @@ const features =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        15,
-        1269
+        0.22770199370409233,
+        0.19724770642201836
       ]
     },
     {
@@ -38421,8 +38421,8 @@ const features =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        9,
-        840
+        0.2801678908709339,
+        0.42201834862385323
       ]
     },
     {
@@ -38431,8 +38431,8 @@ const features =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        8,
-        726
+        0.19727177334732424,
+        0.45871559633027525
       ]
     },
     {
@@ -38441,8 +38441,8 @@ const features =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        3,
-        266
+        0.2497376705141658,
+        0.5573394495412844
       ]
     },
     {
@@ -38451,8 +38451,8 @@ const features =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        6,
-        781
+        0.2759706190975866,
+        0.49770642201834864
       ]
     },
     {
@@ -38461,8 +38461,8 @@ const features =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        6,
-        1158
+        0.21406086044071354,
+        0.7454128440366973
       ]
     },
     {
@@ -38471,8 +38471,8 @@ const features =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        3,
-        317
+        0.18992654774396642,
+        0.5504587155963303
       ]
     },
     {
@@ -38481,8 +38481,8 @@ const features =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        14,
-        423
+        0.19202518363064008,
+        0.4151376146788991
       ]
     },
     {
@@ -38491,8 +38491,8 @@ const features =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        23,
-        1031
+        0.34207764952780695,
+        0.3486238532110092
       ]
     },
     {
@@ -38501,8 +38501,8 @@ const features =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        6,
-        471
+        0.3116474291710388,
+        0.24770642201834864
       ]
     },
     {
@@ -38511,8 +38511,8 @@ const features =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        11,
-        574
+        0.1458551941238195,
+        0.5825688073394495
       ]
     },
     {
@@ -38521,8 +38521,8 @@ const features =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        9,
-        668
+        0.23714585519412382,
+        0.7270642201834863
       ]
     },
     {
@@ -38531,8 +38531,8 @@ const features =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        7,
-        538
+        0.35362014690451204,
+        0.5068807339449541
       ]
     },
     {
@@ -38541,8 +38541,8 @@ const features =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        22,
-        1068
+        0.378803777544596,
+        0.30045871559633025
       ]
     },
     {
@@ -38551,8 +38551,8 @@ const features =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        7,
-        257
+        0.16684155299055614,
+        0.28440366972477066
       ]
     },
     {
@@ -38561,8 +38561,8 @@ const features =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        30,
-        1035
+        0.1888772298006296,
+        0.3623853211009174
       ]
     },
     {
@@ -38571,8 +38571,8 @@ const features =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        10,
-        5545
+        0.38405036726128017,
+        0.37844036697247707
       ]
     },
     {
@@ -38581,8 +38581,8 @@ const features =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        6,
-        2687
+        0.3672612801678909,
+        0.5344036697247706
       ]
     },
     {
@@ -38591,8 +38591,8 @@ const features =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        2,
-        2829
+        0.40293809024134314,
+        0.8555045871559633
       ]
     },
     {
@@ -38601,8 +38601,8 @@ const features =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        3,
-        1559
+        0.4018887722980063,
+        0.7844036697247706
       ]
     },
     {
@@ -38611,8 +38611,8 @@ const features =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        1,
-        2009
+        0.34207764952780695,
+        0.4059633027522936
       ]
     },
     {
@@ -38621,8 +38621,8 @@ const features =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        7,
-        2025
+        0.4018887722980063,
+        0.4151376146788991
       ]
     },
     {
@@ -38631,8 +38631,8 @@ const features =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        5,
-        487
+        0.38719832109129065,
+        0.06422018348623854
       ]
     },
     {
@@ -38641,8 +38641,8 @@ const features =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        7,
-        405
+        0.3001049317943337,
+        0.5802752293577982
       ]
     },
     {
@@ -38651,8 +38651,8 @@ const features =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        6,
-        664
+        0.36935991605456453,
+        0.3211009174311927
       ]
     },
     {
@@ -38661,8 +38661,8 @@ const features =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        5,
-        415
+        0.27492130115424973,
+        0.38990825688073394
       ]
     },
     {
@@ -38671,8 +38671,8 @@ const features =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        10,
-        436
+        0.11857292759706191,
+        0.5619266055045872
       ]
     },
     {
@@ -38681,8 +38681,8 @@ const features =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        4,
-        342
+        0.11647429171038824,
+        0.3165137614678899
       ]
     },
     {
@@ -38691,8 +38691,8 @@ const features =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        10,
-        280
+        0.25918153200419725,
+        0.36926605504587157
       ]
     },
     {
@@ -38701,8 +38701,8 @@ const features =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        8,
-        308
+        0.304302203567681,
+        0.21100917431192662
       ]
     },
     {
@@ -38711,8 +38711,8 @@ const features =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        9,
-        253
+        0.23084994753410285,
+        0.05045871559633028
       ]
     },
     {
@@ -38721,8 +38721,8 @@ const features =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        3,
-        85
+        0.14795383001049317,
+        0.3440366972477064
       ]
     },
     {
@@ -38731,8 +38731,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        3,
-        232
+        0.16684155299055614,
+        0.21330275229357798
       ]
     },
     {
@@ -38741,8 +38741,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        4,
-        179
+        0.1385099685204617,
+        0.1743119266055046
       ]
     },
     {
@@ -38751,8 +38751,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        3,
-        152
+        0.15739769150052466,
+        0.36009174311926606
       ]
     },
     {
@@ -38761,8 +38761,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        3,
-        242
+        0.17628541448058763,
+        0.4380733944954128
       ]
     },
     {
@@ -38771,8 +38771,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        5,
-        162
+        0.1783840503672613,
+        0.25229357798165136
       ]
     },
     {
@@ -38781,8 +38781,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        6,
-        268
+        0.3011542497376705,
+        0.2798165137614679
       ]
     },
     {
@@ -38791,8 +38791,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        2,
-        139
+        0.016789087093389297,
+        0.2775229357798165
       ]
     },
     {
@@ -38801,8 +38801,8 @@ const features =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        14,
-        178
+        0.18677859391395593,
+        0.5091743119266054
       ]
     },
     {
@@ -38811,8 +38811,8 @@ const features =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        10,
-        794
+        0.16998950682056663,
+        0.10091743119266056
       ]
     },
     {
@@ -38821,8 +38821,8 @@ const features =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        7,
-        519
+        0.16474291710388247,
+        0.10550458715596331
       ]
     },
     {
@@ -38831,8 +38831,8 @@ const features =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        23,
-        1126
+        0.1888772298006296,
+        0.40825688073394495
       ]
     },
     {
@@ -38841,8 +38841,8 @@ const features =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        22,
-        1919
+        0.4018887722980063,
+        0.75
       ]
     },
     {
@@ -38851,8 +38851,8 @@ const features =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        14,
-        779
+        0.16998950682056663,
+        0.29357798165137616
       ]
     },
     {
@@ -38861,8 +38861,8 @@ const features =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        13,
-        1168
+        0.2266526757607555,
+        0.1444954128440367
       ]
     },
     {
@@ -38871,8 +38871,8 @@ const features =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        7,
-        303
+        0.014690451206715634,
+        0.3165137614678899
       ]
     },
     {
@@ -38881,8 +38881,8 @@ const features =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        21,
-        1344
+        0.16054564533053514,
+        0.26605504587155965
       ]
     },
     {
@@ -38891,8 +38891,8 @@ const features =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        5,
-        434
+        0.3095487932843652,
+        0.3486238532110092
       ]
     },
     {
@@ -38901,8 +38901,8 @@ const features =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        2,
-        137
+        0.2696747114375656,
+        0.17889908256880735
       ]
     },
     {
@@ -38911,8 +38911,8 @@ const features =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        9,
-        281
+        0.21825813221406087,
+        0.5252293577981652
       ]
     },
     {
@@ -38921,8 +38921,8 @@ const features =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        3,
-        172
+        0.29485834207764955,
+        0.7729357798165137
       ]
     },
     {
@@ -38931,8 +38931,8 @@ const features =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        9,
-        348
+        0.23714585519412382,
+        0.286697247706422
       ]
     },
     {
@@ -38941,8 +38941,8 @@ const features =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        7,
-        510
+        0.2025183630640084,
+        0.5756880733944955
       ]
     },
     {
@@ -38951,8 +38951,8 @@ const features =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        9,
-        236
+        0.3011542497376705,
+        0.3577981651376147
       ]
     },
     {
@@ -38961,8 +38961,8 @@ const features =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        3,
-        68
+        0.16054564533053514,
+        0.3119266055045872
       ]
     },
     {
@@ -38971,8 +38971,8 @@ const features =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        9,
-        483
+        0.25813221406086045,
+        0.2706422018348624
       ]
     },
     {
@@ -38981,8 +38981,8 @@ const features =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        8,
-        615
+        0.17733473242392445,
+        0.31880733944954126
       ]
     },
     {
@@ -38991,8 +38991,8 @@ const features =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        11,
-        467
+        0.26652675760755506,
+        0.30963302752293576
       ]
     },
     {
@@ -39001,8 +39001,8 @@ const features =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        3,
-        222
+        0.19412381951731375,
+        0.5045871559633027
       ]
     },
     {
@@ -39011,8 +39011,8 @@ const features =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        5,
-        386
+        0.2633788037775446,
+        0.4610091743119266
       ]
     },
     {
@@ -39021,8 +39021,8 @@ const features =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        12,
-        780
+        0.2193074501573977,
+        0.7224770642201835
       ]
     },
     {
@@ -39031,8 +39031,8 @@ const features =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        12,
-        454
+        0.08814270724029381,
+        0.49311926605504586
       ]
     },
     {
@@ -39041,8 +39041,8 @@ const features =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        17,
-        565
+        0.18153200419727178,
+        0.4036697247706422
       ]
     },
     {
@@ -39051,8 +39051,8 @@ const features =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        4,
-        922
+        0.236096537250787,
+        0.231651376146789
       ]
     },
     {
@@ -39061,8 +39061,8 @@ const features =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        10,
-        1292
+        0.3242392444910808,
+        0.31880733944954126
       ]
     },
     {
@@ -39071,8 +39071,8 @@ const features =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        16,
-        1755
+        0.3462749213011542,
+        0.5596330275229358
       ]
     },
     {
@@ -39081,8 +39081,8 @@ const features =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        4,
-        1038
+        0.18572927597061908,
+        0.7706422018348624
       ]
     },
     {
@@ -39091,8 +39091,8 @@ const features =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        15,
-        1826
+        0.28751311647429173,
+        0.3532110091743119
       ]
     },
     {
@@ -39101,8 +39101,8 @@ const features =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        9,
-        1679
+        0.316894018887723,
+        0.7660550458715596
       ]
     },
     {
@@ -39111,8 +39111,8 @@ const features =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        5,
-        757
+        0.16684155299055614,
+        0.3853211009174312
       ]
     },
     {
@@ -39121,8 +39121,8 @@ const features =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        18,
-        983
+        0.07974816369359916,
+        0.6192660550458715
       ]
     },
     {
@@ -39131,8 +39131,8 @@ const features =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        18,
-        835
+        0.229800629590766,
+        0.5252293577981652
       ]
     },
     {
@@ -39141,8 +39141,8 @@ const features =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        10,
-        799
+        0.3126967471143757,
+        0.3669724770642202
       ]
     },
     {
@@ -39151,8 +39151,8 @@ const features =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        37,
-        1191
+        0.316894018887723,
+        0.5137614678899083
       ]
     },
     {
@@ -39161,8 +39161,8 @@ const features =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        3,
-        797
+        0.20776495278069254,
+        0.676605504587156
       ]
     },
     {
@@ -39171,8 +39171,8 @@ const features =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        19,
-        1024
+        0.2707240293809024,
+        0.3577981651376147
       ]
     },
     {
@@ -39181,8 +39181,8 @@ const features =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        9,
-        533
+        0.3336831059811123,
+        0.44724770642201833
       ]
     },
     {
@@ -39191,8 +39191,8 @@ const features =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        10,
-        287
+        0.18048268625393493,
+        0.6674311926605505
       ]
     },
     {
@@ -39201,8 +39201,8 @@ const features =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        13,
-        541
+        0.22245540398740818,
+        0.5458715596330275
       ]
     },
     {
@@ -39211,8 +39211,8 @@ const features =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        13,
-        3071
+        0.2539349422875131,
+        0.1444954128440367
       ]
     },
     {
@@ -39221,8 +39221,8 @@ const features =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        5,
-        524
+        0.2623294858342078,
+        0.40825688073394495
       ]
     },
     {
@@ -39231,8 +39231,8 @@ const features =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        5,
-        693
+        0.24868835257082897,
+        0.6009174311926605
       ]
     },
     {
@@ -39241,8 +39241,8 @@ const features =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        3,
-        388
+        0.3147953830010493,
+        0.7706422018348624
       ]
     },
     {
@@ -39251,8 +39251,8 @@ const features =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        9,
-        907
+        0.3315844700944386,
+        0.3853211009174312
       ]
     },
     {
@@ -39261,8 +39261,8 @@ const features =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        8,
-        929
+        0.25918153200419725,
+        0.5068807339449541
       ]
     },
     {
@@ -39271,8 +39271,8 @@ const features =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        5,
-        301
+        0.14795383001049317,
+        0.658256880733945
       ]
     },
     {
@@ -39281,8 +39281,8 @@ const features =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        6,
-        323
+        0.24449108079748164,
+        0.5022935779816514
       ]
     },
     {
@@ -39291,8 +39291,8 @@ const features =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        17,
-        854
+        0.2497376705141658,
+        0.2408256880733945
       ]
     },
     {
@@ -39301,8 +39301,8 @@ const features =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        6,
-        635
+        0.25498426023084997,
+        0.22247706422018348
       ]
     },
     {
@@ -39311,8 +39311,8 @@ const features =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        12,
-        720
+        0.24344176285414482,
+        0.5045871559633027
       ]
     },
     {
@@ -39321,8 +39321,8 @@ const features =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        27,
-        686
+        0.19832109129066108,
+        0.48394495412844035
       ]
     },
     {
@@ -39331,8 +39331,8 @@ const features =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        21,
-        1278
+        0.2675760755508919,
+        0.36009174311926606
       ]
     },
     {
@@ -39341,8 +39341,8 @@ const features =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        8,
-        875
+        0.3515215110178384,
+        0.555045871559633
       ]
     },
     {
@@ -39351,8 +39351,8 @@ const features =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        7,
-        193
+        0.13326337880377753,
+        0.18807339449541285
       ]
     },
     {
@@ -39361,8 +39361,8 @@ const features =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        13,
-        541
+        0.1689401888772298,
+        0.3440366972477064
       ]
     },
     {
@@ -39371,8 +39371,8 @@ const features =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        5,
-        411
+        0.35257082896117525,
+        0.33715596330275227
       ]
     },
     {
@@ -39381,8 +39381,8 @@ const features =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        8,
-        359
+        0.27911857292759706,
+        0.13073394495412843
       ]
     },
     {
@@ -39391,8 +39391,8 @@ const features =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        13,
-        417
+        0.22770199370409233,
+        0.6353211009174312
       ]
     },
     {
@@ -39401,8 +39401,8 @@ const features =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        5,
-        423
+        0.291710388247639,
+        0.7889908256880734
       ]
     },
     {
@@ -39411,8 +39411,8 @@ const features =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        18,
-        449
+        0.35991605456453307,
+        0.518348623853211
       ]
     },
     {
@@ -39421,8 +39421,8 @@ const features =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        11,
-        311
+        0.3578174186778594,
+        0.37155963302752293
       ]
     },
     {
@@ -39431,8 +39431,8 @@ const features =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        5,
-        135
+        0.3242392444910808,
+        0.47706422018348627
       ]
     },
     {
@@ -39441,8 +39441,8 @@ const features =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        5,
-        122
+        0.21511017838405036,
+        0.4243119266055046
       ]
     },
     {
@@ -39451,8 +39451,8 @@ const features =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        12,
-        903
+        0.32633788037775446,
+        0.2889908256880734
       ]
     },
     {
@@ -39461,8 +39461,8 @@ const features =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        15,
-        428
+        0.2465897166841553,
+        0.5963302752293578
       ]
     },
     {
@@ -39471,8 +39471,8 @@ const features =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        13,
-        436
+        0.24239244491080797,
+        0.6009174311926605
       ]
     },
     {
@@ -39481,8 +39481,8 @@ const features =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        4,
-        232
+        0.2969569779643232,
+        0.6605504587155964
       ]
     },
     {
@@ -39491,8 +39491,8 @@ const features =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        7,
-        316
+        0.28751311647429173,
+        0.4541284403669725
       ]
     },
     {
@@ -39501,8 +39501,8 @@ const features =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        6,
-        273
+        0.2833158447009444,
+        0.6261467889908257
       ]
     },
     {
@@ -39511,8 +39511,8 @@ const features =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        32,
-        389
+        0.1930745015739769,
+        0.49770642201834864
       ]
     },
     {
@@ -39521,8 +39521,8 @@ const features =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        5,
-        69
+        0.16474291710388247,
+        0.3738532110091743
       ]
     },
     {
@@ -39531,8 +39531,8 @@ const features =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        5,
-        888
+        0.15634837355718784,
+        0.11926605504587157
       ]
     },
     {
@@ -39541,8 +39541,8 @@ const features =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        3,
-        623
+        0.07555089192025184,
+        0.07339449541284404
       ]
     },
     {
@@ -39551,8 +39551,8 @@ const features =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        4,
-        732
+        0.11647429171038824,
+        0.29357798165137616
       ]
     },
     {
@@ -39561,8 +39561,8 @@ const features =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        3,
-        712
+        0.14480587618048268,
+        0.45642201834862384
       ]
     },
     {
@@ -39571,8 +39571,8 @@ const features =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        12,
-        1103
+        0.13641133263378805,
+        0.18807339449541285
       ]
     },
     {
@@ -39581,8 +39581,8 @@ const features =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        11,
-        1362
+        0.080797481636936,
+        0.39908256880733944
       ]
     },
     {
@@ -39591,8 +39591,8 @@ const features =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        6,
-        493
+        0.005246589716684155,
+        0.23623853211009174
       ]
     },
     {
@@ -39601,8 +39601,8 @@ const features =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        7,
-        495
+        0.10073452256033578,
+        0.24770642201834864
       ]
     },
     {
@@ -39611,8 +39611,8 @@ const features =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        13,
-        970
+        0.3357817418677859,
+        0.27293577981651373
       ]
     },
     {
@@ -39621,8 +39621,8 @@ const features =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        3,
-        373
+        0.24449108079748164,
+        0.22477064220183487
       ]
     },
     {
@@ -39631,8 +39631,8 @@ const features =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        9,
-        545
+        0.16369359916054566,
+        0.536697247706422
       ]
     },
     {
@@ -39641,8 +39641,8 @@ const features =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        3,
-        461
+        0.22455403987408185,
+        0.7454128440366973
       ]
     },
     {
@@ -39651,8 +39651,8 @@ const features =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        15,
-        676
+        0.28436516264428124,
+        0.481651376146789
       ]
     },
     {
@@ -39661,8 +39661,8 @@ const features =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        6,
-        863
+        0.34312696747114374,
+        0.286697247706422
       ]
     },
     {
@@ -39671,8 +39671,8 @@ const features =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        5,
-        286
+        0.1689401888772298,
+        0.022935779816513763
       ]
     },
     {
@@ -39681,8 +39681,8 @@ const features =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        15,
-        465
+        0.16998950682056663,
+        0.2958715596330275
       ]
     }
   ]

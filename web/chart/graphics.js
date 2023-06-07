@@ -26,7 +26,7 @@ graphics.drawText = (ctx, {
     ctx.fillText(text, ...loc);
 };
 
-graphics.generateImages = (styles, size) => {
+graphics.generateImages = (styles, size=20) => {
     for (let label in styles) {
         const style = styles[label];
 
