@@ -9,7 +9,8 @@ console.log('Running classification');
 
 const {samples: trainingSamples} = JSON.parse(fs.readFileSync(constants.TRAINING));
 
-const kNN = new KNN(trainingSamples, 50);
+const k = 50;
+const kNN = new KNN(trainingSamples, k);
 
 const {samples: testingSamples} = JSON.parse(fs.readFileSync(constants.TESTING));
 
@@ -23,9 +24,11 @@ for (const sample of testingSamples) {
 
 console.log(`ACCURACY: ${correctCount} / ${totalCount} (${utils.formatPercent(correctCount / totalCount)})`);
 
-console.log("generating decision boundary...");
+console.log("generating decision boundary for k = "+k+"...");
 
 const {createCanvas} = require('canvas');
+
+// we use 100*100 just because larger images take a long time to generate
 const canvas = createCanvas(100, 100);
 const ctx = canvas.getContext('2d');
 

@@ -318,14 +318,16 @@ class Chart {
 
         // new code for background (100*100 pixel decision boundary image created with run_evaluation.js)
         // upscale 100*100 image
-        const topLeft = math.remapPoint(this.dataBounds, this.pixelBounds, [0,1]);
-        const sz = (canvas.width - this.margin*2) / this.dataTrans.scale**2;
+        const topLeft = math.remapPoint(this.dataBounds, this.pixelBounds, [0, 1]);
+        const sz = (canvas.width - this.margin * 2) / this.dataTrans.scale ** 2;
         ctx.drawImage(this.bg, ...topLeft, sz, sz);
 
         // end new code for background
         ctx.globalAlpha = this.transparency;
 
-        this.#drawSamples(this.samples);
+        // commented out so we see only the decision boundary (which has basically the same information)
+        /*this.#drawSamples(this.samples);
+
         ctx.globalAlpha = 1;
 
         if (this.hoveredSample) {
@@ -334,24 +336,28 @@ class Chart {
 
         if (this.selectedSample) {
             this.#emphasizeSample(this.selectedSample, 'yellow');
-        }
+        }*/
 
         if (this.dynamicPoint) {
             const {point, label} = this.dynamicPoint;
             const pixelLoc = math.remapPoint(this.dataBounds, this.pixelBounds, point);
             // add "overlay" around point;
             // size has to be extremely large because we could be zoomed in
-            graphics.drawPoint(ctx, pixelLoc, 'rgba(255,255,255,0.7)', 10000000);
 
-            ctx.strokeStyle="gray";
+
+            graphics.drawPoint(ctx, pixelLoc, 'rgba(255,255,255,0.7)', 10000000);
+            // commented out now that we only use the decision boundary background
+            // so the nearest neighbor lines don't make visual sense anymore
+            /*
+            ctx.strokeStyle = "gray";
             // draw a line between point and nearest sample
-            for(let ns of this.nearestSamples) {
+            for (let ns of this.nearestSamples) {
                 ctx.beginPath();
                 ctx.moveTo(...pixelLoc);
                 ctx.lineTo(...math.remapPoint(this.dataBounds, this.pixelBounds, ns.point));
                 ctx.stroke();
-                graphics.drawImage(ctx, this.styles[label].image, pixelLoc);
-            }
+            }*/
+            graphics.drawImage(ctx, this.styles[label].image, pixelLoc);
 
         }
 
