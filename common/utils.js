@@ -100,6 +100,15 @@ utils.normalizePoints = (points, minMax = undefined) => {
     return {min, max};
 };
 
+// for creating CSVs for the python part of the course
+utils.toCSV = (headers, samples) => {
+    let str = headers.join(",") + "\n";
+    for (const sample of samples) {
+        str += sample.join(",") + "\n";
+    }
+    return str;
+}
+
 if (typeof module !== 'undefined') {
     module.exports = utils;
 }
