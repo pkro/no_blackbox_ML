@@ -25,6 +25,7 @@
 
 <script src="../common/constants.js"></script>
 <script src="../common/utils.js"></script>
+<script src="../common/classifiers/KNN.js"></script>
 <script src="../common/draw.js"></script>
 <script src="../common/featureFunctions.js"></script>
 
@@ -48,15 +49,15 @@
 
     let correctCount = 0;
     let totalCount = 0;
-    
-    let k = 15;
+
+    const kNN = new KNN(trainingSamples, 50);
     for (const testSample of testingSamples) {
         testSample.truth = testSample.label;
         testSample.label = "?";
         
         // classify the test samples to evaluate the classifier
 
-        const {label} = classifyRandom(testSample.point);
+        const {label} = kNN.predict(testSample.point);
         testSample.label=label;
         testSample.correct = testSample.label === testSample.truth;
         
@@ -74,22 +75,16 @@ ${correctCount} / ${totalCount} (${utils.formatPercent(correctCount/totalCount)}
         axesLabels: featureNames,
         styles: utils.styles,
         transparency: 0.7,
-        icon: 'image'
+        icon: 'image',
+        bg: new Image()
     };
+    
+    chartOptions.bg.src=constants.DECISION_BOUNDARY;
     
     let chart = null;
     setTimeout(() => {
         chart = new Chart(chartContainer, trainingSamples, chartOptions, handleClick);
     }, 100);
-    
-    
-/*    const groups = utils.groupBy(samples, 'student_id');
-
-    for (let student_id in groups) {
-        const samples = groups[student_id];
-        const studentName = samples[0].student_name;
-        createRow(tableContainer, studentName, samples);
-    }*/
     
     const trainingGroups = utils.groupBy(trainingSamples, 'student_id');
 
@@ -114,31 +109,11 @@ ${correctCount} / ${totalCount} (${utils.formatPercent(correctCount/totalCount)}
         const functions = featureFunctions.inUse.map(f => f.function);
         const point = functions.map(f => f(paths));
         utils.normalizePoints([point], minMax);
-        const {label, nearestSamples} = classify(point);
+        const {label, nearestSamples} = kNN.predict(point);
         predictedLabelContainer.innerHTML = `Is it a ${label}?`;
         chart.showDynamicPoint(point, label, nearestSamples);
         
 
-    }
-
-    function classify(point) {
-        const samplePoints = trainingSamples.map(s => s.point);
-        const nearestIndices = utils.getNearest(point, samplePoints, k);
-        const nearestSamples = nearestIndices.map(idx=>trainingSamples[idx]);
-        const labels = nearestSamples.map(s => s.label);
-        const counts = {};
-        for (let label of labels) {
-            counts[label] = counts[label] ? counts[label] + 1 : 1;
-        }
-        const max = Math.max(...Object.values(counts));
-        const label = labels.find(l => counts[l] === max);
-        return {label, nearestSamples: nearestSamples};
-    }
-    
-    function classifyRandom(point) {
-        const labels = Object.keys(utils.styles);
-        const numLabels = labels.length;
-        return {label: labels[Math.floor(Math.random()*numLabels)]};
     }
 
     const sketchPad = new SketchPad(inputContainer, onDrawingUpdate, 400);

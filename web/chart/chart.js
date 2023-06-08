@@ -12,6 +12,7 @@ class Chart {
         this.canvas.height = options.size;
         this.styles = options.styles;
         this.icon = options.icon; // draw dots or use the text icons defined in styles
+        this.bg = options.bg;
         this.canvas.style = "background-color: white;";
         this.hoveredSample = null;
         this.selectedSample = null;
@@ -24,6 +25,7 @@ class Chart {
         container.appendChild(this.canvas);
 
         this.ctx = this.canvas.getContext('2d');
+        this.ctx.imageSmoothingEnabled = false;
         // a margin INSIDE the canvas, so it's more equivalent to css padding
         this.margin = options.size * 0.1;
         this.transparency = options.transparency || 1;
@@ -313,6 +315,14 @@ class Chart {
     #draw() {
         const {ctx, canvas} = this;
         ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        // new code for background (100*100 pixel decision boundary image created with run_evaluation.js)
+        // upscale 100*100 image
+        const topLeft = math.remapPoint(this.dataBounds, this.pixelBounds, [0,1]);
+        const sz = (canvas.width - this.margin*2) / this.dataTrans.scale**2;
+        ctx.drawImage(this.bg, ...topLeft, sz, sz);
+
+        // end new code for background
         ctx.globalAlpha = this.transparency;
 
         this.#drawSamples(this.samples);
