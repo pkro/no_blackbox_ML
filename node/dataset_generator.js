@@ -39,6 +39,7 @@ fileNames.forEach((fn) => {
 
 // this is the mapping file between the data files and the labels (by id = data file label)
 fs.writeFileSync(constants.SAMPLES_JS, "const samples = "+JSON.stringify(samples, null, 2));
+fs.writeFileSync(constants.SAMPLES, JSON.stringify(samples, null, 2));
 
 function generateImageFile(outFile, paths) {
     ctx.clearRect(0, 0, canvas.width, canvas.height);

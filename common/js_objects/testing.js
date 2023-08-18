@@ -6,8812 +6,12 @@ const testing =
   ],
   "samples": [
     {
-      "id": 1985,
-      "label": "car",
-      "student_name": "Jagadeesh kumar",
-      "student_id": 1663953392594,
-      "point": [
-        0.7374429223744292,
-        0.34965034965034963
-      ]
-    },
-    {
-      "id": 1986,
-      "label": "fish",
-      "student_name": "Jagadeesh kumar",
-      "student_id": 1663953392594,
-      "point": [
-        0.6894977168949772,
-        0.38927738927738925
-      ]
-    },
-    {
-      "id": 1987,
-      "label": "house",
-      "student_name": "Jagadeesh kumar",
-      "student_id": 1663953392594,
-      "point": [
-        0.593607305936073,
-        0.7668997668997669
-      ]
-    },
-    {
-      "id": 1988,
-      "label": "tree",
-      "student_name": "Jagadeesh kumar",
-      "student_id": 1663953392594,
-      "point": [
-        0.7557077625570776,
-        0.7272727272727273
-      ]
-    },
-    {
-      "id": 1989,
-      "label": "bicycle",
-      "student_name": "Jagadeesh kumar",
-      "student_id": 1663953392594,
-      "point": [
-        0.6415525114155252,
-        0.585081585081585
-      ]
-    },
-    {
-      "id": 1990,
-      "label": "guitar",
-      "student_name": "Jagadeesh kumar",
-      "student_id": 1663953392594,
-      "point": [
-        0.5730593607305936,
-        0.5268065268065268
-      ]
-    },
-    {
-      "id": 1991,
-      "label": "pencil",
-      "student_name": "Jagadeesh kumar",
-      "student_id": 1663953392594,
-      "point": [
-        0.682648401826484,
-        0.5268065268065268
-      ]
-    },
-    {
-      "id": 1992,
-      "label": "clock",
-      "student_name": "Jagadeesh kumar",
-      "student_id": 1663953392594,
-      "point": [
-        0.5981735159817352,
-        0.6037296037296037
-      ]
-    },
-    {
-      "id": 1993,
-      "label": "car",
-      "student_name": "ahmed",
-      "student_id": 1663955839692,
-      "point": [
-        0.5958904109589042,
-        0.19347319347319347
-      ]
-    },
-    {
-      "id": 1994,
-      "label": "fish",
-      "student_name": "ahmed",
-      "student_id": 1663955839692,
-      "point": [
-        0.5365296803652968,
-        0.19813519813519814
-      ]
-    },
-    {
-      "id": 1995,
-      "label": "house",
-      "student_name": "ahmed",
-      "student_id": 1663955839692,
-      "point": [
-        0.2762557077625571,
-        0.3123543123543124
-      ]
-    },
-    {
-      "id": 1996,
-      "label": "tree",
-      "student_name": "ahmed",
-      "student_id": 1663955839692,
-      "point": [
-        0.319634703196347,
-        0.43123543123543123
-      ]
-    },
-    {
-      "id": 1997,
-      "label": "bicycle",
-      "student_name": "ahmed",
-      "student_id": 1663955839692,
-      "point": [
-        0.3310502283105023,
-        0.23543123543123542
-      ]
-    },
-    {
-      "id": 1998,
-      "label": "guitar",
-      "student_name": "ahmed",
-      "student_id": 1663955839692,
-      "point": [
-        0.4931506849315068,
-        0.23543123543123542
-      ]
-    },
-    {
-      "id": 1999,
-      "label": "pencil",
-      "student_name": "ahmed",
-      "student_id": 1663955839692,
-      "point": [
-        0.5502283105022832,
-        0.13752913752913754
-      ]
-    },
-    {
-      "id": 2000,
-      "label": "clock",
-      "student_name": "ahmed",
-      "student_id": 1663955839692,
-      "point": [
-        0.5182648401826484,
-        0.3333333333333333
-      ]
-    },
-    {
-      "id": 2001,
-      "label": "car",
-      "student_name": "airbass",
-      "student_id": 1663959669044,
-      "point": [
-        0.7808219178082192,
-        0.337995337995338
-      ]
-    },
-    {
-      "id": 2002,
-      "label": "fish",
-      "student_name": "airbass",
-      "student_id": 1663959669044,
-      "point": [
-        0.6461187214611872,
-        0.22377622377622378
-      ]
-    },
-    {
-      "id": 2003,
-      "label": "house",
-      "student_name": "airbass",
-      "student_id": 1663959669044,
-      "point": [
-        0.6050228310502284,
-        0.8578088578088578
-      ]
-    },
-    {
-      "id": 2004,
-      "label": "tree",
-      "student_name": "airbass",
-      "student_id": 1663959669044,
-      "point": [
-        0.7123287671232876,
-        0.8531468531468531
-      ]
-    },
-    {
-      "id": 2005,
-      "label": "bicycle",
-      "student_name": "airbass",
-      "student_id": 1663959669044,
-      "point": [
-        0.6050228310502284,
-        0.3473193473193473
-      ]
-    },
-    {
-      "id": 2006,
-      "label": "guitar",
-      "student_name": "airbass",
-      "student_id": 1663959669044,
-      "point": [
-        0.7054794520547946,
-        0.2191142191142191
-      ]
-    },
-    {
-      "id": 2007,
-      "label": "pencil",
-      "student_name": "airbass",
-      "student_id": 1663959669044,
-      "point": [
-        0.15753424657534246,
-        0.7086247086247086
-      ]
-    },
-    {
-      "id": 2008,
-      "label": "clock",
-      "student_name": "airbass",
-      "student_id": 1663959669044,
-      "point": [
-        0.4726027397260274,
-        0.38461538461538464
-      ]
-    },
-    {
-      "id": 2009,
-      "label": "car",
-      "student_name": "Ruzgar",
-      "student_id": 1663959723890,
-      "point": [
-        0.6529680365296804,
-        0.5244755244755245
-      ]
-    },
-    {
-      "id": 2010,
-      "label": "fish",
-      "student_name": "Ruzgar",
-      "student_id": 1663959723890,
-      "point": [
-        0.4863013698630137,
-        0.23543123543123542
-      ]
-    },
-    {
-      "id": 2011,
-      "label": "house",
-      "student_name": "Ruzgar",
-      "student_id": 1663959723890,
-      "point": [
-        0.5114155251141552,
-        0.6223776223776224
-      ]
-    },
-    {
-      "id": 2012,
-      "label": "tree",
-      "student_name": "Ruzgar",
-      "student_id": 1663959723890,
-      "point": [
-        0.3835616438356164,
-        0.7622377622377622
-      ]
-    },
-    {
-      "id": 2013,
-      "label": "bicycle",
-      "student_name": "Ruzgar",
-      "student_id": 1663959723890,
-      "point": [
-        0.58675799086758,
-        0.29603729603729606
-      ]
-    },
-    {
-      "id": 2014,
-      "label": "guitar",
-      "student_name": "Ruzgar",
-      "student_id": 1663959723890,
-      "point": [
-        0.3926940639269406,
-        0.4801864801864802
-      ]
-    },
-    {
-      "id": 2015,
-      "label": "pencil",
-      "student_name": "Ruzgar",
-      "student_id": 1663959723890,
-      "point": [
-        0.3493150684931507,
-        0.2867132867132867
-      ]
-    },
-    {
-      "id": 2016,
-      "label": "clock",
-      "student_name": "Ruzgar",
-      "student_id": 1663959723890,
-      "point": [
-        0.4269406392694064,
-        0.40326340326340326
-      ]
-    },
-    {
-      "id": 2017,
-      "label": "car",
-      "student_name": "Erick",
-      "student_id": 1663959787784,
-      "point": [
-        0.4794520547945205,
-        0.48951048951048953
-      ]
-    },
-    {
-      "id": 2018,
-      "label": "fish",
-      "student_name": "Erick",
-      "student_id": 1663959787784,
-      "point": [
-        0.273972602739726,
-        0.1864801864801865
-      ]
-    },
-    {
-      "id": 2019,
-      "label": "house",
-      "student_name": "Erick",
-      "student_id": 1663959787784,
-      "point": [
-        0.4657534246575342,
-        0.5477855477855478
-      ]
-    },
-    {
-      "id": 2020,
-      "label": "tree",
-      "student_name": "Erick",
-      "student_id": 1663959787784,
-      "point": [
-        0.7054794520547946,
-        0.42657342657342656
-      ]
-    },
-    {
-      "id": 2021,
-      "label": "bicycle",
-      "student_name": "Erick",
-      "student_id": 1663959787784,
-      "point": [
-        0.363013698630137,
-        0.351981351981352
-      ]
-    },
-    {
-      "id": 2022,
-      "label": "guitar",
-      "student_name": "Erick",
-      "student_id": 1663959787784,
-      "point": [
-        0.6050228310502284,
-        0.8601398601398601
-      ]
-    },
-    {
-      "id": 2023,
-      "label": "pencil",
-      "student_name": "Erick",
-      "student_id": 1663959787784,
-      "point": [
-        0.5958904109589042,
-        0.6526806526806527
-      ]
-    },
-    {
-      "id": 2024,
-      "label": "clock",
-      "student_name": "Erick",
-      "student_id": 1663959787784,
-      "point": [
-        0.5342465753424658,
-        0.6596736596736597
-      ]
-    },
-    {
-      "id": 2025,
-      "label": "car",
-      "student_name": "Ketan",
-      "student_id": 1663961253145,
-      "point": [
-        0.8105022831050228,
-        0.4358974358974359
-      ]
-    },
-    {
-      "id": 2026,
-      "label": "fish",
-      "student_name": "Ketan",
-      "student_id": 1663961253145,
-      "point": [
-        0.634703196347032,
-        0.2540792540792541
-      ]
-    },
-    {
-      "id": 2027,
-      "label": "house",
-      "student_name": "Ketan",
-      "student_id": 1663961253145,
-      "point": [
-        0.6506849315068494,
-        0.5198135198135199
-      ]
-    },
-    {
-      "id": 2028,
-      "label": "tree",
-      "student_name": "Ketan",
-      "student_id": 1663961253145,
-      "point": [
-        0.4794520547945205,
-        0.5594405594405595
-      ]
-    },
-    {
-      "id": 2029,
-      "label": "bicycle",
-      "student_name": "Ketan",
-      "student_id": 1663961253145,
-      "point": [
-        0.6689497716894978,
-        0.3939393939393939
-      ]
-    },
-    {
-      "id": 2030,
-      "label": "guitar",
-      "student_name": "Ketan",
-      "student_id": 1663961253145,
-      "point": [
-        0.639269406392694,
-        0.40792540792540793
-      ]
-    },
-    {
-      "id": 2031,
-      "label": "pencil",
-      "student_name": "Ketan",
-      "student_id": 1663961253145,
-      "point": [
-        0.0639269406392694,
-        0.08624708624708624
-      ]
-    },
-    {
-      "id": 2032,
-      "label": "clock",
-      "student_name": "Ketan",
-      "student_id": 1663961253145,
-      "point": [
-        0.363013698630137,
-        0.3939393939393939
-      ]
-    },
-    {
-      "id": 2033,
-      "label": "car",
-      "student_name": "Radu",
-      "student_id": 1663963863766,
-      "point": [
-        0.6894977168949772,
-        0.3076923076923077
-      ]
-    },
-    {
-      "id": 2034,
-      "label": "fish",
-      "student_name": "Radu",
-      "student_id": 1663963863766,
-      "point": [
-        0.5547945205479452,
-        0.1958041958041958
-      ]
-    },
-    {
-      "id": 2035,
-      "label": "house",
-      "student_name": "Radu",
-      "student_id": 1663963863766,
-      "point": [
-        0.5662100456621004,
-        0.5151515151515151
-      ]
-    },
-    {
-      "id": 2036,
-      "label": "tree",
-      "student_name": "Radu",
-      "student_id": 1663963863766,
-      "point": [
-        0.4771689497716895,
-        0.5920745920745921
-      ]
-    },
-    {
-      "id": 2037,
-      "label": "bicycle",
-      "student_name": "Radu",
-      "student_id": 1663963863766,
-      "point": [
-        0.410958904109589,
-        0.3776223776223776
-      ]
-    },
-    {
-      "id": 2038,
-      "label": "guitar",
-      "student_name": "Radu",
-      "student_id": 1663963863766,
-      "point": [
-        0.7123287671232876,
-        0.5641025641025641
-      ]
-    },
-    {
-      "id": 2039,
-      "label": "pencil",
-      "student_name": "Radu",
-      "student_id": 1663963863766,
-      "point": [
-        0.682648401826484,
-        0.4731934731934732
-      ]
-    },
-    {
-      "id": 2040,
-      "label": "clock",
-      "student_name": "Radu",
-      "student_id": 1663963863766,
-      "point": [
-        0.3424657534246575,
-        0.29603729603729606
-      ]
-    },
-    {
-      "id": 2041,
-      "label": "car",
-      "student_name": "rh",
-      "student_id": 1663965910630,
-      "point": [
-        0.5319634703196348,
-        0.20512820512820512
-      ]
-    },
-    {
-      "id": 2042,
-      "label": "fish",
-      "student_name": "rh",
-      "student_id": 1663965910630,
-      "point": [
-        0.3607305936073059,
-        0.1561771561771562
-      ]
-    },
-    {
-      "id": 2043,
-      "label": "house",
-      "student_name": "rh",
-      "student_id": 1663965910630,
-      "point": [
-        0.3538812785388128,
-        0.4289044289044289
-      ]
-    },
-    {
-      "id": 2044,
-      "label": "tree",
-      "student_name": "rh",
-      "student_id": 1663965910630,
-      "point": [
-        0.4589041095890411,
-        0.5361305361305362
-      ]
-    },
-    {
-      "id": 2045,
-      "label": "bicycle",
-      "student_name": "rh",
-      "student_id": 1663965910630,
-      "point": [
-        0.4589041095890411,
-        0.24475524475524477
-      ]
-    },
-    {
-      "id": 2046,
-      "label": "guitar",
-      "student_name": "rh",
-      "student_id": 1663965910630,
-      "point": [
-        0.3904109589041096,
-        0.10256410256410256
-      ]
-    },
-    {
-      "id": 2047,
-      "label": "pencil",
-      "student_name": "rh",
-      "student_id": 1663965910630,
-      "point": [
-        0.2420091324200913,
-        0.317016317016317
-      ]
-    },
-    {
-      "id": 2048,
-      "label": "clock",
-      "student_name": "rh",
-      "student_id": 1663965910630,
-      "point": [
-        0.2899543378995434,
-        0.3146853146853147
-      ]
-    },
-    {
-      "id": 2049,
-      "label": "car",
-      "student_name": "NtotheG",
-      "student_id": 1663966133916,
-      "point": [
-        0.591324200913242,
-        0.22144522144522144
-      ]
-    },
-    {
-      "id": 2050,
-      "label": "fish",
-      "student_name": "NtotheG",
-      "student_id": 1663966133916,
-      "point": [
-        0.3561643835616438,
-        0.16783216783216784
-      ]
-    },
-    {
-      "id": 2051,
-      "label": "house",
-      "student_name": "NtotheG",
-      "student_id": 1663966133916,
-      "point": [
-        0.4703196347031963,
-        0.5477855477855478
-      ]
-    },
-    {
-      "id": 2052,
-      "label": "tree",
-      "student_name": "NtotheG",
-      "student_id": 1663966133916,
-      "point": [
-        0.4497716894977169,
-        0.5990675990675991
-      ]
-    },
-    {
-      "id": 2053,
-      "label": "bicycle",
-      "student_name": "NtotheG",
-      "student_id": 1663966133916,
-      "point": [
-        0.6118721461187214,
-        0.3356643356643357
-      ]
-    },
-    {
-      "id": 2054,
-      "label": "guitar",
-      "student_name": "NtotheG",
-      "student_id": 1663966133916,
-      "point": [
-        0.2625570776255708,
-        0.627039627039627
-      ]
-    },
-    {
-      "id": 2055,
-      "label": "pencil",
-      "student_name": "NtotheG",
-      "student_id": 1663966133916,
-      "point": [
-        0.4474885844748858,
-        0.5198135198135199
-      ]
-    },
-    {
-      "id": 2056,
-      "label": "clock",
-      "student_name": "NtotheG",
-      "student_id": 1663966133916,
-      "point": [
-        0.1552511415525114,
-        0.6503496503496503
-      ]
-    },
-    {
-      "id": 2057,
-      "label": "car",
-      "student_name": "NathanBenelli",
-      "student_id": 1663967177767,
-      "point": [
-        0.5251141552511416,
-        0.26573426573426573
-      ]
-    },
-    {
-      "id": 2058,
-      "label": "fish",
-      "student_name": "NathanBenelli",
-      "student_id": 1663967177767,
-      "point": [
-        0.4726027397260274,
-        0.2703962703962704
-      ]
-    },
-    {
-      "id": 2059,
-      "label": "house",
-      "student_name": "NathanBenelli",
-      "student_id": 1663967177767,
-      "point": [
-        0.5753424657534246,
-        0.5944055944055944
-      ]
-    },
-    {
-      "id": 2060,
-      "label": "tree",
-      "student_name": "NathanBenelli",
-      "student_id": 1663967177767,
-      "point": [
-        0.4406392694063927,
-        0.5920745920745921
-      ]
-    },
-    {
-      "id": 2061,
-      "label": "bicycle",
-      "student_name": "NathanBenelli",
-      "student_id": 1663967177767,
-      "point": [
-        0.4452054794520548,
-        0.32400932400932403
-      ]
-    },
-    {
-      "id": 2062,
-      "label": "guitar",
-      "student_name": "NathanBenelli",
-      "student_id": 1663967177767,
-      "point": [
-        0.6484018264840182,
-        0.29603729603729606
-      ]
-    },
-    {
-      "id": 2063,
-      "label": "pencil",
-      "student_name": "NathanBenelli",
-      "student_id": 1663967177767,
-      "point": [
-        0.0502283105022831,
-        0.5897435897435898
-      ]
-    },
-    {
-      "id": 2064,
-      "label": "clock",
-      "student_name": "NathanBenelli",
-      "student_id": 1663967177767,
-      "point": [
-        0.3675799086757991,
-        0.4172494172494173
-      ]
-    },
-    {
-      "id": 2065,
-      "label": "car",
-      "student_name": "alireza hekmati 2 💥",
-      "student_id": 1663968488419,
-      "point": [
-        0.3698630136986301,
-        0.2937062937062937
-      ]
-    },
-    {
-      "id": 2066,
-      "label": "fish",
-      "student_name": "alireza hekmati 2 💥",
-      "student_id": 1663968488419,
-      "point": [
-        0.4954337899543379,
-        0.3333333333333333
-      ]
-    },
-    {
-      "id": 2067,
-      "label": "house",
-      "student_name": "alireza hekmati 2 💥",
-      "student_id": 1663968488419,
-      "point": [
-        0.15753424657534246,
-        0.2703962703962704
-      ]
-    },
-    {
-      "id": 2068,
-      "label": "tree",
-      "student_name": "alireza hekmati 2 💥",
-      "student_id": 1663968488419,
-      "point": [
-        0.3287671232876712,
-        0.4428904428904429
-      ]
-    },
-    {
-      "id": 2069,
-      "label": "bicycle",
-      "student_name": "alireza hekmati 2 💥",
-      "student_id": 1663968488419,
-      "point": [
-        0.20776255707762556,
-        0.32634032634032634
-      ]
-    },
-    {
-      "id": 2070,
-      "label": "guitar",
-      "student_name": "alireza hekmati 2 💥",
-      "student_id": 1663968488419,
-      "point": [
-        0.5273972602739726,
-        0.5641025641025641
-      ]
-    },
-    {
-      "id": 2071,
-      "label": "pencil",
-      "student_name": "alireza hekmati 2 💥",
-      "student_id": 1663968488419,
-      "point": [
-        0.4223744292237443,
-        0.023310023310023312
-      ]
-    },
-    {
-      "id": 2072,
-      "label": "clock",
-      "student_name": "alireza hekmati 2 💥",
-      "student_id": 1663968488419,
-      "point": [
-        0.14383561643835616,
-        0.4125874125874126
-      ]
-    },
-    {
-      "id": 2073,
-      "label": "car",
-      "student_name": "Akshay ",
-      "student_id": 1663971195546,
-      "point": [
-        0.728310502283105,
-        0.5431235431235432
-      ]
-    },
-    {
-      "id": 2074,
-      "label": "fish",
-      "student_name": "Akshay ",
-      "student_id": 1663971195546,
-      "point": [
-        0.7671232876712328,
-        0.5221445221445221
-      ]
-    },
-    {
-      "id": 2075,
-      "label": "house",
-      "student_name": "Akshay ",
-      "student_id": 1663971195546,
-      "point": [
-        0.8584474885844748,
-        0.5524475524475524
-      ]
-    },
-    {
-      "id": 2076,
-      "label": "tree",
-      "student_name": "Akshay ",
-      "student_id": 1663971195546,
-      "point": [
-        0.8767123287671232,
-        0.717948717948718
-      ]
-    },
-    {
-      "id": 2077,
-      "label": "bicycle",
-      "student_name": "Akshay ",
-      "student_id": 1663971195546,
-      "point": [
-        0.776255707762557,
-        0.5174825174825175
-      ]
-    },
-    {
-      "id": 2078,
-      "label": "guitar",
-      "student_name": "Akshay ",
-      "student_id": 1663971195546,
-      "point": [
-        0.8105022831050228,
-        0.7668997668997669
-      ]
-    },
-    {
-      "id": 2079,
-      "label": "pencil",
-      "student_name": "Akshay ",
-      "student_id": 1663971195546,
-      "point": [
-        0.2579908675799087,
-        0.7062937062937062
-      ]
-    },
-    {
-      "id": 2080,
-      "label": "clock",
-      "student_name": "Akshay ",
-      "student_id": 1663971195546,
-      "point": [
-        0.5547945205479452,
-        0.5944055944055944
-      ]
-    },
-    {
-      "id": 2081,
-      "label": "car",
-      "student_name": "Armando",
-      "student_id": 1663971277771,
-      "point": [
-        0.3493150684931507,
-        0.19347319347319347
-      ]
-    },
-    {
-      "id": 2082,
-      "label": "fish",
-      "student_name": "Armando",
-      "student_id": 1663971277771,
-      "point": [
-        0.5525114155251142,
-        0.3613053613053613
-      ]
-    },
-    {
-      "id": 2083,
-      "label": "house",
-      "student_name": "Armando",
-      "student_id": 1663971277771,
-      "point": [
-        0.5319634703196348,
-        0.5920745920745921
-      ]
-    },
-    {
-      "id": 2084,
-      "label": "tree",
-      "student_name": "Armando",
-      "student_id": 1663971277771,
-      "point": [
-        0.4977168949771689,
-        0.6456876456876457
-      ]
-    },
-    {
-      "id": 2085,
-      "label": "bicycle",
-      "student_name": "Armando",
-      "student_id": 1663971277771,
-      "point": [
-        0.5319634703196348,
-        0.4149184149184149
-      ]
-    },
-    {
-      "id": 2086,
-      "label": "guitar",
-      "student_name": "Armando",
-      "student_id": 1663971277771,
-      "point": [
-        0.6598173515981736,
-        0.7319347319347319
-      ]
-    },
-    {
-      "id": 2087,
-      "label": "pencil",
-      "student_name": "Armando",
-      "student_id": 1663971277771,
-      "point": [
-        0.5296803652968036,
-        0.5058275058275058
-      ]
-    },
-    {
-      "id": 2088,
-      "label": "clock",
-      "student_name": "Armando",
-      "student_id": 1663971277771,
-      "point": [
-        0.5,
-        0.44755244755244755
-      ]
-    },
-    {
-      "id": 2089,
-      "label": "car",
-      "student_name": "Trubu",
-      "student_id": 1663974914822,
-      "point": [
-        0.8378995433789954,
-        0.34265734265734266
-      ]
-    },
-    {
-      "id": 2090,
-      "label": "fish",
-      "student_name": "Trubu",
-      "student_id": 1663974914822,
-      "point": [
-        0.678082191780822,
-        0.28205128205128205
-      ]
-    },
-    {
-      "id": 2091,
-      "label": "house",
-      "student_name": "Trubu",
-      "student_id": 1663974914822,
-      "point": [
-        0.6735159817351598,
-        0.6899766899766899
-      ]
-    },
-    {
-      "id": 2092,
-      "label": "tree",
-      "student_name": "Trubu",
-      "student_id": 1663974914822,
-      "point": [
-        0.6598173515981736,
-        0.7645687645687645
-      ]
-    },
-    {
-      "id": 2093,
-      "label": "bicycle",
-      "student_name": "Trubu",
-      "student_id": 1663974914822,
-      "point": [
-        0.7168949771689498,
-        0.4289044289044289
-      ]
-    },
-    {
-      "id": 2094,
-      "label": "guitar",
-      "student_name": "Trubu",
-      "student_id": 1663974914822,
-      "point": [
-        0.6232876712328768,
-        0.62004662004662
-      ]
-    },
-    {
-      "id": 2095,
-      "label": "pencil",
-      "student_name": "Trubu",
-      "student_id": 1663974914822,
-      "point": [
-        0.07990867579908675,
-        0.7389277389277389
-      ]
-    },
-    {
-      "id": 2096,
-      "label": "clock",
-      "student_name": "Trubu",
-      "student_id": 1663974914822,
-      "point": [
-        0.730593607305936,
-        0.7249417249417249
-      ]
-    },
-    {
-      "id": 2097,
-      "label": "car",
-      "student_name": "basic coder",
-      "student_id": 1663986437795,
-      "point": [
-        0.5616438356164384,
-        0.26107226107226106
-      ]
-    },
-    {
-      "id": 2098,
-      "label": "fish",
-      "student_name": "basic coder",
-      "student_id": 1663986437795,
-      "point": [
-        0.7100456621004566,
-        0.5641025641025641
-      ]
-    },
-    {
-      "id": 2099,
-      "label": "house",
-      "student_name": "basic coder",
-      "student_id": 1663986437795,
-      "point": [
-        0.6506849315068494,
-        0.4522144522144522
-      ]
-    },
-    {
-      "id": 2100,
-      "label": "tree",
-      "student_name": "basic coder",
-      "student_id": 1663986437795,
-      "point": [
-        0.7465753424657534,
-        0.8018648018648019
-      ]
-    },
-    {
-      "id": 2101,
-      "label": "bicycle",
-      "student_name": "basic coder",
-      "student_id": 1663986437795,
-      "point": [
-        0.5251141552511416,
-        0.34965034965034963
-      ]
-    },
-    {
-      "id": 2102,
-      "label": "guitar",
-      "student_name": "basic coder",
-      "student_id": 1663986437795,
-      "point": [
-        0.6621004566210046,
-        0.6247086247086248
-      ]
-    },
-    {
-      "id": 2103,
-      "label": "pencil",
-      "student_name": "basic coder",
-      "student_id": 1663986437795,
-      "point": [
-        0.03881278538812785,
-        0.48484848484848486
-      ]
-    },
-    {
-      "id": 2104,
-      "label": "clock",
-      "student_name": "basic coder",
-      "student_id": 1663986437795,
-      "point": [
-        0.6529680365296804,
-        0.6060606060606061
-      ]
-    },
-    {
-      "id": 2105,
-      "label": "car",
-      "student_name": "Jay",
-      "student_id": 1663990872471,
-      "point": [
-        0.7009132420091324,
-        0.2400932400932401
-      ]
-    },
-    {
-      "id": 2106,
-      "label": "fish",
-      "student_name": "Jay",
-      "student_id": 1663990872471,
-      "point": [
-        0.58675799086758,
-        0.28438228438228436
-      ]
-    },
-    {
-      "id": 2107,
-      "label": "house",
-      "student_name": "Jay",
-      "student_id": 1663990872471,
-      "point": [
-        0.5182648401826484,
-        0.28205128205128205
-      ]
-    },
-    {
-      "id": 2108,
-      "label": "tree",
-      "student_name": "Jay",
-      "student_id": 1663990872471,
-      "point": [
-        0.408675799086758,
-        0.5710955710955711
-      ]
-    },
-    {
-      "id": 2109,
-      "label": "bicycle",
-      "student_name": "Jay",
-      "student_id": 1663990872471,
-      "point": [
-        0.5547945205479452,
-        0.32867132867132864
-      ]
-    },
-    {
-      "id": 2110,
-      "label": "guitar",
-      "student_name": "Jay",
-      "student_id": 1663990872471,
-      "point": [
-        0.636986301369863,
-        0.3752913752913753
-      ]
-    },
-    {
-      "id": 2111,
-      "label": "pencil",
-      "student_name": "Jay",
-      "student_id": 1663990872471,
-      "point": [
-        0.5707762557077626,
-        0.34032634032634035
-      ]
-    },
-    {
-      "id": 2112,
-      "label": "clock",
-      "student_name": "Jay",
-      "student_id": 1663990872471,
-      "point": [
-        0.3607305936073059,
-        0.2913752913752914
-      ]
-    },
-    {
-      "id": 2113,
-      "label": "car",
-      "student_name": "Bilguun",
-      "student_id": 1663998669646,
-      "point": [
-        0.5981735159817352,
-        0.2937062937062937
-      ]
-    },
-    {
-      "id": 2114,
-      "label": "fish",
-      "student_name": "Bilguun",
-      "student_id": 1663998669646,
-      "point": [
-        0.3538812785388128,
-        0.26107226107226106
-      ]
-    },
-    {
-      "id": 2115,
-      "label": "house",
-      "student_name": "Bilguun",
-      "student_id": 1663998669646,
-      "point": [
-        0.2694063926940639,
-        0.32400932400932403
-      ]
-    },
-    {
-      "id": 2116,
-      "label": "tree",
-      "student_name": "Bilguun",
-      "student_id": 1663998669646,
-      "point": [
-        0.2968036529680365,
-        0.3822843822843823
-      ]
-    },
-    {
-      "id": 2117,
-      "label": "bicycle",
-      "student_name": "Bilguun",
-      "student_id": 1663998669646,
-      "point": [
-        0.4908675799086758,
-        0.32634032634032634
-      ]
-    },
-    {
-      "id": 2118,
-      "label": "guitar",
-      "student_name": "Bilguun",
-      "student_id": 1663998669646,
-      "point": [
-        0.6164383561643836,
-        0.3006993006993007
-      ]
-    },
-    {
-      "id": 2119,
-      "label": "pencil",
-      "student_name": "Bilguun",
-      "student_id": 1663998669646,
-      "point": [
-        0.4383561643835616,
-        0.2564102564102564
-      ]
-    },
-    {
-      "id": 2120,
-      "label": "clock",
-      "student_name": "Bilguun",
-      "student_id": 1663998669646,
-      "point": [
-        0.3698630136986301,
-        0.37995337995337997
-      ]
-    },
-    {
-      "id": 2121,
-      "label": "car",
-      "student_name": "Mukul",
-      "student_id": 1664000294175,
-      "point": [
-        0.7808219178082192,
-        0.43123543123543123
-      ]
-    },
-    {
-      "id": 2122,
-      "label": "fish",
-      "student_name": "Mukul",
-      "student_id": 1664000294175,
-      "point": [
-        0.408675799086758,
-        0.23543123543123542
-      ]
-    },
-    {
-      "id": 2123,
-      "label": "house",
-      "student_name": "Mukul",
-      "student_id": 1664000294175,
-      "point": [
-        0.5091324200913242,
-        0.3776223776223776
-      ]
-    },
-    {
-      "id": 2124,
-      "label": "tree",
-      "student_name": "Mukul",
-      "student_id": 1664000294175,
-      "point": [
-        0.5251141552511416,
-        0.5244755244755245
-      ]
-    },
-    {
-      "id": 2125,
-      "label": "bicycle",
-      "student_name": "Mukul",
-      "student_id": 1664000294175,
-      "point": [
-        0.4200913242009132,
-        0.24475524475524477
-      ]
-    },
-    {
-      "id": 2126,
-      "label": "guitar",
-      "student_name": "Mukul",
-      "student_id": 1664000294175,
-      "point": [
-        0.7054794520547946,
-        0.5990675990675991
-      ]
-    },
-    {
-      "id": 2127,
-      "label": "pencil",
-      "student_name": "Mukul",
-      "student_id": 1664000294175,
-      "point": [
-        0.2990867579908676,
-        0.337995337995338
-      ]
-    },
-    {
-      "id": 2128,
-      "label": "clock",
-      "student_name": "Mukul",
-      "student_id": 1664000294175,
-      "point": [
-        0.4680365296803653,
-        0.41025641025641024
-      ]
-    },
-    {
-      "id": 2129,
-      "label": "car",
-      "student_name": "Ryan",
-      "student_id": 1664002141533,
-      "point": [
-        0.8584474885844748,
-        0.35664335664335667
-      ]
-    },
-    {
-      "id": 2130,
-      "label": "fish",
-      "student_name": "Ryan",
-      "student_id": 1664002141533,
-      "point": [
-        0.5388127853881278,
-        0.29603729603729606
-      ]
-    },
-    {
-      "id": 2131,
-      "label": "house",
-      "student_name": "Ryan",
-      "student_id": 1664002141533,
-      "point": [
-        0.8105022831050228,
-        0.703962703962704
-      ]
-    },
-    {
-      "id": 2132,
-      "label": "tree",
-      "student_name": "Ryan",
-      "student_id": 1664002141533,
-      "point": [
-        0.8105022831050228,
-        0.8321678321678322
-      ]
-    },
-    {
-      "id": 2133,
-      "label": "bicycle",
-      "student_name": "Ryan",
-      "student_id": 1664002141533,
-      "point": [
-        0.6255707762557078,
-        0.317016317016317
-      ]
-    },
-    {
-      "id": 2134,
-      "label": "guitar",
-      "student_name": "Ryan",
-      "student_id": 1664002141533,
-      "point": [
-        0.7831050228310502,
-        0.7925407925407926
-      ]
-    },
-    {
-      "id": 2135,
-      "label": "pencil",
-      "student_name": "Ryan",
-      "student_id": 1664002141533,
-      "point": [
-        0.06164383561643835,
-        0.7412587412587412
-      ]
-    },
-    {
-      "id": 2136,
-      "label": "clock",
-      "student_name": "Ryan",
-      "student_id": 1664002141533,
-      "point": [
-        0.7579908675799086,
-        0.8181818181818182
-      ]
-    },
-    {
-      "id": 2137,
-      "label": "car",
-      "student_name": "Larry",
-      "student_id": 1664003542649,
-      "point": [
-        0.7853881278538812,
-        0.2400932400932401
-      ]
-    },
-    {
-      "id": 2138,
-      "label": "fish",
-      "student_name": "Larry",
-      "student_id": 1664003542649,
-      "point": [
-        0.7831050228310502,
-        0.31002331002331
-      ]
-    },
-    {
-      "id": 2139,
-      "label": "house",
-      "student_name": "Larry",
-      "student_id": 1664003542649,
-      "point": [
-        0.3721461187214612,
-        0.682983682983683
-      ]
-    },
-    {
-      "id": 2140,
-      "label": "tree",
-      "student_name": "Larry",
-      "student_id": 1664003542649,
-      "point": [
-        0.8493150684931506,
-        0.8787878787878788
-      ]
-    },
-    {
-      "id": 2141,
-      "label": "bicycle",
-      "student_name": "Larry",
-      "student_id": 1664003542649,
-      "point": [
-        0.5,
-        0.47086247086247085
-      ]
-    },
-    {
-      "id": 2142,
-      "label": "guitar",
-      "student_name": "Larry",
-      "student_id": 1664003542649,
-      "point": [
-        0.819634703196347,
-        0.22377622377622378
-      ]
-    },
-    {
-      "id": 2143,
-      "label": "pencil",
-      "student_name": "Larry",
-      "student_id": 1664003542649,
-      "point": [
-        0.591324200913242,
-        0.6853146853146853
-      ]
-    },
-    {
-      "id": 2144,
-      "label": "clock",
-      "student_name": "Larry",
-      "student_id": 1664003542649,
-      "point": [
-        0.3744292237442922,
-        0.3333333333333333
-      ]
-    },
-    {
-      "id": 2145,
-      "label": "car",
-      "student_name": "Samer",
-      "student_id": 1664008759414,
-      "point": [
-        0.6963470319634704,
-        0.23543123543123542
-      ]
-    },
-    {
-      "id": 2146,
-      "label": "fish",
-      "student_name": "Samer",
-      "student_id": 1664008759414,
-      "point": [
-        0.54337899543379,
-        0.18181818181818182
-      ]
-    },
-    {
-      "id": 2147,
-      "label": "house",
-      "student_name": "Samer",
-      "student_id": 1664008759414,
-      "point": [
-        0.6027397260273972,
-        0.6666666666666666
-      ]
-    },
-    {
-      "id": 2148,
-      "label": "tree",
-      "student_name": "Samer",
-      "student_id": 1664008759414,
-      "point": [
-        0.4977168949771689,
-        0.6037296037296037
-      ]
-    },
-    {
-      "id": 2149,
-      "label": "bicycle",
-      "student_name": "Samer",
-      "student_id": 1664008759414,
-      "point": [
-        0.5091324200913242,
-        0.358974358974359
-      ]
-    },
-    {
-      "id": 2150,
-      "label": "guitar",
-      "student_name": "Samer",
-      "student_id": 1664008759414,
-      "point": [
-        0.2945205479452055,
-        0.6177156177156177
-      ]
-    },
-    {
-      "id": 2151,
-      "label": "pencil",
-      "student_name": "Samer",
-      "student_id": 1664008759414,
-      "point": [
-        0.0273972602739726,
-        0.5198135198135199
-      ]
-    },
-    {
-      "id": 2152,
-      "label": "clock",
-      "student_name": "Samer",
-      "student_id": 1664008759414,
-      "point": [
-        0.2602739726027397,
-        0.2540792540792541
-      ]
-    },
-    {
-      "id": 2153,
-      "label": "car",
-      "student_name": "Harald",
-      "student_id": 1664008963491,
-      "point": [
-        0.5342465753424658,
-        0.48717948717948717
-      ]
-    },
-    {
-      "id": 2154,
-      "label": "fish",
-      "student_name": "Harald",
-      "student_id": 1664008963491,
-      "point": [
-        0.3721461187214612,
-        0.5034965034965035
-      ]
-    },
-    {
-      "id": 2155,
-      "label": "house",
-      "student_name": "Harald",
-      "student_id": 1664008963491,
-      "point": [
-        0.5273972602739726,
-        0.5547785547785548
-      ]
-    },
-    {
-      "id": 2156,
-      "label": "tree",
-      "student_name": "Harald",
-      "student_id": 1664008963491,
-      "point": [
-        0.6894977168949772,
-        0.696969696969697
-      ]
-    },
-    {
-      "id": 2157,
-      "label": "bicycle",
-      "student_name": "Harald",
-      "student_id": 1664008963491,
-      "point": [
-        0.58675799086758,
-        0.3939393939393939
-      ]
-    },
-    {
-      "id": 2158,
-      "label": "guitar",
-      "student_name": "Harald",
-      "student_id": 1664008963491,
-      "point": [
-        0.2237442922374429,
-        0.5034965034965035
-      ]
-    },
-    {
-      "id": 2159,
-      "label": "pencil",
-      "student_name": "Harald",
-      "student_id": 1664008963491,
-      "point": [
-        0.4178082191780822,
-        0.43356643356643354
-      ]
-    },
-    {
-      "id": 2160,
-      "label": "clock",
-      "student_name": "Harald",
-      "student_id": 1664008963491,
-      "point": [
-        0.3127853881278539,
-        0.6130536130536131
-      ]
-    },
-    {
-      "id": 2161,
-      "label": "car",
-      "student_name": "Kaan",
-      "student_id": 1664011946194,
-      "point": [
-        0.7968036529680366,
-        0.3752913752913753
-      ]
-    },
-    {
-      "id": 2162,
-      "label": "fish",
-      "student_name": "Kaan",
-      "student_id": 1664011946194,
-      "point": [
-        0.541095890410959,
-        0.3986013986013986
-      ]
-    },
-    {
-      "id": 2163,
-      "label": "house",
-      "student_name": "Kaan",
-      "student_id": 1664011946194,
-      "point": [
-        0.5114155251141552,
-        0.5104895104895105
-      ]
-    },
-    {
-      "id": 2164,
-      "label": "tree",
-      "student_name": "Kaan",
-      "student_id": 1664011946194,
-      "point": [
-        0.6278538812785388,
-        0.7505827505827506
-      ]
-    },
-    {
-      "id": 2165,
-      "label": "bicycle",
-      "student_name": "Kaan",
-      "student_id": 1664011946194,
-      "point": [
-        0.5296803652968036,
-        0.3473193473193473
-      ]
-    },
-    {
-      "id": 2166,
-      "label": "guitar",
-      "student_name": "Kaan",
-      "student_id": 1664011946194,
-      "point": [
-        0.5502283105022832,
-        0.6083916083916084
-      ]
-    },
-    {
-      "id": 2167,
-      "label": "pencil",
-      "student_name": "Kaan",
-      "student_id": 1664011946194,
-      "point": [
-        0.3675799086757991,
-        0.5664335664335665
-      ]
-    },
-    {
-      "id": 2168,
-      "label": "clock",
-      "student_name": "Kaan",
-      "student_id": 1664011946194,
-      "point": [
-        0.5730593607305936,
-        0.5734265734265734
-      ]
-    },
-    {
-      "id": 2169,
-      "label": "car",
-      "student_name": "Ritesh",
-      "student_id": 1664012766983,
-      "point": [
-        0.723744292237443,
-        0.5198135198135199
-      ]
-    },
-    {
-      "id": 2170,
-      "label": "fish",
-      "student_name": "Ritesh",
-      "student_id": 1664012766983,
-      "point": [
-        0.3493150684931507,
-        0.07226107226107226
-      ]
-    },
-    {
-      "id": 2171,
-      "label": "house",
-      "student_name": "Ritesh",
-      "student_id": 1664012766983,
-      "point": [
-        0.3881278538812785,
-        0.1958041958041958
-      ]
-    },
-    {
-      "id": 2172,
-      "label": "tree",
-      "student_name": "Ritesh",
-      "student_id": 1664012766983,
-      "point": [
-        0.3310502283105023,
-        0.2331002331002331
-      ]
-    },
-    {
-      "id": 2173,
-      "label": "bicycle",
-      "student_name": "Ritesh",
-      "student_id": 1664012766983,
-      "point": [
-        0.4474885844748858,
-        0.2097902097902098
-      ]
-    },
-    {
-      "id": 2174,
-      "label": "guitar",
-      "student_name": "Ritesh",
-      "student_id": 1664012766983,
-      "point": [
-        0.3333333333333333,
-        0.6596736596736597
-      ]
-    },
-    {
-      "id": 2175,
-      "label": "pencil",
-      "student_name": "Ritesh",
-      "student_id": 1664012766983,
-      "point": [
-        0.4817351598173516,
-        0.023310023310023312
-      ]
-    },
-    {
-      "id": 2176,
-      "label": "clock",
-      "student_name": "Ritesh",
-      "student_id": 1664012766983,
-      "point": [
-        0.3607305936073059,
-        0.29836829836829837
-      ]
-    },
-    {
-      "id": 2177,
-      "label": "car",
-      "student_name": "Ruthvik ",
-      "student_id": 1664014111576,
-      "point": [
-        0.4771689497716895,
-        0.2773892773892774
-      ]
-    },
-    {
-      "id": 2178,
-      "label": "fish",
-      "student_name": "Ruthvik ",
-      "student_id": 1664014111576,
-      "point": [
-        0.4474885844748858,
-        0.17016317016317017
-      ]
-    },
-    {
-      "id": 2179,
-      "label": "house",
-      "student_name": "Ruthvik ",
-      "student_id": 1664014111576,
-      "point": [
-        0.4315068493150685,
-        0.6666666666666666
-      ]
-    },
-    {
-      "id": 2180,
-      "label": "tree",
-      "student_name": "Ruthvik ",
-      "student_id": 1664014111576,
-      "point": [
-        0.5776255707762558,
-        0.7762237762237763
-      ]
-    },
-    {
-      "id": 2181,
-      "label": "bicycle",
-      "student_name": "Ruthvik ",
-      "student_id": 1664014111576,
-      "point": [
-        0.5616438356164384,
-        0.49184149184149184
-      ]
-    },
-    {
-      "id": 2182,
-      "label": "guitar",
-      "student_name": "Ruthvik ",
-      "student_id": 1664014111576,
-      "point": [
-        0.6529680365296804,
-        0.4662004662004662
-      ]
-    },
-    {
-      "id": 2183,
-      "label": "pencil",
-      "student_name": "Ruthvik ",
-      "student_id": 1664014111576,
-      "point": [
-        0.632420091324201,
-        0.4592074592074592
-      ]
-    },
-    {
-      "id": 2184,
-      "label": "clock",
-      "student_name": "Ruthvik ",
-      "student_id": 1664014111576,
-      "point": [
-        0.5068493150684932,
-        0.5314685314685315
-      ]
-    },
-    {
-      "id": 2185,
-      "label": "car",
-      "student_name": "Roberto",
-      "student_id": 1664017048215,
-      "point": [
-        0.5639269406392694,
-        0.22843822843822845
-      ]
-    },
-    {
-      "id": 2186,
-      "label": "fish",
-      "student_name": "Roberto",
-      "student_id": 1664017048215,
-      "point": [
-        0.3881278538812785,
-        0.1445221445221445
-      ]
-    },
-    {
-      "id": 2187,
-      "label": "house",
-      "student_name": "Roberto",
-      "student_id": 1664017048215,
-      "point": [
-        0.4680365296803653,
-        0.3752913752913753
-      ]
-    },
-    {
-      "id": 2188,
-      "label": "tree",
-      "student_name": "Roberto",
-      "student_id": 1664017048215,
-      "point": [
-        0.4200913242009132,
-        0.5407925407925408
-      ]
-    },
-    {
-      "id": 2189,
-      "label": "bicycle",
-      "student_name": "Roberto",
-      "student_id": 1664017048215,
-      "point": [
-        0.591324200913242,
-        0.2400932400932401
-      ]
-    },
-    {
-      "id": 2190,
-      "label": "guitar",
-      "student_name": "Roberto",
-      "student_id": 1664017048215,
-      "point": [
-        0.773972602739726,
-        0.7132867132867133
-      ]
-    },
-    {
-      "id": 2191,
-      "label": "pencil",
-      "student_name": "Roberto",
-      "student_id": 1664017048215,
-      "point": [
-        0.3036529680365297,
-        0.2494172494172494
-      ]
-    },
-    {
-      "id": 2192,
-      "label": "clock",
-      "student_name": "Roberto",
-      "student_id": 1664017048215,
-      "point": [
-        0.3789954337899543,
-        0.28438228438228436
-      ]
-    },
-    {
-      "id": 2193,
-      "label": "car",
-      "student_name": "Mateus Rossi",
-      "student_id": 1664018214844,
-      "point": [
-        0.6666666666666666,
-        0.18181818181818182
-      ]
-    },
-    {
-      "id": 2194,
-      "label": "fish",
-      "student_name": "Mateus Rossi",
-      "student_id": 1664018214844,
-      "point": [
-        0.7031963470319634,
-        0.46853146853146854
-      ]
-    },
-    {
-      "id": 2195,
-      "label": "house",
-      "student_name": "Mateus Rossi",
-      "student_id": 1664018214844,
-      "point": [
-        0.6643835616438356,
-        0.682983682983683
-      ]
-    },
-    {
-      "id": 2196,
-      "label": "tree",
-      "student_name": "Mateus Rossi",
-      "student_id": 1664018214844,
-      "point": [
-        0.6757990867579908,
-        0.8111888111888111
-      ]
-    },
-    {
-      "id": 2197,
-      "label": "bicycle",
-      "student_name": "Mateus Rossi",
-      "student_id": 1664018214844,
-      "point": [
-        0.545662100456621,
-        0.48484848484848486
-      ]
-    },
-    {
-      "id": 2198,
-      "label": "guitar",
-      "student_name": "Mateus Rossi",
-      "student_id": 1664018214844,
-      "point": [
-        0.5799086757990868,
-        0.7342657342657343
-      ]
-    },
-    {
-      "id": 2199,
-      "label": "pencil",
-      "student_name": "Mateus Rossi",
-      "student_id": 1664018214844,
-      "point": [
-        0.3242009132420091,
-        0.5291375291375291
-      ]
-    },
-    {
-      "id": 2200,
-      "label": "clock",
-      "student_name": "Mateus Rossi",
-      "student_id": 1664018214844,
-      "point": [
-        0.3493150684931507,
-        0.30303030303030304
-      ]
-    },
-    {
-      "id": 2201,
-      "label": "car",
-      "student_name": "Robert romanu",
-      "student_id": 1664018361293,
-      "point": [
-        0.6506849315068494,
-        0.17482517482517482
-      ]
-    },
-    {
-      "id": 2202,
-      "label": "fish",
-      "student_name": "Robert romanu",
-      "student_id": 1664018361293,
-      "point": [
-        0.5776255707762558,
-        0.337995337995338
-      ]
-    },
-    {
-      "id": 2203,
-      "label": "house",
-      "student_name": "Robert romanu",
-      "student_id": 1664018361293,
-      "point": [
-        0.5502283105022832,
-        0.4428904428904429
-      ]
-    },
-    {
-      "id": 2204,
-      "label": "tree",
-      "student_name": "Robert romanu",
-      "student_id": 1664018361293,
-      "point": [
-        0.7785388127853882,
-        0.7365967365967366
-      ]
-    },
-    {
-      "id": 2205,
-      "label": "bicycle",
-      "student_name": "Robert romanu",
-      "student_id": 1664018361293,
-      "point": [
-        0.4200913242009132,
-        0.28205128205128205
-      ]
-    },
-    {
-      "id": 2206,
-      "label": "guitar",
-      "student_name": "Robert romanu",
-      "student_id": 1664018361293,
-      "point": [
-        0.58675799086758,
-        0.6130536130536131
-      ]
-    },
-    {
-      "id": 2207,
-      "label": "pencil",
-      "student_name": "Robert romanu",
-      "student_id": 1664018361293,
-      "point": [
-        0.0136986301369863,
-        0.48717948717948717
-      ]
-    },
-    {
-      "id": 2208,
-      "label": "clock",
-      "student_name": "Robert romanu",
-      "student_id": 1664018361293,
-      "point": [
-        0.3926940639269406,
-        0.36596736596736595
-      ]
-    },
-    {
-      "id": 2209,
-      "label": "car",
-      "student_name": "Ledkoca",
-      "student_id": 1664019777674,
-      "point": [
-        0.7899543378995434,
-        0.4662004662004662
-      ]
-    },
-    {
-      "id": 2210,
-      "label": "fish",
-      "student_name": "Ledkoca",
-      "student_id": 1664019777674,
-      "point": [
-        0.5707762557077626,
-        0.40093240093240096
-      ]
-    },
-    {
-      "id": 2211,
-      "label": "house",
-      "student_name": "Ledkoca",
-      "student_id": 1664019777674,
-      "point": [
-        0.6735159817351598,
-        0.6386946386946387
-      ]
-    },
-    {
-      "id": 2212,
-      "label": "tree",
-      "student_name": "Ledkoca",
-      "student_id": 1664019777674,
-      "point": [
-        0.6004566210045662,
-        0.7575757575757576
-      ]
-    },
-    {
-      "id": 2213,
-      "label": "bicycle",
-      "student_name": "Ledkoca",
-      "student_id": 1664019777674,
-      "point": [
-        0.6232876712328768,
-        0.3939393939393939
-      ]
-    },
-    {
-      "id": 2214,
-      "label": "guitar",
-      "student_name": "Ledkoca",
-      "student_id": 1664019777674,
-      "point": [
-        0.6872146118721462,
-        0.6433566433566433
-      ]
-    },
-    {
-      "id": 2215,
-      "label": "pencil",
-      "student_name": "Ledkoca",
-      "student_id": 1664019777674,
-      "point": [
-        0.6735159817351598,
-        0.7319347319347319
-      ]
-    },
-    {
-      "id": 2216,
-      "label": "clock",
-      "student_name": "Ledkoca",
-      "student_id": 1664019777674,
-      "point": [
-        0.6004566210045662,
-        0.5477855477855478
-      ]
-    },
-    {
-      "id": 2217,
-      "label": "car",
-      "student_name": "Gorav",
-      "student_id": 1664021130166,
-      "point": [
-        0.6438356164383562,
-        0.34498834498834496
-      ]
-    },
-    {
-      "id": 2218,
-      "label": "fish",
-      "student_name": "Gorav",
-      "student_id": 1664021130166,
-      "point": [
-        0.4885844748858447,
-        0.21212121212121213
-      ]
-    },
-    {
-      "id": 2219,
-      "label": "house",
-      "student_name": "Gorav",
-      "student_id": 1664021130166,
-      "point": [
-        0.54337899543379,
-        0.4965034965034965
-      ]
-    },
-    {
-      "id": 2220,
-      "label": "tree",
-      "student_name": "Gorav",
-      "student_id": 1664021130166,
-      "point": [
-        0.6415525114155252,
-        0.7692307692307693
-      ]
-    },
-    {
-      "id": 2221,
-      "label": "bicycle",
-      "student_name": "Gorav",
-      "student_id": 1664021130166,
-      "point": [
-        0.545662100456621,
-        0.3076923076923077
-      ]
-    },
-    {
-      "id": 2222,
-      "label": "guitar",
-      "student_name": "Gorav",
-      "student_id": 1664021130166,
-      "point": [
-        0.6621004566210046,
-        0.5804195804195804
-      ]
-    },
-    {
-      "id": 2223,
-      "label": "pencil",
-      "student_name": "Gorav",
-      "student_id": 1664021130166,
-      "point": [
-        0.5068493150684932,
-        0.37995337995337997
-      ]
-    },
-    {
-      "id": 2224,
-      "label": "clock",
-      "student_name": "Gorav",
-      "student_id": 1664021130166,
-      "point": [
-        0.5593607305936074,
-        0.717948717948718
-      ]
-    },
-    {
-      "id": 2225,
-      "label": "car",
-      "student_name": "Hocine",
-      "student_id": 1664023001703,
-      "point": [
-        0.20776255707762556,
-        0.08391608391608392
-      ]
-    },
-    {
-      "id": 2226,
-      "label": "fish",
-      "student_name": "Hocine",
-      "student_id": 1664023001703,
-      "point": [
-        0.547945205479452,
-        0.20512820512820512
-      ]
-    },
-    {
-      "id": 2227,
-      "label": "house",
-      "student_name": "Hocine",
-      "student_id": 1664023001703,
-      "point": [
-        0.23972602739726026,
-        0.32634032634032634
-      ]
-    },
-    {
-      "id": 2228,
-      "label": "tree",
-      "student_name": "Hocine",
-      "student_id": 1664023001703,
-      "point": [
-        0.6552511415525114,
-        0.5337995337995338
-      ]
-    },
-    {
-      "id": 2229,
-      "label": "bicycle",
-      "student_name": "Hocine",
-      "student_id": 1664023001703,
-      "point": [
-        0.5,
-        0.20745920745920746
-      ]
-    },
-    {
-      "id": 2230,
-      "label": "guitar",
-      "student_name": "Hocine",
-      "student_id": 1664023001703,
-      "point": [
-        0.591324200913242,
-        0.1794871794871795
-      ]
-    },
-    {
-      "id": 2231,
-      "label": "pencil",
-      "student_name": "Hocine",
-      "student_id": 1664023001703,
-      "point": [
-        0.01141552511415525,
-        0.20279720279720279
-      ]
-    },
-    {
-      "id": 2232,
-      "label": "clock",
-      "student_name": "Hocine",
-      "student_id": 1664023001703,
-      "point": [
-        0.3356164383561644,
-        0.29603729603729606
-      ]
-    },
-    {
-      "id": 2233,
-      "label": "car",
-      "student_name": "Vlad Cimpean",
-      "student_id": 1664024964253,
-      "point": [
-        0.5159817351598174,
-        0.37995337995337997
-      ]
-    },
-    {
-      "id": 2234,
-      "label": "fish",
-      "student_name": "Vlad Cimpean",
-      "student_id": 1664024964253,
-      "point": [
-        0.2853881278538813,
-        0.17715617715617715
-      ]
-    },
-    {
-      "id": 2235,
-      "label": "house",
-      "student_name": "Vlad Cimpean",
-      "student_id": 1664024964253,
-      "point": [
-        0.6301369863013698,
-        0.5407925407925408
-      ]
-    },
-    {
-      "id": 2236,
-      "label": "tree",
-      "student_name": "Vlad Cimpean",
-      "student_id": 1664024964253,
-      "point": [
-        0.7100456621004566,
-        0.8205128205128205
-      ]
-    },
-    {
-      "id": 2237,
-      "label": "bicycle",
-      "student_name": "Vlad Cimpean",
-      "student_id": 1664024964253,
-      "point": [
-        0.593607305936073,
-        0.3752913752913753
-      ]
-    },
-    {
-      "id": 2238,
-      "label": "guitar",
-      "student_name": "Vlad Cimpean",
-      "student_id": 1664024964253,
-      "point": [
-        0.6027397260273972,
-        0.62004662004662
-      ]
-    },
-    {
-      "id": 2239,
-      "label": "pencil",
-      "student_name": "Vlad Cimpean",
-      "student_id": 1664024964253,
-      "point": [
-        0.3995433789954338,
-        0.3333333333333333
-      ]
-    },
-    {
-      "id": 2240,
-      "label": "clock",
-      "student_name": "Vlad Cimpean",
-      "student_id": 1664024964253,
-      "point": [
-        0.5205479452054794,
-        0.5174825174825175
-      ]
-    },
-    {
-      "id": 2241,
-      "label": "car",
-      "student_name": "ekmbcd",
-      "student_id": 1664025068528,
-      "point": [
-        0.6255707762557078,
-        0.31002331002331
-      ]
-    },
-    {
-      "id": 2242,
-      "label": "fish",
-      "student_name": "ekmbcd",
-      "student_id": 1664025068528,
-      "point": [
-        0.5844748858447488,
-        0.3006993006993007
-      ]
-    },
-    {
-      "id": 2243,
-      "label": "house",
-      "student_name": "ekmbcd",
-      "student_id": 1664025068528,
-      "point": [
-        0.7968036529680366,
-        0.5967365967365967
-      ]
-    },
-    {
-      "id": 2244,
-      "label": "tree",
-      "student_name": "ekmbcd",
-      "student_id": 1664025068528,
-      "point": [
-        0.5068493150684932,
-        0.6643356643356644
-      ]
-    },
-    {
-      "id": 2245,
-      "label": "bicycle",
-      "student_name": "ekmbcd",
-      "student_id": 1664025068528,
-      "point": [
-        0.5844748858447488,
-        0.43123543123543123
-      ]
-    },
-    {
-      "id": 2246,
-      "label": "guitar",
-      "student_name": "ekmbcd",
-      "student_id": 1664025068528,
-      "point": [
-        0.5593607305936074,
-        0.6410256410256411
-      ]
-    },
-    {
-      "id": 2247,
-      "label": "pencil",
-      "student_name": "ekmbcd",
-      "student_id": 1664025068528,
-      "point": [
-        0.5045662100456622,
-        0.6410256410256411
-      ]
-    },
-    {
-      "id": 2248,
-      "label": "clock",
-      "student_name": "ekmbcd",
-      "student_id": 1664025068528,
-      "point": [
-        0.4794520547945205,
-        0.4289044289044289
-      ]
-    },
-    {
-      "id": 2249,
-      "label": "car",
-      "student_name": "Android_17",
-      "student_id": 1664025646737,
-      "point": [
-        0.7465753424657534,
-        0.4568764568764569
-      ]
-    },
-    {
-      "id": 2250,
-      "label": "fish",
-      "student_name": "Android_17",
-      "student_id": 1664025646737,
-      "point": [
-        0.8242009132420092,
-        0.3986013986013986
-      ]
-    },
-    {
-      "id": 2251,
-      "label": "house",
-      "student_name": "Android_17",
-      "student_id": 1664025646737,
-      "point": [
-        0.8744292237442922,
-        0.578088578088578
-      ]
-    },
-    {
-      "id": 2252,
-      "label": "tree",
-      "student_name": "Android_17",
-      "student_id": 1664025646737,
-      "point": [
-        0.8401826484018264,
-        0.7715617715617715
-      ]
-    },
-    {
-      "id": 2253,
-      "label": "bicycle",
-      "student_name": "Android_17",
-      "student_id": 1664025646737,
-      "point": [
-        0.8447488584474886,
-        0.5244755244755245
-      ]
-    },
-    {
-      "id": 2254,
-      "label": "guitar",
-      "student_name": "Android_17",
-      "student_id": 1664025646737,
-      "point": [
-        0.8447488584474886,
-        0.7552447552447552
-      ]
-    },
-    {
-      "id": 2255,
-      "label": "pencil",
-      "student_name": "Android_17",
-      "student_id": 1664025646737,
-      "point": [
-        0.5114155251141552,
-        0.7762237762237763
-      ]
-    },
-    {
-      "id": 2256,
-      "label": "clock",
-      "student_name": "Android_17",
-      "student_id": 1664025646737,
-      "point": [
-        0.545662100456621,
-        0.5314685314685315
-      ]
-    },
-    {
-      "id": 2257,
-      "label": "car",
-      "student_name": "sayanii",
-      "student_id": 1664027417955,
-      "point": [
-        0.5662100456621004,
-        0.3123543123543124
-      ]
-    },
-    {
-      "id": 2258,
-      "label": "fish",
-      "student_name": "sayanii",
-      "student_id": 1664027417955,
-      "point": [
-        0.6050228310502284,
-        0.36596736596736595
-      ]
-    },
-    {
-      "id": 2259,
-      "label": "house",
-      "student_name": "sayanii",
-      "student_id": 1664027417955,
-      "point": [
-        0.6575342465753424,
-        0.3939393939393939
-      ]
-    },
-    {
-      "id": 2260,
-      "label": "tree",
-      "student_name": "sayanii",
-      "student_id": 1664027417955,
-      "point": [
-        0.5273972602739726,
-        0.6060606060606061
-      ]
-    },
-    {
-      "id": 2261,
-      "label": "bicycle",
-      "student_name": "sayanii",
-      "student_id": 1664027417955,
-      "point": [
-        0.4954337899543379,
-        0.2913752913752914
-      ]
-    },
-    {
-      "id": 2262,
-      "label": "guitar",
-      "student_name": "sayanii",
-      "student_id": 1664027417955,
-      "point": [
-        0.4726027397260274,
-        0.16783216783216784
-      ]
-    },
-    {
-      "id": 2263,
-      "label": "pencil",
-      "student_name": "sayanii",
-      "student_id": 1664027417955,
-      "point": [
-        0.3721461187214612,
-        0.34265734265734266
-      ]
-    },
-    {
-      "id": 2264,
-      "label": "clock",
-      "student_name": "sayanii",
-      "student_id": 1664027417955,
-      "point": [
-        0.547945205479452,
-        0.578088578088578
-      ]
-    },
-    {
-      "id": 2265,
-      "label": "car",
-      "student_name": "MZK",
-      "student_id": 1664028885004,
-      "point": [
-        0.454337899543379,
-        0.21445221445221446
-      ]
-    },
-    {
-      "id": 2266,
-      "label": "fish",
-      "student_name": "MZK",
-      "student_id": 1664028885004,
-      "point": [
-        0.2762557077625571,
-        0.1888111888111888
-      ]
-    },
-    {
-      "id": 2267,
-      "label": "house",
-      "student_name": "MZK",
-      "student_id": 1664028885004,
-      "point": [
-        0.410958904109589,
-        0.5757575757575758
-      ]
-    },
-    {
-      "id": 2268,
-      "label": "tree",
-      "student_name": "MZK",
-      "student_id": 1664028885004,
-      "point": [
-        0.8744292237442922,
-        0.5571095571095571
-      ]
-    },
-    {
-      "id": 2269,
-      "label": "bicycle",
-      "student_name": "MZK",
-      "student_id": 1664028885004,
-      "point": [
-        0.5639269406392694,
-        0.4149184149184149
-      ]
-    },
-    {
-      "id": 2270,
-      "label": "guitar",
-      "student_name": "MZK",
-      "student_id": 1664028885004,
-      "point": [
-        0.5525114155251142,
-        0.28205128205128205
-      ]
-    },
-    {
-      "id": 2271,
-      "label": "pencil",
-      "student_name": "MZK",
-      "student_id": 1664028885004,
-      "point": [
-        0.0365296803652968,
-        0.4522144522144522
-      ]
-    },
-    {
-      "id": 2272,
-      "label": "clock",
-      "student_name": "MZK",
-      "student_id": 1664028885004,
-      "point": [
-        0.3926940639269406,
-        0.3939393939393939
-      ]
-    },
-    {
-      "id": 2273,
-      "label": "car",
-      "student_name": "rcx",
-      "student_id": 1664030049840,
-      "point": [
-        0.8378995433789954,
-        0.3076923076923077
-      ]
-    },
-    {
-      "id": 2274,
-      "label": "fish",
-      "student_name": "rcx",
-      "student_id": 1664030049840,
-      "point": [
-        0.639269406392694,
-        0.5151515151515151
-      ]
-    },
-    {
-      "id": 2275,
-      "label": "house",
-      "student_name": "rcx",
-      "student_id": 1664030049840,
-      "point": [
-        0.545662100456621,
-        0.5337995337995338
-      ]
-    },
-    {
-      "id": 2276,
-      "label": "tree",
-      "student_name": "rcx",
-      "student_id": 1664030049840,
-      "point": [
-        0.5616438356164384,
-        0.627039627039627
-      ]
-    },
-    {
-      "id": 2277,
-      "label": "bicycle",
-      "student_name": "rcx",
-      "student_id": 1664030049840,
-      "point": [
-        0.6621004566210046,
-        0.42424242424242425
-      ]
-    },
-    {
-      "id": 2278,
-      "label": "guitar",
-      "student_name": "rcx",
-      "student_id": 1664030049840,
-      "point": [
-        0.6757990867579908,
-        0.7925407925407926
-      ]
-    },
-    {
-      "id": 2279,
-      "label": "pencil",
-      "student_name": "rcx",
-      "student_id": 1664030049840,
-      "point": [
-        0.3675799086757991,
-        0.7272727272727273
-      ]
-    },
-    {
-      "id": 2280,
-      "label": "clock",
-      "student_name": "rcx",
-      "student_id": 1664030049840,
-      "point": [
-        0.632420091324201,
-        0.5547785547785548
-      ]
-    },
-    {
-      "id": 2281,
-      "label": "car",
-      "student_name": "bpilakkat",
-      "student_id": 1664030556516,
-      "point": [
-        0.5662100456621004,
-        0.17249417249417248
-      ]
-    },
-    {
-      "id": 2282,
-      "label": "fish",
-      "student_name": "bpilakkat",
-      "student_id": 1664030556516,
-      "point": [
-        0.5639269406392694,
-        0.2191142191142191
-      ]
-    },
-    {
-      "id": 2283,
-      "label": "house",
-      "student_name": "bpilakkat",
-      "student_id": 1664030556516,
-      "point": [
-        0.5388127853881278,
-        0.4592074592074592
-      ]
-    },
-    {
-      "id": 2284,
-      "label": "tree",
-      "student_name": "bpilakkat",
-      "student_id": 1664030556516,
-      "point": [
-        0.4931506849315068,
-        0.5617715617715617
-      ]
-    },
-    {
-      "id": 2285,
-      "label": "bicycle",
-      "student_name": "bpilakkat",
-      "student_id": 1664030556516,
-      "point": [
-        0.5319634703196348,
-        0.3473193473193473
-      ]
-    },
-    {
-      "id": 2286,
-      "label": "guitar",
-      "student_name": "bpilakkat",
-      "student_id": 1664030556516,
-      "point": [
-        0.5547945205479452,
-        0.40326340326340326
-      ]
-    },
-    {
-      "id": 2287,
-      "label": "pencil",
-      "student_name": "bpilakkat",
-      "student_id": 1664030556516,
-      "point": [
-        0.0228310502283105,
-        0.40093240093240096
-      ]
-    },
-    {
-      "id": 2288,
-      "label": "clock",
-      "student_name": "bpilakkat",
-      "student_id": 1664030556516,
-      "point": [
-        0.3401826484018265,
-        0.32167832167832167
-      ]
-    },
-    {
-      "id": 2289,
-      "label": "car",
-      "student_name": "Vishal Kumar",
-      "student_id": 1664030729647,
-      "point": [
-        0.6301369863013698,
-        0.27505827505827507
-      ]
-    },
-    {
-      "id": 2290,
-      "label": "fish",
-      "student_name": "Vishal Kumar",
-      "student_id": 1664030729647,
-      "point": [
-        0.7100456621004566,
-        0.47086247086247085
-      ]
-    },
-    {
-      "id": 2291,
-      "label": "house",
-      "student_name": "Vishal Kumar",
-      "student_id": 1664030729647,
-      "point": [
-        0.6484018264840182,
-        0.6643356643356644
-      ]
-    },
-    {
-      "id": 2292,
-      "label": "tree",
-      "student_name": "Vishal Kumar",
-      "student_id": 1664030729647,
-      "point": [
-        0.7191780821917808,
-        0.8368298368298368
-      ]
-    },
-    {
-      "id": 2293,
-      "label": "bicycle",
-      "student_name": "Vishal Kumar",
-      "student_id": 1664030729647,
-      "point": [
-        0.723744292237443,
-        0.5174825174825175
-      ]
-    },
-    {
-      "id": 2294,
-      "label": "guitar",
-      "student_name": "Vishal Kumar",
-      "student_id": 1664030729647,
-      "point": [
-        0.7328767123287672,
-        0.5221445221445221
-      ]
-    },
-    {
-      "id": 2295,
-      "label": "pencil",
-      "student_name": "Vishal Kumar",
-      "student_id": 1664030729647,
-      "point": [
-        0.4908675799086758,
-        0.5034965034965035
-      ]
-    },
-    {
-      "id": 2296,
-      "label": "clock",
-      "student_name": "Vishal Kumar",
-      "student_id": 1664030729647,
-      "point": [
-        0.4041095890410959,
-        0.3822843822843823
-      ]
-    },
-    {
-      "id": 2297,
-      "label": "car",
-      "student_name": "Avinash",
-      "student_id": 1664030751310,
-      "point": [
-        0.5205479452054794,
-        0.13986013986013987
-      ]
-    },
-    {
-      "id": 2298,
-      "label": "fish",
-      "student_name": "Avinash",
-      "student_id": 1664030751310,
-      "point": [
-        0.2990867579908676,
-        0.1585081585081585
-      ]
-    },
-    {
-      "id": 2299,
-      "label": "house",
-      "student_name": "Avinash",
-      "student_id": 1664030751310,
-      "point": [
-        0.6643835616438356,
-        0.3473193473193473
-      ]
-    },
-    {
-      "id": 2300,
-      "label": "tree",
-      "student_name": "Avinash",
-      "student_id": 1664030751310,
-      "point": [
-        0.5958904109589042,
-        0.6876456876456877
-      ]
-    },
-    {
-      "id": 2301,
-      "label": "bicycle",
-      "student_name": "Avinash",
-      "student_id": 1664030751310,
-      "point": [
-        0.5707762557077626,
-        0.35664335664335667
-      ]
-    },
-    {
-      "id": 2302,
-      "label": "guitar",
-      "student_name": "Avinash",
-      "student_id": 1664030751310,
-      "point": [
-        0.5730593607305936,
-        0.44755244755244755
-      ]
-    },
-    {
-      "id": 2303,
-      "label": "pencil",
-      "student_name": "Avinash",
-      "student_id": 1664030751310,
-      "point": [
-        0.58675799086758,
-        0.22843822843822845
-      ]
-    },
-    {
-      "id": 2304,
-      "label": "clock",
-      "student_name": "Avinash",
-      "student_id": 1664030751310,
-      "point": [
-        0.3789954337899543,
-        0.337995337995338
-      ]
-    },
-    {
-      "id": 2305,
-      "label": "car",
-      "student_name": "Jules",
-      "student_id": 1664031598093,
-      "point": [
-        0.4406392694063927,
-        0.2097902097902098
-      ]
-    },
-    {
-      "id": 2306,
-      "label": "fish",
-      "student_name": "Jules",
-      "student_id": 1664031598093,
-      "point": [
-        0.3926940639269406,
-        0.22843822843822845
-      ]
-    },
-    {
-      "id": 2307,
-      "label": "house",
-      "student_name": "Jules",
-      "student_id": 1664031598093,
-      "point": [
-        0.3356164383561644,
-        0.4988344988344988
-      ]
-    },
-    {
-      "id": 2308,
-      "label": "tree",
-      "student_name": "Jules",
-      "student_id": 1664031598093,
-      "point": [
-        0.4520547945205479,
-        0.6037296037296037
-      ]
-    },
-    {
-      "id": 2309,
-      "label": "bicycle",
-      "student_name": "Jules",
-      "student_id": 1664031598093,
-      "point": [
-        0.3949771689497717,
-        0.26107226107226106
-      ]
-    },
-    {
-      "id": 2310,
-      "label": "guitar",
-      "student_name": "Jules",
-      "student_id": 1664031598093,
-      "point": [
-        0.502283105022831,
-        0.11188811188811189
-      ]
-    },
-    {
-      "id": 2311,
-      "label": "pencil",
-      "student_name": "Jules",
-      "student_id": 1664031598093,
-      "point": [
-        0.0593607305936073,
-        0.44988344988344986
-      ]
-    },
-    {
-      "id": 2312,
-      "label": "clock",
-      "student_name": "Jules",
-      "student_id": 1664031598093,
-      "point": [
-        0.22146118721461186,
-        0.32867132867132864
-      ]
-    },
-    {
-      "id": 2313,
-      "label": "car",
-      "student_name": "Alex Mercer",
-      "student_id": 1664032325240,
-      "point": [
-        0.7077625570776256,
-        0.289044289044289
-      ]
-    },
-    {
-      "id": 2314,
-      "label": "fish",
-      "student_name": "Alex Mercer",
-      "student_id": 1664032325240,
-      "point": [
-        0.7488584474885844,
-        0.6293706293706294
-      ]
-    },
-    {
-      "id": 2315,
-      "label": "house",
-      "student_name": "Alex Mercer",
-      "student_id": 1664032325240,
-      "point": [
-        0.8767123287671232,
-        0.745920745920746
-      ]
-    },
-    {
-      "id": 2316,
-      "label": "tree",
-      "student_name": "Alex Mercer",
-      "student_id": 1664032325240,
-      "point": [
-        0.8013698630136986,
-        0.8764568764568764
-      ]
-    },
-    {
-      "id": 2317,
-      "label": "bicycle",
-      "student_name": "Alex Mercer",
-      "student_id": 1664032325240,
-      "point": [
-        0.7808219178082192,
-        0.5687645687645687
-      ]
-    },
-    {
-      "id": 2318,
-      "label": "guitar",
-      "student_name": "Alex Mercer",
-      "student_id": 1664032325240,
-      "point": [
-        0.8059360730593608,
-        0.7435897435897436
-      ]
-    },
-    {
-      "id": 2319,
-      "label": "pencil",
-      "student_name": "Alex Mercer",
-      "student_id": 1664032325240,
-      "point": [
-        0.03881278538812785,
-        0.49417249417249415
-      ]
-    },
-    {
-      "id": 2320,
-      "label": "clock",
-      "student_name": "Alex Mercer",
-      "student_id": 1664032325240,
-      "point": [
-        0.4292237442922374,
-        0.1655011655011655
-      ]
-    },
-    {
-      "id": 2321,
-      "label": "car",
-      "student_name": "arj",
-      "student_id": 1664033311552,
-      "point": [
-        0.7899543378995434,
-        0.2773892773892774
-      ]
-    },
-    {
-      "id": 2322,
-      "label": "fish",
-      "student_name": "arj",
-      "student_id": 1664033311552,
-      "point": [
-        0.5639269406392694,
-        0.30303030303030304
-      ]
-    },
-    {
-      "id": 2323,
-      "label": "house",
-      "student_name": "arj",
-      "student_id": 1664033311552,
-      "point": [
-        0.6164383561643836,
-        0.4988344988344988
-      ]
-    },
-    {
-      "id": 2324,
-      "label": "tree",
-      "student_name": "arj",
-      "student_id": 1664033311552,
-      "point": [
-        0.7031963470319634,
-        0.6433566433566433
-      ]
-    },
-    {
-      "id": 2325,
-      "label": "bicycle",
-      "student_name": "arj",
-      "student_id": 1664033311552,
-      "point": [
-        0.728310502283105,
-        0.46386946386946387
-      ]
-    },
-    {
-      "id": 2326,
-      "label": "guitar",
-      "student_name": "arj",
-      "student_id": 1664033311552,
-      "point": [
-        0.5547945205479452,
-        0.6410256410256411
-      ]
-    },
-    {
-      "id": 2327,
-      "label": "pencil",
-      "student_name": "arj",
-      "student_id": 1664033311552,
-      "point": [
-        0.4840182648401826,
-        0.6177156177156177
-      ]
-    },
-    {
-      "id": 2328,
-      "label": "clock",
-      "student_name": "arj",
-      "student_id": 1664033311552,
-      "point": [
-        0.3721461187214612,
-        0.4358974358974359
-      ]
-    },
-    {
-      "id": 2329,
-      "label": "car",
-      "student_name": "Adi",
-      "student_id": 1664034269872,
-      "point": [
-        0.773972602739726,
-        0.2703962703962704
-      ]
-    },
-    {
-      "id": 2330,
-      "label": "fish",
-      "student_name": "Adi",
-      "student_id": 1664034269872,
-      "point": [
-        0.6438356164383562,
-        0.32634032634032634
-      ]
-    },
-    {
-      "id": 2331,
-      "label": "house",
-      "student_name": "Adi",
-      "student_id": 1664034269872,
-      "point": [
-        0.54337899543379,
-        0.38694638694638694
-      ]
-    },
-    {
-      "id": 2332,
-      "label": "tree",
-      "student_name": "Adi",
-      "student_id": 1664034269872,
-      "point": [
-        0.5799086757990868,
-        0.6107226107226107
-      ]
-    },
-    {
-      "id": 2333,
-      "label": "bicycle",
-      "student_name": "Adi",
-      "student_id": 1664034269872,
-      "point": [
-        0.6118721461187214,
-        0.331002331002331
-      ]
-    },
-    {
-      "id": 2334,
-      "label": "guitar",
-      "student_name": "Adi",
-      "student_id": 1664034269872,
-      "point": [
-        0.5684931506849316,
-        0.6899766899766899
-      ]
-    },
-    {
-      "id": 2335,
-      "label": "pencil",
-      "student_name": "Adi",
-      "student_id": 1664034269872,
-      "point": [
-        0.319634703196347,
-        0.351981351981352
-      ]
-    },
-    {
-      "id": 2336,
-      "label": "clock",
-      "student_name": "Adi",
-      "student_id": 1664034269872,
-      "point": [
-        0.3812785388127854,
-        0.30303030303030304
-      ]
-    },
-    {
-      "id": 2337,
-      "label": "car",
-      "student_name": "kasim",
-      "student_id": 1664036551916,
-      "point": [
-        0.6484018264840182,
-        0.1794871794871795
-      ]
-    },
-    {
-      "id": 2338,
-      "label": "fish",
-      "student_name": "kasim",
-      "student_id": 1664036551916,
-      "point": [
-        0.4292237442922374,
-        0.1864801864801865
-      ]
-    },
-    {
-      "id": 2339,
-      "label": "house",
-      "student_name": "kasim",
-      "student_id": 1664036551916,
-      "point": [
-        0.54337899543379,
-        0.46386946386946387
-      ]
-    },
-    {
-      "id": 2340,
-      "label": "tree",
-      "student_name": "kasim",
-      "student_id": 1664036551916,
-      "point": [
-        0.589041095890411,
-        0.5547785547785548
-      ]
-    },
-    {
-      "id": 2341,
-      "label": "bicycle",
-      "student_name": "kasim",
-      "student_id": 1664036551916,
-      "point": [
-        0.7123287671232876,
-        0.43123543123543123
-      ]
-    },
-    {
-      "id": 2342,
-      "label": "guitar",
-      "student_name": "kasim",
-      "student_id": 1664036551916,
-      "point": [
-        0.6666666666666666,
-        0.5734265734265734
-      ]
-    },
-    {
-      "id": 2343,
-      "label": "pencil",
-      "student_name": "kasim",
-      "student_id": 1664036551916,
-      "point": [
-        0.5593607305936074,
-        0.1445221445221445
-      ]
-    },
-    {
-      "id": 2344,
-      "label": "clock",
-      "student_name": "kasim",
-      "student_id": 1664036551916,
-      "point": [
-        0.363013698630137,
-        0.2913752913752914
-      ]
-    },
-    {
-      "id": 2345,
-      "label": "car",
-      "student_name": "mazlum",
-      "student_id": 1664038907275,
-      "point": [
-        0.4041095890410959,
-        0.1888111888111888
-      ]
-    },
-    {
-      "id": 2346,
-      "label": "fish",
-      "student_name": "mazlum",
-      "student_id": 1664038907275,
-      "point": [
-        0.5228310502283106,
-        0.2191142191142191
-      ]
-    },
-    {
-      "id": 2347,
-      "label": "house",
-      "student_name": "mazlum",
-      "student_id": 1664038907275,
-      "point": [
-        0.2648401826484018,
-        0.5198135198135199
-      ]
-    },
-    {
-      "id": 2348,
-      "label": "tree",
-      "student_name": "mazlum",
-      "student_id": 1664038907275,
-      "point": [
-        0.4726027397260274,
-        0.5361305361305362
-      ]
-    },
-    {
-      "id": 2349,
-      "label": "bicycle",
-      "student_name": "mazlum",
-      "student_id": 1664038907275,
-      "point": [
-        0.5639269406392694,
-        0.3543123543123543
-      ]
-    },
-    {
-      "id": 2350,
-      "label": "guitar",
-      "student_name": "mazlum",
-      "student_id": 1664038907275,
-      "point": [
-        0.771689497716895,
-        0.2913752913752914
-      ]
-    },
-    {
-      "id": 2351,
-      "label": "pencil",
-      "student_name": "mazlum",
-      "student_id": 1664038907275,
-      "point": [
-        0.7351598173515982,
-        0.10722610722610723
-      ]
-    },
-    {
-      "id": 2352,
-      "label": "clock",
-      "student_name": "mazlum",
-      "student_id": 1664038907275,
-      "point": [
-        0.4931506849315068,
-        0.4149184149184149
-      ]
-    },
-    {
-      "id": 2353,
-      "label": "car",
-      "student_name": "someguy",
-      "student_id": 1664042183409,
-      "point": [
-        0.6689497716894978,
-        0.2400932400932401
-      ]
-    },
-    {
-      "id": 2354,
-      "label": "fish",
-      "student_name": "someguy",
-      "student_id": 1664042183409,
-      "point": [
-        0.3995433789954338,
-        0.1258741258741259
-      ]
-    },
-    {
-      "id": 2355,
-      "label": "house",
-      "student_name": "someguy",
-      "student_id": 1664042183409,
-      "point": [
-        0.24429223744292236,
-        0.47086247086247085
-      ]
-    },
-    {
-      "id": 2356,
-      "label": "tree",
-      "student_name": "someguy",
-      "student_id": 1664042183409,
-      "point": [
-        0.4292237442922374,
-        0.627039627039627
-      ]
-    },
-    {
-      "id": 2357,
-      "label": "bicycle",
-      "student_name": "someguy",
-      "student_id": 1664042183409,
-      "point": [
-        0.2671232876712329,
-        0.2261072261072261
-      ]
-    },
-    {
-      "id": 2358,
-      "label": "guitar",
-      "student_name": "someguy",
-      "student_id": 1664042183409,
-      "point": [
-        0.4474885844748858,
-        0.317016317016317
-      ]
-    },
-    {
-      "id": 2359,
-      "label": "pencil",
-      "student_name": "someguy",
-      "student_id": 1664042183409,
-      "point": [
-        0.5776255707762558,
-        0.07925407925407925
-      ]
-    },
-    {
-      "id": 2360,
-      "label": "clock",
-      "student_name": "someguy",
-      "student_id": 1664042183409,
-      "point": [
-        0.4589041095890411,
-        0.4801864801864802
-      ]
-    },
-    {
-      "id": 2361,
-      "label": "car",
-      "student_name": "nigger",
-      "student_id": 1664042454725,
-      "point": [
-        0.6757990867579908,
-        0.2680652680652681
-      ]
-    },
-    {
-      "id": 2362,
-      "label": "fish",
-      "student_name": "nigger",
-      "student_id": 1664042454725,
-      "point": [
-        0.4611872146118721,
-        0.1864801864801865
-      ]
-    },
-    {
-      "id": 2363,
-      "label": "house",
-      "student_name": "nigger",
-      "student_id": 1664042454725,
-      "point": [
-        0.3378995433789954,
-        0.6107226107226107
-      ]
-    },
-    {
-      "id": 2364,
-      "label": "tree",
-      "student_name": "nigger",
-      "student_id": 1664042454725,
-      "point": [
-        0.4041095890410959,
-        0.5920745920745921
-      ]
-    },
-    {
-      "id": 2365,
-      "label": "bicycle",
-      "student_name": "nigger",
-      "student_id": 1664042454725,
-      "point": [
-        0.7625570776255708,
-        0.6526806526806527
-      ]
-    },
-    {
-      "id": 2366,
-      "label": "guitar",
-      "student_name": "nigger",
-      "student_id": 1664042454725,
-      "point": [
-        0.2534246575342466,
-        0.5268065268065268
-      ]
-    },
-    {
-      "id": 2367,
-      "label": "pencil",
-      "student_name": "nigger",
-      "student_id": 1664042454725,
-      "point": [
-        0.0867579908675799,
-        0.5337995337995338
-      ]
-    },
-    {
-      "id": 2368,
-      "label": "clock",
-      "student_name": "nigger",
-      "student_id": 1664042454725,
-      "point": [
-        0.3721461187214612,
-        0.34032634032634035
-      ]
-    },
-    {
-      "id": 2369,
-      "label": "car",
-      "student_name": "Albin",
-      "student_id": 1664048574826,
-      "point": [
-        0.682648401826484,
-        0.32400932400932403
-      ]
-    },
-    {
-      "id": 2370,
-      "label": "fish",
-      "student_name": "Albin",
-      "student_id": 1664048574826,
-      "point": [
-        0.5136986301369864,
-        0.19114219114219114
-      ]
-    },
-    {
-      "id": 2371,
-      "label": "house",
-      "student_name": "Albin",
-      "student_id": 1664048574826,
-      "point": [
-        0.3835616438356164,
-        0.2400932400932401
-      ]
-    },
-    {
-      "id": 2372,
-      "label": "tree",
-      "student_name": "Albin",
-      "student_id": 1664048574826,
-      "point": [
-        0.4589041095890411,
-        0.3752913752913753
-      ]
-    },
-    {
-      "id": 2373,
-      "label": "bicycle",
-      "student_name": "Albin",
-      "student_id": 1664048574826,
-      "point": [
-        0.4817351598173516,
-        0.23076923076923078
-      ]
-    },
-    {
-      "id": 2374,
-      "label": "guitar",
-      "student_name": "Albin",
-      "student_id": 1664048574826,
-      "point": [
-        0.2648401826484018,
-        0.6130536130536131
-      ]
-    },
-    {
-      "id": 2375,
-      "label": "pencil",
-      "student_name": "Albin",
-      "student_id": 1664048574826,
-      "point": [
-        0.6073059360730594,
-        0.08391608391608392
-      ]
-    },
-    {
-      "id": 2376,
-      "label": "clock",
-      "student_name": "Albin",
-      "student_id": 1664048574826,
-      "point": [
-        0.6164383561643836,
-        0.4825174825174825
-      ]
-    },
-    {
-      "id": 2377,
-      "label": "car",
-      "student_name": "brasil",
-      "student_id": 1664048756422,
-      "point": [
-        0.7876712328767124,
-        0.30536130536130535
-      ]
-    },
-    {
-      "id": 2378,
-      "label": "fish",
-      "student_name": "brasil",
-      "student_id": 1664048756422,
-      "point": [
-        0.4977168949771689,
-        0.22843822843822845
-      ]
-    },
-    {
-      "id": 2379,
-      "label": "house",
-      "student_name": "brasil",
-      "student_id": 1664048756422,
-      "point": [
-        0.5958904109589042,
-        0.48717948717948717
-      ]
-    },
-    {
-      "id": 2380,
-      "label": "tree",
-      "student_name": "brasil",
-      "student_id": 1664048756422,
-      "point": [
-        0.6073059360730594,
-        0.5058275058275058
-      ]
-    },
-    {
-      "id": 2381,
-      "label": "bicycle",
-      "student_name": "brasil",
-      "student_id": 1664048756422,
-      "point": [
-        0.5639269406392694,
-        0.3123543123543124
-      ]
-    },
-    {
-      "id": 2382,
-      "label": "guitar",
-      "student_name": "brasil",
-      "student_id": 1664048756422,
-      "point": [
-        0.591324200913242,
-        0.4289044289044289
-      ]
-    },
-    {
-      "id": 2383,
-      "label": "pencil",
-      "student_name": "brasil",
-      "student_id": 1664048756422,
-      "point": [
-        0.4794520547945205,
-        0.44755244755244755
-      ]
-    },
-    {
-      "id": 2384,
-      "label": "clock",
-      "student_name": "brasil",
-      "student_id": 1664048756422,
-      "point": [
-        0.4748858447488584,
-        0.42424242424242425
-      ]
-    },
-    {
-      "id": 2385,
-      "label": "car",
-      "student_name": "Alexander",
-      "student_id": 1664050297044,
-      "point": [
-        0.4931506849315068,
-        0.34498834498834496
-      ]
-    },
-    {
-      "id": 2386,
-      "label": "fish",
-      "student_name": "Alexander",
-      "student_id": 1664050297044,
-      "point": [
-        0.545662100456621,
-        0.21212121212121213
-      ]
-    },
-    {
-      "id": 2387,
-      "label": "house",
-      "student_name": "Alexander",
-      "student_id": 1664050297044,
-      "point": [
-        0.502283105022831,
-        0.7389277389277389
-      ]
-    },
-    {
-      "id": 2388,
-      "label": "tree",
-      "student_name": "Alexander",
-      "student_id": 1664050297044,
-      "point": [
-        0.6963470319634704,
-        0.7132867132867133
-      ]
-    },
-    {
-      "id": 2389,
-      "label": "bicycle",
-      "student_name": "Alexander",
-      "student_id": 1664050297044,
-      "point": [
-        0.6210045662100456,
-        0.34032634032634035
-      ]
-    },
-    {
-      "id": 2390,
-      "label": "guitar",
-      "student_name": "Alexander",
-      "student_id": 1664050297044,
-      "point": [
-        0.634703196347032,
-        0.4125874125874126
-      ]
-    },
-    {
-      "id": 2391,
-      "label": "pencil",
-      "student_name": "Alexander",
-      "student_id": 1664050297044,
-      "point": [
-        0.0730593607305936,
-        0.5337995337995338
-      ]
-    },
-    {
-      "id": 2392,
-      "label": "clock",
-      "student_name": "Alexander",
-      "student_id": 1664050297044,
-      "point": [
-        0.3333333333333333,
-        0.32634032634032634
-      ]
-    },
-    {
-      "id": 2393,
-      "label": "car",
-      "student_name": "Shahadh",
-      "student_id": 1664052232607,
-      "point": [
-        0.5662100456621004,
-        0.21445221445221446
-      ]
-    },
-    {
-      "id": 2394,
-      "label": "fish",
-      "student_name": "Shahadh",
-      "student_id": 1664052232607,
-      "point": [
-        0.4497716894977169,
-        0.22144522144522144
-      ]
-    },
-    {
-      "id": 2395,
-      "label": "house",
-      "student_name": "Shahadh",
-      "student_id": 1664052232607,
-      "point": [
-        0.5342465753424658,
-        0.3939393939393939
-      ]
-    },
-    {
-      "id": 2396,
-      "label": "tree",
-      "student_name": "Shahadh",
-      "student_id": 1664052232607,
-      "point": [
-        0.545662100456621,
-        0.7249417249417249
-      ]
-    },
-    {
-      "id": 2397,
-      "label": "bicycle",
-      "student_name": "Shahadh",
-      "student_id": 1664052232607,
-      "point": [
-        0.45662100456621,
-        0.40792540792540793
-      ]
-    },
-    {
-      "id": 2398,
-      "label": "guitar",
-      "student_name": "Shahadh",
-      "student_id": 1664052232607,
-      "point": [
-        0.2876712328767123,
-        0.7156177156177156
-      ]
-    },
-    {
-      "id": 2399,
-      "label": "pencil",
-      "student_name": "Shahadh",
-      "student_id": 1664052232607,
-      "point": [
-        0.4406392694063927,
-        0.4195804195804196
-      ]
-    },
-    {
-      "id": 2400,
-      "label": "clock",
-      "student_name": "Shahadh",
-      "student_id": 1664052232607,
-      "point": [
-        0.3789954337899543,
-        0.34965034965034963
-      ]
-    },
-    {
-      "id": 2401,
-      "label": "car",
-      "student_name": "Ricardo Aleixo",
-      "student_id": 1664057034710,
-      "point": [
-        0.6210045662100456,
-        0.2191142191142191
-      ]
-    },
-    {
-      "id": 2402,
-      "label": "fish",
-      "student_name": "Ricardo Aleixo",
-      "student_id": 1664057034710,
-      "point": [
-        0.7191780821917808,
-        0.32167832167832167
-      ]
-    },
-    {
-      "id": 2403,
-      "label": "house",
-      "student_name": "Ricardo Aleixo",
-      "student_id": 1664057034710,
-      "point": [
-        0.7009132420091324,
-        0.745920745920746
-      ]
-    },
-    {
-      "id": 2404,
-      "label": "tree",
-      "student_name": "Ricardo Aleixo",
-      "student_id": 1664057034710,
-      "point": [
-        0.54337899543379,
-        0.7202797202797203
-      ]
-    },
-    {
-      "id": 2405,
-      "label": "bicycle",
-      "student_name": "Ricardo Aleixo",
-      "student_id": 1664057034710,
-      "point": [
-        0.6917808219178082,
-        0.46853146853146854
-      ]
-    },
-    {
-      "id": 2406,
-      "label": "guitar",
-      "student_name": "Ricardo Aleixo",
-      "student_id": 1664057034710,
-      "point": [
-        0.6415525114155252,
-        0.5687645687645687
-      ]
-    },
-    {
-      "id": 2407,
-      "label": "pencil",
-      "student_name": "Ricardo Aleixo",
-      "student_id": 1664057034710,
-      "point": [
-        0.4041095890410959,
-        0.5827505827505828
-      ]
-    },
-    {
-      "id": 2408,
-      "label": "clock",
-      "student_name": "Ricardo Aleixo",
-      "student_id": 1664057034710,
-      "point": [
-        0.5,
-        0.8344988344988346
-      ]
-    },
-    {
-      "id": 2409,
-      "label": "car",
-      "student_name": "Tiina",
-      "student_id": 1664057072596,
-      "point": [
-        0.8538812785388128,
-        0.40326340326340326
-      ]
-    },
-    {
-      "id": 2410,
-      "label": "fish",
-      "student_name": "Tiina",
-      "student_id": 1664057072596,
-      "point": [
-        0.6164383561643836,
-        0.15151515151515152
-      ]
-    },
-    {
-      "id": 2411,
-      "label": "house",
-      "student_name": "Tiina",
-      "student_id": 1664057072596,
-      "point": [
-        0.723744292237443,
-        0.5174825174825175
-      ]
-    },
-    {
-      "id": 2412,
-      "label": "tree",
-      "student_name": "Tiina",
-      "student_id": 1664057072596,
-      "point": [
-        0.5045662100456622,
-        0.62004662004662
-      ]
-    },
-    {
-      "id": 2413,
-      "label": "bicycle",
-      "student_name": "Tiina",
-      "student_id": 1664057072596,
-      "point": [
-        0.6301369863013698,
-        0.37995337995337997
-      ]
-    },
-    {
-      "id": 2414,
-      "label": "guitar",
-      "student_name": "Tiina",
-      "student_id": 1664057072596,
-      "point": [
-        0.636986301369863,
-        0.1794871794871795
-      ]
-    },
-    {
-      "id": 2415,
-      "label": "pencil",
-      "student_name": "Tiina",
-      "student_id": 1664057072596,
-      "point": [
-        0.04337899543378995,
-        0.5198135198135199
-      ]
-    },
-    {
-      "id": 2416,
-      "label": "clock",
-      "student_name": "Tiina",
-      "student_id": 1664057072596,
-      "point": [
-        0.3972602739726027,
-        0.3776223776223776
-      ]
-    },
-    {
-      "id": 2417,
-      "label": "car",
-      "student_name": "Ragg",
-      "student_id": 1664069291503,
-      "point": [
-        0.6506849315068494,
-        0.32167832167832167
-      ]
-    },
-    {
-      "id": 2418,
-      "label": "fish",
-      "student_name": "Ragg",
-      "student_id": 1664069291503,
-      "point": [
-        0.3881278538812785,
-        0.2400932400932401
-      ]
-    },
-    {
-      "id": 2419,
-      "label": "house",
-      "student_name": "Ragg",
-      "student_id": 1664069291503,
-      "point": [
-        0.5844748858447488,
-        0.7132867132867133
-      ]
-    },
-    {
-      "id": 2420,
-      "label": "tree",
-      "student_name": "Ragg",
-      "student_id": 1664069291503,
-      "point": [
-        0.5707762557077626,
-        0.627039627039627
-      ]
-    },
-    {
-      "id": 2421,
-      "label": "bicycle",
-      "student_name": "Ragg",
-      "student_id": 1664069291503,
-      "point": [
-        0.5799086757990868,
-        0.578088578088578
-      ]
-    },
-    {
-      "id": 2422,
-      "label": "guitar",
-      "student_name": "Ragg",
-      "student_id": 1664069291503,
-      "point": [
-        0.3675799086757991,
-        0.8508158508158508
-      ]
-    },
-    {
-      "id": 2423,
-      "label": "pencil",
-      "student_name": "Ragg",
-      "student_id": 1664069291503,
-      "point": [
-        0.22146118721461186,
-        0.7575757575757576
-      ]
-    },
-    {
-      "id": 2424,
-      "label": "clock",
-      "student_name": "Ragg",
-      "student_id": 1664069291503,
-      "point": [
-        0.589041095890411,
-        0.5221445221445221
-      ]
-    },
-    {
-      "id": 2425,
-      "label": "car",
-      "student_name": "Aime",
-      "student_id": 1664070678115,
-      "point": [
-        0.7397260273972602,
-        0.6060606060606061
-      ]
-    },
-    {
-      "id": 2426,
-      "label": "fish",
-      "student_name": "Aime",
-      "student_id": 1664070678115,
-      "point": [
-        0.7146118721461188,
-        0.5897435897435898
-      ]
-    },
-    {
-      "id": 2427,
-      "label": "house",
-      "student_name": "Aime",
-      "student_id": 1664070678115,
-      "point": [
-        0.8767123287671232,
-        0.7622377622377622
-      ]
-    },
-    {
-      "id": 2428,
-      "label": "tree",
-      "student_name": "Aime",
-      "student_id": 1664070678115,
-      "point": [
-        0.8767123287671232,
-        0.6713286713286714
-      ]
-    },
-    {
-      "id": 2429,
-      "label": "bicycle",
-      "student_name": "Aime",
-      "student_id": 1664070678115,
-      "point": [
-        0.7602739726027398,
-        0.5407925407925408
-      ]
-    },
-    {
-      "id": 2430,
-      "label": "guitar",
-      "student_name": "Aime",
-      "student_id": 1664070678115,
-      "point": [
-        0.5707762557077626,
-        0.6060606060606061
-      ]
-    },
-    {
-      "id": 2431,
-      "label": "pencil",
-      "student_name": "Aime",
-      "student_id": 1664070678115,
-      "point": [
-        0.06621004566210045,
-        0.7482517482517482
-      ]
-    },
-    {
-      "id": 2432,
-      "label": "clock",
-      "student_name": "Aime",
-      "student_id": 1664070678115,
-      "point": [
-        0.6027397260273972,
-        0.5291375291375291
-      ]
-    },
-    {
-      "id": 2433,
-      "label": "car",
-      "student_name": "Kuba",
-      "student_id": 1664071180078,
-      "point": [
-        0.6735159817351598,
-        0.2517482517482518
-      ]
-    },
-    {
-      "id": 2434,
-      "label": "fish",
-      "student_name": "Kuba",
-      "student_id": 1664071180078,
-      "point": [
-        0.6073059360730594,
-        0.3986013986013986
-      ]
-    },
-    {
-      "id": 2435,
-      "label": "house",
-      "student_name": "Kuba",
-      "student_id": 1664071180078,
-      "point": [
-        0.815068493150685,
-        0.4825174825174825
-      ]
-    },
-    {
-      "id": 2436,
-      "label": "tree",
-      "student_name": "Kuba",
-      "student_id": 1664071180078,
-      "point": [
-        0.6255707762557078,
-        0.8018648018648019
-      ]
-    },
-    {
-      "id": 2437,
-      "label": "bicycle",
-      "student_name": "Kuba",
-      "student_id": 1664071180078,
-      "point": [
-        0.8447488584474886,
-        0.47785547785547783
-      ]
-    },
-    {
-      "id": 2438,
-      "label": "guitar",
-      "student_name": "Kuba",
-      "student_id": 1664071180078,
-      "point": [
-        0.6484018264840182,
-        0.8414918414918415
-      ]
-    },
-    {
-      "id": 2439,
-      "label": "pencil",
-      "student_name": "Kuba",
-      "student_id": 1664071180078,
-      "point": [
-        0.5159817351598174,
-        0.8321678321678322
-      ]
-    },
-    {
-      "id": 2440,
-      "label": "clock",
-      "student_name": "Kuba",
-      "student_id": 1664071180078,
-      "point": [
-        0.7031963470319634,
-        0.6503496503496503
-      ]
-    },
-    {
-      "id": 2441,
-      "label": "car",
-      "student_name": "Carlos",
-      "student_id": 1664080802484,
-      "point": [
-        0.3493150684931507,
-        0.1561771561771562
-      ]
-    },
-    {
-      "id": 2442,
-      "label": "fish",
-      "student_name": "Carlos",
-      "student_id": 1664080802484,
-      "point": [
-        0.319634703196347,
-        0.17016317016317017
-      ]
-    },
-    {
-      "id": 2443,
-      "label": "house",
-      "student_name": "Carlos",
-      "student_id": 1664080802484,
-      "point": [
-        0.7328767123287672,
-        0.4358974358974359
-      ]
-    },
-    {
-      "id": 2444,
-      "label": "tree",
-      "student_name": "Carlos",
-      "student_id": 1664080802484,
-      "point": [
-        0.6666666666666666,
-        0.7249417249417249
-      ]
-    },
-    {
-      "id": 2445,
-      "label": "bicycle",
-      "student_name": "Carlos",
-      "student_id": 1664080802484,
-      "point": [
-        0.6575342465753424,
-        0.44522144522144524
-      ]
-    },
-    {
-      "id": 2446,
-      "label": "guitar",
-      "student_name": "Carlos",
-      "student_id": 1664080802484,
-      "point": [
-        0.678082191780822,
-        0.3543123543123543
-      ]
-    },
-    {
-      "id": 2447,
-      "label": "pencil",
-      "student_name": "Carlos",
-      "student_id": 1664080802484,
-      "point": [
-        0.6027397260273972,
-        0.3473193473193473
-      ]
-    },
-    {
-      "id": 2448,
-      "label": "clock",
-      "student_name": "Carlos",
-      "student_id": 1664080802484,
-      "point": [
-        0.3721461187214612,
-        0.32867132867132864
-      ]
-    },
-    {
-      "id": 2449,
-      "label": "car",
-      "student_name": "sakthi",
-      "student_id": 1664081698954,
-      "point": [
-        0.45662100456621,
-        0.20745920745920746
-      ]
-    },
-    {
-      "id": 2450,
-      "label": "fish",
-      "student_name": "sakthi",
-      "student_id": 1664081698954,
-      "point": [
-        0.319634703196347,
-        0.20745920745920746
-      ]
-    },
-    {
-      "id": 2451,
-      "label": "house",
-      "student_name": "sakthi",
-      "student_id": 1664081698954,
-      "point": [
-        0.271689497716895,
-        0.16783216783216784
-      ]
-    },
-    {
-      "id": 2452,
-      "label": "tree",
-      "student_name": "sakthi",
-      "student_id": 1664081698954,
-      "point": [
-        0.4703196347031963,
-        0.5897435897435898
-      ]
-    },
-    {
-      "id": 2453,
-      "label": "bicycle",
-      "student_name": "sakthi",
-      "student_id": 1664081698954,
-      "point": [
-        0.4771689497716895,
-        0.38694638694638694
-      ]
-    },
-    {
-      "id": 2454,
-      "label": "guitar",
-      "student_name": "sakthi",
-      "student_id": 1664081698954,
-      "point": [
-        0.4337899543378995,
-        0.27972027972027974
-      ]
-    },
-    {
-      "id": 2455,
-      "label": "pencil",
-      "student_name": "sakthi",
-      "student_id": 1664081698954,
-      "point": [
-        0.16210045662100456,
-        0.2517482517482518
-      ]
-    },
-    {
-      "id": 2456,
-      "label": "clock",
-      "student_name": "sakthi",
-      "student_id": 1664081698954,
-      "point": [
-        0.2146118721461187,
-        0.2867132867132867
-      ]
-    },
-    {
-      "id": 2457,
-      "label": "car",
-      "student_name": "mcaamano",
-      "student_id": 1664085303517,
-      "point": [
-        0.6643835616438356,
-        0.16083916083916083
-      ]
-    },
-    {
-      "id": 2458,
-      "label": "fish",
-      "student_name": "mcaamano",
-      "student_id": 1664085303517,
-      "point": [
-        0.6506849315068494,
-        0.25874125874125875
-      ]
-    },
-    {
-      "id": 2459,
-      "label": "house",
-      "student_name": "mcaamano",
-      "student_id": 1664085303517,
-      "point": [
-        0.5136986301369864,
-        0.45454545454545453
-      ]
-    },
-    {
-      "id": 2460,
-      "label": "tree",
-      "student_name": "mcaamano",
-      "student_id": 1664085303517,
-      "point": [
-        0.408675799086758,
-        0.6037296037296037
-      ]
-    },
-    {
-      "id": 2461,
-      "label": "bicycle",
-      "student_name": "mcaamano",
-      "student_id": 1664085303517,
-      "point": [
-        0.4246575342465753,
-        0.22377622377622378
-      ]
-    },
-    {
-      "id": 2462,
-      "label": "guitar",
-      "student_name": "mcaamano",
-      "student_id": 1664085303517,
-      "point": [
-        0.7785388127853882,
-        0.6363636363636364
-      ]
-    },
-    {
-      "id": 2463,
-      "label": "pencil",
-      "student_name": "mcaamano",
-      "student_id": 1664085303517,
-      "point": [
-        0.6438356164383562,
-        0.5081585081585082
-      ]
-    },
-    {
-      "id": 2464,
-      "label": "clock",
-      "student_name": "mcaamano",
-      "student_id": 1664085303517,
-      "point": [
-        0.6118721461187214,
-        0.6083916083916084
-      ]
-    },
-    {
-      "id": 2465,
-      "label": "car",
-      "student_name": "Jani",
-      "student_id": 1664089433449,
-      "point": [
-        0.7214611872146118,
-        0.6247086247086248
-      ]
-    },
-    {
-      "id": 2466,
-      "label": "fish",
-      "student_name": "Jani",
-      "student_id": 1664089433449,
-      "point": [
-        0.6689497716894978,
-        0.3706293706293706
-      ]
-    },
-    {
-      "id": 2467,
-      "label": "house",
-      "student_name": "Jani",
-      "student_id": 1664089433449,
-      "point": [
-        0.728310502283105,
-        0.662004662004662
-      ]
-    },
-    {
-      "id": 2468,
-      "label": "tree",
-      "student_name": "Jani",
-      "student_id": 1664089433449,
-      "point": [
-        0.6963470319634704,
-        0.8414918414918415
-      ]
-    },
-    {
-      "id": 2469,
-      "label": "bicycle",
-      "student_name": "Jani",
-      "student_id": 1664089433449,
-      "point": [
-        0.5753424657534246,
-        0.41025641025641024
-      ]
-    },
-    {
-      "id": 2470,
-      "label": "guitar",
-      "student_name": "Jani",
-      "student_id": 1664089433449,
-      "point": [
-        0.591324200913242,
-        0.7249417249417249
-      ]
-    },
-    {
-      "id": 2471,
-      "label": "pencil",
-      "student_name": "Jani",
-      "student_id": 1664089433449,
-      "point": [
-        0.14383561643835616,
-        0.6806526806526807
-      ]
-    },
-    {
-      "id": 2472,
-      "label": "clock",
-      "student_name": "Jani",
-      "student_id": 1664089433449,
-      "point": [
-        0.3972602739726027,
-        0.49184149184149184
-      ]
-    },
-    {
-      "id": 2473,
-      "label": "car",
-      "student_name": "Daban",
-      "student_id": 1664090710974,
-      "point": [
-        0.639269406392694,
-        0.38927738927738925
-      ]
-    },
-    {
-      "id": 2474,
-      "label": "fish",
-      "student_name": "Daban",
-      "student_id": 1664090710974,
-      "point": [
-        0.593607305936073,
-        0.1864801864801865
-      ]
-    },
-    {
-      "id": 2475,
-      "label": "house",
-      "student_name": "Daban",
-      "student_id": 1664090710974,
-      "point": [
-        0.5639269406392694,
-        0.42424242424242425
-      ]
-    },
-    {
-      "id": 2476,
-      "label": "tree",
-      "student_name": "Daban",
-      "student_id": 1664090710974,
-      "point": [
-        0.4703196347031963,
-        0.8624708624708625
-      ]
-    },
-    {
-      "id": 2477,
-      "label": "bicycle",
-      "student_name": "Daban",
-      "student_id": 1664090710974,
-      "point": [
-        0.6278538812785388,
-        0.5058275058275058
-      ]
-    },
-    {
-      "id": 2478,
-      "label": "guitar",
-      "student_name": "Daban",
-      "student_id": 1664090710974,
-      "point": [
-        0.6255707762557078,
-        0.28205128205128205
-      ]
-    },
-    {
-      "id": 2479,
-      "label": "pencil",
-      "student_name": "Daban",
-      "student_id": 1664090710974,
-      "point": [
-        0.6552511415525114,
-        0.12121212121212122
-      ]
-    },
-    {
-      "id": 2480,
-      "label": "clock",
-      "student_name": "Daban",
-      "student_id": 1664090710974,
-      "point": [
-        0.8858447488584474,
-        0.289044289044289
-      ]
-    },
-    {
-      "id": 2481,
-      "label": "car",
-      "student_name": "hayes",
-      "student_id": 1664091721008,
-      "point": [
-        0.8264840182648402,
-        0.44755244755244755
-      ]
-    },
-    {
-      "id": 2482,
-      "label": "fish",
-      "student_name": "hayes",
-      "student_id": 1664091721008,
-      "point": [
-        0.6894977168949772,
-        0.3986013986013986
-      ]
-    },
-    {
-      "id": 2483,
-      "label": "house",
-      "student_name": "hayes",
-      "student_id": 1664091721008,
-      "point": [
-        0.4360730593607306,
-        0.6317016317016317
-      ]
-    },
-    {
-      "id": 2484,
-      "label": "tree",
-      "student_name": "hayes",
-      "student_id": 1664091721008,
-      "point": [
-        0.728310502283105,
-        0.6993006993006993
-      ]
-    },
-    {
-      "id": 2485,
-      "label": "bicycle",
-      "student_name": "hayes",
-      "student_id": 1664091721008,
-      "point": [
-        0.6095890410958904,
-        0.3916083916083916
-      ]
-    },
-    {
-      "id": 2486,
-      "label": "guitar",
-      "student_name": "hayes",
-      "student_id": 1664091721008,
-      "point": [
-        0.7100456621004566,
-        0.15384615384615385
-      ]
-    },
-    {
-      "id": 2487,
-      "label": "pencil",
-      "student_name": "hayes",
-      "student_id": 1664091721008,
-      "point": [
-        0.10730593607305935,
-        0.7272727272727273
-      ]
-    },
-    {
-      "id": 2488,
-      "label": "clock",
-      "student_name": "hayes",
-      "student_id": 1664091721008,
-      "point": [
-        0.8378995433789954,
-        0.7692307692307693
-      ]
-    },
-    {
-      "id": 2489,
-      "label": "car",
-      "student_name": "mta",
-      "student_id": 1664091847458,
-      "point": [
-        0.5091324200913242,
-        0.20046620046620048
-      ]
-    },
-    {
-      "id": 2490,
-      "label": "fish",
-      "student_name": "mta",
-      "student_id": 1664091847458,
-      "point": [
-        0.21232876712328766,
-        0.16317016317016317
-      ]
-    },
-    {
-      "id": 2491,
-      "label": "house",
-      "student_name": "mta",
-      "student_id": 1664091847458,
-      "point": [
-        0.3538812785388128,
-        0.5104895104895105
-      ]
-    },
-    {
-      "id": 2492,
-      "label": "tree",
-      "student_name": "mta",
-      "student_id": 1664091847458,
-      "point": [
-        0.4520547945205479,
-        0.627039627039627
-      ]
-    },
-    {
-      "id": 2493,
-      "label": "bicycle",
-      "student_name": "mta",
-      "student_id": 1664091847458,
-      "point": [
-        0.2876712328767123,
-        0.16317016317016317
-      ]
-    },
-    {
-      "id": 2494,
-      "label": "guitar",
-      "student_name": "mta",
-      "student_id": 1664091847458,
-      "point": [
-        0.2465753424657534,
-        0.703962703962704
-      ]
-    },
-    {
-      "id": 2495,
-      "label": "pencil",
-      "student_name": "mta",
-      "student_id": 1664091847458,
-      "point": [
-        0.3310502283105023,
-        0.2913752913752914
-      ]
-    },
-    {
-      "id": 2496,
-      "label": "clock",
-      "student_name": "mta",
-      "student_id": 1664091847458,
-      "point": [
-        0.3287671232876712,
-        0.48951048951048953
-      ]
-    },
-    {
-      "id": 2497,
-      "label": "car",
-      "student_name": "aitor",
-      "student_id": 1664092225145,
-      "point": [
-        0.4680365296803653,
-        0.2727272727272727
-      ]
-    },
-    {
-      "id": 2498,
-      "label": "fish",
-      "student_name": "aitor",
-      "student_id": 1664092225145,
-      "point": [
-        0.5091324200913242,
-        0.07226107226107226
-      ]
-    },
-    {
-      "id": 2499,
-      "label": "house",
-      "student_name": "aitor",
-      "student_id": 1664092225145,
-      "point": [
-        0.5068493150684932,
-        0.4358974358974359
-      ]
-    },
-    {
-      "id": 2500,
-      "label": "tree",
-      "student_name": "aitor",
-      "student_id": 1664092225145,
-      "point": [
-        0.3424657534246575,
-        0.5128205128205128
-      ]
-    },
-    {
-      "id": 2501,
-      "label": "bicycle",
-      "student_name": "aitor",
-      "student_id": 1664092225145,
-      "point": [
-        0.4977168949771689,
-        0.16083916083916083
-      ]
-    },
-    {
-      "id": 2502,
-      "label": "guitar",
-      "student_name": "aitor",
-      "student_id": 1664092225145,
-      "point": [
-        0.8264840182648402,
-        0.2773892773892774
-      ]
-    },
-    {
-      "id": 2503,
-      "label": "pencil",
-      "student_name": "aitor",
-      "student_id": 1664092225145,
-      "point": [
-        0.58675799086758,
-        0.5594405594405595
-      ]
-    },
-    {
-      "id": 2504,
-      "label": "clock",
-      "student_name": "aitor",
-      "student_id": 1664092225145,
-      "point": [
-        0.2625570776255708,
-        0.29836829836829837
-      ]
-    },
-    {
-      "id": 2505,
-      "label": "car",
-      "student_name": "nanda",
-      "student_id": 1664094261972,
-      "point": [
-        0.7146118721461188,
-        0.31002331002331
-      ]
-    },
-    {
-      "id": 2506,
-      "label": "fish",
-      "student_name": "nanda",
-      "student_id": 1664094261972,
-      "point": [
-        0.410958904109589,
-        0.1351981351981352
-      ]
-    },
-    {
-      "id": 2507,
-      "label": "house",
-      "student_name": "nanda",
-      "student_id": 1664094261972,
-      "point": [
-        0.541095890410959,
-        0.37995337995337997
-      ]
-    },
-    {
-      "id": 2508,
-      "label": "tree",
-      "student_name": "nanda",
-      "student_id": 1664094261972,
-      "point": [
-        0.6529680365296804,
-        0.7902097902097902
-      ]
-    },
-    {
-      "id": 2509,
-      "label": "bicycle",
-      "student_name": "nanda",
-      "student_id": 1664094261972,
-      "point": [
-        0.4726027397260274,
-        0.3682983682983683
-      ]
-    },
-    {
-      "id": 2510,
-      "label": "guitar",
-      "student_name": "nanda",
-      "student_id": 1664094261972,
-      "point": [
-        0.5958904109589042,
-        0.5897435897435898
-      ]
-    },
-    {
-      "id": 2511,
-      "label": "pencil",
-      "student_name": "nanda",
-      "student_id": 1664094261972,
-      "point": [
-        0.3059360730593607,
-        0.05128205128205128
-      ]
-    },
-    {
-      "id": 2512,
-      "label": "clock",
-      "student_name": "nanda",
-      "student_id": 1664094261972,
-      "point": [
-        0.410958904109589,
-        0.37995337995337997
-      ]
-    },
-    {
-      "id": 2513,
-      "label": "car",
-      "student_name": "taner",
-      "student_id": 1664094971846,
-      "point": [
-        0.7465753424657534,
-        0.2191142191142191
-      ]
-    },
-    {
-      "id": 2514,
-      "label": "fish",
-      "student_name": "taner",
-      "student_id": 1664094971846,
-      "point": [
-        0.6689497716894978,
-        0.22377622377622378
-      ]
-    },
-    {
-      "id": 2515,
-      "label": "house",
-      "student_name": "taner",
-      "student_id": 1664094971846,
-      "point": [
-        0.632420091324201,
-        0.42657342657342656
-      ]
-    },
-    {
-      "id": 2516,
-      "label": "tree",
-      "student_name": "taner",
-      "student_id": 1664094971846,
-      "point": [
-        0.54337899543379,
-        0.7715617715617715
-      ]
-    },
-    {
-      "id": 2517,
-      "label": "bicycle",
-      "student_name": "taner",
-      "student_id": 1664094971846,
-      "point": [
-        0.5753424657534246,
-        0.38927738927738925
-      ]
-    },
-    {
-      "id": 2518,
-      "label": "guitar",
-      "student_name": "taner",
-      "student_id": 1664094971846,
-      "point": [
-        0.5958904109589042,
-        0.17016317016317017
-      ]
-    },
-    {
-      "id": 2519,
-      "label": "pencil",
-      "student_name": "taner",
-      "student_id": 1664094971846,
-      "point": [
-        0.3333333333333333,
-        0.4382284382284382
-      ]
-    },
-    {
-      "id": 2520,
-      "label": "clock",
-      "student_name": "taner",
-      "student_id": 1664094971846,
-      "point": [
-        0.4452054794520548,
-        0.3076923076923077
-      ]
-    },
-    {
-      "id": 2521,
-      "label": "car",
-      "student_name": "Lukson",
-      "student_id": 1664095689168,
-      "point": [
-        0.6255707762557078,
-        0.3333333333333333
-      ]
-    },
-    {
-      "id": 2522,
-      "label": "fish",
-      "student_name": "Lukson",
-      "student_id": 1664095689168,
-      "point": [
-        0.2534246575342466,
-        0.11655011655011654
-      ]
-    },
-    {
-      "id": 2523,
-      "label": "house",
-      "student_name": "Lukson",
-      "student_id": 1664095689168,
-      "point": [
-        0.6027397260273972,
-        0.5990675990675991
-      ]
-    },
-    {
-      "id": 2524,
-      "label": "tree",
-      "student_name": "Lukson",
-      "student_id": 1664095689168,
-      "point": [
-        0.5502283105022832,
-        0.662004662004662
-      ]
-    },
-    {
-      "id": 2525,
-      "label": "bicycle",
-      "student_name": "Lukson",
-      "student_id": 1664095689168,
-      "point": [
-        0.4726027397260274,
-        0.32867132867132864
-      ]
-    },
-    {
-      "id": 2526,
-      "label": "guitar",
-      "student_name": "Lukson",
-      "student_id": 1664095689168,
-      "point": [
-        0.6255707762557078,
-        0.26573426573426573
-      ]
-    },
-    {
-      "id": 2527,
-      "label": "pencil",
-      "student_name": "Lukson",
-      "student_id": 1664095689168,
-      "point": [
-        0.0228310502283105,
-        0.5268065268065268
-      ]
-    },
-    {
-      "id": 2528,
-      "label": "clock",
-      "student_name": "Lukson",
-      "student_id": 1664095689168,
-      "point": [
-        0.319634703196347,
-        0.3543123543123543
-      ]
-    },
-    {
-      "id": 2529,
-      "label": "car",
-      "student_name": "Meruem",
-      "student_id": 1664098362339,
-      "point": [
-        0.6141552511415526,
-        0.1864801864801865
-      ]
-    },
-    {
-      "id": 2530,
-      "label": "fish",
-      "student_name": "Meruem",
-      "student_id": 1664098362339,
-      "point": [
-        0.6438356164383562,
-        0.24475524475524477
-      ]
-    },
-    {
-      "id": 2531,
-      "label": "house",
-      "student_name": "Meruem",
-      "student_id": 1664098362339,
-      "point": [
-        0.5799086757990868,
-        0.7016317016317016
-      ]
-    },
-    {
-      "id": 2532,
-      "label": "tree",
-      "student_name": "Meruem",
-      "student_id": 1664098362339,
-      "point": [
-        0.3835616438356164,
-        0.8764568764568764
-      ]
-    },
-    {
-      "id": 2533,
-      "label": "bicycle",
-      "student_name": "Meruem",
-      "student_id": 1664098362339,
-      "point": [
-        0.5662100456621004,
-        0.2727272727272727
-      ]
-    },
-    {
-      "id": 2534,
-      "label": "guitar",
-      "student_name": "Meruem",
-      "student_id": 1664098362339,
-      "point": [
-        0.5525114155251142,
-        0.3776223776223776
-      ]
-    },
-    {
-      "id": 2535,
-      "label": "pencil",
-      "student_name": "Meruem",
-      "student_id": 1664098362339,
-      "point": [
-        0.5547945205479452,
-        0.3706293706293706
-      ]
-    },
-    {
-      "id": 2536,
-      "label": "clock",
-      "student_name": "Meruem",
-      "student_id": 1664098362339,
-      "point": [
-        0.4954337899543379,
-        0.44755244755244755
-      ]
-    },
-    {
-      "id": 2537,
-      "label": "car",
-      "student_name": "DracoWhitefire",
-      "student_id": 1664098393909,
-      "point": [
-        0.7808219178082192,
-        0.3613053613053613
-      ]
-    },
-    {
-      "id": 2538,
-      "label": "fish",
-      "student_name": "DracoWhitefire",
-      "student_id": 1664098393909,
-      "point": [
-        0.8036529680365296,
-        0.6596736596736597
-      ]
-    },
-    {
-      "id": 2539,
-      "label": "house",
-      "student_name": "DracoWhitefire",
-      "student_id": 1664098393909,
-      "point": [
-        0.7420091324200914,
-        0.5454545454545454
-      ]
-    },
-    {
-      "id": 2540,
-      "label": "tree",
-      "student_name": "DracoWhitefire",
-      "student_id": 1664098393909,
-      "point": [
-        0.6050228310502284,
-        0.8251748251748252
-      ]
-    },
-    {
-      "id": 2541,
-      "label": "bicycle",
-      "student_name": "DracoWhitefire",
-      "student_id": 1664098393909,
-      "point": [
-        0.6278538812785388,
-        0.4195804195804196
-      ]
-    },
-    {
-      "id": 2542,
-      "label": "guitar",
-      "student_name": "DracoWhitefire",
-      "student_id": 1664098393909,
-      "point": [
-        0.7534246575342466,
-        0.7902097902097902
-      ]
-    },
-    {
-      "id": 2543,
-      "label": "pencil",
-      "student_name": "DracoWhitefire",
-      "student_id": 1664098393909,
-      "point": [
-        0.6301369863013698,
-        0.7645687645687645
-      ]
-    },
-    {
-      "id": 2544,
-      "label": "clock",
-      "student_name": "DracoWhitefire",
-      "student_id": 1664098393909,
-      "point": [
-        0.4200913242009132,
-        0.8438228438228438
-      ]
-    },
-    {
-      "id": 2545,
-      "label": "car",
-      "student_name": "Yuvraj",
-      "student_id": 1664101766713,
-      "point": [
-        0.454337899543379,
-        0.3822843822843823
-      ]
-    },
-    {
-      "id": 2546,
-      "label": "fish",
-      "student_name": "Yuvraj",
-      "student_id": 1664101766713,
-      "point": [
-        0.4611872146118721,
-        0.13053613053613053
-      ]
-    },
-    {
-      "id": 2547,
-      "label": "house",
-      "student_name": "Yuvraj",
-      "student_id": 1664101766713,
-      "point": [
-        0.5114155251141552,
-        0.46853146853146854
-      ]
-    },
-    {
-      "id": 2548,
-      "label": "tree",
-      "student_name": "Yuvraj",
-      "student_id": 1664101766713,
-      "point": [
-        0.2648401826484018,
-        0.4382284382284382
-      ]
-    },
-    {
-      "id": 2549,
-      "label": "bicycle",
-      "student_name": "Yuvraj",
-      "student_id": 1664101766713,
-      "point": [
-        0.3401826484018265,
-        0.2564102564102564
-      ]
-    },
-    {
-      "id": 2550,
-      "label": "guitar",
-      "student_name": "Yuvraj",
-      "student_id": 1664101766713,
-      "point": [
-        0.6050228310502284,
-        0.5641025641025641
-      ]
-    },
-    {
-      "id": 2551,
-      "label": "pencil",
-      "student_name": "Yuvraj",
-      "student_id": 1664101766713,
-      "point": [
-        0.3926940639269406,
-        0.3776223776223776
-      ]
-    },
-    {
-      "id": 2552,
-      "label": "clock",
-      "student_name": "Yuvraj",
-      "student_id": 1664101766713,
-      "point": [
-        0.3150684931506849,
-        0.337995337995338
-      ]
-    },
-    {
-      "id": 2553,
-      "label": "car",
-      "student_name": "sekaiNoTameni",
-      "student_id": 1664103889923,
-      "point": [
-        0.6027397260273972,
-        0.372960372960373
-      ]
-    },
-    {
-      "id": 2554,
-      "label": "fish",
-      "student_name": "sekaiNoTameni",
-      "student_id": 1664103889923,
-      "point": [
-        0.4954337899543379,
-        0.47086247086247085
-      ]
-    },
-    {
-      "id": 2555,
-      "label": "house",
-      "student_name": "sekaiNoTameni",
-      "student_id": 1664103889923,
-      "point": [
-        0.7351598173515982,
-        0.5990675990675991
-      ]
-    },
-    {
-      "id": 2556,
-      "label": "tree",
-      "student_name": "sekaiNoTameni",
-      "student_id": 1664103889923,
-      "point": [
-        0.454337899543379,
-        0.5198135198135199
-      ]
-    },
-    {
-      "id": 2557,
-      "label": "bicycle",
-      "student_name": "sekaiNoTameni",
-      "student_id": 1664103889923,
-      "point": [
-        0.4155251141552511,
-        0.21212121212121213
-      ]
-    },
-    {
-      "id": 2558,
-      "label": "guitar",
-      "student_name": "sekaiNoTameni",
-      "student_id": 1664103889923,
-      "point": [
-        0.5045662100456622,
-        0.42657342657342656
-      ]
-    },
-    {
-      "id": 2559,
-      "label": "pencil",
-      "student_name": "sekaiNoTameni",
-      "student_id": 1664103889923,
-      "point": [
-        0.3333333333333333,
-        0.6060606060606061
-      ]
-    },
-    {
-      "id": 2560,
-      "label": "clock",
-      "student_name": "sekaiNoTameni",
-      "student_id": 1664103889923,
-      "point": [
-        0.4977168949771689,
-        0.5011655011655012
-      ]
-    },
-    {
-      "id": 2561,
-      "label": "car",
-      "student_name": "KoderKookie",
-      "student_id": 1664104180524,
-      "point": [
-        0.6666666666666666,
-        0.1958041958041958
-      ]
-    },
-    {
-      "id": 2562,
-      "label": "fish",
-      "student_name": "KoderKookie",
-      "student_id": 1664104180524,
-      "point": [
-        0.5045662100456622,
-        0.15151515151515152
-      ]
-    },
-    {
-      "id": 2563,
-      "label": "house",
-      "student_name": "KoderKookie",
-      "student_id": 1664104180524,
-      "point": [
-        0.4680365296803653,
-        0.2400932400932401
-      ]
-    },
-    {
-      "id": 2564,
-      "label": "tree",
-      "student_name": "KoderKookie",
-      "student_id": 1664104180524,
-      "point": [
-        0.7420091324200914,
-        0.7645687645687645
-      ]
-    },
-    {
-      "id": 2565,
-      "label": "bicycle",
-      "student_name": "KoderKookie",
-      "student_id": 1664104180524,
-      "point": [
-        0.6210045662100456,
-        0.25874125874125875
-      ]
-    },
-    {
-      "id": 2566,
-      "label": "guitar",
-      "student_name": "KoderKookie",
-      "student_id": 1664104180524,
-      "point": [
-        0.5365296803652968,
-        0.4195804195804196
-      ]
-    },
-    {
-      "id": 2567,
-      "label": "pencil",
-      "student_name": "KoderKookie",
-      "student_id": 1664104180524,
-      "point": [
-        0.05251141552511415,
-        0.44522144522144524
-      ]
-    },
-    {
-      "id": 2568,
-      "label": "clock",
-      "student_name": "KoderKookie",
-      "student_id": 1664104180524,
-      "point": [
-        0.2990867579908676,
-        0.24242424242424243
-      ]
-    },
-    {
-      "id": 2569,
-      "label": "car",
-      "student_name": "Faizan Ahmed",
-      "student_id": 1664106136045,
-      "point": [
-        0.8013698630136986,
-        0.4568764568764569
-      ]
-    },
-    {
-      "id": 2570,
-      "label": "fish",
-      "student_name": "Faizan Ahmed",
-      "student_id": 1664106136045,
-      "point": [
-        0.6073059360730594,
-        0.5151515151515151
-      ]
-    },
-    {
-      "id": 2571,
-      "label": "house",
-      "student_name": "Faizan Ahmed",
-      "student_id": 1664106136045,
-      "point": [
-        0.4383561643835616,
-        0.6293706293706294
-      ]
-    },
-    {
-      "id": 2572,
-      "label": "tree",
-      "student_name": "Faizan Ahmed",
-      "student_id": 1664106136045,
-      "point": [
-        0.5958904109589042,
-        0.7365967365967366
-      ]
-    },
-    {
-      "id": 2573,
-      "label": "bicycle",
-      "student_name": "Faizan Ahmed",
-      "student_id": 1664106136045,
-      "point": [
-        0.6712328767123288,
-        0.675990675990676
-      ]
-    },
-    {
-      "id": 2574,
-      "label": "guitar",
-      "student_name": "Faizan Ahmed",
-      "student_id": 1664106136045,
-      "point": [
-        0.4520547945205479,
-        0.7575757575757576
-      ]
-    },
-    {
-      "id": 2575,
-      "label": "pencil",
-      "student_name": "Faizan Ahmed",
-      "student_id": 1664106136045,
-      "point": [
-        0.5753424657534246,
-        0.46853146853146854
-      ]
-    },
-    {
-      "id": 2576,
-      "label": "clock",
-      "student_name": "Faizan Ahmed",
-      "student_id": 1664106136045,
-      "point": [
-        0.5799086757990868,
-        0.6177156177156177
-      ]
-    },
-    {
-      "id": 2577,
-      "label": "car",
-      "student_name": "Andrei C",
-      "student_id": 1664108078233,
-      "point": [
-        0.817351598173516,
-        0.14685314685314685
-      ]
-    },
-    {
-      "id": 2578,
-      "label": "fish",
-      "student_name": "Andrei C",
-      "student_id": 1664108078233,
-      "point": [
-        0.3538812785388128,
-        0.09557109557109557
-      ]
-    },
-    {
-      "id": 2579,
-      "label": "house",
-      "student_name": "Andrei C",
-      "student_id": 1664108078233,
-      "point": [
-        0.3858447488584475,
-        0.4731934731934732
-      ]
-    },
-    {
-      "id": 2580,
-      "label": "tree",
-      "student_name": "Andrei C",
-      "student_id": 1664108078233,
-      "point": [
-        0.3059360730593607,
-        0.6736596736596736
-      ]
-    },
-    {
-      "id": 2581,
-      "label": "bicycle",
-      "student_name": "Andrei C",
-      "student_id": 1664108078233,
-      "point": [
-        0.6118721461187214,
-        0.3333333333333333
-      ]
-    },
-    {
-      "id": 2582,
-      "label": "guitar",
-      "student_name": "Andrei C",
-      "student_id": 1664108078233,
-      "point": [
-        0.6004566210045662,
-        0.0979020979020979
-      ]
-    },
-    {
-      "id": 2583,
-      "label": "pencil",
-      "student_name": "Andrei C",
-      "student_id": 1664108078233,
-      "point": [
-        0.2100456621004566,
-        0.22377622377622378
-      ]
-    },
-    {
-      "id": 2584,
-      "label": "clock",
-      "student_name": "Andrei C",
-      "student_id": 1664108078233,
-      "point": [
-        0.3150684931506849,
-        0.25874125874125875
-      ]
-    },
-    {
-      "id": 2585,
-      "label": "car",
-      "student_name": "Lakshya",
-      "student_id": 1664110010395,
-      "point": [
-        0.6141552511415526,
-        0.2540792540792541
-      ]
-    },
-    {
-      "id": 2586,
-      "label": "fish",
-      "student_name": "Lakshya",
-      "student_id": 1664110010395,
-      "point": [
-        0.5958904109589042,
-        0.3146853146853147
-      ]
-    },
-    {
-      "id": 2587,
-      "label": "house",
-      "student_name": "Lakshya",
-      "student_id": 1664110010395,
-      "point": [
-        0.5799086757990868,
-        0.42424242424242425
-      ]
-    },
-    {
-      "id": 2588,
-      "label": "tree",
-      "student_name": "Lakshya",
-      "student_id": 1664110010395,
-      "point": [
-        0.3949771689497717,
-        0.5337995337995338
-      ]
-    },
-    {
-      "id": 2589,
-      "label": "bicycle",
-      "student_name": "Lakshya",
-      "student_id": 1664110010395,
-      "point": [
-        0.6712328767123288,
-        0.2564102564102564
-      ]
-    },
-    {
-      "id": 2590,
-      "label": "guitar",
-      "student_name": "Lakshya",
-      "student_id": 1664110010395,
-      "point": [
-        0.7123287671232876,
-        0.42424242424242425
-      ]
-    },
-    {
-      "id": 2591,
-      "label": "pencil",
-      "student_name": "Lakshya",
-      "student_id": 1664110010395,
-      "point": [
-        0.3561643835616438,
-        0.27505827505827507
-      ]
-    },
-    {
-      "id": 2592,
-      "label": "clock",
-      "student_name": "Lakshya",
-      "student_id": 1664110010395,
-      "point": [
-        0.3538812785388128,
-        0.3333333333333333
-      ]
-    },
-    {
-      "id": 2593,
-      "label": "car",
-      "student_name": "Siva",
-      "student_id": 1664112328873,
-      "point": [
-        0.58675799086758,
-        0.331002331002331
-      ]
-    },
-    {
-      "id": 2594,
-      "label": "fish",
-      "student_name": "Siva",
-      "student_id": 1664112328873,
-      "point": [
-        0.6255707762557078,
-        0.31934731934731936
-      ]
-    },
-    {
-      "id": 2595,
-      "label": "house",
-      "student_name": "Siva",
-      "student_id": 1664112328873,
-      "point": [
-        0.7009132420091324,
-        0.5944055944055944
-      ]
-    },
-    {
-      "id": 2596,
-      "label": "tree",
-      "student_name": "Siva",
-      "student_id": 1664112328873,
-      "point": [
-        0.5365296803652968,
-        0.7016317016317016
-      ]
-    },
-    {
-      "id": 2597,
-      "label": "bicycle",
-      "student_name": "Siva",
-      "student_id": 1664112328873,
-      "point": [
-        0.58675799086758,
-        0.3962703962703963
-      ]
-    },
-    {
-      "id": 2598,
-      "label": "guitar",
-      "student_name": "Siva",
-      "student_id": 1664112328873,
-      "point": [
-        0.317351598173516,
-        0.655011655011655
-      ]
-    },
-    {
-      "id": 2599,
-      "label": "pencil",
-      "student_name": "Siva",
-      "student_id": 1664112328873,
-      "point": [
-        0.5684931506849316,
-        0.5407925407925408
-      ]
-    },
-    {
-      "id": 2600,
-      "label": "clock",
-      "student_name": "Siva",
-      "student_id": 1664112328873,
-      "point": [
-        0.5159817351598174,
-        0.5617715617715617
-      ]
-    },
-    {
-      "id": 2601,
-      "label": "car",
-      "student_name": "Hussein kadhim",
-      "student_id": 1664112853562,
-      "point": [
-        0.6621004566210046,
-        0.40326340326340326
-      ]
-    },
-    {
-      "id": 2602,
-      "label": "fish",
-      "student_name": "Hussein kadhim",
-      "student_id": 1664112853562,
-      "point": [
-        0.5616438356164384,
-        0.2494172494172494
-      ]
-    },
-    {
-      "id": 2603,
-      "label": "house",
-      "student_name": "Hussein kadhim",
-      "student_id": 1664112853562,
-      "point": [
-        0.7625570776255708,
-        0.5477855477855478
-      ]
-    },
-    {
-      "id": 2604,
-      "label": "tree",
-      "student_name": "Hussein kadhim",
-      "student_id": 1664112853562,
-      "point": [
-        0.4840182648401826,
-        0.951048951048951
-      ]
-    },
-    {
-      "id": 2605,
-      "label": "bicycle",
-      "student_name": "Hussein kadhim",
-      "student_id": 1664112853562,
-      "point": [
-        0.58675799086758,
-        0.4125874125874126
-      ]
-    },
-    {
-      "id": 2606,
-      "label": "guitar",
-      "student_name": "Hussein kadhim",
-      "student_id": 1664112853562,
-      "point": [
-        0.5776255707762558,
-        0.46153846153846156
-      ]
-    },
-    {
-      "id": 2607,
-      "label": "pencil",
-      "student_name": "Hussein kadhim",
-      "student_id": 1664112853562,
-      "point": [
-        0.3333333333333333,
-        0.3706293706293706
-      ]
-    },
-    {
-      "id": 2608,
-      "label": "clock",
-      "student_name": "Hussein kadhim",
-      "student_id": 1664112853562,
-      "point": [
-        0.365296803652968,
-        0.4172494172494173
-      ]
-    },
-    {
-      "id": 2609,
-      "label": "car",
-      "student_name": "Daniel",
-      "student_id": 1664113069653,
-      "point": [
-        0.6757990867579908,
-        0.32167832167832167
-      ]
-    },
-    {
-      "id": 2610,
-      "label": "fish",
-      "student_name": "Daniel",
-      "student_id": 1664113069653,
-      "point": [
-        0.7351598173515982,
-        0.3543123543123543
-      ]
-    },
-    {
-      "id": 2611,
-      "label": "house",
-      "student_name": "Daniel",
-      "student_id": 1664113069653,
-      "point": [
-        0.5639269406392694,
-        0.45454545454545453
-      ]
-    },
-    {
-      "id": 2612,
-      "label": "tree",
-      "student_name": "Daniel",
-      "student_id": 1664113069653,
-      "point": [
-        0.4200913242009132,
-        0.8158508158508159
-      ]
-    },
-    {
-      "id": 2613,
-      "label": "bicycle",
-      "student_name": "Daniel",
-      "student_id": 1664113069653,
-      "point": [
-        0.6735159817351598,
-        0.34265734265734266
-      ]
-    },
-    {
-      "id": 2614,
-      "label": "guitar",
-      "student_name": "Daniel",
-      "student_id": 1664113069653,
-      "point": [
-        0.5844748858447488,
-        0.14219114219114218
-      ]
-    },
-    {
-      "id": 2615,
-      "label": "pencil",
-      "student_name": "Daniel",
-      "student_id": 1664113069653,
-      "point": [
-        0.5045662100456622,
-        0.27505827505827507
-      ]
-    },
-    {
-      "id": 2616,
-      "label": "clock",
-      "student_name": "Daniel",
-      "student_id": 1664113069653,
-      "point": [
-        0.4269406392694064,
-        0.4405594405594406
-      ]
-    },
-    {
-      "id": 2617,
-      "label": "car",
-      "student_name": "TheRockerRush",
-      "student_id": 1664117101769,
-      "point": [
-        0.5730593607305936,
-        0.29603729603729606
-      ]
-    },
-    {
-      "id": 2618,
-      "label": "fish",
-      "student_name": "TheRockerRush",
-      "student_id": 1664117101769,
-      "point": [
-        0.4429223744292237,
-        0.3752913752913753
-      ]
-    },
-    {
-      "id": 2619,
-      "label": "house",
-      "student_name": "TheRockerRush",
-      "student_id": 1664117101769,
-      "point": [
-        0.502283105022831,
-        0.3473193473193473
-      ]
-    },
-    {
-      "id": 2620,
-      "label": "tree",
-      "student_name": "TheRockerRush",
-      "student_id": 1664117101769,
-      "point": [
-        0.5228310502283106,
-        0.4662004662004662
-      ]
-    },
-    {
-      "id": 2621,
-      "label": "bicycle",
-      "student_name": "TheRockerRush",
-      "student_id": 1664117101769,
-      "point": [
-        0.3767123287671233,
-        0.30303030303030304
-      ]
-    },
-    {
-      "id": 2622,
-      "label": "guitar",
-      "student_name": "TheRockerRush",
-      "student_id": 1664117101769,
-      "point": [
-        0.5981735159817352,
-        0.2703962703962704
-      ]
-    },
-    {
-      "id": 2623,
-      "label": "pencil",
-      "student_name": "TheRockerRush",
-      "student_id": 1664117101769,
-      "point": [
-        0.0776255707762557,
-        0.3006993006993007
-      ]
-    },
-    {
-      "id": 2624,
-      "label": "clock",
-      "student_name": "TheRockerRush",
-      "student_id": 1664117101769,
-      "point": [
-        0.3698630136986301,
-        0.3822843822843823
-      ]
-    },
-    {
-      "id": 2625,
-      "label": "car",
-      "student_name": "Ali Gohar",
-      "student_id": 1664118978175,
-      "point": [
-        0.6963470319634704,
-        0.2867132867132867
-      ]
-    },
-    {
-      "id": 2626,
-      "label": "fish",
-      "student_name": "Ali Gohar",
-      "student_id": 1664118978175,
-      "point": [
-        0.3424657534246575,
-        0.1561771561771562
-      ]
-    },
-    {
-      "id": 2627,
-      "label": "house",
-      "student_name": "Ali Gohar",
-      "student_id": 1664118978175,
-      "point": [
-        0.4018264840182648,
-        0.46153846153846156
-      ]
-    },
-    {
-      "id": 2628,
-      "label": "tree",
-      "student_name": "Ali Gohar",
-      "student_id": 1664118978175,
-      "point": [
-        0.5821917808219178,
-        0.7622377622377622
-      ]
-    },
-    {
-      "id": 2629,
-      "label": "bicycle",
-      "student_name": "Ali Gohar",
-      "student_id": 1664118978175,
-      "point": [
-        0.5388127853881278,
-        0.27972027972027974
-      ]
-    },
-    {
-      "id": 2630,
-      "label": "guitar",
-      "student_name": "Ali Gohar",
-      "student_id": 1664118978175,
-      "point": [
-        0.4041095890410959,
-        0.8228438228438228
-      ]
-    },
-    {
-      "id": 2631,
-      "label": "pencil",
-      "student_name": "Ali Gohar",
-      "student_id": 1664118978175,
-      "point": [
-        0.5981735159817352,
-        0.5104895104895105
-      ]
-    },
-    {
-      "id": 2632,
-      "label": "clock",
-      "student_name": "Ali Gohar",
-      "student_id": 1664118978175,
-      "point": [
-        0.4977168949771689,
-        0.6037296037296037
-      ]
-    },
-    {
-      "id": 2633,
-      "label": "car",
-      "student_name": "Urax",
-      "student_id": 1664129724088,
-      "point": [
-        0.6255707762557078,
-        0.331002331002331
-      ]
-    },
-    {
-      "id": 2634,
-      "label": "fish",
-      "student_name": "Urax",
-      "student_id": 1664129724088,
-      "point": [
-        0.4360730593607306,
-        0.16317016317016317
-      ]
-    },
-    {
-      "id": 2635,
-      "label": "house",
-      "student_name": "Urax",
-      "student_id": 1664129724088,
-      "point": [
-        0.5,
-        0.5058275058275058
-      ]
-    },
-    {
-      "id": 2636,
-      "label": "tree",
-      "student_name": "Urax",
-      "student_id": 1664129724088,
-      "point": [
-        0.6141552511415526,
-        0.6107226107226107
-      ]
-    },
-    {
-      "id": 2637,
-      "label": "bicycle",
-      "student_name": "Urax",
-      "student_id": 1664129724088,
-      "point": [
-        0.3675799086757991,
-        0.3076923076923077
-      ]
-    },
-    {
-      "id": 2638,
-      "label": "guitar",
-      "student_name": "Urax",
-      "student_id": 1664129724088,
-      "point": [
-        0.547945205479452,
-        0.1888111888111888
-      ]
-    },
-    {
-      "id": 2639,
-      "label": "pencil",
-      "student_name": "Urax",
-      "student_id": 1664129724088,
-      "point": [
-        0.10273972602739725,
-        0.717948717948718
-      ]
-    },
-    {
-      "id": 2640,
-      "label": "clock",
-      "student_name": "Urax",
-      "student_id": 1664129724088,
-      "point": [
-        0.4817351598173516,
-        0.44755244755244755
-      ]
-    },
-    {
-      "id": 2641,
-      "label": "car",
-      "student_name": "John Doe",
-      "student_id": 1664141324320,
-      "point": [
-        0.5525114155251142,
-        0.20279720279720279
-      ]
-    },
-    {
-      "id": 2642,
-      "label": "fish",
-      "student_name": "John Doe",
-      "student_id": 1664141324320,
-      "point": [
-        0.3036529680365297,
-        0.11421911421911422
-      ]
-    },
-    {
-      "id": 2643,
-      "label": "house",
-      "student_name": "John Doe",
-      "student_id": 1664141324320,
-      "point": [
-        0.4155251141552511,
-        0.4358974358974359
-      ]
-    },
-    {
-      "id": 2644,
-      "label": "tree",
-      "student_name": "John Doe",
-      "student_id": 1664141324320,
-      "point": [
-        0.4748858447488584,
-        0.6247086247086248
-      ]
-    },
-    {
-      "id": 2645,
-      "label": "bicycle",
-      "student_name": "John Doe",
-      "student_id": 1664141324320,
-      "point": [
-        0.4954337899543379,
-        0.22843822843822845
-      ]
-    },
-    {
-      "id": 2646,
-      "label": "guitar",
-      "student_name": "John Doe",
-      "student_id": 1664141324320,
-      "point": [
-        0.2968036529680365,
-        0.44755244755244755
-      ]
-    },
-    {
-      "id": 2647,
-      "label": "pencil",
-      "student_name": "John Doe",
-      "student_id": 1664141324320,
-      "point": [
-        0.02054794520547945,
-        0.5268065268065268
-      ]
-    },
-    {
-      "id": 2648,
-      "label": "clock",
-      "student_name": "John Doe",
-      "student_id": 1664141324320,
-      "point": [
-        0.5273972602739726,
-        0.4825174825174825
-      ]
-    },
-    {
-      "id": 2649,
-      "label": "car",
-      "student_name": "Claudiu",
-      "student_id": 1664142893259,
-      "point": [
-        0.7648401826484018,
-        0.2191142191142191
-      ]
-    },
-    {
-      "id": 2650,
-      "label": "fish",
-      "student_name": "Claudiu",
-      "student_id": 1664142893259,
-      "point": [
-        0.4726027397260274,
-        0.4988344988344988
-      ]
-    },
-    {
-      "id": 2651,
-      "label": "house",
-      "student_name": "Claudiu",
-      "student_id": 1664142893259,
-      "point": [
-        0.776255707762557,
-        0.6363636363636364
-      ]
-    },
-    {
-      "id": 2652,
-      "label": "tree",
-      "student_name": "Claudiu",
-      "student_id": 1664142893259,
-      "point": [
-        0.8789954337899544,
-        0.4149184149184149
-      ]
-    },
-    {
-      "id": 2653,
-      "label": "bicycle",
-      "student_name": "Claudiu",
-      "student_id": 1664142893259,
-      "point": [
-        0.2009132420091324,
-        0.4195804195804196
-      ]
-    },
-    {
-      "id": 2654,
-      "label": "guitar",
-      "student_name": "Claudiu",
-      "student_id": 1664142893259,
-      "point": [
-        0.3082191780821918,
-        0.8018648018648019
-      ]
-    },
-    {
-      "id": 2655,
-      "label": "pencil",
-      "student_name": "Claudiu",
-      "student_id": 1664142893259,
-      "point": [
-        0.7557077625570776,
-        0.668997668997669
-      ]
-    },
-    {
-      "id": 2656,
-      "label": "clock",
-      "student_name": "Claudiu",
-      "student_id": 1664142893259,
-      "point": [
-        0.4132420091324201,
-        0.2634032634032634
-      ]
-    },
-    {
-      "id": 2657,
-      "label": "car",
-      "student_name": "Glenn",
-      "student_id": 1664143648264,
-      "point": [
-        0.5251141552511416,
-        0.31002331002331
-      ]
-    },
-    {
-      "id": 2658,
-      "label": "fish",
-      "student_name": "Glenn",
-      "student_id": 1664143648264,
-      "point": [
-        0.410958904109589,
-        0.2097902097902098
-      ]
-    },
-    {
-      "id": 2659,
-      "label": "house",
-      "student_name": "Glenn",
-      "student_id": 1664143648264,
-      "point": [
-        0.4726027397260274,
-        0.5990675990675991
-      ]
-    },
-    {
-      "id": 2660,
-      "label": "tree",
-      "student_name": "Glenn",
-      "student_id": 1664143648264,
-      "point": [
-        0.3812785388127854,
-        0.5804195804195804
-      ]
-    },
-    {
-      "id": 2661,
-      "label": "bicycle",
-      "student_name": "Glenn",
-      "student_id": 1664143648264,
-      "point": [
-        0.5342465753424658,
-        0.3776223776223776
-      ]
-    },
-    {
-      "id": 2662,
-      "label": "guitar",
-      "student_name": "Glenn",
-      "student_id": 1664143648264,
-      "point": [
-        0.723744292237443,
-        0.5058275058275058
-      ]
-    },
-    {
-      "id": 2663,
-      "label": "pencil",
-      "student_name": "Glenn",
-      "student_id": 1664143648264,
-      "point": [
-        0.3721461187214612,
-        0.358974358974359
-      ]
-    },
-    {
-      "id": 2664,
-      "label": "clock",
-      "student_name": "Glenn",
-      "student_id": 1664143648264,
-      "point": [
-        0.4817351598173516,
-        0.1655011655011655
-      ]
-    },
-    {
-      "id": 2665,
-      "label": "car",
-      "student_name": "Amit",
-      "student_id": 1664145569539,
-      "point": [
-        0.6689497716894978,
-        0.23076923076923078
-      ]
-    },
-    {
-      "id": 2666,
-      "label": "fish",
-      "student_name": "Amit",
-      "student_id": 1664145569539,
-      "point": [
-        0.4520547945205479,
-        0.17715617715617715
-      ]
-    },
-    {
-      "id": 2667,
-      "label": "house",
-      "student_name": "Amit",
-      "student_id": 1664145569539,
-      "point": [
-        0.589041095890411,
-        0.6177156177156177
-      ]
-    },
-    {
-      "id": 2668,
-      "label": "tree",
-      "student_name": "Amit",
-      "student_id": 1664145569539,
-      "point": [
-        0.4680365296803653,
-        0.6853146853146853
-      ]
-    },
-    {
-      "id": 2669,
-      "label": "bicycle",
-      "student_name": "Amit",
-      "student_id": 1664145569539,
-      "point": [
-        0.5091324200913242,
-        0.29836829836829837
-      ]
-    },
-    {
-      "id": 2670,
-      "label": "guitar",
-      "student_name": "Amit",
-      "student_id": 1664145569539,
-      "point": [
-        0.6461187214611872,
-        0.5617715617715617
-      ]
-    },
-    {
-      "id": 2671,
-      "label": "pencil",
-      "student_name": "Amit",
-      "student_id": 1664145569539,
-      "point": [
-        0.0730593607305936,
-        0.6923076923076923
-      ]
-    },
-    {
-      "id": 2672,
-      "label": "clock",
-      "student_name": "Amit",
-      "student_id": 1664145569539,
-      "point": [
-        0.3470319634703196,
-        0.4428904428904429
-      ]
-    },
-    {
-      "id": 2673,
-      "label": "car",
-      "student_name": "Pazini",
-      "student_id": 1664146709261,
-      "point": [
-        0.410958904109589,
-        0.2634032634032634
-      ]
-    },
-    {
-      "id": 2674,
-      "label": "fish",
-      "student_name": "Pazini",
-      "student_id": 1664146709261,
-      "point": [
-        0.4315068493150685,
-        0.32400932400932403
-      ]
-    },
-    {
-      "id": 2675,
-      "label": "house",
-      "student_name": "Pazini",
-      "student_id": 1664146709261,
-      "point": [
-        0.4474885844748858,
-        0.40093240093240096
-      ]
-    },
-    {
-      "id": 2676,
-      "label": "tree",
-      "student_name": "Pazini",
-      "student_id": 1664146709261,
-      "point": [
-        0.3310502283105023,
-        0.41025641025641024
-      ]
-    },
-    {
-      "id": 2677,
-      "label": "bicycle",
-      "student_name": "Pazini",
-      "student_id": 1664146709261,
-      "point": [
-        0.5616438356164384,
-        0.4592074592074592
-      ]
-    },
-    {
-      "id": 2678,
-      "label": "guitar",
-      "student_name": "Pazini",
-      "student_id": 1664146709261,
-      "point": [
-        0.593607305936073,
-        0.3682983682983683
-      ]
-    },
-    {
-      "id": 2679,
-      "label": "pencil",
-      "student_name": "Pazini",
-      "student_id": 1664146709261,
-      "point": [
-        0.17123287671232876,
-        0.5151515151515151
-      ]
-    },
-    {
-      "id": 2680,
-      "label": "clock",
-      "student_name": "Pazini",
-      "student_id": 1664146709261,
-      "point": [
-        0.3767123287671233,
-        0.34498834498834496
-      ]
-    },
-    {
-      "id": 2681,
-      "label": "car",
-      "student_name": "kes",
-      "student_id": 1664158111738,
-      "point": [
-        0.4360730593607306,
-        0.08857808857808858
-      ]
-    },
-    {
-      "id": 2682,
-      "label": "fish",
-      "student_name": "kes",
-      "student_id": 1664158111738,
-      "point": [
-        0.4223744292237443,
-        0.18414918414918416
-      ]
-    },
-    {
-      "id": 2683,
-      "label": "house",
-      "student_name": "kes",
-      "student_id": 1664158111738,
-      "point": [
-        0.3470319634703196,
-        0.26573426573426573
-      ]
-    },
-    {
-      "id": 2684,
-      "label": "tree",
-      "student_name": "kes",
-      "student_id": 1664158111738,
-      "point": [
-        0.7397260273972602,
-        0.7062937062937062
-      ]
-    },
-    {
-      "id": 2685,
-      "label": "bicycle",
-      "student_name": "kes",
-      "student_id": 1664158111738,
-      "point": [
-        0.3789954337899543,
-        0.3916083916083916
-      ]
-    },
-    {
-      "id": 2686,
-      "label": "guitar",
-      "student_name": "kes",
-      "student_id": 1664158111738,
-      "point": [
-        0.2671232876712329,
-        0.4801864801864802
-      ]
-    },
-    {
-      "id": 2687,
-      "label": "pencil",
-      "student_name": "kes",
-      "student_id": 1664158111738,
-      "point": [
-        0.3082191780821918,
-        0.4801864801864802
-      ]
-    },
-    {
-      "id": 2688,
-      "label": "clock",
-      "student_name": "kes",
-      "student_id": 1664158111738,
-      "point": [
-        0.4269406392694064,
-        0.48951048951048953
-      ]
-    },
-    {
-      "id": 2689,
-      "label": "car",
-      "student_name": "Etienne",
-      "student_id": 1664159406326,
-      "point": [
-        0.5273972602739726,
-        0.3356643356643357
-      ]
-    },
-    {
-      "id": 2690,
-      "label": "fish",
-      "student_name": "Etienne",
-      "student_id": 1664159406326,
-      "point": [
-        0.4497716894977169,
-        0.23076923076923078
-      ]
-    },
-    {
-      "id": 2691,
-      "label": "house",
-      "student_name": "Etienne",
-      "student_id": 1664159406326,
-      "point": [
-        0.4452054794520548,
-        0.34032634032634035
-      ]
-    },
-    {
-      "id": 2692,
-      "label": "tree",
-      "student_name": "Etienne",
-      "student_id": 1664159406326,
-      "point": [
-        0.4863013698630137,
-        0.5337995337995338
-      ]
-    },
-    {
-      "id": 2693,
-      "label": "bicycle",
-      "student_name": "Etienne",
-      "student_id": 1664159406326,
-      "point": [
-        0.5502283105022832,
-        0.4405594405594406
-      ]
-    },
-    {
-      "id": 2694,
-      "label": "guitar",
-      "student_name": "Etienne",
-      "student_id": 1664159406326,
-      "point": [
-        0.4657534246575342,
-        0.6899766899766899
-      ]
-    },
-    {
-      "id": 2695,
-      "label": "pencil",
-      "student_name": "Etienne",
-      "student_id": 1664159406326,
-      "point": [
-        0.4954337899543379,
-        0.3146853146853147
-      ]
-    },
-    {
-      "id": 2696,
-      "label": "clock",
-      "student_name": "Etienne",
-      "student_id": 1664159406326,
-      "point": [
-        0.3333333333333333,
-        0.7435897435897436
-      ]
-    },
-    {
-      "id": 2697,
-      "label": "car",
-      "student_name": "Hollayemi18 ",
-      "student_id": 1664161812004,
-      "point": [
-        0.730593607305936,
-        0.317016317016317
-      ]
-    },
-    {
-      "id": 2698,
-      "label": "fish",
-      "student_name": "Hollayemi18 ",
-      "student_id": 1664161812004,
-      "point": [
-        0.5251141552511416,
-        0.2703962703962704
-      ]
-    },
-    {
-      "id": 2699,
-      "label": "house",
-      "student_name": "Hollayemi18 ",
-      "student_id": 1664161812004,
-      "point": [
-        0.5502283105022832,
-        0.5804195804195804
-      ]
-    },
-    {
-      "id": 2700,
-      "label": "tree",
-      "student_name": "Hollayemi18 ",
-      "student_id": 1664161812004,
-      "point": [
-        0.6461187214611872,
-        0.8205128205128205
-      ]
-    },
-    {
-      "id": 2701,
-      "label": "bicycle",
-      "student_name": "Hollayemi18 ",
-      "student_id": 1664161812004,
-      "point": [
-        0.5844748858447488,
-        0.47785547785547783
-      ]
-    },
-    {
-      "id": 2702,
-      "label": "guitar",
-      "student_name": "Hollayemi18 ",
-      "student_id": 1664161812004,
-      "point": [
-        0.6232876712328768,
-        0.5104895104895105
-      ]
-    },
-    {
-      "id": 2703,
-      "label": "pencil",
-      "student_name": "Hollayemi18 ",
-      "student_id": 1664161812004,
-      "point": [
-        0.13470319634703196,
-        0.5151515151515151
-      ]
-    },
-    {
-      "id": 2704,
-      "label": "clock",
-      "student_name": "Hollayemi18 ",
-      "student_id": 1664161812004,
-      "point": [
-        0.3470319634703196,
-        0.4428904428904429
-      ]
-    },
-    {
-      "id": 2705,
-      "label": "car",
-      "student_name": "vj",
-      "student_id": 1664165262010,
-      "point": [
-        0.5136986301369864,
-        0.2261072261072261
-      ]
-    },
-    {
-      "id": 2706,
-      "label": "fish",
-      "student_name": "vj",
-      "student_id": 1664165262010,
-      "point": [
-        0.4063926940639269,
-        0.4731934731934732
-      ]
-    },
-    {
-      "id": 2707,
-      "label": "house",
-      "student_name": "vj",
-      "student_id": 1664165262010,
-      "point": [
-        0.4132420091324201,
-        0.5571095571095571
-      ]
-    },
-    {
-      "id": 2708,
-      "label": "tree",
-      "student_name": "vj",
-      "student_id": 1664165262010,
-      "point": [
-        0.5639269406392694,
-        0.7785547785547785
-      ]
-    },
-    {
-      "id": 2709,
-      "label": "bicycle",
-      "student_name": "vj",
-      "student_id": 1664165262010,
-      "point": [
-        0.6255707762557078,
-        0.49184149184149184
-      ]
-    },
-    {
-      "id": 2710,
-      "label": "guitar",
-      "student_name": "vj",
-      "student_id": 1664165262010,
-      "point": [
-        0.6415525114155252,
-        0.5617715617715617
-      ]
-    },
-    {
-      "id": 2711,
-      "label": "pencil",
-      "student_name": "vj",
-      "student_id": 1664165262010,
-      "point": [
-        0.228310502283105,
-        0.40792540792540793
-      ]
-    },
-    {
-      "id": 2712,
-      "label": "clock",
-      "student_name": "vj",
-      "student_id": 1664165262010,
-      "point": [
-        0.58675799086758,
-        0.5571095571095571
-      ]
-    },
-    {
-      "id": 2713,
-      "label": "car",
-      "student_name": "khalil",
-      "student_id": 1664166094920,
-      "point": [
-        0.7397260273972602,
-        0.24242424242424243
-      ]
-    },
-    {
-      "id": 2714,
-      "label": "fish",
-      "student_name": "khalil",
-      "student_id": 1664166094920,
-      "point": [
-        0.4520547945205479,
-        0.22377622377622378
-      ]
-    },
-    {
-      "id": 2715,
-      "label": "house",
-      "student_name": "khalil",
-      "student_id": 1664166094920,
-      "point": [
-        0.3264840182648402,
-        0.5454545454545454
-      ]
-    },
-    {
-      "id": 2716,
-      "label": "tree",
-      "student_name": "khalil",
-      "student_id": 1664166094920,
-      "point": [
-        0.5136986301369864,
-        0.5734265734265734
-      ]
-    },
-    {
-      "id": 2717,
-      "label": "bicycle",
-      "student_name": "khalil",
-      "student_id": 1664166094920,
-      "point": [
-        0.6118721461187214,
-        0.27505827505827507
-      ]
-    },
-    {
-      "id": 2718,
-      "label": "guitar",
-      "student_name": "khalil",
-      "student_id": 1664166094920,
-      "point": [
-        0.2625570776255708,
-        0.682983682983683
-      ]
-    },
-    {
-      "id": 2719,
-      "label": "pencil",
-      "student_name": "khalil",
-      "student_id": 1664166094920,
-      "point": [
-        0.6484018264840182,
-        0.6013986013986014
-      ]
-    },
-    {
-      "id": 2720,
-      "label": "clock",
-      "student_name": "khalil",
-      "student_id": 1664166094920,
-      "point": [
-        0.4178082191780822,
-        0.27505827505827507
-      ]
-    },
-    {
-      "id": 2721,
-      "label": "car",
-      "student_name": "Manasvi",
-      "student_id": 1664166734783,
-      "point": [
-        0.8242009132420092,
-        0.3333333333333333
-      ]
-    },
-    {
-      "id": 2722,
-      "label": "fish",
-      "student_name": "Manasvi",
-      "student_id": 1664166734783,
-      "point": [
-        0.6301369863013698,
-        0.49184149184149184
-      ]
-    },
-    {
-      "id": 2723,
-      "label": "house",
-      "student_name": "Manasvi",
-      "student_id": 1664166734783,
-      "point": [
-        0.771689497716895,
-        0.5361305361305362
-      ]
-    },
-    {
-      "id": 2724,
-      "label": "tree",
-      "student_name": "Manasvi",
-      "student_id": 1664166734783,
-      "point": [
-        0.5981735159817352,
-        0.7249417249417249
-      ]
-    },
-    {
-      "id": 2725,
-      "label": "bicycle",
-      "student_name": "Manasvi",
-      "student_id": 1664166734783,
-      "point": [
-        0.639269406392694,
-        0.3706293706293706
-      ]
-    },
-    {
-      "id": 2726,
-      "label": "guitar",
-      "student_name": "Manasvi",
-      "student_id": 1664166734783,
-      "point": [
-        0.7054794520547946,
-        0.6037296037296037
-      ]
-    },
-    {
-      "id": 2727,
-      "label": "pencil",
-      "student_name": "Manasvi",
-      "student_id": 1664166734783,
-      "point": [
-        0.4726027397260274,
-        0.6456876456876457
-      ]
-    },
-    {
-      "id": 2728,
-      "label": "clock",
-      "student_name": "Manasvi",
-      "student_id": 1664166734783,
-      "point": [
-        0.5958904109589042,
-        0.44988344988344986
-      ]
-    },
-    {
-      "id": 2729,
-      "label": "car",
-      "student_name": "sunshine",
-      "student_id": 1664168621609,
-      "point": [
-        0.363013698630137,
-        0.09557109557109557
-      ]
-    },
-    {
-      "id": 2730,
-      "label": "fish",
-      "student_name": "sunshine",
-      "student_id": 1664168621609,
-      "point": [
-        0.1963470319634703,
-        0.3613053613053613
-      ]
-    },
-    {
-      "id": 2731,
-      "label": "house",
-      "student_name": "sunshine",
-      "student_id": 1664168621609,
-      "point": [
-        0.2671232876712329,
-        0.4172494172494173
-      ]
-    },
-    {
-      "id": 2732,
-      "label": "tree",
-      "student_name": "sunshine",
-      "student_id": 1664168621609,
-      "point": [
-        0.5068493150684932,
-        0.5664335664335665
-      ]
-    },
-    {
-      "id": 2733,
-      "label": "bicycle",
-      "student_name": "sunshine",
-      "student_id": 1664168621609,
-      "point": [
-        0.4657534246575342,
-        0.2634032634032634
-      ]
-    },
-    {
-      "id": 2734,
-      "label": "guitar",
-      "student_name": "sunshine",
-      "student_id": 1664168621609,
-      "point": [
-        0.4360730593607306,
-        0.4149184149184149
-      ]
-    },
-    {
-      "id": 2735,
-      "label": "pencil",
-      "student_name": "sunshine",
-      "student_id": 1664168621609,
-      "point": [
-        0.1917808219178082,
-        0.3916083916083916
-      ]
-    },
-    {
-      "id": 2736,
-      "label": "clock",
-      "student_name": "sunshine",
-      "student_id": 1664168621609,
-      "point": [
-        0.3607305936073059,
-        0.3706293706293706
-      ]
-    },
-    {
-      "id": 2737,
-      "label": "car",
-      "student_name": "snake8",
-      "student_id": 1664171773317,
-      "point": [
-        1.1415525114155252,
-        0.23076923076923078
-      ]
-    },
-    {
-      "id": 2738,
-      "label": "fish",
-      "student_name": "snake8",
-      "student_id": 1664171773317,
-      "point": [
-        0.6232876712328768,
-        0.29836829836829837
-      ]
-    },
-    {
-      "id": 2739,
-      "label": "house",
-      "student_name": "snake8",
-      "student_id": 1664171773317,
-      "point": [
-        0.9954337899543378,
-        0.48717948717948717
-      ]
-    },
-    {
-      "id": 2740,
-      "label": "tree",
-      "student_name": "snake8",
-      "student_id": 1664171773317,
-      "point": [
-        0.5821917808219178,
-        0.6386946386946387
-      ]
-    },
-    {
-      "id": 2741,
-      "label": "bicycle",
-      "student_name": "snake8",
-      "student_id": 1664171773317,
-      "point": [
-        0.4726027397260274,
-        0.21445221445221446
-      ]
-    },
-    {
-      "id": 2742,
-      "label": "guitar",
-      "student_name": "snake8",
-      "student_id": 1664171773317,
-      "point": [
-        0.5182648401826484,
-        0.6060606060606061
-      ]
-    },
-    {
-      "id": 2743,
-      "label": "pencil",
-      "student_name": "snake8",
-      "student_id": 1664171773317,
-      "point": [
-        0.3127853881278539,
-        0.5827505827505828
-      ]
-    },
-    {
-      "id": 2744,
-      "label": "clock",
-      "student_name": "snake8",
-      "student_id": 1664171773317,
-      "point": [
-        0.4497716894977169,
-        0.46386946386946387
-      ]
-    },
-    {
-      "id": 2745,
-      "label": "car",
-      "student_name": "casafurix",
-      "student_id": 1664172425451,
-      "point": [
-        0.3493150684931507,
-        0.19114219114219114
-      ]
-    },
-    {
-      "id": 2746,
-      "label": "fish",
-      "student_name": "casafurix",
-      "student_id": 1664172425451,
-      "point": [
-        0.2968036529680365,
-        0.06526806526806526
-      ]
-    },
-    {
-      "id": 2747,
-      "label": "house",
-      "student_name": "casafurix",
-      "student_id": 1664172425451,
-      "point": [
-        0.3287671232876712,
-        0.3916083916083916
-      ]
-    },
-    {
-      "id": 2748,
-      "label": "tree",
-      "student_name": "casafurix",
-      "student_id": 1664172425451,
-      "point": [
-        0.3105022831050228,
-        0.4125874125874126
-      ]
-    },
-    {
-      "id": 2749,
-      "label": "bicycle",
-      "student_name": "casafurix",
-      "student_id": 1664172425451,
-      "point": [
-        0.2968036529680365,
-        0.16083916083916083
-      ]
-    },
-    {
-      "id": 2750,
-      "label": "guitar",
-      "student_name": "casafurix",
-      "student_id": 1664172425451,
-      "point": [
-        0.5684931506849316,
-        0.18181818181818182
-      ]
-    },
-    {
-      "id": 2751,
-      "label": "pencil",
-      "student_name": "casafurix",
-      "student_id": 1664172425451,
-      "point": [
-        0.3424657534246575,
-        0.039627039627039624
-      ]
-    },
-    {
-      "id": 2752,
-      "label": "clock",
-      "student_name": "casafurix",
-      "student_id": 1664172425451,
-      "point": [
-        0.2922374429223744,
-        0.2564102564102564
-      ]
-    },
-    {
-      "id": 2753,
-      "label": "car",
-      "student_name": "Eternam",
-      "student_id": 1664179695008,
-      "point": [
-        0.7488584474885844,
-        0.35664335664335667
-      ]
-    },
-    {
-      "id": 2754,
-      "label": "fish",
-      "student_name": "Eternam",
-      "student_id": 1664179695008,
-      "point": [
-        0.723744292237443,
-        0.6060606060606061
-      ]
-    },
-    {
-      "id": 2755,
-      "label": "house",
-      "student_name": "Eternam",
-      "student_id": 1664179695008,
-      "point": [
-        0.7374429223744292,
-        0.7062937062937062
-      ]
-    },
-    {
-      "id": 2756,
-      "label": "tree",
-      "student_name": "Eternam",
-      "student_id": 1664179695008,
-      "point": [
-        0.6894977168949772,
-        0.7505827505827506
-      ]
-    },
-    {
-      "id": 2757,
-      "label": "bicycle",
-      "student_name": "Eternam",
-      "student_id": 1664179695008,
-      "point": [
-        0.6095890410958904,
-        0.41025641025641024
-      ]
-    },
-    {
-      "id": 2758,
-      "label": "guitar",
-      "student_name": "Eternam",
-      "student_id": 1664179695008,
-      "point": [
-        0.7374429223744292,
-        0.7156177156177156
-      ]
-    },
-    {
-      "id": 2759,
-      "label": "pencil",
-      "student_name": "Eternam",
-      "student_id": 1664179695008,
-      "point": [
-        0.4703196347031963,
-        0.5547785547785548
-      ]
-    },
-    {
-      "id": 2760,
-      "label": "clock",
-      "student_name": "Eternam",
-      "student_id": 1664179695008,
-      "point": [
-        0.8744292237442922,
-        0.8881118881118881
-      ]
-    },
-    {
-      "id": 2761,
-      "label": "car",
-      "student_name": "Frank",
-      "student_id": 1664183114637,
-      "point": [
-        0.7077625570776256,
-        0.35664335664335667
-      ]
-    },
-    {
-      "id": 2762,
-      "label": "fish",
-      "student_name": "Frank",
-      "student_id": 1664183114637,
-      "point": [
-        0.6735159817351598,
-        0.40792540792540793
-      ]
-    },
-    {
-      "id": 2763,
-      "label": "house",
-      "student_name": "Frank",
-      "student_id": 1664183114637,
-      "point": [
-        0.4269406392694064,
-        0.5501165501165501
-      ]
-    },
-    {
-      "id": 2764,
-      "label": "tree",
-      "student_name": "Frank",
-      "student_id": 1664183114637,
-      "point": [
-        0.5068493150684932,
-        0.696969696969697
-      ]
-    },
-    {
-      "id": 2765,
-      "label": "bicycle",
-      "student_name": "Frank",
-      "student_id": 1664183114637,
-      "point": [
-        0.5844748858447488,
-        0.3682983682983683
-      ]
-    },
-    {
-      "id": 2766,
-      "label": "guitar",
-      "student_name": "Frank",
-      "student_id": 1664183114637,
-      "point": [
-        0.3447488584474886,
-        0.6923076923076923
-      ]
-    },
-    {
-      "id": 2767,
-      "label": "pencil",
-      "student_name": "Frank",
-      "student_id": 1664183114637,
-      "point": [
-        0.2146118721461187,
-        0.6083916083916084
-      ]
-    },
-    {
-      "id": 2768,
-      "label": "clock",
-      "student_name": "Frank",
-      "student_id": 1664183114637,
-      "point": [
-        0.4931506849315068,
-        0.5734265734265734
-      ]
-    },
-    {
-      "id": 2769,
-      "label": "car",
-      "student_name": "Arkadiusz",
-      "student_id": 1664187808815,
-      "point": [
-        0.7922374429223744,
-        0.19347319347319347
-      ]
-    },
-    {
-      "id": 2770,
-      "label": "fish",
-      "student_name": "Arkadiusz",
-      "student_id": 1664187808815,
-      "point": [
-        0.6141552511415526,
-        0.351981351981352
-      ]
-    },
-    {
-      "id": 2771,
-      "label": "house",
-      "student_name": "Arkadiusz",
-      "student_id": 1664187808815,
-      "point": [
-        0.3698630136986301,
-        0.6013986013986014
-      ]
-    },
-    {
-      "id": 2772,
-      "label": "tree",
-      "student_name": "Arkadiusz",
-      "student_id": 1664187808815,
-      "point": [
-        0.6095890410958904,
-        0.7785547785547785
-      ]
-    },
-    {
-      "id": 2773,
-      "label": "bicycle",
-      "student_name": "Arkadiusz",
-      "student_id": 1664187808815,
-      "point": [
-        0.6187214611872146,
-        0.2517482517482518
-      ]
-    },
-    {
-      "id": 2774,
-      "label": "guitar",
-      "student_name": "Arkadiusz",
-      "student_id": 1664187808815,
-      "point": [
-        0.2054794520547945,
-        0.682983682983683
-      ]
-    },
-    {
-      "id": 2775,
-      "label": "pencil",
-      "student_name": "Arkadiusz",
-      "student_id": 1664187808815,
-      "point": [
-        0.5616438356164384,
-        0.30536130536130535
-      ]
-    },
-    {
-      "id": 2776,
-      "label": "clock",
-      "student_name": "Arkadiusz",
-      "student_id": 1664187808815,
-      "point": [
-        0.2831050228310502,
-        0.46386946386946387
-      ]
-    },
-    {
-      "id": 2777,
-      "label": "car",
-      "student_name": "Swaroop",
-      "student_id": 1664198862892,
-      "point": [
-        0.6689497716894978,
-        0.2867132867132867
-      ]
-    },
-    {
-      "id": 2778,
-      "label": "fish",
-      "student_name": "Swaroop",
-      "student_id": 1664198862892,
-      "point": [
-        0.502283105022831,
-        0.21445221445221446
-      ]
-    },
-    {
-      "id": 2779,
-      "label": "house",
-      "student_name": "Swaroop",
-      "student_id": 1664198862892,
-      "point": [
-        0.3904109589041096,
-        0.4522144522144522
-      ]
-    },
-    {
-      "id": 2780,
-      "label": "tree",
-      "student_name": "Swaroop",
-      "student_id": 1664198862892,
-      "point": [
-        0.3561643835616438,
-        0.6433566433566433
-      ]
-    },
-    {
-      "id": 2781,
-      "label": "bicycle",
-      "student_name": "Swaroop",
-      "student_id": 1664198862892,
-      "point": [
-        0.6872146118721462,
-        0.46386946386946387
-      ]
-    },
-    {
-      "id": 2782,
-      "label": "guitar",
-      "student_name": "Swaroop",
-      "student_id": 1664198862892,
-      "point": [
-        0.3401826484018265,
-        0.62004662004662
-      ]
-    },
-    {
-      "id": 2783,
-      "label": "pencil",
-      "student_name": "Swaroop",
-      "student_id": 1664198862892,
-      "point": [
-        0.3470319634703196,
-        0.29836829836829837
-      ]
-    },
-    {
-      "id": 2784,
-      "label": "clock",
-      "student_name": "Swaroop",
-      "student_id": 1664198862892,
-      "point": [
-        0.4200913242009132,
-        0.3962703962703963
-      ]
-    },
-    {
-      "id": 2785,
-      "label": "car",
-      "student_name": "AA",
-      "student_id": 1664211977462,
-      "point": [
-        0.5570776255707762,
-        0.4149184149184149
-      ]
-    },
-    {
-      "id": 2786,
-      "label": "fish",
-      "student_name": "AA",
-      "student_id": 1664211977462,
-      "point": [
-        0.4977168949771689,
-        0.34965034965034963
-      ]
-    },
-    {
-      "id": 2787,
-      "label": "house",
-      "student_name": "AA",
-      "student_id": 1664211977462,
-      "point": [
-        0.5296803652968036,
-        0.4382284382284382
-      ]
-    },
-    {
-      "id": 2788,
-      "label": "tree",
-      "student_name": "AA",
-      "student_id": 1664211977462,
-      "point": [
-        0.7214611872146118,
-        0.7715617715617715
-      ]
-    },
-    {
-      "id": 2789,
-      "label": "bicycle",
-      "student_name": "AA",
-      "student_id": 1664211977462,
-      "point": [
-        0.5045662100456622,
-        0.44755244755244755
-      ]
-    },
-    {
-      "id": 2790,
-      "label": "guitar",
-      "student_name": "AA",
-      "student_id": 1664211977462,
-      "point": [
-        0.5045662100456622,
-        0.6736596736596736
-      ]
-    },
-    {
-      "id": 2791,
-      "label": "pencil",
-      "student_name": "AA",
-      "student_id": 1664211977462,
-      "point": [
-        0.1141552511415525,
-        0.38694638694638694
-      ]
-    },
-    {
-      "id": 2792,
-      "label": "clock",
-      "student_name": "AA",
-      "student_id": 1664211977462,
-      "point": [
-        0.09360730593607305,
-        0.31002331002331
-      ]
-    },
-    {
-      "id": 2793,
-      "label": "car",
-      "student_name": "ankush",
-      "student_id": 1664212352303,
-      "point": [
-        0.7100456621004566,
-        0.48951048951048953
-      ]
-    },
-    {
-      "id": 2794,
-      "label": "fish",
-      "student_name": "ankush",
-      "student_id": 1664212352303,
-      "point": [
-        0.4383561643835616,
-        0.3682983682983683
-      ]
-    },
-    {
-      "id": 2795,
-      "label": "house",
-      "student_name": "ankush",
-      "student_id": 1664212352303,
-      "point": [
-        0.6141552511415526,
-        0.49184149184149184
-      ]
-    },
-    {
-      "id": 2796,
-      "label": "tree",
-      "student_name": "ankush",
-      "student_id": 1664212352303,
-      "point": [
-        0.7374429223744292,
-        0.5734265734265734
-      ]
-    },
-    {
-      "id": 2797,
-      "label": "bicycle",
-      "student_name": "ankush",
-      "student_id": 1664212352303,
-      "point": [
-        0.4497716894977169,
-        0.40792540792540793
-      ]
-    },
-    {
-      "id": 2798,
-      "label": "guitar",
-      "student_name": "ankush",
-      "student_id": 1664212352303,
-      "point": [
-        0.5228310502283106,
-        0.4755244755244755
-      ]
-    },
-    {
-      "id": 2799,
-      "label": "pencil",
-      "student_name": "ankush",
-      "student_id": 1664212352303,
-      "point": [
-        0.136986301369863,
-        0.5524475524475524
-      ]
-    },
-    {
-      "id": 2800,
-      "label": "clock",
-      "student_name": "ankush",
-      "student_id": 1664212352303,
-      "point": [
-        0.3881278538812785,
-        0.4592074592074592
-      ]
-    },
-    {
-      "id": 2801,
-      "label": "car",
-      "student_name": "Mahmud",
-      "student_id": 1664214639149,
-      "point": [
-        0.5593607305936074,
-        0.24708624708624707
-      ]
-    },
-    {
-      "id": 2802,
-      "label": "fish",
-      "student_name": "Mahmud",
-      "student_id": 1664214639149,
-      "point": [
-        0.4657534246575342,
-        0.20512820512820512
-      ]
-    },
-    {
-      "id": 2803,
-      "label": "house",
-      "student_name": "Mahmud",
-      "student_id": 1664214639149,
-      "point": [
-        0.5821917808219178,
-        0.32167832167832167
-      ]
-    },
-    {
-      "id": 2804,
-      "label": "tree",
-      "student_name": "Mahmud",
-      "student_id": 1664214639149,
-      "point": [
-        0.5296803652968036,
-        0.5757575757575758
-      ]
-    },
-    {
-      "id": 2805,
-      "label": "bicycle",
-      "student_name": "Mahmud",
-      "student_id": 1664214639149,
-      "point": [
-        0.2671232876712329,
-        0.14685314685314685
-      ]
-    },
-    {
-      "id": 2806,
-      "label": "guitar",
-      "student_name": "Mahmud",
-      "student_id": 1664214639149,
-      "point": [
-        0.5045662100456622,
-        0.4731934731934732
-      ]
-    },
-    {
-      "id": 2807,
-      "label": "pencil",
-      "student_name": "Mahmud",
-      "student_id": 1664214639149,
-      "point": [
-        0.0958904109589041,
-        0.627039627039627
-      ]
-    },
-    {
-      "id": 2808,
-      "label": "clock",
-      "student_name": "Mahmud",
-      "student_id": 1664214639149,
-      "point": [
-        0.3013698630136986,
-        0.2773892773892774
-      ]
-    },
-    {
-      "id": 2809,
-      "label": "car",
-      "student_name": "prophet",
-      "student_id": 1664215549945,
-      "point": [
-        0.4406392694063927,
-        0.2097902097902098
-      ]
-    },
-    {
-      "id": 2810,
-      "label": "fish",
-      "student_name": "prophet",
-      "student_id": 1664215549945,
-      "point": [
-        0.4337899543378995,
-        0.21678321678321677
-      ]
-    },
-    {
-      "id": 2811,
-      "label": "house",
-      "student_name": "prophet",
-      "student_id": 1664215549945,
-      "point": [
-        0.6963470319634704,
-        0.62004662004662
-      ]
-    },
-    {
-      "id": 2812,
-      "label": "tree",
-      "student_name": "prophet",
-      "student_id": 1664215549945,
-      "point": [
-        0.545662100456621,
-        0.7552447552447552
-      ]
-    },
-    {
-      "id": 2813,
-      "label": "bicycle",
-      "student_name": "prophet",
-      "student_id": 1664215549945,
-      "point": [
-        0.6461187214611872,
-        0.5361305361305362
-      ]
-    },
-    {
-      "id": 2814,
-      "label": "guitar",
-      "student_name": "prophet",
-      "student_id": 1664215549945,
-      "point": [
-        0.2054794520547945,
-        0.43123543123543123
-      ]
-    },
-    {
-      "id": 2815,
-      "label": "pencil",
-      "student_name": "prophet",
-      "student_id": 1664215549945,
-      "point": [
-        0.410958904109589,
-        0.40792540792540793
-      ]
-    },
-    {
-      "id": 2816,
-      "label": "clock",
-      "student_name": "prophet",
-      "student_id": 1664215549945,
-      "point": [
-        0.3858447488584475,
-        0.31934731934731936
-      ]
-    },
-    {
-      "id": 2817,
-      "label": "car",
-      "student_name": "Jitendar",
-      "student_id": 1664216767013,
-      "point": [
-        0.636986301369863,
-        0.4988344988344988
-      ]
-    },
-    {
-      "id": 2818,
-      "label": "fish",
-      "student_name": "Jitendar",
-      "student_id": 1664216767013,
-      "point": [
-        0.7009132420091324,
-        0.49417249417249415
-      ]
-    },
-    {
-      "id": 2819,
-      "label": "house",
-      "student_name": "Jitendar",
-      "student_id": 1664216767013,
-      "point": [
-        0.4063926940639269,
-        0.5547785547785548
-      ]
-    },
-    {
-      "id": 2820,
-      "label": "tree",
-      "student_name": "Jitendar",
-      "student_id": 1664216767013,
-      "point": [
-        0.4794520547945205,
-        0.62004662004662
-      ]
-    },
-    {
-      "id": 2821,
-      "label": "bicycle",
-      "student_name": "Jitendar",
-      "student_id": 1664216767013,
-      "point": [
-        0.593607305936073,
-        0.45454545454545453
-      ]
-    },
-    {
-      "id": 2822,
-      "label": "guitar",
-      "student_name": "Jitendar",
-      "student_id": 1664216767013,
-      "point": [
-        0.7146118721461188,
-        0.2634032634032634
-      ]
-    },
-    {
-      "id": 2823,
-      "label": "pencil",
-      "student_name": "Jitendar",
-      "student_id": 1664216767013,
-      "point": [
-        0.0684931506849315,
-        0.48484848484848486
-      ]
-    },
-    {
-      "id": 2824,
-      "label": "clock",
-      "student_name": "Jitendar",
-      "student_id": 1664216767013,
-      "point": [
-        0.2876712328767123,
-        0.3916083916083916
-      ]
-    },
-    {
-      "id": 2825,
-      "label": "car",
-      "student_name": "Thomas",
-      "student_id": 1664223676278,
-      "point": [
-        0.8493150684931506,
-        0.3822843822843823
-      ]
-    },
-    {
-      "id": 2826,
-      "label": "fish",
-      "student_name": "Thomas",
-      "student_id": 1664223676278,
-      "point": [
-        0.7374429223744292,
-        0.17715617715617715
-      ]
-    },
-    {
-      "id": 2827,
-      "label": "house",
-      "student_name": "Thomas",
-      "student_id": 1664223676278,
-      "point": [
-        0.7100456621004566,
-        0.5617715617715617
-      ]
-    },
-    {
-      "id": 2828,
-      "label": "tree",
-      "student_name": "Thomas",
-      "student_id": 1664223676278,
-      "point": [
-        0.4840182648401826,
-        0.7738927738927739
-      ]
-    },
-    {
-      "id": 2829,
-      "label": "bicycle",
-      "student_name": "Thomas",
-      "student_id": 1664223676278,
-      "point": [
-        0.6575342465753424,
-        0.34032634032634035
-      ]
-    },
-    {
-      "id": 2830,
-      "label": "guitar",
-      "student_name": "Thomas",
-      "student_id": 1664223676278,
-      "point": [
-        0.6255707762557078,
-        0.675990675990676
-      ]
-    },
-    {
-      "id": 2831,
-      "label": "pencil",
-      "student_name": "Thomas",
-      "student_id": 1664223676278,
-      "point": [
-        0.04794520547945205,
-        0.745920745920746
-      ]
-    },
-    {
-      "id": 2832,
-      "label": "clock",
-      "student_name": "Thomas",
-      "student_id": 1664223676278,
-      "point": [
-        0.3127853881278539,
-        0.3146853146853147
-      ]
-    },
-    {
-      "id": 2833,
-      "label": "car",
-      "student_name": "Ghsamm",
-      "student_id": 1664231276788,
-      "point": [
-        0.6506849315068494,
-        0.2703962703962704
-      ]
-    },
-    {
-      "id": 2834,
-      "label": "fish",
-      "student_name": "Ghsamm",
-      "student_id": 1664231276788,
-      "point": [
-        0.4292237442922374,
-        0.2867132867132867
-      ]
-    },
-    {
-      "id": 2835,
-      "label": "house",
-      "student_name": "Ghsamm",
-      "student_id": 1664231276788,
-      "point": [
-        0.363013698630137,
-        0.5407925407925408
-      ]
-    },
-    {
-      "id": 2836,
-      "label": "tree",
-      "student_name": "Ghsamm",
-      "student_id": 1664231276788,
-      "point": [
-        0.3972602739726027,
-        0.4522144522144522
-      ]
-    },
-    {
-      "id": 2837,
-      "label": "bicycle",
-      "student_name": "Ghsamm",
-      "student_id": 1664231276788,
-      "point": [
-        0.4954337899543379,
-        0.3356643356643357
-      ]
-    },
-    {
-      "id": 2838,
-      "label": "guitar",
-      "student_name": "Ghsamm",
-      "student_id": 1664231276788,
-      "point": [
-        0.5365296803652968,
-        0.30303030303030304
-      ]
-    },
-    {
-      "id": 2839,
-      "label": "pencil",
-      "student_name": "Ghsamm",
-      "student_id": 1664231276788,
-      "point": [
-        0.3127853881278539,
-        0.3473193473193473
-      ]
-    },
-    {
-      "id": 2840,
-      "label": "clock",
-      "student_name": "Ghsamm",
-      "student_id": 1664231276788,
-      "point": [
-        0.4657534246575342,
-        0.49184149184149184
-      ]
-    },
-    {
-      "id": 2841,
-      "label": "car",
-      "student_name": "Franz",
-      "student_id": 1664234714252,
-      "point": [
-        0.4589041095890411,
-        0.12354312354312354
-      ]
-    },
-    {
-      "id": 2842,
-      "label": "fish",
-      "student_name": "Franz",
-      "student_id": 1664234714252,
-      "point": [
-        0.6552511415525114,
-        0.3916083916083916
-      ]
-    },
-    {
-      "id": 2843,
-      "label": "house",
-      "student_name": "Franz",
-      "student_id": 1664234714252,
-      "point": [
-        0.7876712328767124,
-        0.6643356643356644
-      ]
-    },
-    {
-      "id": 2844,
-      "label": "tree",
-      "student_name": "Franz",
-      "student_id": 1664234714252,
-      "point": [
-        0.6621004566210046,
-        0.8391608391608392
-      ]
-    },
-    {
-      "id": 2845,
-      "label": "bicycle",
-      "student_name": "Franz",
-      "student_id": 1664234714252,
-      "point": [
-        0.6894977168949772,
-        0.3916083916083916
-      ]
-    },
-    {
-      "id": 2846,
-      "label": "guitar",
-      "student_name": "Franz",
-      "student_id": 1664234714252,
-      "point": [
-        0.3470319634703196,
-        0.8135198135198135
-      ]
-    },
-    {
-      "id": 2847,
-      "label": "pencil",
-      "student_name": "Franz",
-      "student_id": 1664234714252,
-      "point": [
-        0.8127853881278538,
-        0.12121212121212122
-      ]
-    },
-    {
-      "id": 2848,
-      "label": "clock",
-      "student_name": "Franz",
-      "student_id": 1664234714252,
-      "point": [
-        0.6004566210045662,
-        0.6293706293706294
-      ]
-    },
-    {
-      "id": 2849,
-      "label": "car",
-      "student_name": "sads",
-      "student_id": 1664235320853,
-      "point": [
-        0.678082191780822,
-        0.2564102564102564
-      ]
-    },
-    {
-      "id": 2850,
-      "label": "fish",
-      "student_name": "sads",
-      "student_id": 1664235320853,
-      "point": [
-        0.3013698630136986,
-        0.21445221445221446
-      ]
-    },
-    {
-      "id": 2851,
-      "label": "house",
-      "student_name": "sads",
-      "student_id": 1664235320853,
-      "point": [
-        0.4748858447488584,
-        0.4825174825174825
-      ]
-    },
-    {
-      "id": 2852,
-      "label": "tree",
-      "student_name": "sads",
-      "student_id": 1664235320853,
-      "point": [
-        0.4132420091324201,
-        0.5058275058275058
-      ]
-    },
-    {
-      "id": 2853,
-      "label": "bicycle",
-      "student_name": "sads",
-      "student_id": 1664235320853,
-      "point": [
-        0.632420091324201,
-        0.46853146853146854
-      ]
-    },
-    {
-      "id": 2854,
-      "label": "guitar",
-      "student_name": "sads",
-      "student_id": 1664235320853,
-      "point": [
-        0.5616438356164384,
-        0.46853146853146854
-      ]
-    },
-    {
-      "id": 2855,
-      "label": "pencil",
-      "student_name": "sads",
-      "student_id": 1664235320853,
-      "point": [
-        0.18949771689497716,
-        0.7435897435897436
-      ]
-    },
-    {
-      "id": 2856,
-      "label": "clock",
-      "student_name": "sads",
-      "student_id": 1664235320853,
-      "point": [
-        0.319634703196347,
-        0.44755244755244755
-      ]
-    },
-    {
-      "id": 2857,
-      "label": "car",
-      "student_name": "Santiago",
-      "student_id": 1664253915632,
-      "point": [
-        0.45662100456621,
-        0.1888111888111888
-      ]
-    },
-    {
-      "id": 2858,
-      "label": "fish",
-      "student_name": "Santiago",
-      "student_id": 1664253915632,
-      "point": [
-        0.3333333333333333,
-        0.1351981351981352
-      ]
-    },
-    {
-      "id": 2859,
-      "label": "house",
-      "student_name": "Santiago",
-      "student_id": 1664253915632,
-      "point": [
-        0.4315068493150685,
-        0.372960372960373
-      ]
-    },
-    {
-      "id": 2860,
-      "label": "tree",
-      "student_name": "Santiago",
-      "student_id": 1664253915632,
-      "point": [
-        0.4063926940639269,
-        0.48951048951048953
-      ]
-    },
-    {
-      "id": 2861,
-      "label": "bicycle",
-      "student_name": "Santiago",
-      "student_id": 1664253915632,
-      "point": [
-        0.5707762557077626,
-        0.34498834498834496
-      ]
-    },
-    {
-      "id": 2862,
-      "label": "guitar",
-      "student_name": "Santiago",
-      "student_id": 1664253915632,
-      "point": [
-        0.3105022831050228,
-        0.5198135198135199
-      ]
-    },
-    {
-      "id": 2863,
-      "label": "pencil",
-      "student_name": "Santiago",
-      "student_id": 1664253915632,
-      "point": [
-        0.1004566210045662,
-        0.6433566433566433
-      ]
-    },
-    {
-      "id": 2864,
-      "label": "clock",
-      "student_name": "Santiago",
-      "student_id": 1664253915632,
-      "point": [
-        0.3698630136986301,
-        0.4731934731934732
-      ]
-    },
-    {
       "id": 2865,
       "label": "car",
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.31002331002331
       ]
     },
@@ -8821,7 +21,7 @@ const testing =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        0.24885844748858446,
+        0.218,
         0.07692307692307693
       ]
     },
@@ -8831,7 +31,7 @@ const testing =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        0.3264840182648402,
+        0.286,
         0.27972027972027974
       ]
     },
@@ -8841,7 +41,7 @@ const testing =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        0.182648401826484,
+        0.16,
         0.26573426573426573
       ]
     },
@@ -8851,7 +51,7 @@ const testing =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        0.3881278538812785,
+        0.34,
         0.2634032634032634
       ]
     },
@@ -8861,7 +61,7 @@ const testing =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        0.2557077625570776,
+        0.224,
         0.2727272727272727
       ]
     },
@@ -8871,7 +71,7 @@ const testing =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        0.3013698630136986,
+        0.264,
         0.17016317016317017
       ]
     },
@@ -8881,7 +81,7 @@ const testing =
       "student_name": "Ameen",
       "student_id": 1664262073066,
       "point": [
-        0.23515981735159816,
+        0.206,
         0.2517482517482518
       ]
     },
@@ -8891,7 +91,7 @@ const testing =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.17482517482517482
       ]
     },
@@ -8901,7 +101,7 @@ const testing =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        0.54337899543379,
+        0.476,
         0.13986013986013987
       ]
     },
@@ -8911,7 +111,7 @@ const testing =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.5011655011655012
       ]
     },
@@ -8921,7 +121,7 @@ const testing =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.6433566433566433
       ]
     },
@@ -8931,7 +131,7 @@ const testing =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.24475524475524477
       ]
     },
@@ -8941,7 +141,7 @@ const testing =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        0.7374429223744292,
+        0.646,
         0.29836829836829837
       ]
     },
@@ -8951,7 +151,7 @@ const testing =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        0.4657534246575342,
+        0.408,
         0.4731934731934732
       ]
     },
@@ -8961,7 +161,7 @@ const testing =
       "student_name": "Ruslan",
       "student_id": 1664266653844,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.43356643356643354
       ]
     },
@@ -8971,7 +171,7 @@ const testing =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.27972027972027974
       ]
     },
@@ -8981,7 +181,7 @@ const testing =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.3706293706293706
       ]
     },
@@ -8991,7 +191,7 @@ const testing =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        0.3881278538812785,
+        0.34,
         0.37995337995337997
       ]
     },
@@ -9001,7 +201,7 @@ const testing =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        0.45662100456621,
+        0.4,
         0.5384615384615384
       ]
     },
@@ -9011,7 +211,7 @@ const testing =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        0.2990867579908676,
+        0.262,
         0.29603729603729606
       ]
     },
@@ -9021,7 +221,7 @@ const testing =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        0.3264840182648402,
+        0.286,
         0.4405594405594406
       ]
     },
@@ -9031,7 +231,7 @@ const testing =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.6456876456876457
       ]
     },
@@ -9041,7 +241,7 @@ const testing =
       "student_name": "PetrL",
       "student_id": 1664277363924,
       "point": [
-        0.5639269406392694,
+        0.494,
         0.6293706293706294
       ]
     },
@@ -9051,7 +251,7 @@ const testing =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        0.6529680365296804,
+        0.572,
         0.32634032634032634
       ]
     },
@@ -9061,7 +261,7 @@ const testing =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.4289044289044289
       ]
     },
@@ -9071,7 +271,7 @@ const testing =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.49417249417249415
       ]
     },
@@ -9081,7 +281,7 @@ const testing =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        0.730593607305936,
+        0.64,
         0.7132867132867133
       ]
     },
@@ -9091,7 +291,7 @@ const testing =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.31934731934731936
       ]
     },
@@ -9101,7 +301,7 @@ const testing =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        0.6757990867579908,
+        0.592,
         0.5524475524475524
       ]
     },
@@ -9111,7 +311,7 @@ const testing =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        0.541095890410959,
+        0.474,
         0.7692307692307693
       ]
     },
@@ -9121,7 +321,7 @@ const testing =
       "student_name": "Muhammad ",
       "student_id": 1664301053290,
       "point": [
-        0.3333333333333333,
+        0.292,
         0.8181818181818182
       ]
     },
@@ -9131,7 +331,7 @@ const testing =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        0.7968036529680366,
+        0.698,
         0.32867132867132864
       ]
     },
@@ -9141,7 +341,7 @@ const testing =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        0.58675799086758,
+        0.514,
         0.2540792540792541
       ]
     },
@@ -9151,7 +351,7 @@ const testing =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.5198135198135199
       ]
     },
@@ -9161,7 +361,7 @@ const testing =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        0.636986301369863,
+        0.558,
         0.7878787878787878
       ]
     },
@@ -9171,7 +371,7 @@ const testing =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        0.634703196347032,
+        0.556,
         0.351981351981352
       ]
     },
@@ -9181,7 +381,7 @@ const testing =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        0.7420091324200914,
+        0.65,
         0.40792540792540793
       ]
     },
@@ -9191,7 +391,7 @@ const testing =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        0.3127853881278539,
+        0.274,
         0.4358974358974359
       ]
     },
@@ -9201,7 +401,7 @@ const testing =
       "student_name": "Stefan",
       "student_id": 1664302416254,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.3473193473193473
       ]
     },
@@ -9211,7 +411,7 @@ const testing =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.30536130536130535
       ]
     },
@@ -9221,7 +421,7 @@ const testing =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        0.6917808219178082,
+        0.606,
         0.5174825174825175
       ]
     },
@@ -9231,7 +431,7 @@ const testing =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        0.723744292237443,
+        0.634,
         0.6876456876456877
       ]
     },
@@ -9241,7 +441,7 @@ const testing =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        0.636986301369863,
+        0.558,
         0.7482517482517482
       ]
     },
@@ -9251,7 +451,7 @@ const testing =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        0.6689497716894978,
+        0.586,
         0.4382284382284382
       ]
     },
@@ -9261,7 +461,7 @@ const testing =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        0.8584474885844748,
+        0.752,
         0.7412587412587412
       ]
     },
@@ -9271,7 +471,7 @@ const testing =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        0.23515981735159816,
+        0.206,
         0.7692307692307693
       ]
     },
@@ -9281,7 +481,7 @@ const testing =
       "student_name": "Sahaj",
       "student_id": 1664313564720,
       "point": [
-        0.5342465753424658,
+        0.468,
         0.4405594405594406
       ]
     },
@@ -9291,7 +491,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        0.815068493150685,
+        0.714,
         0.24708624708624707
       ]
     },
@@ -9301,7 +501,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.20512820512820512
       ]
     },
@@ -9311,7 +511,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        0.3036529680365297,
+        0.266,
         0.372960372960373
       ]
     },
@@ -9321,7 +521,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        0.7785388127853882,
+        0.682,
         0.8461538461538461
       ]
     },
@@ -9331,7 +531,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.42424242424242425
       ]
     },
@@ -9341,7 +541,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        0.8538812785388128,
+        0.748,
         0.24242424242424243
       ]
     },
@@ -9351,7 +551,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        0.0593607305936073,
+        0.052,
         0.7319347319347319
       ]
     },
@@ -9361,7 +561,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1664353212299,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.40326340326340326
       ]
     },
@@ -9371,7 +571,7 @@ const testing =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        0.5844748858447488,
+        0.512,
         0.2680652680652681
       ]
     },
@@ -9381,7 +581,7 @@ const testing =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.0979020979020979
       ]
     },
@@ -9391,7 +591,7 @@ const testing =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.8368298368298368
       ]
     },
@@ -9401,7 +601,7 @@ const testing =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.7552447552447552
       ]
     },
@@ -9411,7 +611,7 @@ const testing =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.2867132867132867
       ]
     },
@@ -9421,7 +621,7 @@ const testing =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        0.4657534246575342,
+        0.408,
         0.5104895104895105
       ]
     },
@@ -9431,7 +631,7 @@ const testing =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.3543123543123543
       ]
     },
@@ -9441,7 +641,7 @@ const testing =
       "student_name": "Smithusama",
       "student_id": 1664360547795,
       "point": [
-        0.5844748858447488,
+        0.512,
         0.5314685314685315
       ]
     },
@@ -9451,7 +651,7 @@ const testing =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        0.4360730593607306,
+        0.382,
         0.30303030303030304
       ]
     },
@@ -9461,7 +661,7 @@ const testing =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        0.3105022831050228,
+        0.272,
         0.21445221445221446
       ]
     },
@@ -9471,7 +671,7 @@ const testing =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        0.2945205479452055,
+        0.258,
         0.6083916083916084
       ]
     },
@@ -9481,7 +681,7 @@ const testing =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.634032634032634
       ]
     },
@@ -9491,7 +691,7 @@ const testing =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        0.3721461187214612,
+        0.326,
         0.35664335664335667
       ]
     },
@@ -9501,7 +701,7 @@ const testing =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.5034965034965035
       ]
     },
@@ -9511,7 +711,7 @@ const testing =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        0.20319634703196346,
+        0.178,
         0.4522144522144522
       ]
     },
@@ -9521,7 +721,7 @@ const testing =
       "student_name": "Ricky29",
       "student_id": 1664370996109,
       "point": [
-        0.3401826484018265,
+        0.298,
         0.4172494172494173
       ]
     },
@@ -9531,7 +731,7 @@ const testing =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        0.4155251141552511,
+        0.364,
         0.29603729603729606
       ]
     },
@@ -9541,7 +741,7 @@ const testing =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.17482517482517482
       ]
     },
@@ -9551,7 +751,7 @@ const testing =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        0.3287671232876712,
+        0.288,
         0.31934731934731936
       ]
     },
@@ -9561,7 +761,7 @@ const testing =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.6806526806526807
       ]
     },
@@ -9571,7 +771,7 @@ const testing =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        0.3013698630136986,
+        0.264,
         0.2261072261072261
       ]
     },
@@ -9581,7 +781,7 @@ const testing =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.3706293706293706
       ]
     },
@@ -9591,7 +791,7 @@ const testing =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        0.07534246575342465,
+        0.066,
         0.3356643356643357
       ]
     },
@@ -9601,7 +801,7 @@ const testing =
       "student_name": "Althaf",
       "student_id": 1664377293974,
       "point": [
-        0.3287671232876712,
+        0.288,
         0.3146853146853147
       ]
     },
@@ -9611,7 +811,7 @@ const testing =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.38927738927738925
       ]
     },
@@ -9621,7 +821,7 @@ const testing =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        0.4977168949771689,
+        0.436,
         0.22144522144522144
       ]
     },
@@ -9631,7 +831,7 @@ const testing =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        0.3675799086757991,
+        0.322,
         0.49184149184149184
       ]
     },
@@ -9641,7 +841,7 @@ const testing =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.5431235431235432
       ]
     },
@@ -9651,7 +851,7 @@ const testing =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.331002331002331
       ]
     },
@@ -9661,7 +861,7 @@ const testing =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        0.728310502283105,
+        0.638,
         0.23543123543123542
       ]
     },
@@ -9671,7 +871,7 @@ const testing =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        0.04794520547945205,
+        0.042,
         0.49184149184149184
       ]
     },
@@ -9681,7 +881,7 @@ const testing =
       "student_name": "Certi",
       "student_id": 1664383037277,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.5874125874125874
       ]
     },
@@ -9691,7 +891,7 @@ const testing =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        0.4246575342465753,
+        0.372,
         0.11188811188811189
       ]
     },
@@ -9701,7 +901,7 @@ const testing =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        0.3493150684931507,
+        0.306,
         0.11188811188811189
       ]
     },
@@ -9711,7 +911,7 @@ const testing =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        0.3538812785388128,
+        0.31,
         0.5897435897435898
       ]
     },
@@ -9721,7 +921,7 @@ const testing =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        0.2853881278538813,
+        0.25,
         0.5244755244755245
       ]
     },
@@ -9731,7 +931,7 @@ const testing =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.2703962703962704
       ]
     },
@@ -9741,7 +941,7 @@ const testing =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.5151515151515151
       ]
     },
@@ -9751,7 +951,7 @@ const testing =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        0.06164383561643835,
+        0.054,
         0.3776223776223776
       ]
     },
@@ -9761,7 +961,7 @@ const testing =
       "student_name": "pvt",
       "student_id": 1664385947819,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.32634032634032634
       ]
     },
@@ -9771,7 +971,7 @@ const testing =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.337995337995338
       ]
     },
@@ -9781,7 +981,7 @@ const testing =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        0.684931506849315,
+        0.6,
         0.317016317016317
       ]
     },
@@ -9791,7 +991,7 @@ const testing =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.717948717948718
       ]
     },
@@ -9801,7 +1001,7 @@ const testing =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.8251748251748252
       ]
     },
@@ -9811,7 +1011,7 @@ const testing =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        0.591324200913242,
+        0.518,
         0.5757575757575758
       ]
     },
@@ -9821,7 +1021,7 @@ const testing =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.3356643356643357
       ]
     },
@@ -9831,7 +1031,7 @@ const testing =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        0.09360730593607305,
+        0.082,
         0.6993006993006993
       ]
     },
@@ -9841,7 +1041,7 @@ const testing =
       "student_name": "Sandeep",
       "student_id": 1664391109089,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.4965034965034965
       ]
     },
@@ -9851,7 +1051,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        0.7808219178082192,
+        0.684,
         0.37995337995337997
       ]
     },
@@ -9861,7 +1061,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.19114219114219114
       ]
     },
@@ -9871,7 +1071,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        0.4589041095890411,
+        0.402,
         0.6736596736596736
       ]
     },
@@ -9881,7 +1081,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.8717948717948718
       ]
     },
@@ -9891,7 +1091,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.32867132867132864
       ]
     },
@@ -9901,7 +1101,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        0.678082191780822,
+        0.594,
         0.655011655011655
       ]
     },
@@ -9911,7 +1111,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        0.7488584474885844,
+        0.656,
         0.42657342657342656
       ]
     },
@@ -9921,7 +1121,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1664399212334,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.5477855477855478
       ]
     },
@@ -9931,7 +1131,7 @@ const testing =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        0.6118721461187214,
+        0.536,
         0.358974358974359
       ]
     },
@@ -9941,7 +1141,7 @@ const testing =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.40326340326340326
       ]
     },
@@ -9951,7 +1151,7 @@ const testing =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.4289044289044289
       ]
     },
@@ -9961,7 +1161,7 @@ const testing =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        0.3310502283105023,
+        0.29,
         0.40326340326340326
       ]
     },
@@ -9971,7 +1171,7 @@ const testing =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.2727272727272727
       ]
     },
@@ -9981,7 +1181,7 @@ const testing =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.2540792540792541
       ]
     },
@@ -9991,7 +1191,7 @@ const testing =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        0.04337899543378995,
+        0.038,
         0.2727272727272727
       ]
     },
@@ -10001,7 +1201,7 @@ const testing =
       "student_name": "roshan",
       "student_id": 1664421992971,
       "point": [
-        0.2511415525114155,
+        0.22,
         0.24708624708624707
       ]
     },
@@ -10011,7 +1211,7 @@ const testing =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.2634032634032634
       ]
     },
@@ -10021,7 +1221,7 @@ const testing =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.4405594405594406
       ]
     },
@@ -10031,7 +1231,7 @@ const testing =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        0.3447488584474886,
+        0.302,
         0.4428904428904429
       ]
     },
@@ -10041,7 +1241,7 @@ const testing =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.7878787878787878
       ]
     },
@@ -10051,7 +1251,7 @@ const testing =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.4358974358974359
       ]
     },
@@ -10061,7 +1261,7 @@ const testing =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        0.1506849315068493,
+        0.132,
         0.6037296037296037
       ]
     },
@@ -10071,7 +1271,7 @@ const testing =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        0.02968036529680365,
+        0.026,
         0.44988344988344986
       ]
     },
@@ -10081,7 +1281,7 @@ const testing =
       "student_name": "Britt",
       "student_id": 1664429648334,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.3822843822843823
       ]
     },
@@ -10091,7 +1291,7 @@ const testing =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.1585081585081585
       ]
     },
@@ -10101,7 +1301,7 @@ const testing =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        0.4771689497716895,
+        0.418,
         0.24475524475524477
       ]
     },
@@ -10111,7 +1311,7 @@ const testing =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.358974358974359
       ]
     },
@@ -10121,7 +1321,7 @@ const testing =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        0.3607305936073059,
+        0.316,
         0.6386946386946387
       ]
     },
@@ -10131,7 +1331,7 @@ const testing =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        0.589041095890411,
+        0.516,
         0.3986013986013986
       ]
     },
@@ -10141,7 +1341,7 @@ const testing =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.662004662004662
       ]
     },
@@ -10151,7 +1351,7 @@ const testing =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        0.271689497716895,
+        0.238,
         0.40326340326340326
       ]
     },
@@ -10161,7 +1361,7 @@ const testing =
       "student_name": "Jeux_Mathinfo",
       "student_id": 1664437079379,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.4172494172494173
       ]
     },
@@ -10171,7 +1371,7 @@ const testing =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.19114219114219114
       ]
     },
@@ -10181,7 +1381,7 @@ const testing =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        0.1735159817351598,
+        0.152,
         0.053613053613053616
       ]
     },
@@ -10191,7 +1391,7 @@ const testing =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        0.363013698630137,
+        0.318,
         0.34965034965034963
       ]
     },
@@ -10201,7 +1401,7 @@ const testing =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        0.3264840182648402,
+        0.286,
         0.45454545454545453
       ]
     },
@@ -10211,7 +1411,7 @@ const testing =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        0.22602739726027396,
+        0.198,
         0.13053613053613053
       ]
     },
@@ -10221,7 +1421,7 @@ const testing =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.19114219114219114
       ]
     },
@@ -10231,7 +1431,7 @@ const testing =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        0.22146118721461186,
+        0.194,
         -0.016317016317016316
       ]
     },
@@ -10241,7 +1441,7 @@ const testing =
       "student_name": "Tee",
       "student_id": 1664439818917,
       "point": [
-        0.3401826484018265,
+        0.298,
         0.25874125874125875
       ]
     },
@@ -10251,7 +1451,7 @@ const testing =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.19813519813519814
       ]
     },
@@ -10261,7 +1461,7 @@ const testing =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.5058275058275058
       ]
     },
@@ -10271,7 +1471,7 @@ const testing =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.4289044289044289
       ]
     },
@@ -10281,7 +1481,7 @@ const testing =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.6596736596736597
       ]
     },
@@ -10291,7 +1491,7 @@ const testing =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.358974358974359
       ]
     },
@@ -10301,7 +1501,7 @@ const testing =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.6223776223776224
       ]
     },
@@ -10311,7 +1511,7 @@ const testing =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        0.3013698630136986,
+        0.264,
         0.4568764568764569
       ]
     },
@@ -10321,7 +1521,7 @@ const testing =
       "student_name": "Ivan",
       "student_id": 1664446034156,
       "point": [
-        0.410958904109589,
+        0.36,
         0.4382284382284382
       ]
     },
@@ -10331,7 +1531,7 @@ const testing =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        0.6986301369863014,
+        0.612,
         0.34265734265734266
       ]
     },
@@ -10341,7 +1541,7 @@ const testing =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        0.726027397260274,
+        0.636,
         0.331002331002331
       ]
     },
@@ -10351,7 +1551,7 @@ const testing =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        0.3493150684931507,
+        0.306,
         0.40559440559440557
       ]
     },
@@ -10361,7 +1561,7 @@ const testing =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.752913752913753
       ]
     },
@@ -10371,7 +1571,7 @@ const testing =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.4568764568764569
       ]
     },
@@ -10381,7 +1581,7 @@ const testing =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        0.680365296803653,
+        0.596,
         0.2867132867132867
       ]
     },
@@ -10391,7 +1591,7 @@ const testing =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        0.06164383561643835,
+        0.054,
         0.6713286713286714
       ]
     },
@@ -10401,7 +1601,7 @@ const testing =
       "student_name": "Divyanshu",
       "student_id": 1664447441159,
       "point": [
-        0.3242009132420091,
+        0.284,
         0.3146853146853147
       ]
     },
@@ -10411,7 +1611,7 @@ const testing =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        0.3013698630136986,
+        0.264,
         0.07459207459207459
       ]
     },
@@ -10421,7 +1621,7 @@ const testing =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        0.1872146118721461,
+        0.164,
         0.030303030303030304
       ]
     },
@@ -10431,7 +1631,7 @@ const testing =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        0.12557077625570776,
+        0.11,
         0.2494172494172494
       ]
     },
@@ -10441,7 +1641,7 @@ const testing =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        0.3812785388127854,
+        0.334,
         0.5384615384615384
       ]
     },
@@ -10451,7 +1651,7 @@ const testing =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        0.636986301369863,
+        0.558,
         0.337995337995338
       ]
     },
@@ -10461,7 +1661,7 @@ const testing =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        0.228310502283105,
+        0.2,
         0.5617715617715617
       ]
     },
@@ -10471,7 +1671,7 @@ const testing =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        0.22602739726027396,
+        0.198,
         0.2867132867132867
       ]
     },
@@ -10481,7 +1681,7 @@ const testing =
       "student_name": "Sidharth",
       "student_id": 1664448020019,
       "point": [
-        0.2990867579908676,
+        0.262,
         0.30303030303030304
       ]
     },
@@ -10491,7 +1691,7 @@ const testing =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.2634032634032634
       ]
     },
@@ -10501,7 +1701,7 @@ const testing =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        0.3584474885844749,
+        0.314,
         0.16317016317016317
       ]
     },
@@ -10511,7 +1711,7 @@ const testing =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        0.2191780821917808,
+        0.192,
         0.5221445221445221
       ]
     },
@@ -10521,7 +1721,7 @@ const testing =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        0.3584474885844749,
+        0.314,
         0.5268065268065268
       ]
     },
@@ -10531,7 +1731,7 @@ const testing =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.317016317016317
       ]
     },
@@ -10541,7 +1741,7 @@ const testing =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        0.2876712328767123,
+        0.252,
         0.5664335664335665
       ]
     },
@@ -10551,7 +1751,7 @@ const testing =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        0.1187214611872146,
+        0.104,
         0.5011655011655012
       ]
     },
@@ -10561,7 +1761,7 @@ const testing =
       "student_name": "bopuc",
       "student_id": 1664448527309,
       "point": [
-        0.3082191780821918,
+        0.27,
         0.2634032634032634
       ]
     },
@@ -10571,7 +1771,7 @@ const testing =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.25874125874125875
       ]
     },
@@ -10581,7 +1781,7 @@ const testing =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        0.6050228310502284,
+        0.53,
         0.16317016317016317
       ]
     },
@@ -10591,7 +1791,7 @@ const testing =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.40792540792540793
       ]
     },
@@ -10601,7 +1801,7 @@ const testing =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        0.3721461187214612,
+        0.326,
         0.3473193473193473
       ]
     },
@@ -10611,7 +1811,7 @@ const testing =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.14918414918414918
       ]
     },
@@ -10621,7 +1821,7 @@ const testing =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        0.54337899543379,
+        0.476,
         0.13286713286713286
       ]
     },
@@ -10631,7 +1831,7 @@ const testing =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        0.0136986301369863,
+        0.012,
         0.331002331002331
       ]
     },
@@ -10641,7 +1841,7 @@ const testing =
       "student_name": "alphayo",
       "student_id": 1664454993896,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.49184149184149184
       ]
     },
@@ -10651,7 +1851,7 @@ const testing =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.2680652680652681
       ]
     },
@@ -10661,7 +1861,7 @@ const testing =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        0.634703196347032,
+        0.556,
         0.20745920745920746
       ]
     },
@@ -10671,7 +1871,7 @@ const testing =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.5897435897435898
       ]
     },
@@ -10681,7 +1881,7 @@ const testing =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.7319347319347319
       ]
     },
@@ -10691,7 +1891,7 @@ const testing =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        0.5844748858447488,
+        0.512,
         0.2937062937062937
       ]
     },
@@ -10701,7 +1901,7 @@ const testing =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.710955710955711
       ]
     },
@@ -10711,7 +1911,7 @@ const testing =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.6083916083916084
       ]
     },
@@ -10721,7 +1921,7 @@ const testing =
       "student_name": "Catalin",
       "student_id": 1664463573938,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.48484848484848486
       ]
     },
@@ -10731,7 +1931,7 @@ const testing =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        0.7648401826484018,
+        0.67,
         0.27505827505827507
       ]
     },
@@ -10741,7 +1941,7 @@ const testing =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        0.58675799086758,
+        0.514,
         0.40559440559440557
       ]
     },
@@ -10751,7 +1951,7 @@ const testing =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        0.7123287671232876,
+        0.624,
         0.7738927738927739
       ]
     },
@@ -10761,7 +1961,7 @@ const testing =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.7692307692307693
       ]
     },
@@ -10771,7 +1971,7 @@ const testing =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.337995337995338
       ]
     },
@@ -10781,7 +1981,7 @@ const testing =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        0.408675799086758,
+        0.358,
         0.7948717948717948
       ]
     },
@@ -10791,7 +1991,7 @@ const testing =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        0.2762557077625571,
+        0.242,
         0.8484848484848485
       ]
     },
@@ -10801,7 +2001,7 @@ const testing =
       "student_name": "00Hdin",
       "student_id": 1664480640214,
       "point": [
-        0.541095890410959,
+        0.474,
         0.6013986013986014
       ]
     },
@@ -10811,7 +2011,7 @@ const testing =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.1864801864801865
       ]
     },
@@ -10821,7 +2021,7 @@ const testing =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        0.7146118721461188,
+        0.626,
         0.21212121212121213
       ]
     },
@@ -10831,7 +2031,7 @@ const testing =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        0.7557077625570776,
+        0.662,
         0.3939393939393939
       ]
     },
@@ -10841,7 +2041,7 @@ const testing =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.5501165501165501
       ]
     },
@@ -10851,7 +2051,7 @@ const testing =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        0.502283105022831,
+        0.44,
         0.289044289044289
       ]
     },
@@ -10861,7 +2061,7 @@ const testing =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.5034965034965035
       ]
     },
@@ -10871,7 +2071,7 @@ const testing =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        0.4132420091324201,
+        0.362,
         0.34265734265734266
       ]
     },
@@ -10881,7 +2081,7 @@ const testing =
       "student_name": "ac",
       "student_id": 1664483161839,
       "point": [
-        0.3378995433789954,
+        0.296,
         0.32867132867132864
       ]
     },
@@ -10891,7 +2091,7 @@ const testing =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        0.726027397260274,
+        0.636,
         0.1445221445221445
       ]
     },
@@ -10901,7 +2101,7 @@ const testing =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.289044289044289
       ]
     },
@@ -10911,7 +2111,7 @@ const testing =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.42424242424242425
       ]
     },
@@ -10921,7 +2121,7 @@ const testing =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.6736596736596736
       ]
     },
@@ -10931,7 +2131,7 @@ const testing =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        0.4771689497716895,
+        0.418,
         0.3006993006993007
       ]
     },
@@ -10941,7 +2141,7 @@ const testing =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        0.2694063926940639,
+        0.236,
         0.696969696969697
       ]
     },
@@ -10951,7 +2151,7 @@ const testing =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        0.3698630136986301,
+        0.324,
         0.6993006993006993
       ]
     },
@@ -10961,7 +2161,7 @@ const testing =
       "student_name": "Robe",
       "student_id": 1664484247822,
       "point": [
-        0.4269406392694064,
+        0.374,
         0.5314685314685315
       ]
     },
@@ -10971,7 +2171,7 @@ const testing =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        0.7488584474885844,
+        0.656,
         0.34265734265734266
       ]
     },
@@ -10981,7 +2181,7 @@ const testing =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.2867132867132867
       ]
     },
@@ -10991,7 +2191,7 @@ const testing =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        0.6712328767123288,
+        0.588,
         0.34965034965034963
       ]
     },
@@ -11001,7 +2201,7 @@ const testing =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.5944055944055944
       ]
     },
@@ -11011,7 +2211,7 @@ const testing =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.27505827505827507
       ]
     },
@@ -11021,7 +2221,7 @@ const testing =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.42657342657342656
       ]
     },
@@ -11031,7 +2231,7 @@ const testing =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        0.15296803652968036,
+        0.134,
         0.6130536130536131
       ]
     },
@@ -11041,7 +2241,7 @@ const testing =
       "student_name": "zob",
       "student_id": 1664485938220,
       "point": [
-        0.4200913242009132,
+        0.368,
         0.4289044289044289
       ]
     },
@@ -11051,7 +2251,7 @@ const testing =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        0.3789954337899543,
+        0.332,
         0.337995337995338
       ]
     },
@@ -11061,7 +2261,7 @@ const testing =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.26107226107226106
       ]
     },
@@ -11071,7 +2271,7 @@ const testing =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        0.2990867579908676,
+        0.262,
         0.3822843822843823
       ]
     },
@@ -11081,7 +2281,7 @@ const testing =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        0.3858447488584475,
+        0.338,
         0.5268065268065268
       ]
     },
@@ -11091,7 +2291,7 @@ const testing =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        0.4611872146118721,
+        0.404,
         0.36596736596736595
       ]
     },
@@ -11101,7 +2301,7 @@ const testing =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        0.593607305936073,
+        0.52,
         0.2540792540792541
       ]
     },
@@ -11111,7 +2311,7 @@ const testing =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        0.05251141552511415,
+        0.046,
         0.32634032634032634
       ]
     },
@@ -11121,7 +2321,7 @@ const testing =
       "student_name": "Sarthak",
       "student_id": 1664494838355,
       "point": [
-        0.3767123287671233,
+        0.33,
         0.43123543123543123
       ]
     },
@@ -11131,7 +2331,7 @@ const testing =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        0.6757990867579908,
+        0.592,
         0.44522144522144524
       ]
     },
@@ -11141,7 +2341,7 @@ const testing =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.1794871794871795
       ]
     },
@@ -11151,7 +2351,7 @@ const testing =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.627039627039627
       ]
     },
@@ -11161,7 +2361,7 @@ const testing =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        0.8835616438356164,
+        0.774,
         0.8228438228438228
       ]
     },
@@ -11171,7 +2371,7 @@ const testing =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.337995337995338
       ]
     },
@@ -11181,7 +2381,7 @@ const testing =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        0.2648401826484018,
+        0.232,
         0.5198135198135199
       ]
     },
@@ -11191,7 +2391,7 @@ const testing =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        0.3127853881278539,
+        0.274,
         0.38927738927738925
       ]
     },
@@ -11201,7 +2401,7 @@ const testing =
       "student_name": "Jéssica",
       "student_id": 1664509851090,
       "point": [
-        0.3515981735159817,
+        0.308,
         0.34498834498834496
       ]
     },
@@ -11211,7 +2411,7 @@ const testing =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        0.682648401826484,
+        0.598,
         0.23543123543123542
       ]
     },
@@ -11221,7 +2421,7 @@ const testing =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        0.3904109589041096,
+        0.342,
         0.08857808857808858
       ]
     },
@@ -11231,7 +2431,7 @@ const testing =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        2.175799086757991,
+        1.906,
         0.30536130536130535
       ]
     },
@@ -11241,7 +2441,7 @@ const testing =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.6573426573426573
       ]
     },
@@ -11251,7 +2451,7 @@ const testing =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        0.3744292237442922,
+        0.328,
         0.2727272727272727
       ]
     },
@@ -11261,7 +2461,7 @@ const testing =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.23543123543123542
       ]
     },
@@ -11271,7 +2471,7 @@ const testing =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        0.16210045662100456,
+        0.142,
         0.7552447552447552
       ]
     },
@@ -11281,7 +2481,7 @@ const testing =
       "student_name": "Erminio",
       "student_id": 1664516911299,
       "point": [
-        0.4680365296803653,
+        0.41,
         0.48951048951048953
       ]
     },
@@ -11291,7 +2491,7 @@ const testing =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.2703962703962704
       ]
     },
@@ -11301,7 +2501,7 @@ const testing =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        0.6004566210045662,
+        0.526,
         0.21445221445221446
       ]
     },
@@ -11311,7 +2511,7 @@ const testing =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        0.4452054794520548,
+        0.39,
         0.6410256410256411
       ]
     },
@@ -11321,7 +2521,7 @@ const testing =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        0.7876712328767124,
+        0.69,
         0.7342657342657343
       ]
     },
@@ -11331,7 +2531,7 @@ const testing =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.5221445221445221
       ]
     },
@@ -11341,7 +2541,7 @@ const testing =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        0.7625570776255708,
+        0.668,
         0.5827505827505828
       ]
     },
@@ -11351,7 +2551,7 @@ const testing =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.5431235431235432
       ]
     },
@@ -11361,7 +2561,7 @@ const testing =
       "student_name": "Rye",
       "student_id": 1664519906767,
       "point": [
-        0.6118721461187214,
+        0.536,
         0.48951048951048953
       ]
     },
@@ -11371,7 +2571,7 @@ const testing =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        0.6598173515981736,
+        0.578,
         0.2261072261072261
       ]
     },
@@ -11381,7 +2581,7 @@ const testing =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.3356643356643357
       ]
     },
@@ -11391,7 +2591,7 @@ const testing =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        0.6027397260273972,
+        0.528,
         0.5757575757575758
       ]
     },
@@ -11401,7 +2601,7 @@ const testing =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.6130536130536131
       ]
     },
@@ -11411,7 +2611,7 @@ const testing =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.289044289044289
       ]
     },
@@ -11421,7 +2621,7 @@ const testing =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        0.6027397260273972,
+        0.528,
         0.6853146853146853
       ]
     },
@@ -11431,7 +2631,7 @@ const testing =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        0.4292237442922374,
+        0.376,
         0.3613053613053613
       ]
     },
@@ -11441,7 +2641,7 @@ const testing =
       "student_name": "Anil",
       "student_id": 1664521772545,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.4149184149184149
       ]
     },
@@ -11451,7 +2651,7 @@ const testing =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        0.8013698630136986,
+        0.702,
         0.24242424242424243
       ]
     },
@@ -11461,7 +2661,7 @@ const testing =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.38694638694638694
       ]
     },
@@ -11471,7 +2671,7 @@ const testing =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.4568764568764569
       ]
     },
@@ -11481,7 +2681,7 @@ const testing =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.710955710955711
       ]
     },
@@ -11491,7 +2691,7 @@ const testing =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        0.6438356164383562,
+        0.564,
         0.40792540792540793
       ]
     },
@@ -11501,7 +2701,7 @@ const testing =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        0.7488584474885844,
+        0.656,
         0.7016317016317016
       ]
     },
@@ -11511,7 +2711,7 @@ const testing =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.4801864801864802
       ]
     },
@@ -11521,7 +2721,7 @@ const testing =
       "student_name": "Bartłomiej",
       "student_id": 1664543774925,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.3776223776223776
       ]
     },
@@ -11531,7 +2731,7 @@ const testing =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        0.6027397260273972,
+        0.528,
         0.3752913752913753
       ]
     },
@@ -11541,7 +2741,7 @@ const testing =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        0.6050228310502284,
+        0.53,
         0.2261072261072261
       ]
     },
@@ -11551,7 +2751,7 @@ const testing =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.6526806526806527
       ]
     },
@@ -11561,7 +2761,7 @@ const testing =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.8275058275058275
       ]
     },
@@ -11571,7 +2771,7 @@ const testing =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.4125874125874126
       ]
     },
@@ -11581,7 +2781,7 @@ const testing =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.5641025641025641
       ]
     },
@@ -11591,7 +2791,7 @@ const testing =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        0.2945205479452055,
+        0.258,
         0.45454545454545453
       ]
     },
@@ -11601,7 +2801,7 @@ const testing =
       "student_name": "SamuelH",
       "student_id": 1664549054048,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.5174825174825175
       ]
     },
@@ -11611,7 +2811,7 @@ const testing =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        0.7557077625570776,
+        0.662,
         0.5058275058275058
       ]
     },
@@ -11621,7 +2821,7 @@ const testing =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.15384615384615385
       ]
     },
@@ -11631,7 +2831,7 @@ const testing =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.5128205128205128
       ]
     },
@@ -11641,7 +2841,7 @@ const testing =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.752913752913753
       ]
     },
@@ -11651,7 +2851,7 @@ const testing =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.2867132867132867
       ]
     },
@@ -11661,7 +2861,7 @@ const testing =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.18414918414918416
       ]
     },
@@ -11671,7 +2871,7 @@ const testing =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        0.18949771689497716,
+        0.166,
         0.4662004662004662
       ]
     },
@@ -11681,7 +2881,7 @@ const testing =
       "student_name": "Jacob",
       "student_id": 1664559149881,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.47086247086247085
       ]
     },
@@ -11691,7 +2891,7 @@ const testing =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.2400932400932401
       ]
     },
@@ -11701,7 +2901,7 @@ const testing =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        0.7648401826484018,
+        0.67,
         0.43356643356643354
       ]
     },
@@ -11711,7 +2911,7 @@ const testing =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        0.8447488584474886,
+        0.74,
         0.6666666666666666
       ]
     },
@@ -11721,7 +2921,7 @@ const testing =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        0.5,
+        0.438,
         0.4825174825174825
       ]
     },
@@ -11731,7 +2931,7 @@ const testing =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        0.773972602739726,
+        0.678,
         0.5827505827505828
       ]
     },
@@ -11741,7 +2941,7 @@ const testing =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        0.863013698630137,
+        0.756,
         0.5034965034965035
       ]
     },
@@ -11751,7 +2951,7 @@ const testing =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        0.634703196347032,
+        0.556,
         0.08857808857808858
       ]
     },
@@ -11761,7 +2961,7 @@ const testing =
       "student_name": "Rishav",
       "student_id": 1664560731928,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.44522144522144524
       ]
     },
@@ -11771,7 +2971,7 @@ const testing =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        0.6643835616438356,
+        0.582,
         0.4428904428904429
       ]
     },
@@ -11781,7 +2981,7 @@ const testing =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.32634032634032634
       ]
     },
@@ -11791,7 +2991,7 @@ const testing =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.6899766899766899
       ]
     },
@@ -11801,7 +3001,7 @@ const testing =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        0.7031963470319634,
+        0.616,
         0.8041958041958042
       ]
     },
@@ -11811,7 +3011,7 @@ const testing =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.49417249417249415
       ]
     },
@@ -11821,7 +3021,7 @@ const testing =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        0.776255707762557,
+        0.68,
         0.5687645687645687
       ]
     },
@@ -11831,7 +3031,7 @@ const testing =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.3682983682983683
       ]
     },
@@ -11841,7 +3041,7 @@ const testing =
       "student_name": "Liam",
       "student_id": 1664590318190,
       "point": [
-        0.2579908675799087,
+        0.226,
         0.23076923076923078
       ]
     },
@@ -11851,7 +3051,7 @@ const testing =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.26107226107226106
       ]
     },
@@ -11861,7 +3061,7 @@ const testing =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        0.58675799086758,
+        0.514,
         0.25874125874125875
       ]
     },
@@ -11871,7 +3071,7 @@ const testing =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.46853146853146854
       ]
     },
@@ -11881,7 +3081,7 @@ const testing =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        0.771689497716895,
+        0.676,
         0.682983682983683
       ]
     },
@@ -11891,7 +3091,7 @@ const testing =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.36363636363636365
       ]
     },
@@ -11901,7 +3101,7 @@ const testing =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.6037296037296037
       ]
     },
@@ -11911,7 +3111,7 @@ const testing =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        0.3904109589041096,
+        0.342,
         0.372960372960373
       ]
     },
@@ -11921,7 +3121,7 @@ const testing =
       "student_name": "zinary",
       "student_id": 1664628156127,
       "point": [
-        0.3675799086757991,
+        0.322,
         0.3613053613053613
       ]
     },
@@ -11931,7 +3131,7 @@ const testing =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.2494172494172494
       ]
     },
@@ -11941,7 +3141,7 @@ const testing =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        0.410958904109589,
+        0.36,
         0.12121212121212122
       ]
     },
@@ -11951,7 +3151,7 @@ const testing =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        0.410958904109589,
+        0.36,
         0.4592074592074592
       ]
     },
@@ -11961,7 +3161,7 @@ const testing =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        0.3127853881278539,
+        0.274,
         0.5244755244755245
       ]
     },
@@ -11971,7 +3171,7 @@ const testing =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        0.3127853881278539,
+        0.274,
         0.21212121212121213
       ]
     },
@@ -11981,7 +3181,7 @@ const testing =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        0.22146118721461186,
+        0.194,
         0.5128205128205128
       ]
     },
@@ -11991,7 +3191,7 @@ const testing =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        0.17579908675799086,
+        0.154,
         0.18181818181818182
       ]
     },
@@ -12001,7 +3201,7 @@ const testing =
       "student_name": "Pranil Dhakal",
       "student_id": 1664636075619,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.49184149184149184
       ]
     },
@@ -12011,7 +3211,7 @@ const testing =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        0.541095890410959,
+        0.474,
         0.38927738927738925
       ]
     },
@@ -12021,7 +3221,7 @@ const testing =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.2913752913752914
       ]
     },
@@ -12031,7 +3231,7 @@ const testing =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.6107226107226107
       ]
     },
@@ -12041,7 +3241,7 @@ const testing =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.7552447552447552
       ]
     },
@@ -12051,7 +3251,7 @@ const testing =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        0.6301369863013698,
+        0.552,
         0.3752913752913753
       ]
     },
@@ -12061,7 +3261,7 @@ const testing =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.5617715617715617
       ]
     },
@@ -12071,7 +3271,7 @@ const testing =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.6480186480186481
       ]
     },
@@ -12081,7 +3281,7 @@ const testing =
       "student_name": "David Melsh",
       "student_id": 1664636246682,
       "point": [
-        0.45662100456621,
+        0.4,
         0.5384615384615384
       ]
     },
@@ -12091,7 +3291,7 @@ const testing =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        0.867579908675799,
+        0.76,
         0.44988344988344986
       ]
     },
@@ -12101,7 +3301,7 @@ const testing =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        0.593607305936073,
+        0.52,
         0.4219114219114219
       ]
     },
@@ -12111,7 +3311,7 @@ const testing =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        0.773972602739726,
+        0.678,
         0.7902097902097902
       ]
     },
@@ -12121,7 +3321,7 @@ const testing =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.7762237762237763
       ]
     },
@@ -12131,7 +3331,7 @@ const testing =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        0.7374429223744292,
+        0.646,
         0.6899766899766899
       ]
     },
@@ -12141,7 +3341,7 @@ const testing =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        0.7579908675799086,
+        0.664,
         0.5291375291375291
       ]
     },
@@ -12151,7 +3351,7 @@ const testing =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        0.6643835616438356,
+        0.582,
         0.4988344988344988
       ]
     },
@@ -12161,7 +3361,7 @@ const testing =
       "student_name": "Dwna",
       "student_id": 1664655546388,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.655011655011655
       ]
     },
@@ -12171,7 +3371,7 @@ const testing =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.22377622377622378
       ]
     },
@@ -12181,7 +3381,7 @@ const testing =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        0.7374429223744292,
+        0.646,
         0.3752913752913753
       ]
     },
@@ -12191,7 +3391,7 @@ const testing =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.5804195804195804
       ]
     },
@@ -12201,7 +3401,7 @@ const testing =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.6993006993006993
       ]
     },
@@ -12211,7 +3411,7 @@ const testing =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.49417249417249415
       ]
     },
@@ -12221,7 +3421,7 @@ const testing =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        0.7899543378995434,
+        0.692,
         0.16317016317016317
       ]
     },
@@ -12231,7 +3431,7 @@ const testing =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        0.7557077625570776,
+        0.662,
         0.009324009324009324
       ]
     },
@@ -12241,7 +3441,7 @@ const testing =
       "student_name": "GiantBooley",
       "student_id": 1664675007993,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.4731934731934732
       ]
     },
@@ -12251,7 +3451,7 @@ const testing =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        0.7671232876712328,
+        0.672,
         0.37995337995337997
       ]
     },
@@ -12261,7 +3461,7 @@ const testing =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        0.7123287671232876,
+        0.624,
         0.34965034965034963
       ]
     },
@@ -12271,7 +3471,7 @@ const testing =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.6130536130536131
       ]
     },
@@ -12281,7 +3481,7 @@ const testing =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        0.7009132420091324,
+        0.614,
         0.7599067599067599
       ]
     },
@@ -12291,7 +3491,7 @@ const testing =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.5594405594405595
       ]
     },
@@ -12301,7 +3501,7 @@ const testing =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.710955710955711
       ]
     },
@@ -12311,7 +3511,7 @@ const testing =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        0.3470319634703196,
+        0.304,
         0.662004662004662
       ]
     },
@@ -12321,7 +3521,7 @@ const testing =
       "student_name": "Hunter",
       "student_id": 1664678079969,
       "point": [
-        0.45662100456621,
+        0.4,
         0.4731934731934732
       ]
     },
@@ -12331,7 +3531,7 @@ const testing =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        0.7442922374429224,
+        0.652,
         0.30303030303030304
       ]
     },
@@ -12341,7 +3541,7 @@ const testing =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        0.3767123287671233,
+        0.33,
         0.1655011655011655
       ]
     },
@@ -12351,7 +3551,7 @@ const testing =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        0.4680365296803653,
+        0.41,
         0.5757575757575758
       ]
     },
@@ -12361,7 +3561,7 @@ const testing =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.7249417249417249
       ]
     },
@@ -12371,7 +3571,7 @@ const testing =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        0.2831050228310502,
+        0.248,
         0.23076923076923078
       ]
     },
@@ -12381,7 +3581,7 @@ const testing =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        0.7465753424657534,
+        0.654,
         0.7622377622377622
       ]
     },
@@ -12391,7 +3591,7 @@ const testing =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        0.3721461187214612,
+        0.326,
         0.3706293706293706
       ]
     },
@@ -12401,7 +3601,7 @@ const testing =
       "student_name": "DrinkableWater",
       "student_id": 1664678104277,
       "point": [
-        0.4155251141552511,
+        0.364,
         0.38927738927738925
       ]
     },
@@ -12411,7 +3611,7 @@ const testing =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.35664335664335667
       ]
     },
@@ -12421,7 +3621,7 @@ const testing =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        0.2648401826484018,
+        0.232,
         0.1048951048951049
       ]
     },
@@ -12431,7 +3631,7 @@ const testing =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.5641025641025641
       ]
     },
@@ -12441,7 +3641,7 @@ const testing =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.6037296037296037
       ]
     },
@@ -12451,7 +3651,7 @@ const testing =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.22377622377622378
       ]
     },
@@ -12461,7 +3661,7 @@ const testing =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.3356643356643357
       ]
     },
@@ -12471,7 +3671,7 @@ const testing =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        0.03881278538812785,
+        0.034,
         0.5710955710955711
       ]
     },
@@ -12481,7 +3681,7 @@ const testing =
       "student_name": "sandy",
       "student_id": 1664686541509,
       "point": [
-        0.1735159817351598,
+        0.152,
         0.1794871794871795
       ]
     },
@@ -12491,7 +3691,7 @@ const testing =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        0.5799086757990868,
+        0.508,
         0.21445221445221446
       ]
     },
@@ -12501,7 +3701,7 @@ const testing =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.21212121212121213
       ]
     },
@@ -12511,7 +3711,7 @@ const testing =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        0.4520547945205479,
+        0.396,
         0.40326340326340326
       ]
     },
@@ -12521,7 +3721,7 @@ const testing =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        0.6027397260273972,
+        0.528,
         0.627039627039627
       ]
     },
@@ -12531,7 +3731,7 @@ const testing =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        0.7465753424657534,
+        0.654,
         0.5314685314685315
       ]
     },
@@ -12541,7 +3741,7 @@ const testing =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.8601398601398601
       ]
     },
@@ -12551,7 +3751,7 @@ const testing =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.6946386946386947
       ]
     },
@@ -12561,7 +3761,7 @@ const testing =
       "student_name": "el nombre",
       "student_id": 1664700429227,
       "point": [
-        0.7420091324200914,
+        0.65,
         0.6923076923076923
       ]
     },
@@ -12571,7 +3771,7 @@ const testing =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        0.6484018264840182,
+        0.568,
         0.2680652680652681
       ]
     },
@@ -12581,7 +3781,7 @@ const testing =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        0.3515981735159817,
+        0.308,
         0.16783216783216784
       ]
     },
@@ -12591,7 +3791,7 @@ const testing =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        0.6712328767123288,
+        0.588,
         0.42657342657342656
       ]
     },
@@ -12601,7 +3801,7 @@ const testing =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        0.821917808219178,
+        0.72,
         0.585081585081585
       ]
     },
@@ -12611,7 +3811,7 @@ const testing =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        0.684931506849315,
+        0.6,
         0.3706293706293706
       ]
     },
@@ -12621,7 +3821,7 @@ const testing =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.4801864801864802
       ]
     },
@@ -12631,7 +3831,7 @@ const testing =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        0.3858447488584475,
+        0.338,
         0.3613053613053613
       ]
     },
@@ -12641,7 +3841,7 @@ const testing =
       "student_name": "alpha",
       "student_id": 1664700954653,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.331002331002331
       ]
     },
@@ -12651,7 +3851,7 @@ const testing =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.4172494172494173
       ]
     },
@@ -12661,7 +3861,7 @@ const testing =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        0.7146118721461188,
+        0.626,
         0.1655011655011655
       ]
     },
@@ -12671,7 +3871,7 @@ const testing =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.5641025641025641
       ]
     },
@@ -12681,7 +3881,7 @@ const testing =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.655011655011655
       ]
     },
@@ -12691,7 +3891,7 @@ const testing =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        0.547945205479452,
+        0.48,
         0.5198135198135199
       ]
     },
@@ -12701,7 +3901,7 @@ const testing =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        0.773972602739726,
+        0.678,
         0.5547785547785548
       ]
     },
@@ -12711,7 +3911,7 @@ const testing =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.40559440559440557
       ]
     },
@@ -12721,7 +3921,7 @@ const testing =
       "student_name": "Anshul Jain",
       "student_id": 1664711941441,
       "point": [
-        0.4155251141552511,
+        0.364,
         0.4289044289044289
       ]
     },
@@ -12731,7 +3931,7 @@ const testing =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        0.6278538812785388,
+        0.55,
         0.3333333333333333
       ]
     },
@@ -12741,7 +3941,7 @@ const testing =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        0.319634703196347,
+        0.28,
         0.17482517482517482
       ]
     },
@@ -12751,7 +3951,7 @@ const testing =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        0.365296803652968,
+        0.32,
         0.46853146853146854
       ]
     },
@@ -12761,7 +3961,7 @@ const testing =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        0.317351598173516,
+        0.278,
         0.6363636363636364
       ]
     },
@@ -12771,7 +3971,7 @@ const testing =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.351981351981352
       ]
     },
@@ -12781,7 +3981,7 @@ const testing =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.5617715617715617
       ]
     },
@@ -12791,7 +3991,7 @@ const testing =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.4965034965034965
       ]
     },
@@ -12801,7 +4001,7 @@ const testing =
       "student_name": "Tom",
       "student_id": 1664730010953,
       "point": [
-        0.545662100456621,
+        0.478,
         0.48484848484848486
       ]
     },
@@ -12811,7 +4011,7 @@ const testing =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        0.6438356164383562,
+        0.564,
         0.3333333333333333
       ]
     },
@@ -12821,7 +4021,7 @@ const testing =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        0.4657534246575342,
+        0.408,
         0.10955710955710955
       ]
     },
@@ -12831,7 +4031,7 @@ const testing =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        0.2625570776255708,
+        0.23,
         0.2191142191142191
       ]
     },
@@ -12841,7 +4041,7 @@ const testing =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.6573426573426573
       ]
     },
@@ -12851,7 +4051,7 @@ const testing =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        0.4063926940639269,
+        0.356,
         0.2727272727272727
       ]
     },
@@ -12861,7 +4061,7 @@ const testing =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.4172494172494173
       ]
     },
@@ -12871,7 +4071,7 @@ const testing =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        0.04794520547945205,
+        0.042,
         0.46153846153846156
       ]
     },
@@ -12881,7 +4081,7 @@ const testing =
       "student_name": "Aakash",
       "student_id": 1664732176065,
       "point": [
-        0.2648401826484018,
+        0.232,
         0.2634032634032634
       ]
     },
@@ -12891,7 +4091,7 @@ const testing =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        0.682648401826484,
+        0.598,
         0.29836829836829837
       ]
     },
@@ -12901,7 +4101,7 @@ const testing =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        0.547945205479452,
+        0.48,
         0.28205128205128205
       ]
     },
@@ -12911,7 +4111,7 @@ const testing =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        0.7945205479452054,
+        0.696,
         0.5804195804195804
       ]
     },
@@ -12921,7 +4121,7 @@ const testing =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        0.8424657534246576,
+        0.738,
         0.5804195804195804
       ]
     },
@@ -12931,7 +4131,7 @@ const testing =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.36596736596736595
       ]
     },
@@ -12941,7 +4141,7 @@ const testing =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.5361305361305362
       ]
     },
@@ -12951,7 +4151,7 @@ const testing =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.3613053613053613
       ]
     },
@@ -12961,7 +4161,7 @@ const testing =
       "student_name": "Doddy",
       "student_id": 1664806239257,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.4428904428904429
       ]
     },
@@ -12971,7 +4171,7 @@ const testing =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        0.6917808219178082,
+        0.606,
         0.22144522144522144
       ]
     },
@@ -12981,7 +4181,7 @@ const testing =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.11888111888111888
       ]
     },
@@ -12991,7 +4191,7 @@ const testing =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        0.6004566210045662,
+        0.526,
         0.4988344988344988
       ]
     },
@@ -13001,7 +4201,7 @@ const testing =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.6223776223776224
       ]
     },
@@ -13011,7 +4211,7 @@ const testing =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.30303030303030304
       ]
     },
@@ -13021,7 +4221,7 @@ const testing =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        0.19406392694063926,
+        0.17,
         0.6107226107226107
       ]
     },
@@ -13031,7 +4231,7 @@ const testing =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        0.09817351598173515,
+        0.086,
         0.43123543123543123
       ]
     },
@@ -13041,7 +4241,7 @@ const testing =
       "student_name": "ubaidullah",
       "student_id": 1664826431786,
       "point": [
-        0.3538812785388128,
+        0.31,
         0.40559440559440557
       ]
     },
@@ -13051,7 +4251,7 @@ const testing =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        0.6598173515981736,
+        0.578,
         0.23076923076923078
       ]
     },
@@ -13061,7 +4261,7 @@ const testing =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.17016317016317017
       ]
     },
@@ -13071,7 +4271,7 @@ const testing =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.5268065268065268
       ]
     },
@@ -13081,7 +4281,7 @@ const testing =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        0.502283105022831,
+        0.44,
         0.6456876456876457
       ]
     },
@@ -13091,7 +4291,7 @@ const testing =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.40326340326340326
       ]
     },
@@ -13101,7 +4301,7 @@ const testing =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        0.5753424657534246,
+        0.504,
         0.5897435897435898
       ]
     },
@@ -13111,7 +4311,7 @@ const testing =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        0.3858447488584475,
+        0.338,
         0.5081585081585082
       ]
     },
@@ -13121,7 +4321,7 @@ const testing =
       "student_name": "marcino0o",
       "student_id": 1664827360701,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.38461538461538464
       ]
     },
@@ -13131,7 +4331,7 @@ const testing =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        0.7420091324200914,
+        0.65,
         0.5128205128205128
       ]
     },
@@ -13141,7 +4341,7 @@ const testing =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        0.4132420091324201,
+        0.362,
         0.24475524475524477
       ]
     },
@@ -13151,7 +4351,7 @@ const testing =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        0.4200913242009132,
+        0.368,
         0.5058275058275058
       ]
     },
@@ -13161,7 +4361,7 @@ const testing =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.62004662004662
       ]
     },
@@ -13171,7 +4371,7 @@ const testing =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.2517482517482518
       ]
     },
@@ -13181,7 +4381,7 @@ const testing =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.6596736596736597
       ]
     },
@@ -13191,7 +4391,7 @@ const testing =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        0.24429223744292236,
+        0.214,
         0.29603729603729606
       ]
     },
@@ -13201,7 +4401,7 @@ const testing =
       "student_name": "Christian",
       "student_id": 1664830252042,
       "point": [
-        0.2648401826484018,
+        0.232,
         0.2913752913752914
       ]
     },
@@ -13211,7 +4411,7 @@ const testing =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.1351981351981352
       ]
     },
@@ -13221,7 +4421,7 @@ const testing =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.20512820512820512
       ]
     },
@@ -13231,7 +4431,7 @@ const testing =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        0.2694063926940639,
+        0.236,
         0.26107226107226106
       ]
     },
@@ -13241,7 +4441,7 @@ const testing =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        0.8721461187214612,
+        0.764,
         0.6526806526806527
       ]
     },
@@ -13251,7 +4451,7 @@ const testing =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.38694638694638694
       ]
     },
@@ -13261,7 +4461,7 @@ const testing =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        0.589041095890411,
+        0.516,
         0.19114219114219114
       ]
     },
@@ -13271,7 +4471,7 @@ const testing =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        0.02054794520547945,
+        0.018,
         0.19114219114219114
       ]
     },
@@ -13281,7 +4481,7 @@ const testing =
       "student_name": "Igostoso",
       "student_id": 1664849674411,
       "point": [
-        0.1735159817351598,
+        0.152,
         0.16083916083916083
       ]
     },
@@ -13291,7 +4491,7 @@ const testing =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        0.7945205479452054,
+        0.696,
         0.3006993006993007
       ]
     },
@@ -13301,7 +4501,7 @@ const testing =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        0.547945205479452,
+        0.48,
         0.2517482517482518
       ]
     },
@@ -13311,7 +4511,7 @@ const testing =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.6713286713286714
       ]
     },
@@ -13321,7 +4521,7 @@ const testing =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        0.7808219178082192,
+        0.684,
         0.7855477855477856
       ]
     },
@@ -13331,7 +4531,7 @@ const testing =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        0.6712328767123288,
+        0.588,
         0.47086247086247085
       ]
     },
@@ -13341,7 +4541,7 @@ const testing =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        0.8036529680365296,
+        0.704,
         0.7668997668997669
       ]
     },
@@ -13351,7 +4551,7 @@ const testing =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        0.7054794520547946,
+        0.618,
         0.6223776223776224
       ]
     },
@@ -13361,7 +4561,7 @@ const testing =
       "student_name": "mas",
       "student_id": 1664871643875,
       "point": [
-        0.547945205479452,
+        0.48,
         0.5034965034965035
       ]
     },
@@ -13371,7 +4571,7 @@ const testing =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        0.4223744292237443,
+        0.37,
         0.21212121212121213
       ]
     },
@@ -13381,7 +4581,7 @@ const testing =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        0.363013698630137,
+        0.318,
         0.09090909090909091
       ]
     },
@@ -13391,7 +4591,7 @@ const testing =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        0.4520547945205479,
+        0.396,
         0.41025641025641024
       ]
     },
@@ -13401,7 +4601,7 @@ const testing =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.48484848484848486
       ]
     },
@@ -13411,7 +4611,7 @@ const testing =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        0.6004566210045662,
+        0.526,
         0.4405594405594406
       ]
     },
@@ -13421,7 +4621,7 @@ const testing =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        0.2762557077625571,
+        0.242,
         0.7552447552447552
       ]
     },
@@ -13431,7 +4631,7 @@ const testing =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        0.2511415525114155,
+        0.22,
         0.5804195804195804
       ]
     },
@@ -13441,7 +4641,7 @@ const testing =
       "student_name": "dim",
       "student_id": 1664872631748,
       "point": [
-        0.4132420091324201,
+        0.362,
         0.46153846153846156
       ]
     },
@@ -13451,7 +4651,7 @@ const testing =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.34498834498834496
       ]
     },
@@ -13461,7 +4661,7 @@ const testing =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        0.45662100456621,
+        0.4,
         0.20279720279720279
       ]
     },
@@ -13471,7 +4671,7 @@ const testing =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        0.8698630136986302,
+        0.762,
         0.675990675990676
       ]
     },
@@ -13481,7 +4681,7 @@ const testing =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        0.7009132420091324,
+        0.614,
         0.8811188811188811
       ]
     },
@@ -13491,7 +4691,7 @@ const testing =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        0.723744292237443,
+        0.634,
         0.41025641025641024
       ]
     },
@@ -13501,7 +4701,7 @@ const testing =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        0.3105022831050228,
+        0.272,
         0.710955710955711
       ]
     },
@@ -13511,7 +4711,7 @@ const testing =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        0.1461187214611872,
+        0.128,
         0.6247086247086248
       ]
     },
@@ -13521,7 +4721,7 @@ const testing =
       "student_name": "Arpit ",
       "student_id": 1664888489668,
       "point": [
-        0.728310502283105,
+        0.638,
         0.8088578088578089
       ]
     },
@@ -13531,7 +4731,7 @@ const testing =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        0.4292237442922374,
+        0.376,
         0.1445221445221445
       ]
     },
@@ -13541,7 +4741,7 @@ const testing =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        0.45662100456621,
+        0.4,
         0.20279720279720279
       ]
     },
@@ -13551,7 +4751,7 @@ const testing =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.5337995337995338
       ]
     },
@@ -13561,7 +4761,7 @@ const testing =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        0.6004566210045662,
+        0.526,
         0.6526806526806527
       ]
     },
@@ -13571,7 +4771,7 @@ const testing =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        0.4589041095890411,
+        0.402,
         0.27972027972027974
       ]
     },
@@ -13581,7 +4781,7 @@ const testing =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        0.6050228310502284,
+        0.53,
         0.42424242424242425
       ]
     },
@@ -13591,7 +4791,7 @@ const testing =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        0.3082191780821918,
+        0.27,
         0.4731934731934732
       ]
     },
@@ -13601,7 +4801,7 @@ const testing =
       "student_name": "pip",
       "student_id": 1664896997233,
       "point": [
-        0.3767123287671233,
+        0.33,
         0.30536130536130535
       ]
     },
@@ -13611,7 +4811,7 @@ const testing =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        0.7602739726027398,
+        0.666,
         0.351981351981352
       ]
     },
@@ -13621,7 +4821,7 @@ const testing =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.20745920745920746
       ]
     },
@@ -13631,7 +4831,7 @@ const testing =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.6177156177156177
       ]
     },
@@ -13641,7 +4841,7 @@ const testing =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        0.6529680365296804,
+        0.572,
         0.7249417249417249
       ]
     },
@@ -13651,7 +4851,7 @@ const testing =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.2517482517482518
       ]
     },
@@ -13661,7 +4861,7 @@ const testing =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        0.7579908675799086,
+        0.664,
         0.47785547785547783
       ]
     },
@@ -13671,7 +4871,7 @@ const testing =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        0.5776255707762558,
+        0.506,
         0.4149184149184149
       ]
     },
@@ -13681,7 +4881,7 @@ const testing =
       "student_name": "Alin Labau",
       "student_id": 1664911427549,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.6153846153846154
       ]
     },
@@ -13691,7 +4891,7 @@ const testing =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.1282051282051282
       ]
     },
@@ -13701,7 +4901,7 @@ const testing =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        0.3287671232876712,
+        0.288,
         0.08391608391608392
       ]
     },
@@ -13711,7 +4911,7 @@ const testing =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        0.4132420091324201,
+        0.362,
         0.44755244755244755
       ]
     },
@@ -13721,7 +4921,7 @@ const testing =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        0.3515981735159817,
+        0.308,
         0.4358974358974359
       ]
     },
@@ -13731,7 +4931,7 @@ const testing =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        0.4520547945205479,
+        0.396,
         0.2517482517482518
       ]
     },
@@ -13741,7 +4941,7 @@ const testing =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        0.2579908675799087,
+        0.226,
         0.5384615384615384
       ]
     },
@@ -13751,7 +4951,7 @@ const testing =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        0.07534246575342465,
+        0.066,
         0.2680652680652681
       ]
     },
@@ -13761,7 +4961,7 @@ const testing =
       "student_name": "Andrii",
       "student_id": 1664977216110,
       "point": [
-        0.3470319634703196,
+        0.304,
         0.29836829836829837
       ]
     },
@@ -13771,7 +4971,7 @@ const testing =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        0.7123287671232876,
+        0.624,
         0.3333333333333333
       ]
     },
@@ -13781,7 +4981,7 @@ const testing =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.17249417249417248
       ]
     },
@@ -13791,7 +4991,7 @@ const testing =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        0.3584474885844749,
+        0.314,
         0.46153846153846156
       ]
     },
@@ -13801,7 +5001,7 @@ const testing =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        0.8767123287671232,
+        0.768,
         0.4825174825174825
       ]
     },
@@ -13811,7 +5011,7 @@ const testing =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        0.680365296803653,
+        0.596,
         0.4522144522144522
       ]
     },
@@ -13821,7 +5021,7 @@ const testing =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.6293706293706294
       ]
     },
@@ -13831,7 +5031,7 @@ const testing =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.05128205128205128
       ]
     },
@@ -13841,7 +5041,7 @@ const testing =
       "student_name": "akahito",
       "student_id": 1664978472276,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.4825174825174825
       ]
     },
@@ -13851,7 +5051,7 @@ const testing =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.3916083916083916
       ]
     },
@@ -13861,7 +5061,7 @@ const testing =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        0.58675799086758,
+        0.514,
         0.3916083916083916
       ]
     },
@@ -13871,7 +5071,7 @@ const testing =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        0.8356164383561644,
+        0.732,
         0.5641025641025641
       ]
     },
@@ -13881,7 +5081,7 @@ const testing =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.717948717948718
       ]
     },
@@ -13891,7 +5091,7 @@ const testing =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        0.5,
+        0.438,
         0.2331002331002331
       ]
     },
@@ -13901,7 +5101,7 @@ const testing =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.5571095571095571
       ]
     },
@@ -13911,7 +5111,7 @@ const testing =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        0.5639269406392694,
+        0.494,
         0.6060606060606061
       ]
     },
@@ -13921,7 +5121,7 @@ const testing =
       "student_name": "gil",
       "student_id": 1664985446518,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.46853146853146854
       ]
     },
@@ -13931,7 +5131,7 @@ const testing =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.3939393939393939
       ]
     },
@@ -13941,7 +5141,7 @@ const testing =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.5268065268065268
       ]
     },
@@ -13951,7 +5151,7 @@ const testing =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.6363636363636364
       ]
     },
@@ -13961,7 +5161,7 @@ const testing =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        0.454337899543379,
+        0.398,
         0.6433566433566433
       ]
     },
@@ -13971,7 +5171,7 @@ const testing =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        0.4771689497716895,
+        0.418,
         0.5757575757575758
       ]
     },
@@ -13981,7 +5181,7 @@ const testing =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        0.4977168949771689,
+        0.436,
         0.6899766899766899
       ]
     },
@@ -13991,7 +5191,7 @@ const testing =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.675990675990676
       ]
     },
@@ -14001,7 +5201,7 @@ const testing =
       "student_name": "Arjun ",
       "student_id": 1664989040423,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.2937062937062937
       ]
     },
@@ -14011,7 +5211,7 @@ const testing =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.1585081585081585
       ]
     },
@@ -14021,7 +5221,7 @@ const testing =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.3006993006993007
       ]
     },
@@ -14031,7 +5231,7 @@ const testing =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        0.3538812785388128,
+        0.31,
         0.5594405594405595
       ]
     },
@@ -14041,7 +5241,7 @@ const testing =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        0.5776255707762558,
+        0.506,
         0.62004662004662
       ]
     },
@@ -14051,7 +5251,7 @@ const testing =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.37995337995337997
       ]
     },
@@ -14061,7 +5261,7 @@ const testing =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        0.7557077625570776,
+        0.662,
         0.5874125874125874
       ]
     },
@@ -14071,7 +5271,7 @@ const testing =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        0.1552511415525114,
+        0.136,
         0.3123543123543124
       ]
     },
@@ -14081,7 +5281,7 @@ const testing =
       "student_name": "Adam",
       "student_id": 1664998297934,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.4801864801864802
       ]
     },
@@ -14091,7 +5291,7 @@ const testing =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        0.54337899543379,
+        0.476,
         0.15151515151515152
       ]
     },
@@ -14101,7 +5301,7 @@ const testing =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        0.4132420091324201,
+        0.362,
         0.2097902097902098
       ]
     },
@@ -14111,7 +5311,7 @@ const testing =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        0.54337899543379,
+        0.476,
         0.5198135198135199
       ]
     },
@@ -14121,7 +5321,7 @@ const testing =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.5617715617715617
       ]
     },
@@ -14131,7 +5331,7 @@ const testing =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        0.6598173515981736,
+        0.578,
         0.40792540792540793
       ]
     },
@@ -14141,7 +5341,7 @@ const testing =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        0.7945205479452054,
+        0.696,
         0.19114219114219114
       ]
     },
@@ -14151,7 +5351,7 @@ const testing =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        0.1415525114155251,
+        0.124,
         0.20745920745920746
       ]
     },
@@ -14161,7 +5361,7 @@ const testing =
       "student_name": "ionut",
       "student_id": 1664999518365,
       "point": [
-        0.6484018264840182,
+        0.568,
         0.3473193473193473
       ]
     },
@@ -14171,7 +5371,7 @@ const testing =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.25874125874125875
       ]
     },
@@ -14181,7 +5381,7 @@ const testing =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.31934731934731936
       ]
     },
@@ -14191,7 +5391,7 @@ const testing =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        0.682648401826484,
+        0.598,
         0.46386946386946387
       ]
     },
@@ -14201,7 +5401,7 @@ const testing =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        0.7146118721461188,
+        0.626,
         0.8321678321678322
       ]
     },
@@ -14211,7 +5411,7 @@ const testing =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        0.502283105022831,
+        0.44,
         0.42657342657342656
       ]
     },
@@ -14221,7 +5421,7 @@ const testing =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.6993006993006993
       ]
     },
@@ -14231,7 +5431,7 @@ const testing =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        0.3584474885844749,
+        0.314,
         0.7599067599067599
       ]
     },
@@ -14241,7 +5441,7 @@ const testing =
       "student_name": "vec",
       "student_id": 1665057821209,
       "point": [
-        0.408675799086758,
+        0.358,
         0.43123543123543123
       ]
     },
@@ -14251,7 +5451,7 @@ const testing =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.31002331002331
       ]
     },
@@ -14261,7 +5461,7 @@ const testing =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.16083916083916083
       ]
     },
@@ -14271,7 +5471,7 @@ const testing =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.32400932400932403
       ]
     },
@@ -14281,7 +5481,7 @@ const testing =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.668997668997669
       ]
     },
@@ -14291,7 +5491,7 @@ const testing =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        0.4611872146118721,
+        0.404,
         0.26573426573426573
       ]
     },
@@ -14301,7 +5501,7 @@ const testing =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        0.3219178082191781,
+        0.282,
         0.34032634032634035
       ]
     },
@@ -14311,7 +5511,7 @@ const testing =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        0.16666666666666666,
+        0.146,
         0.1585081585081585
       ]
     },
@@ -14321,7 +5521,7 @@ const testing =
       "student_name": "rubek",
       "student_id": 1665068835925,
       "point": [
-        0.2100456621004566,
+        0.184,
         0.23776223776223776
       ]
     },
@@ -14331,7 +5531,7 @@ const testing =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        0.821917808219178,
+        0.72,
         0.34498834498834496
       ]
     },
@@ -14341,7 +5541,7 @@ const testing =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        0.6689497716894978,
+        0.586,
         0.21678321678321677
       ]
     },
@@ -14351,7 +5551,7 @@ const testing =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        0.589041095890411,
+        0.516,
         0.5337995337995338
       ]
     },
@@ -14361,7 +5561,7 @@ const testing =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        0.45662100456621,
+        0.4,
         0.5757575757575758
       ]
     },
@@ -14371,7 +5571,7 @@ const testing =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        0.454337899543379,
+        0.398,
         0.32167832167832167
       ]
     },
@@ -14381,7 +5581,7 @@ const testing =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        0.2602739726027397,
+        0.228,
         0.46386946386946387
       ]
     },
@@ -14391,7 +5591,7 @@ const testing =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        0.0730593607305936,
+        0.064,
         0.3333333333333333
       ]
     },
@@ -14401,7 +5601,7 @@ const testing =
       "student_name": "testest",
       "student_id": 1665157929194,
       "point": [
-        0.3127853881278539,
+        0.274,
         0.36596736596736595
       ]
     },
@@ -14411,7 +5611,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        0.5799086757990868,
+        0.508,
         0.6247086247086248
       ]
     },
@@ -14421,7 +5621,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.38461538461538464
       ]
     },
@@ -14431,7 +5631,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        0.8447488584474886,
+        0.74,
         0.42657342657342656
       ]
     },
@@ -14441,7 +5641,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.6713286713286714
       ]
     },
@@ -14451,7 +5651,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        0.502283105022831,
+        0.44,
         0.35664335664335667
       ]
     },
@@ -14461,7 +5661,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        0.8242009132420092,
+        0.722,
         0.8018648018648019
       ]
     },
@@ -14471,7 +5671,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        0.4223744292237443,
+        0.37,
         0.331002331002331
       ]
     },
@@ -14481,7 +5681,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665165648489,
       "point": [
-        0.3698630136986301,
+        0.324,
         0.3146853146853147
       ]
     },
@@ -14491,7 +5691,7 @@ const testing =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        0.3904109589041096,
+        0.342,
         0.23076923076923078
       ]
     },
@@ -14501,7 +5701,7 @@ const testing =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        0.2853881278538813,
+        0.25,
         0.11655011655011654
       ]
     },
@@ -14511,7 +5711,7 @@ const testing =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        0.3858447488584475,
+        0.338,
         0.22144522144522144
       ]
     },
@@ -14521,7 +5721,7 @@ const testing =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.5524475524475524
       ]
     },
@@ -14531,7 +5731,7 @@ const testing =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        0.4452054794520548,
+        0.39,
         0.20745920745920746
       ]
     },
@@ -14541,7 +5741,7 @@ const testing =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.5151515151515151
       ]
     },
@@ -14551,7 +5751,7 @@ const testing =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.26107226107226106
       ]
     },
@@ -14561,7 +5761,7 @@ const testing =
       "student_name": "Paul Crypto",
       "student_id": 1665196662737,
       "point": [
-        0.2511415525114155,
+        0.22,
         0.2494172494172494
       ]
     },
@@ -14571,7 +5771,7 @@ const testing =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        0.3812785388127854,
+        0.334,
         0.5011655011655012
       ]
     },
@@ -14581,7 +5781,7 @@ const testing =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        0.4657534246575342,
+        0.408,
         0.14219114219114218
       ]
     },
@@ -14591,7 +5791,7 @@ const testing =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        0.54337899543379,
+        0.476,
         0.4755244755244755
       ]
     },
@@ -14601,7 +5801,7 @@ const testing =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        0.18493150684931506,
+        0.162,
         0.5594405594405595
       ]
     },
@@ -14611,7 +5811,7 @@ const testing =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.36363636363636365
       ]
     },
@@ -14621,7 +5821,7 @@ const testing =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        0.2602739726027397,
+        0.228,
         0.5734265734265734
       ]
     },
@@ -14631,7 +5831,7 @@ const testing =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        0.1689497716894977,
+        0.148,
         0.5710955710955711
       ]
     },
@@ -14641,7 +5841,7 @@ const testing =
       "student_name": "Swaraj",
       "student_id": 1665205949030,
       "point": [
-        0.2899543378995434,
+        0.254,
         0.27505827505827507
       ]
     },
@@ -14651,7 +5851,7 @@ const testing =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        0.7945205479452054,
+        0.696,
         0.36596736596736595
       ]
     },
@@ -14661,7 +5861,7 @@ const testing =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.11655011655011654
       ]
     },
@@ -14671,7 +5871,7 @@ const testing =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        0.4977168949771689,
+        0.436,
         0.6153846153846154
       ]
     },
@@ -14681,7 +5881,7 @@ const testing =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        0.4246575342465753,
+        0.372,
         0.5734265734265734
       ]
     },
@@ -14691,7 +5891,7 @@ const testing =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        0.4680365296803653,
+        0.41,
         0.2680652680652681
       ]
     },
@@ -14701,7 +5901,7 @@ const testing =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.6083916083916084
       ]
     },
@@ -14711,7 +5911,7 @@ const testing =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        0.3675799086757991,
+        0.322,
         0.3123543123543124
       ]
     },
@@ -14721,7 +5921,7 @@ const testing =
       "student_name": "berkay",
       "student_id": 1665209294053,
       "point": [
-        0.18036529680365296,
+        0.158,
         0.16783216783216784
       ]
     },
@@ -14731,7 +5931,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.2400932400932401
       ]
     },
@@ -14741,7 +5941,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.28438228438228436
       ]
     },
@@ -14751,7 +5951,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.7319347319347319
       ]
     },
@@ -14761,7 +5961,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        0.547945205479452,
+        0.48,
         0.7319347319347319
       ]
     },
@@ -14771,7 +5971,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.2191142191142191
       ]
     },
@@ -14781,7 +5981,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.2680652680652681
       ]
     },
@@ -14791,7 +5991,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.5198135198135199
       ]
     },
@@ -14801,7 +6001,7 @@ const testing =
       "student_name": "vlottie",
       "student_id": 1665256712904,
       "point": [
-        0.8904109589041096,
+        0.78,
         0.3682983682983683
       ]
     },
@@ -14811,7 +6011,7 @@ const testing =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        0.821917808219178,
+        0.72,
         0.3146853146853147
       ]
     },
@@ -14821,7 +6021,7 @@ const testing =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.23776223776223776
       ]
     },
@@ -14831,7 +6031,7 @@ const testing =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        0.8789954337899544,
+        0.77,
         0.8508158508158508
       ]
     },
@@ -14841,7 +6041,7 @@ const testing =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        0.8767123287671232,
+        0.768,
         0.8648018648018648
       ]
     },
@@ -14851,7 +6051,7 @@ const testing =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        0.7488584474885844,
+        0.656,
         0.45454545454545453
       ]
     },
@@ -14861,7 +6061,7 @@ const testing =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        0.24429223744292236,
+        0.214,
         0.5221445221445221
       ]
     },
@@ -14871,7 +6071,7 @@ const testing =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        0.3150684931506849,
+        0.276,
         0.4592074592074592
       ]
     },
@@ -14881,7 +6081,7 @@ const testing =
       "student_name": "SouravA",
       "student_id": 1665295843089,
       "point": [
-        0.2420091324200913,
+        0.212,
         0.3613053613053613
       ]
     },
@@ -14891,7 +6091,7 @@ const testing =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.10955710955710955
       ]
     },
@@ -14901,7 +6101,7 @@ const testing =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.25874125874125875
       ]
     },
@@ -14911,7 +6111,7 @@ const testing =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        0.2054794520547945,
+        0.18,
         0.29603729603729606
       ]
     },
@@ -14921,7 +6121,7 @@ const testing =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.29603729603729606
       ]
     },
@@ -14931,7 +6131,7 @@ const testing =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.24242424242424243
       ]
     },
@@ -14941,7 +6141,7 @@ const testing =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.09324009324009325
       ]
     },
@@ -14951,7 +6151,7 @@ const testing =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        0.02054794520547945,
+        0.018,
         0.2773892773892774
       ]
     },
@@ -14961,7 +6161,7 @@ const testing =
       "student_name": "Arun Prakash",
       "student_id": 1665325691745,
       "point": [
-        0.21689497716894976,
+        0.19,
         0.17715617715617715
       ]
     },
@@ -14971,7 +6171,7 @@ const testing =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        0.502283105022831,
+        0.44,
         0.2703962703962704
       ]
     },
@@ -14981,7 +6181,7 @@ const testing =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.16317016317016317
       ]
     },
@@ -14991,7 +6191,7 @@ const testing =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        0.1278538812785388,
+        0.112,
         0.2727272727272727
       ]
     },
@@ -15001,7 +6201,7 @@ const testing =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        0.2191780821917808,
+        0.192,
         0.5407925407925408
       ]
     },
@@ -15011,7 +6211,7 @@ const testing =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.41025641025641024
       ]
     },
@@ -15021,7 +6221,7 @@ const testing =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        0.23059360730593606,
+        0.202,
         0.5757575757575758
       ]
     },
@@ -15031,7 +6231,7 @@ const testing =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        0.03424657534246575,
+        0.03,
         0.351981351981352
       ]
     },
@@ -15041,7 +6241,7 @@ const testing =
       "student_name": "jarnspoken",
       "student_id": 1665355670256,
       "point": [
-        0.2420091324200913,
+        0.212,
         0.2634032634032634
       ]
     },
@@ -15051,7 +6251,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.3752913752913753
       ]
     },
@@ -15061,7 +6261,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        0.54337899543379,
+        0.476,
         0.26573426573426573
       ]
     },
@@ -15071,7 +6271,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        0.54337899543379,
+        0.476,
         0.7132867132867133
       ]
     },
@@ -15081,7 +6281,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        0.632420091324201,
+        0.554,
         0.8368298368298368
       ]
     },
@@ -15091,7 +6291,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.317016317016317
       ]
     },
@@ -15101,7 +6301,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        0.6872146118721462,
+        0.602,
         0.5524475524475524
       ]
     },
@@ -15111,7 +6311,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        0.3470319634703196,
+        0.304,
         0.2937062937062937
       ]
     },
@@ -15121,7 +6321,7 @@ const testing =
       "student_name": "Viktor",
       "student_id": 1665565156978,
       "point": [
-        0.3036529680365297,
+        0.266,
         0.4219114219114219
       ]
     },
@@ -15131,7 +6331,7 @@ const testing =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.17249417249417248
       ]
     },
@@ -15141,7 +6341,7 @@ const testing =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.17249417249417248
       ]
     },
@@ -15151,7 +6351,7 @@ const testing =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.4522144522144522
       ]
     },
@@ -15161,7 +6361,7 @@ const testing =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.7272727272727273
       ]
     },
@@ -15171,7 +6371,7 @@ const testing =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        0.4223744292237443,
+        0.37,
         0.2913752913752914
       ]
     },
@@ -15181,7 +6381,7 @@ const testing =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.7202797202797203
       ]
     },
@@ -15191,7 +6391,7 @@ const testing =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        0.2374429223744292,
+        0.208,
         0.41025641025641024
       ]
     },
@@ -15201,7 +6401,7 @@ const testing =
       "student_name": "adi",
       "student_id": 1665568861473,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.5221445221445221
       ]
     },
@@ -15211,7 +6411,7 @@ const testing =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        0.682648401826484,
+        0.598,
         0.1958041958041958
       ]
     },
@@ -15221,7 +6421,7 @@ const testing =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        0.7397260273972602,
+        0.648,
         0.351981351981352
       ]
     },
@@ -15231,7 +6431,7 @@ const testing =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.6573426573426573
       ]
     },
@@ -15241,7 +6441,7 @@ const testing =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.7016317016317016
       ]
     },
@@ -15251,7 +6451,7 @@ const testing =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        0.5,
+        0.438,
         0.2634032634032634
       ]
     },
@@ -15261,7 +6461,7 @@ const testing =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.6666666666666666
       ]
     },
@@ -15271,7 +6471,7 @@ const testing =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.6153846153846154
       ]
     },
@@ -15281,7 +6481,7 @@ const testing =
       "student_name": "ShambleZ",
       "student_id": 1665580217222,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.5011655011655012
       ]
     },
@@ -15291,7 +6491,7 @@ const testing =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.3706293706293706
       ]
     },
@@ -15301,7 +6501,7 @@ const testing =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.29603729603729606
       ]
     },
@@ -15311,7 +6511,7 @@ const testing =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.5687645687645687
       ]
     },
@@ -15321,7 +6521,7 @@ const testing =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.7319347319347319
       ]
     },
@@ -15331,7 +6531,7 @@ const testing =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.3916083916083916
       ]
     },
@@ -15341,7 +6541,7 @@ const testing =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        0.682648401826484,
+        0.598,
         0.30303030303030304
       ]
     },
@@ -15351,7 +6551,7 @@ const testing =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        0.4885844748858447,
+        0.428,
         0.6107226107226107
       ]
     },
@@ -15361,7 +6561,7 @@ const testing =
       "student_name": "Mahmood",
       "student_id": 1665863421223,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.4172494172494173
       ]
     },
@@ -15371,7 +6571,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        0.634703196347032,
+        0.556,
         0.3613053613053613
       ]
     },
@@ -15381,7 +6581,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.2540792540792541
       ]
     },
@@ -15391,7 +6591,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        0.7077625570776256,
+        0.62,
         0.5594405594405595
       ]
     },
@@ -15401,7 +6601,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        0.7123287671232876,
+        0.624,
         0.8368298368298368
       ]
     },
@@ -15411,7 +6611,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        0.6712328767123288,
+        0.588,
         0.46386946386946387
       ]
     },
@@ -15421,7 +6621,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        0.730593607305936,
+        0.64,
         0.3006993006993007
       ]
     },
@@ -15431,7 +6631,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.039627039627039624
       ]
     },
@@ -15441,7 +6641,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1665884896717,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.48951048951048953
       ]
     },
@@ -15451,7 +6651,7 @@ const testing =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.26573426573426573
       ]
     },
@@ -15461,7 +6661,7 @@ const testing =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        0.4269406392694064,
+        0.374,
         0.1585081585081585
       ]
     },
@@ -15471,7 +6671,7 @@ const testing =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.48717948717948717
       ]
     },
@@ -15481,7 +6681,7 @@ const testing =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        0.5342465753424658,
+        0.468,
         0.7062937062937062
       ]
     },
@@ -15491,7 +6691,7 @@ const testing =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        0.4452054794520548,
+        0.39,
         0.48484848484848486
       ]
     },
@@ -15501,7 +6701,7 @@ const testing =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.6060606060606061
       ]
     },
@@ -15511,7 +6711,7 @@ const testing =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        0.3059360730593607,
+        0.268,
         0.3682983682983683
       ]
     },
@@ -15521,7 +6721,7 @@ const testing =
       "student_name": "D",
       "student_id": 1665915434024,
       "point": [
-        0.2990867579908676,
+        0.262,
         0.34498834498834496
       ]
     },
@@ -15531,7 +6731,7 @@ const testing =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        0.271689497716895,
+        0.238,
         0.4801864801864802
       ]
     },
@@ -15541,7 +6741,7 @@ const testing =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        0.728310502283105,
+        0.638,
         0.7086247086247086
       ]
     },
@@ -15551,7 +6751,7 @@ const testing =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        0.4977168949771689,
+        0.436,
         0.3776223776223776
       ]
     },
@@ -15561,7 +6761,7 @@ const testing =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.5104895104895105
       ]
     },
@@ -15571,7 +6771,7 @@ const testing =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        0.6598173515981736,
+        0.578,
         0.7202797202797203
       ]
     },
@@ -15581,7 +6781,7 @@ const testing =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        0.454337899543379,
+        0.398,
         0.7365967365967366
       ]
     },
@@ -15591,7 +6791,7 @@ const testing =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.5804195804195804
       ]
     },
@@ -15601,7 +6801,7 @@ const testing =
       "student_name": "Prabhu",
       "student_id": 1666010556334,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.6293706293706294
       ]
     },
@@ -15611,7 +6811,7 @@ const testing =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.1958041958041958
       ]
     },
@@ -15621,7 +6821,7 @@ const testing =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.17249417249417248
       ]
     },
@@ -15631,7 +6831,7 @@ const testing =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        0.2808219178082192,
+        0.246,
         0.3752913752913753
       ]
     },
@@ -15641,7 +6841,7 @@ const testing =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.5687645687645687
       ]
     },
@@ -15651,7 +6851,7 @@ const testing =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.32400932400932403
       ]
     },
@@ -15661,7 +6861,7 @@ const testing =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        0.6529680365296804,
+        0.572,
         0.5431235431235432
       ]
     },
@@ -15671,7 +6871,7 @@ const testing =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        0.2945205479452055,
+        0.258,
         0.4801864801864802
       ]
     },
@@ -15681,7 +6881,7 @@ const testing =
       "student_name": "Antonio",
       "student_id": 1666011482508,
       "point": [
-        0.3767123287671233,
+        0.33,
         0.35664335664335667
       ]
     },
@@ -15691,7 +6891,7 @@ const testing =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        0.591324200913242,
+        0.518,
         0.1794871794871795
       ]
     },
@@ -15701,7 +6901,7 @@ const testing =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        0.1917808219178082,
+        0.168,
         0.20046620046620048
       ]
     },
@@ -15711,7 +6911,7 @@ const testing =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        0.3378995433789954,
+        0.296,
         0.46853146853146854
       ]
     },
@@ -15721,7 +6921,7 @@ const testing =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.6107226107226107
       ]
     },
@@ -15731,7 +6931,7 @@ const testing =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        0.6004566210045662,
+        0.526,
         0.337995337995338
       ]
     },
@@ -15741,7 +6941,7 @@ const testing =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.5268065268065268
       ]
     },
@@ -15751,7 +6951,7 @@ const testing =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        0.454337899543379,
+        0.398,
         0.5477855477855478
       ]
     },
@@ -15761,7 +6961,7 @@ const testing =
       "student_name": "honza192",
       "student_id": 1666043954214,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.5687645687645687
       ]
     },
@@ -15771,7 +6971,7 @@ const testing =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.23543123543123542
       ]
     },
@@ -15781,7 +6981,7 @@ const testing =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.4755244755244755
       ]
     },
@@ -15791,7 +6991,7 @@ const testing =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        0.5639269406392694,
+        0.494,
         0.6107226107226107
       ]
     },
@@ -15801,7 +7001,7 @@ const testing =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.7389277389277389
       ]
     },
@@ -15811,7 +7011,7 @@ const testing =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.32634032634032634
       ]
     },
@@ -15821,7 +7021,7 @@ const testing =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        0.3744292237442922,
+        0.328,
         0.7622377622377622
       ]
     },
@@ -15831,7 +7031,7 @@ const testing =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        0.20319634703196346,
+        0.178,
         0.7062937062937062
       ]
     },
@@ -15841,7 +7041,7 @@ const testing =
       "student_name": "Georgii",
       "student_id": 1666055790053,
       "point": [
-        0.545662100456621,
+        0.478,
         0.4219114219114219
       ]
     },
@@ -15851,7 +7051,7 @@ const testing =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        0.8059360730593608,
+        0.706,
         0.5547785547785548
       ]
     },
@@ -15861,7 +7061,7 @@ const testing =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.21212121212121213
       ]
     },
@@ -15871,7 +7071,7 @@ const testing =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.5734265734265734
       ]
     },
@@ -15881,7 +7081,7 @@ const testing =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        0.773972602739726,
+        0.678,
         0.7832167832167832
       ]
     },
@@ -15891,7 +7091,7 @@ const testing =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        0.6986301369863014,
+        0.612,
         0.6573426573426573
       ]
     },
@@ -15901,7 +7101,7 @@ const testing =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        0.8013698630136986,
+        0.702,
         0.7296037296037297
       ]
     },
@@ -15911,7 +7111,7 @@ const testing =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        0.7488584474885844,
+        0.656,
         0.710955710955711
       ]
     },
@@ -15921,7 +7121,7 @@ const testing =
       "student_name": "Pradev",
       "student_id": 1666090565877,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.6480186480186481
       ]
     },
@@ -15931,7 +7131,7 @@ const testing =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        0.6118721461187214,
+        0.536,
         0.3613053613053613
       ]
     },
@@ -15941,7 +7141,7 @@ const testing =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.351981351981352
       ]
     },
@@ -15951,7 +7151,7 @@ const testing =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        0.4155251141552511,
+        0.364,
         0.6037296037296037
       ]
     },
@@ -15961,7 +7161,7 @@ const testing =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.7505827505827506
       ]
     },
@@ -15971,7 +7171,7 @@ const testing =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        0.7876712328767124,
+        0.69,
         0.7995337995337995
       ]
     },
@@ -15981,7 +7181,7 @@ const testing =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        0.7511415525114156,
+        0.658,
         0.2773892773892774
       ]
     },
@@ -15991,7 +7191,7 @@ const testing =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        0.11643835616438356,
+        0.102,
         0.5501165501165501
       ]
     },
@@ -16001,7 +7201,7 @@ const testing =
       "student_name": "ifat",
       "student_id": 1666093467556,
       "point": [
-        0.54337899543379,
+        0.476,
         0.5571095571095571
       ]
     },
@@ -16011,7 +7211,7 @@ const testing =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.1888111888111888
       ]
     },
@@ -16021,7 +7221,7 @@ const testing =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        0.3219178082191781,
+        0.282,
         0.1258741258741259
       ]
     },
@@ -16031,7 +7231,7 @@ const testing =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        0.3538812785388128,
+        0.31,
         0.22144522144522144
       ]
     },
@@ -16041,7 +7241,7 @@ const testing =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        0.1004566210045662,
+        0.088,
         0.2331002331002331
       ]
     },
@@ -16051,7 +7251,7 @@ const testing =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        0.2876712328767123,
+        0.252,
         0.2191142191142191
       ]
     },
@@ -16061,7 +7261,7 @@ const testing =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        0.4200913242009132,
+        0.368,
         0.2937062937062937
       ]
     },
@@ -16071,7 +7271,7 @@ const testing =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        0.365296803652968,
+        0.32,
         0.21212121212121213
       ]
     },
@@ -16081,7 +7281,7 @@ const testing =
       "student_name": "Ockinko",
       "student_id": 1666201514415,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.38694638694638694
       ]
     },
@@ -16091,7 +7291,7 @@ const testing =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.5874125874125874
       ]
     },
@@ -16101,7 +7301,7 @@ const testing =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.2331002331002331
       ]
     },
@@ -16111,7 +7311,7 @@ const testing =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        0.3013698630136986,
+        0.264,
         0.3822843822843823
       ]
     },
@@ -16121,7 +7321,7 @@ const testing =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.5967365967365967
       ]
     },
@@ -16131,7 +7331,7 @@ const testing =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        0.547945205479452,
+        0.48,
         0.3776223776223776
       ]
     },
@@ -16141,7 +7341,7 @@ const testing =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.4382284382284382
       ]
     },
@@ -16151,7 +7351,7 @@ const testing =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        0.2785388127853881,
+        0.244,
         0.585081585081585
       ]
     },
@@ -16161,7 +7361,7 @@ const testing =
       "student_name": "Marcus",
       "student_id": 1666219729767,
       "point": [
-        0.2785388127853881,
+        0.244,
         0.3333333333333333
       ]
     },
@@ -16171,7 +7371,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        0.821917808219178,
+        0.72,
         0.4755244755244755
       ]
     },
@@ -16181,7 +7381,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        0.8036529680365296,
+        0.704,
         0.5151515151515151
       ]
     },
@@ -16191,7 +7391,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        0.5799086757990868,
+        0.508,
         0.4965034965034965
       ]
     },
@@ -16201,7 +7401,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        0.7077625570776256,
+        0.62,
         0.7855477855477856
       ]
     },
@@ -16211,7 +7411,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        0.7009132420091324,
+        0.614,
         0.5198135198135199
       ]
     },
@@ -16221,7 +7421,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.7948717948717948
       ]
     },
@@ -16231,7 +7431,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.5268065268065268
       ]
     },
@@ -16241,7 +7441,7 @@ const testing =
       "student_name": "Alex",
       "student_id": 1666300899264,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.5361305361305362
       ]
     },
@@ -16251,7 +7451,7 @@ const testing =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        0.678082191780822,
+        0.594,
         0.28205128205128205
       ]
     },
@@ -16261,7 +7461,7 @@ const testing =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.1258741258741259
       ]
     },
@@ -16271,7 +7471,7 @@ const testing =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.5571095571095571
       ]
     },
@@ -16281,7 +7481,7 @@ const testing =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        0.4840182648401826,
+        0.424,
         0.668997668997669
       ]
     },
@@ -16291,7 +7491,7 @@ const testing =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.35664335664335667
       ]
     },
@@ -16301,7 +7501,7 @@ const testing =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.3356643356643357
       ]
     },
@@ -16311,7 +7511,7 @@ const testing =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        0.0867579908675799,
+        0.076,
         0.6317016317016317
       ]
     },
@@ -16321,7 +7521,7 @@ const testing =
       "student_name": "davidalexandru1370@gmail.com",
       "student_id": 1666301102942,
       "point": [
-        0.4132420091324201,
+        0.362,
         0.4382284382284382
       ]
     },
@@ -16331,7 +7531,7 @@ const testing =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        0.7077625570776256,
+        0.62,
         0.3473193473193473
       ]
     },
@@ -16341,7 +7541,7 @@ const testing =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        0.680365296803653,
+        0.596,
         0.4219114219114219
       ]
     },
@@ -16351,7 +7551,7 @@ const testing =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.6130536130536131
       ]
     },
@@ -16361,7 +7561,7 @@ const testing =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        0.684931506849315,
+        0.6,
         0.7575757575757576
       ]
     },
@@ -16371,7 +7571,7 @@ const testing =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        0.7374429223744292,
+        0.646,
         0.5291375291375291
       ]
     },
@@ -16381,7 +7581,7 @@ const testing =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        0.7397260273972602,
+        0.648,
         0.8438228438228438
       ]
     },
@@ -16391,7 +7591,7 @@ const testing =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        0.589041095890411,
+        0.516,
         0.655011655011655
       ]
     },
@@ -16401,7 +7601,7 @@ const testing =
       "student_name": "AppleAmplifier",
       "student_id": 1666503928045,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.5104895104895105
       ]
     },
@@ -16411,7 +7611,7 @@ const testing =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        0.7671232876712328,
+        0.672,
         0.32400932400932403
       ]
     },
@@ -16421,7 +7621,7 @@ const testing =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        0.5844748858447488,
+        0.512,
         0.32167832167832167
       ]
     },
@@ -16431,7 +7631,7 @@ const testing =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        0.4360730593607306,
+        0.382,
         0.5477855477855478
       ]
     },
@@ -16441,7 +7641,7 @@ const testing =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        0.684931506849315,
+        0.6,
         0.627039627039627
       ]
     },
@@ -16451,7 +7651,7 @@ const testing =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.372960372960373
       ]
     },
@@ -16461,7 +7661,7 @@ const testing =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        0.7077625570776256,
+        0.62,
         0.5547785547785548
       ]
     },
@@ -16471,7 +7671,7 @@ const testing =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        0.680365296803653,
+        0.596,
         0.006993006993006993
       ]
     },
@@ -16481,7 +7681,7 @@ const testing =
       "student_name": "menuett",
       "student_id": 1666535639543,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.5454545454545454
       ]
     },
@@ -16491,7 +7691,7 @@ const testing =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.2517482517482518
       ]
     },
@@ -16501,7 +7701,7 @@ const testing =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        0.3789954337899543,
+        0.332,
         0.0675990675990676
       ]
     },
@@ -16511,7 +7711,7 @@ const testing =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        0.4223744292237443,
+        0.37,
         0.27972027972027974
       ]
     },
@@ -16521,7 +7721,7 @@ const testing =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        0.817351598173516,
+        0.716,
         0.6223776223776224
       ]
     },
@@ -16531,7 +7731,7 @@ const testing =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.35664335664335667
       ]
     },
@@ -16541,7 +7741,7 @@ const testing =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        0.7945205479452054,
+        0.696,
         0.27972027972027974
       ]
     },
@@ -16551,7 +7751,7 @@ const testing =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        0.12557077625570776,
+        0.11,
         0.4988344988344988
       ]
     },
@@ -16561,7 +7761,7 @@ const testing =
       "student_name": "Larven",
       "student_id": 1666546586001,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.5384615384615384
       ]
     },
@@ -16571,7 +7771,7 @@ const testing =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        0.7146118721461188,
+        0.626,
         0.22843822843822845
       ]
     },
@@ -16581,7 +7781,7 @@ const testing =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.22144522144522144
       ]
     },
@@ -16591,7 +7791,7 @@ const testing =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        0.4520547945205479,
+        0.396,
         0.6363636363636364
       ]
     },
@@ -16601,7 +7801,7 @@ const testing =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.4522144522144522
       ]
     },
@@ -16611,7 +7811,7 @@ const testing =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        0.589041095890411,
+        0.516,
         0.2564102564102564
       ]
     },
@@ -16621,7 +7821,7 @@ const testing =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.5151515151515151
       ]
     },
@@ -16631,7 +7831,7 @@ const testing =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        0.410958904109589,
+        0.36,
         0.5407925407925408
       ]
     },
@@ -16641,7 +7841,7 @@ const testing =
       "student_name": "Irina",
       "student_id": 1666608168183,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.38927738927738925
       ]
     },
@@ -16651,7 +7851,7 @@ const testing =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        0.7968036529680366,
+        0.698,
         0.38927738927738925
       ]
     },
@@ -16661,7 +7861,7 @@ const testing =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        0.639269406392694,
+        0.56,
         0.32167832167832167
       ]
     },
@@ -16671,7 +7871,7 @@ const testing =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.28438228438228436
       ]
     },
@@ -16681,7 +7881,7 @@ const testing =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        0.3515981735159817,
+        0.308,
         0.4988344988344988
       ]
     },
@@ -16691,7 +7891,7 @@ const testing =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.3682983682983683
       ]
     },
@@ -16701,7 +7901,7 @@ const testing =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        0.7328767123287672,
+        0.642,
         0.6480186480186481
       ]
     },
@@ -16711,7 +7911,7 @@ const testing =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        0.23515981735159816,
+        0.206,
         0.5827505827505828
       ]
     },
@@ -16721,7 +7921,7 @@ const testing =
       "student_name": "get",
       "student_id": 1666635739509,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.49417249417249415
       ]
     },
@@ -16731,7 +7931,7 @@ const testing =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.1561771561771562
       ]
     },
@@ -16741,7 +7941,7 @@ const testing =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.13053613053613053
       ]
     },
@@ -16751,7 +7951,7 @@ const testing =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        0.860730593607306,
+        0.754,
         0.655011655011655
       ]
     },
@@ -16761,7 +7961,7 @@ const testing =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.8391608391608392
       ]
     },
@@ -16771,7 +7971,7 @@ const testing =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.3752913752913753
       ]
     },
@@ -16781,7 +7981,7 @@ const testing =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        0.3858447488584475,
+        0.338,
         0.5244755244755245
       ]
     },
@@ -16791,7 +7991,7 @@ const testing =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.4195804195804196
       ]
     },
@@ -16801,7 +8001,7 @@ const testing =
       "student_name": "Juraj",
       "student_id": 1666722087374,
       "point": [
-        0.4360730593607306,
+        0.382,
         0.4568764568764569
       ]
     },
@@ -16811,7 +8011,7 @@ const testing =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.1794871794871795
       ]
     },
@@ -16821,7 +8021,7 @@ const testing =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.36363636363636365
       ]
     },
@@ -16831,7 +8031,7 @@ const testing =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.3939393939393939
       ]
     },
@@ -16841,7 +8041,7 @@ const testing =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        0.408675799086758,
+        0.358,
         0.46853146853146854
       ]
     },
@@ -16851,7 +8051,7 @@ const testing =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        0.2831050228310502,
+        0.248,
         0.1655011655011655
       ]
     },
@@ -16861,7 +8061,7 @@ const testing =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.12354312354312354
       ]
     },
@@ -16871,7 +8071,7 @@ const testing =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        0.23059360730593606,
+        0.202,
         0.351981351981352
       ]
     },
@@ -16881,7 +8081,7 @@ const testing =
       "student_name": "Jocieldo",
       "student_id": 1666821808870,
       "point": [
-        0.3264840182648402,
+        0.286,
         0.26107226107226106
       ]
     },
@@ -16891,7 +8091,7 @@ const testing =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        0.4223744292237443,
+        0.37,
         0.23776223776223776
       ]
     },
@@ -16901,7 +8101,7 @@ const testing =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        0.2534246575342466,
+        0.222,
         0.09090909090909091
       ]
     },
@@ -16911,7 +8111,7 @@ const testing =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.6526806526806527
       ]
     },
@@ -16921,7 +8121,7 @@ const testing =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        0.4589041095890411,
+        0.402,
         0.6876456876456877
       ]
     },
@@ -16931,7 +8131,7 @@ const testing =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.3706293706293706
       ]
     },
@@ -16941,7 +8141,7 @@ const testing =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        0.14840182648401826,
+        0.13,
         0.5617715617715617
       ]
     },
@@ -16951,7 +8151,7 @@ const testing =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        0.07990867579908675,
+        0.07,
         0.42424242424242425
       ]
     },
@@ -16961,7 +8161,7 @@ const testing =
       "student_name": "rcdmrl",
       "student_id": 1666876402498,
       "point": [
-        0.2671232876712329,
+        0.234,
         0.25874125874125875
       ]
     },
@@ -16971,7 +8171,7 @@ const testing =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        0.6598173515981736,
+        0.578,
         0.2097902097902098
       ]
     },
@@ -16981,7 +8181,7 @@ const testing =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        0.5844748858447488,
+        0.512,
         0.2867132867132867
       ]
     },
@@ -16991,7 +8191,7 @@ const testing =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.6107226107226107
       ]
     },
@@ -17001,7 +8201,7 @@ const testing =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        0.3607305936073059,
+        0.316,
         0.5710955710955711
       ]
     },
@@ -17011,7 +8211,7 @@ const testing =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        0.4680365296803653,
+        0.41,
         0.29603729603729606
       ]
     },
@@ -17021,7 +8221,7 @@ const testing =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        0.5639269406392694,
+        0.494,
         0.46153846153846156
       ]
     },
@@ -17031,7 +8231,7 @@ const testing =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.6736596736596736
       ]
     },
@@ -17041,7 +8241,7 @@ const testing =
       "student_name": "Bambi",
       "student_id": 1666884518164,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.5454545454545454
       ]
     },
@@ -17051,7 +8251,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.5361305361305362
       ]
     },
@@ -17061,7 +8261,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        0.1735159817351598,
+        0.152,
         0.26573426573426573
       ]
     },
@@ -17071,7 +8271,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        0.3538812785388128,
+        0.31,
         0.2517482517482518
       ]
     },
@@ -17081,7 +8281,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        0.14840182648401826,
+        0.13,
         0.20046620046620048
       ]
     },
@@ -17091,7 +8291,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.36363636363636365
       ]
     },
@@ -17101,7 +8301,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        0.639269406392694,
+        0.56,
         0.7645687645687645
       ]
     },
@@ -17111,7 +8311,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        0.23515981735159816,
+        0.206,
         0.3682983682983683
       ]
     },
@@ -17121,7 +8321,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666997859230,
       "point": [
-        0.5,
+        0.438,
         0.4125874125874126
       ]
     },
@@ -17131,7 +8331,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.5687645687645687
       ]
     },
@@ -17141,7 +8341,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.34032634032634035
       ]
     },
@@ -17151,7 +8351,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        0.5273972602739726,
+        0.462,
         0.28205128205128205
       ]
     },
@@ -17161,7 +8361,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        0.3264840182648402,
+        0.286,
         0.5198135198135199
       ]
     },
@@ -17171,7 +8371,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        0.4474885844748858,
+        0.392,
         0.5734265734265734
       ]
     },
@@ -17181,7 +8381,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.5547785547785548
       ]
     },
@@ -17191,7 +8391,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        0.7602739726027398,
+        0.666,
         0.8531468531468531
       ]
     },
@@ -17201,7 +8401,7 @@ const testing =
       "student_name": "radu",
       "student_id": 1666998028989,
       "point": [
-        0.4155251141552511,
+        0.364,
         0.6643356643356644
       ]
     },
@@ -17211,7 +8411,7 @@ const testing =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        0.6027397260273972,
+        0.528,
         0.17482517482517482
       ]
     },
@@ -17221,7 +8421,7 @@ const testing =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        0.136986301369863,
+        0.12,
         0.24242424242424243
       ]
     },
@@ -17231,7 +8431,7 @@ const testing =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        0.319634703196347,
+        0.28,
         0.2634032634032634
       ]
     },
@@ -17241,7 +8441,7 @@ const testing =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.5757575757575758
       ]
     },
@@ -17251,7 +8451,7 @@ const testing =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        0.3904109589041096,
+        0.342,
         0.21212121212121213
       ]
     },
@@ -17261,7 +8461,7 @@ const testing =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.12354312354312354
       ]
     },
@@ -17271,7 +8471,7 @@ const testing =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        0.0502283105022831,
+        0.044,
         0.27972027972027974
       ]
     },
@@ -17281,7 +8481,7 @@ const testing =
       "student_name": "Erik",
       "student_id": 1667014801913,
       "point": [
-        0.2237442922374429,
+        0.196,
         0.2097902097902098
       ]
     },
@@ -17291,7 +8491,7 @@ const testing =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.16083916083916083
       ]
     },
@@ -17301,7 +8501,7 @@ const testing =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        0.593607305936073,
+        0.52,
         0.1655011655011655
       ]
     },
@@ -17311,7 +8511,7 @@ const testing =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        0.4657534246575342,
+        0.408,
         0.5571095571095571
       ]
     },
@@ -17321,7 +8521,7 @@ const testing =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.7785547785547785
       ]
     },
@@ -17331,7 +8531,7 @@ const testing =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        0.6735159817351598,
+        0.59,
         0.5874125874125874
       ]
     },
@@ -17341,7 +8541,7 @@ const testing =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.1561771561771562
       ]
     },
@@ -17351,7 +8551,7 @@ const testing =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        0.07077625570776255,
+        0.062,
         0.7692307692307693
       ]
     },
@@ -17361,7 +8561,7 @@ const testing =
       "student_name": "georgedan D FOTEA",
       "student_id": 1667045067226,
       "point": [
-        0.6643835616438356,
+        0.582,
         0.6736596736596736
       ]
     },
@@ -17371,7 +8571,7 @@ const testing =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        0.7123287671232876,
+        0.624,
         0.26573426573426573
       ]
     },
@@ -17381,7 +8581,7 @@ const testing =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        0.6278538812785388,
+        0.55,
         0.17715617715617715
       ]
     },
@@ -17391,7 +8591,7 @@ const testing =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        0.5342465753424658,
+        0.468,
         0.5827505827505828
       ]
     },
@@ -17401,7 +8601,7 @@ const testing =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.5221445221445221
       ]
     },
@@ -17411,7 +8611,7 @@ const testing =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.3123543123543124
       ]
     },
@@ -17421,7 +8621,7 @@ const testing =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        0.8356164383561644,
+        0.732,
         0.22843822843822845
       ]
     },
@@ -17431,7 +8631,7 @@ const testing =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.5454545454545454
       ]
     },
@@ -17441,7 +8641,7 @@ const testing =
       "student_name": "burak",
       "student_id": 1667218951262,
       "point": [
-        0.3698630136986301,
+        0.324,
         0.2634032634032634
       ]
     },
@@ -17451,7 +8651,7 @@ const testing =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.19114219114219114
       ]
     },
@@ -17461,7 +8661,7 @@ const testing =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        0.22602739726027396,
+        0.198,
         0.48951048951048953
       ]
     },
@@ -17471,7 +8671,7 @@ const testing =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.34965034965034963
       ]
     },
@@ -17481,7 +8681,7 @@ const testing =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        0.3219178082191781,
+        0.282,
         0.3752913752913753
       ]
     },
@@ -17491,7 +8691,7 @@ const testing =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        0.4063926940639269,
+        0.356,
         0.30303030303030304
       ]
     },
@@ -17501,7 +8701,7 @@ const testing =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        0.4360730593607306,
+        0.382,
         0.13286713286713286
       ]
     },
@@ -17511,7 +8711,7 @@ const testing =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        0.05707762557077625,
+        0.05,
         0.38461538461538464
       ]
     },
@@ -17521,7 +8721,7 @@ const testing =
       "student_name": "lain",
       "student_id": 1667245754100,
       "point": [
-        0.2328767123287671,
+        0.204,
         0.24708624708624707
       ]
     },
@@ -17531,7 +8731,7 @@ const testing =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.19813519813519814
       ]
     },
@@ -17541,7 +8741,7 @@ const testing =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        0.4840182648401826,
+        0.424,
         0.1445221445221445
       ]
     },
@@ -17551,7 +8751,7 @@ const testing =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.3706293706293706
       ]
     },
@@ -17561,7 +8761,7 @@ const testing =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        0.684931506849315,
+        0.6,
         0.8344988344988346
       ]
     },
@@ -17571,7 +8771,7 @@ const testing =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.2937062937062937
       ]
     },
@@ -17581,7 +8781,7 @@ const testing =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.6946386946386947
       ]
     },
@@ -17591,7 +8791,7 @@ const testing =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        0.01598173515981735,
+        0.014,
         0.47086247086247085
       ]
     },
@@ -17601,7 +8801,7 @@ const testing =
       "student_name": "Gustavo (luv u radu)",
       "student_id": 1667272306568,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.4522144522144522
       ]
     },
@@ -17611,7 +8811,7 @@ const testing =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        0.6118721461187214,
+        0.536,
         0.15151515151515152
       ]
     },
@@ -17621,7 +8821,7 @@ const testing =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        0.45662100456621,
+        0.4,
         0.25874125874125875
       ]
     },
@@ -17631,7 +8831,7 @@ const testing =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        0.3721461187214612,
+        0.326,
         0.37995337995337997
       ]
     },
@@ -17641,7 +8841,7 @@ const testing =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        0.8493150684931506,
+        0.744,
         0.7668997668997669
       ]
     },
@@ -17651,7 +8851,7 @@ const testing =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.44755244755244755
       ]
     },
@@ -17661,7 +8861,7 @@ const testing =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        0.4611872146118721,
+        0.404,
         0.8088578088578089
       ]
     },
@@ -17671,7 +8871,7 @@ const testing =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.5431235431235432
       ]
     },
@@ -17681,7 +8881,7 @@ const testing =
       "student_name": "Ulrich",
       "student_id": 1667286094588,
       "point": [
-        0.3515981735159817,
+        0.308,
         0.351981351981352
       ]
     },
@@ -17691,7 +8891,7 @@ const testing =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        0.5273972602739726,
+        0.462,
         0.22843822843822845
       ]
     },
@@ -17701,7 +8901,7 @@ const testing =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.20279720279720279
       ]
     },
@@ -17711,7 +8911,7 @@ const testing =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        0.3538812785388128,
+        0.31,
         0.34265734265734266
       ]
     },
@@ -17721,7 +8921,7 @@ const testing =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        0.2785388127853881,
+        0.244,
         0.4755244755244755
       ]
     },
@@ -17731,7 +8931,7 @@ const testing =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.2494172494172494
       ]
     },
@@ -17741,7 +8941,7 @@ const testing =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.6013986013986014
       ]
     },
@@ -17751,7 +8951,7 @@ const testing =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        0.363013698630137,
+        0.318,
         0.5291375291375291
       ]
     },
@@ -17761,7 +8961,7 @@ const testing =
       "student_name": "kornelius",
       "student_id": 1667315423970,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.44988344988344986
       ]
     },
@@ -17771,7 +8971,7 @@ const testing =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        0.6598173515981736,
+        0.578,
         0.30536130536130535
       ]
     },
@@ -17781,7 +8981,7 @@ const testing =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        0.502283105022831,
+        0.44,
         0.22843822843822845
       ]
     },
@@ -17791,7 +8991,7 @@ const testing =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        0.730593607305936,
+        0.64,
         0.5151515151515151
       ]
     },
@@ -17801,7 +9001,7 @@ const testing =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        0.6301369863013698,
+        0.552,
         0.6573426573426573
       ]
     },
@@ -17811,7 +9011,7 @@ const testing =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        0.593607305936073,
+        0.52,
         0.4731934731934732
       ]
     },
@@ -17821,7 +9021,7 @@ const testing =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.331002331002331
       ]
     },
@@ -17831,7 +9031,7 @@ const testing =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.5268065268065268
       ]
     },
@@ -17841,7 +9041,7 @@ const testing =
       "student_name": "bantya",
       "student_id": 1667487304067,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.5151515151515151
       ]
     },
@@ -17851,7 +9051,7 @@ const testing =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        0.7876712328767124,
+        0.69,
         0.1958041958041958
       ]
     },
@@ -17861,7 +9061,7 @@ const testing =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        0.8744292237442922,
+        0.766,
         0.14918414918414918
       ]
     },
@@ -17871,7 +9071,7 @@ const testing =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        0.3082191780821918,
+        0.27,
         0.4219114219114219
       ]
     },
@@ -17881,7 +9081,7 @@ const testing =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        0.24885844748858446,
+        0.218,
         0.3939393939393939
       ]
     },
@@ -17891,7 +9091,7 @@ const testing =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.24475524475524477
       ]
     },
@@ -17901,7 +9101,7 @@ const testing =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.38927738927738925
       ]
     },
@@ -17911,7 +9111,7 @@ const testing =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        0.0547945205479452,
+        0.048,
         0.38694638694638694
       ]
     },
@@ -17921,7 +9121,7 @@ const testing =
       "student_name": "Julian",
       "student_id": 1667488649371,
       "point": [
-        0.7123287671232876,
+        0.624,
         0.8135198135198135
       ]
     },
@@ -17931,7 +9131,7 @@ const testing =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        0.502283105022831,
+        0.44,
         0.16083916083916083
       ]
     },
@@ -17941,7 +9141,7 @@ const testing =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        0.4611872146118721,
+        0.404,
         0.13986013986013987
       ]
     },
@@ -17951,7 +9151,7 @@ const testing =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        0.6050228310502284,
+        0.53,
         0.3986013986013986
       ]
     },
@@ -17961,7 +9161,7 @@ const testing =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        0.771689497716895,
+        0.676,
         0.7389277389277389
       ]
     },
@@ -17971,7 +9171,7 @@ const testing =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.3613053613053613
       ]
     },
@@ -17981,7 +9181,7 @@ const testing =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        0.8333333333333334,
+        0.73,
         0.20745920745920746
       ]
     },
@@ -17991,7 +9191,7 @@ const testing =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        0.04794520547945205,
+        0.042,
         0.6503496503496503
       ]
     },
@@ -18001,7 +9201,7 @@ const testing =
       "student_name": "md83",
       "student_id": 1667498528238,
       "point": [
-        0.6438356164383562,
+        0.564,
         0.5501165501165501
       ]
     },
@@ -18011,7 +9211,7 @@ const testing =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.21678321678321677
       ]
     },
@@ -18021,7 +9221,7 @@ const testing =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.18414918414918416
       ]
     },
@@ -18031,7 +9231,7 @@ const testing =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.6037296037296037
       ]
     },
@@ -18041,7 +9241,7 @@ const testing =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        0.23972602739726026,
+        0.21,
         0.6666666666666666
       ]
     },
@@ -18051,7 +9251,7 @@ const testing =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        0.2328767123287671,
+        0.204,
         0.15384615384615385
       ]
     },
@@ -18061,7 +9261,7 @@ const testing =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        0.1963470319634703,
+        0.172,
         0.5314685314685315
       ]
     },
@@ -18071,7 +9271,7 @@ const testing =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        0.02054794520547945,
+        0.018,
         0.2680652680652681
       ]
     },
@@ -18081,7 +9281,7 @@ const testing =
       "student_name": "Gregory",
       "student_id": 1667523863784,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.4731934731934732
       ]
     },
@@ -18091,7 +9291,7 @@ const testing =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.2517482517482518
       ]
     },
@@ -18101,7 +9301,7 @@ const testing =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        0.4657534246575342,
+        0.408,
         0.17715617715617715
       ]
     },
@@ -18111,7 +9311,7 @@ const testing =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        0.4269406392694064,
+        0.374,
         0.5361305361305362
       ]
     },
@@ -18121,7 +9321,7 @@ const testing =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        0.4885844748858447,
+        0.428,
         0.6130536130536131
       ]
     },
@@ -18131,7 +9331,7 @@ const testing =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        0.6050228310502284,
+        0.53,
         0.4358974358974359
       ]
     },
@@ -18141,7 +9341,7 @@ const testing =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        0.7831050228310502,
+        0.686,
         0.27505827505827507
       ]
     },
@@ -18151,7 +9351,7 @@ const testing =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        0.0273972602739726,
+        0.024,
         0.585081585081585
       ]
     },
@@ -18161,7 +9361,7 @@ const testing =
       "student_name": "kld",
       "student_id": 1667560474969,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.48484848484848486
       ]
     },
@@ -18171,7 +9371,7 @@ const testing =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.337995337995338
       ]
     },
@@ -18181,7 +9381,7 @@ const testing =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        0.4885844748858447,
+        0.428,
         0.2494172494172494
       ]
     },
@@ -18191,7 +9391,7 @@ const testing =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        0.18493150684931506,
+        0.162,
         0.36596736596736595
       ]
     },
@@ -18201,7 +9401,7 @@ const testing =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        0.3538812785388128,
+        0.31,
         0.5198135198135199
       ]
     },
@@ -18211,7 +9411,7 @@ const testing =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.28438228438228436
       ]
     },
@@ -18221,7 +9421,7 @@ const testing =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        0.3036529680365297,
+        0.266,
         0.6573426573426573
       ]
     },
@@ -18231,7 +9431,7 @@ const testing =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        0.04794520547945205,
+        0.042,
         0.585081585081585
       ]
     },
@@ -18241,7 +9441,7 @@ const testing =
       "student_name": "amir",
       "student_id": 1667658264045,
       "point": [
-        0.639269406392694,
+        0.56,
         0.5967365967365967
       ]
     },
@@ -18251,7 +9451,7 @@ const testing =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        0.6757990867579908,
+        0.592,
         0.2727272727272727
       ]
     },
@@ -18261,7 +9461,7 @@ const testing =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        0.4452054794520548,
+        0.39,
         0.2773892773892774
       ]
     },
@@ -18271,7 +9471,7 @@ const testing =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        0.24429223744292236,
+        0.214,
         0.2913752913752914
       ]
     },
@@ -18281,7 +9481,7 @@ const testing =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        0.8744292237442922,
+        0.766,
         0.6596736596736597
       ]
     },
@@ -18291,7 +9491,7 @@ const testing =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.24475524475524477
       ]
     },
@@ -18301,7 +9501,7 @@ const testing =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        0.3105022831050228,
+        0.272,
         0.44988344988344986
       ]
     },
@@ -18311,7 +9511,7 @@ const testing =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        0.363013698630137,
+        0.318,
         0.43123543123543123
       ]
     },
@@ -18321,7 +9521,7 @@ const testing =
       "student_name": "Ankit Sana",
       "student_id": 1667743923865,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.40326340326340326
       ]
     },
@@ -18331,7 +9531,7 @@ const testing =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        0.13926940639269406,
+        0.122,
         0.22144522144522144
       ]
     },
@@ -18341,7 +9541,7 @@ const testing =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        0.3447488584474886,
+        0.302,
         0.2727272727272727
       ]
     },
@@ -18351,7 +9551,7 @@ const testing =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        0.3881278538812785,
+        0.34,
         0.7296037296037297
       ]
     },
@@ -18361,7 +9561,7 @@ const testing =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        0.7214611872146118,
+        0.632,
         0.7272727272727273
       ]
     },
@@ -18371,7 +9571,7 @@ const testing =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        0.3013698630136986,
+        0.264,
         0.4428904428904429
       ]
     },
@@ -18381,7 +9581,7 @@ const testing =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        0.24885844748858446,
+        0.218,
         0.6153846153846154
       ]
     },
@@ -18391,7 +9591,7 @@ const testing =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.745920745920746
       ]
     },
@@ -18401,7 +9601,7 @@ const testing =
       "student_name": "Han",
       "student_id": 1668202187292,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.5337995337995338
       ]
     },
@@ -18411,7 +9611,7 @@ const testing =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        0.7511415525114156,
+        0.658,
         0.2680652680652681
       ]
     },
@@ -18421,7 +9621,7 @@ const testing =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        0.6027397260273972,
+        0.528,
         0.29603729603729606
       ]
     },
@@ -18431,7 +9631,7 @@ const testing =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.4428904428904429
       ]
     },
@@ -18441,7 +9641,7 @@ const testing =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.6223776223776224
       ]
     },
@@ -18451,7 +9651,7 @@ const testing =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.2727272727272727
       ]
     },
@@ -18461,7 +9661,7 @@ const testing =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        0.6484018264840182,
+        0.568,
         0.5687645687645687
       ]
     },
@@ -18471,7 +9671,7 @@ const testing =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        0.591324200913242,
+        0.518,
         0.40792540792540793
       ]
     },
@@ -18481,7 +9681,7 @@ const testing =
       "student_name": "Vicky",
       "student_id": 1668244542114,
       "point": [
-        0.7488584474885844,
+        0.656,
         0.745920745920746
       ]
     },
@@ -18491,7 +9691,7 @@ const testing =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        0.6712328767123288,
+        0.588,
         0.1888111888111888
       ]
     },
@@ -18501,7 +9701,7 @@ const testing =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        0.6598173515981736,
+        0.578,
         0.1888111888111888
       ]
     },
@@ -18511,7 +9711,7 @@ const testing =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        0.3082191780821918,
+        0.27,
         0.40559440559440557
       ]
     },
@@ -18521,7 +9721,7 @@ const testing =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.7482517482517482
       ]
     },
@@ -18531,7 +9731,7 @@ const testing =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        0.6917808219178082,
+        0.606,
         0.5547785547785548
       ]
     },
@@ -18541,7 +9741,7 @@ const testing =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.4988344988344988
       ]
     },
@@ -18551,7 +9751,7 @@ const testing =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        0.182648401826484,
+        0.16,
         0.6013986013986014
       ]
     },
@@ -18561,7 +9761,7 @@ const testing =
       "student_name": "Domagoj",
       "student_id": 1669117001630,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.3752913752913753
       ]
     },
@@ -18571,7 +9771,7 @@ const testing =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.18414918414918416
       ]
     },
@@ -18581,7 +9781,7 @@ const testing =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.4125874125874126
       ]
     },
@@ -18591,7 +9791,7 @@ const testing =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        0.4292237442922374,
+        0.376,
         0.44988344988344986
       ]
     },
@@ -18601,7 +9801,7 @@ const testing =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        0.54337899543379,
+        0.476,
         0.5501165501165501
       ]
     },
@@ -18611,7 +9811,7 @@ const testing =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        0.6004566210045662,
+        0.526,
         0.48951048951048953
       ]
     },
@@ -18621,7 +9821,7 @@ const testing =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        0.4657534246575342,
+        0.408,
         0.7412587412587412
       ]
     },
@@ -18631,7 +9831,7 @@ const testing =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        0.4132420091324201,
+        0.362,
         0.5431235431235432
       ]
     },
@@ -18641,7 +9841,7 @@ const testing =
       "student_name": "Ayush Kumar (Admires Radu a lot)",
       "student_id": 1669140782124,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.40559440559440557
       ]
     },
@@ -18651,7 +9851,7 @@ const testing =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        0.7442922374429224,
+        0.652,
         0.337995337995338
       ]
     },
@@ -18661,7 +9861,7 @@ const testing =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        0.678082191780822,
+        0.594,
         0.23543123543123542
       ]
     },
@@ -18671,7 +9871,7 @@ const testing =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        0.317351598173516,
+        0.278,
         0.5757575757575758
       ]
     },
@@ -18681,7 +9881,7 @@ const testing =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.7226107226107226
       ]
     },
@@ -18691,7 +9891,7 @@ const testing =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        0.769406392694064,
+        0.674,
         0.4988344988344988
       ]
     },
@@ -18701,7 +9901,7 @@ const testing =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        0.8242009132420092,
+        0.722,
         0.289044289044289
       ]
     },
@@ -18711,7 +9911,7 @@ const testing =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        0.363013698630137,
+        0.318,
         0.2727272727272727
       ]
     },
@@ -18721,7 +9921,7 @@ const testing =
       "student_name": "yosia",
       "student_id": 1669156571401,
       "point": [
-        0.410958904109589,
+        0.36,
         0.351981351981352
       ]
     },
@@ -18731,7 +9931,7 @@ const testing =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        0.8356164383561644,
+        0.732,
         0.3682983682983683
       ]
     },
@@ -18741,7 +9941,7 @@ const testing =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        0.7990867579908676,
+        0.7,
         0.5268065268065268
       ]
     },
@@ -18751,7 +9951,7 @@ const testing =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        0.8767123287671232,
+        0.768,
         0.8531468531468531
       ]
     },
@@ -18761,7 +9961,7 @@ const testing =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        0.8744292237442922,
+        0.766,
         0.7808857808857809
       ]
     },
@@ -18771,7 +9971,7 @@ const testing =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        0.7442922374429224,
+        0.652,
         0.3962703962703963
       ]
     },
@@ -18781,7 +9981,7 @@ const testing =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        0.8744292237442922,
+        0.766,
         0.40559440559440557
       ]
     },
@@ -18791,7 +9991,7 @@ const testing =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        0.8424657534246576,
+        0.738,
         0.04895104895104895
       ]
     },
@@ -18801,7 +10001,7 @@ const testing =
       "student_name": "Mike Torreno",
       "student_id": 1669430621857,
       "point": [
-        0.6529680365296804,
+        0.572,
         0.5734265734265734
       ]
     },
@@ -18811,7 +10011,7 @@ const testing =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        0.8036529680365296,
+        0.704,
         0.31002331002331
       ]
     },
@@ -18821,7 +10021,7 @@ const testing =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.37995337995337997
       ]
     },
@@ -18831,7 +10031,7 @@ const testing =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        0.2579908675799087,
+        0.226,
         0.5547785547785548
       ]
     },
@@ -18841,7 +10041,7 @@ const testing =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        0.2534246575342466,
+        0.222,
         0.30536130536130535
       ]
     },
@@ -18851,7 +10051,7 @@ const testing =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        0.5639269406392694,
+        0.494,
         0.358974358974359
       ]
     },
@@ -18861,7 +10061,7 @@ const testing =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.19813519813519814
       ]
     },
@@ -18871,7 +10071,7 @@ const testing =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        0.502283105022831,
+        0.44,
         0.03496503496503497
       ]
     },
@@ -18881,7 +10081,7 @@ const testing =
       "student_name": "henrmota",
       "student_id": 1669513364578,
       "point": [
-        0.3219178082191781,
+        0.282,
         0.3333333333333333
       ]
     },
@@ -18891,7 +10091,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        0.363013698630137,
+        0.318,
         0.20046620046620048
       ]
     },
@@ -18901,7 +10101,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        0.3013698630136986,
+        0.264,
         0.16083916083916083
       ]
     },
@@ -18911,7 +10111,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.34965034965034963
       ]
     },
@@ -18921,7 +10121,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.4289044289044289
       ]
     },
@@ -18931,7 +10131,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        0.3881278538812785,
+        0.34,
         0.2400932400932401
       ]
     },
@@ -18941,7 +10141,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.2680652680652681
       ]
     },
@@ -18951,7 +10151,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        0.0365296803652968,
+        0.032,
         0.26573426573426573
       ]
     },
@@ -18961,7 +10161,7 @@ const testing =
       "student_name": "Ali",
       "student_id": 1669632107039,
       "point": [
-        0.4063926940639269,
+        0.356,
         0.5011655011655012
       ]
     },
@@ -18971,7 +10171,7 @@ const testing =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        0.3698630136986301,
+        0.324,
         0.08624708624708624
       ]
     },
@@ -18981,7 +10181,7 @@ const testing =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        0.3584474885844749,
+        0.314,
         0.09090909090909091
       ]
     },
@@ -18991,7 +10191,7 @@ const testing =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        0.410958904109589,
+        0.36,
         0.3986013986013986
       ]
     },
@@ -19001,7 +10201,7 @@ const testing =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        0.8744292237442922,
+        0.766,
         0.745920745920746
       ]
     },
@@ -19011,7 +10211,7 @@ const testing =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        0.3698630136986301,
+        0.324,
         0.28205128205128205
       ]
     },
@@ -19021,7 +10221,7 @@ const testing =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.13053613053613053
       ]
     },
@@ -19031,7 +10231,7 @@ const testing =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        0.0319634703196347,
+        0.028,
         0.30536130536130535
       ]
     },
@@ -19041,7 +10241,7 @@ const testing =
       "student_name": "John M",
       "student_id": 1669841590487,
       "point": [
-        0.3493150684931507,
+        0.306,
         0.2540792540792541
       ]
     },
@@ -19051,7 +10251,7 @@ const testing =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        0.6735159817351598,
+        0.59,
         0.337995337995338
       ]
     },
@@ -19061,7 +10261,7 @@ const testing =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        0.58675799086758,
+        0.514,
         0.1655011655011655
       ]
     },
@@ -19071,7 +10271,7 @@ const testing =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.5174825174825175
       ]
     },
@@ -19081,7 +10281,7 @@ const testing =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.7692307692307693
       ]
     },
@@ -19091,7 +10291,7 @@ const testing =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.27505827505827507
       ]
     },
@@ -19101,7 +10301,7 @@ const testing =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.5687645687645687
       ]
     },
@@ -19111,7 +10311,7 @@ const testing =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.3473193473193473
       ]
     },
@@ -19121,7 +10321,7 @@ const testing =
       "student_name": "Josh",
       "student_id": 1669858867251,
       "point": [
-        0.3493150684931507,
+        0.306,
         0.3006993006993007
       ]
     },
@@ -19131,7 +10331,7 @@ const testing =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.25874125874125875
       ]
     },
@@ -19141,7 +10341,7 @@ const testing =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        0.3858447488584475,
+        0.338,
         0.3076923076923077
       ]
     },
@@ -19151,7 +10351,7 @@ const testing =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        0.5799086757990868,
+        0.508,
         0.29836829836829837
       ]
     },
@@ -19161,7 +10361,7 @@ const testing =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        0.4223744292237443,
+        0.37,
         0.4965034965034965
       ]
     },
@@ -19171,7 +10371,7 @@ const testing =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.4522144522144522
       ]
     },
@@ -19181,7 +10381,7 @@ const testing =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        0.4771689497716895,
+        0.418,
         0.717948717948718
       ]
     },
@@ -19191,7 +10391,7 @@ const testing =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        0.1917808219178082,
+        0.168,
         0.48484848484848486
       ]
     },
@@ -19201,7 +10401,7 @@ const testing =
       "student_name": "zeay",
       "student_id": 1669974945742,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.3939393939393939
       ]
     },
@@ -19211,7 +10411,7 @@ const testing =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.2191142191142191
       ]
     },
@@ -19221,7 +10421,7 @@ const testing =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        0.7054794520547946,
+        0.618,
         0.3076923076923077
       ]
     },
@@ -19231,7 +10431,7 @@ const testing =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        0.7534246575342466,
+        0.66,
         0.5524475524475524
       ]
     },
@@ -19241,7 +10441,7 @@ const testing =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.7668997668997669
       ]
     },
@@ -19251,7 +10451,7 @@ const testing =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.34265734265734266
       ]
     },
@@ -19261,7 +10461,7 @@ const testing =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.7622377622377622
       ]
     },
@@ -19271,7 +10471,7 @@ const testing =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        0.363013698630137,
+        0.318,
         0.3752913752913753
       ]
     },
@@ -19281,7 +10481,7 @@ const testing =
       "student_name": "Vale",
       "student_id": 1670004980530,
       "point": [
-        0.1735159817351598,
+        0.152,
         0.6130536130536131
       ]
     },
@@ -19291,7 +10491,7 @@ const testing =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        0.5,
+        0.438,
         0.5174825174825175
       ]
     },
@@ -19301,7 +10501,7 @@ const testing =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        0.680365296803653,
+        0.596,
         0.35664335664335667
       ]
     },
@@ -19311,7 +10511,7 @@ const testing =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.5058275058275058
       ]
     },
@@ -19321,7 +10521,7 @@ const testing =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        0.4520547945205479,
+        0.396,
         0.6713286713286714
       ]
     },
@@ -19331,7 +10531,7 @@ const testing =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        0.589041095890411,
+        0.516,
         0.3473193473193473
       ]
     },
@@ -19341,7 +10541,7 @@ const testing =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        0.726027397260274,
+        0.636,
         0.4382284382284382
       ]
     },
@@ -19351,7 +10551,7 @@ const testing =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.662004662004662
       ]
     },
@@ -19361,7 +10561,7 @@ const testing =
       "student_name": "ghotncey",
       "student_id": 1670065751141,
       "point": [
-        0.4840182648401826,
+        0.424,
         0.5384615384615384
       ]
     },
@@ -19371,7 +10571,7 @@ const testing =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.13053613053613053
       ]
     },
@@ -19381,7 +10581,7 @@ const testing =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.3986013986013986
       ]
     },
@@ -19391,7 +10591,7 @@ const testing =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        0.541095890410959,
+        0.474,
         0.5944055944055944
       ]
     },
@@ -19401,7 +10601,7 @@ const testing =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        0.684931506849315,
+        0.6,
         0.7668997668997669
       ]
     },
@@ -19411,7 +10611,7 @@ const testing =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        0.7214611872146118,
+        0.632,
         0.3752913752913753
       ]
     },
@@ -19421,7 +10621,7 @@ const testing =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        0.5639269406392694,
+        0.494,
         0.4988344988344988
       ]
     },
@@ -19431,7 +10631,7 @@ const testing =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        0.3219178082191781,
+        0.282,
         0.6526806526806527
       ]
     },
@@ -19441,7 +10641,7 @@ const testing =
       "student_name": "henry",
       "student_id": 1670077309434,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.49417249417249415
       ]
     },
@@ -19451,7 +10651,7 @@ const testing =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        0.54337899543379,
+        0.476,
         0.22843822843822845
       ]
     },
@@ -19461,7 +10661,7 @@ const testing =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.2097902097902098
       ]
     },
@@ -19471,7 +10671,7 @@ const testing =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.4965034965034965
       ]
     },
@@ -19481,7 +10681,7 @@ const testing =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.4755244755244755
       ]
     },
@@ -19491,7 +10691,7 @@ const testing =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.34965034965034963
       ]
     },
@@ -19501,7 +10701,7 @@ const testing =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        0.7648401826484018,
+        0.67,
         0.5477855477855478
       ]
     },
@@ -19511,7 +10711,7 @@ const testing =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        0.2899543378995434,
+        0.254,
         0.17482517482517482
       ]
     },
@@ -19521,7 +10721,7 @@ const testing =
       "student_name": "Njugush",
       "student_id": 1670171192478,
       "point": [
-        0.3675799086757991,
+        0.322,
         0.3333333333333333
       ]
     },
@@ -19531,7 +10731,7 @@ const testing =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        0.7671232876712328,
+        0.672,
         0.32634032634032634
       ]
     },
@@ -19541,7 +10741,7 @@ const testing =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.11655011655011654
       ]
     },
@@ -19551,7 +10751,7 @@ const testing =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.6293706293706294
       ]
     },
@@ -19561,7 +10761,7 @@ const testing =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        0.634703196347032,
+        0.556,
         0.7855477855477856
       ]
     },
@@ -19571,7 +10771,7 @@ const testing =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        0.7831050228310502,
+        0.686,
         0.5104895104895105
       ]
     },
@@ -19581,7 +10781,7 @@ const testing =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        0.7785388127853882,
+        0.682,
         0.3613053613053613
       ]
     },
@@ -19591,7 +10791,7 @@ const testing =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        0.7054794520547946,
+        0.618,
         0.46853146853146854
       ]
     },
@@ -19601,7 +10801,7 @@ const testing =
       "student_name": "Anand",
       "student_id": 1670176388821,
       "point": [
-        0.4680365296803653,
+        0.41,
         0.4149184149184149
       ]
     },
@@ -19611,7 +10811,7 @@ const testing =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.2773892773892774
       ]
     },
@@ -19621,7 +10821,7 @@ const testing =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.5897435897435898
       ]
     },
@@ -19631,7 +10831,7 @@ const testing =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        0.5273972602739726,
+        0.462,
         0.5944055944055944
       ]
     },
@@ -19641,7 +10841,7 @@ const testing =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.655011655011655
       ]
     },
@@ -19651,7 +10851,7 @@ const testing =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.44522144522144524
       ]
     },
@@ -19661,7 +10861,7 @@ const testing =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.62004662004662
       ]
     },
@@ -19671,7 +10871,7 @@ const testing =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        0.4200913242009132,
+        0.368,
         0.48951048951048953
       ]
     },
@@ -19681,7 +10881,7 @@ const testing =
       "student_name": "Abhishek",
       "student_id": 1670180427993,
       "point": [
-        0.3584474885844749,
+        0.314,
         0.36363636363636365
       ]
     },
@@ -19691,7 +10891,7 @@ const testing =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        0.3401826484018265,
+        0.298,
         0.1048951048951049
       ]
     },
@@ -19701,7 +10901,7 @@ const testing =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        0.1643835616438356,
+        0.144,
         0.05827505827505827
       ]
     },
@@ -19711,7 +10911,7 @@ const testing =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        0.2534246575342466,
+        0.222,
         0.28205128205128205
       ]
     },
@@ -19721,7 +10921,7 @@ const testing =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        0.3150684931506849,
+        0.276,
         0.44755244755244755
       ]
     },
@@ -19731,7 +10931,7 @@ const testing =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        0.2968036529680365,
+        0.26,
         0.17482517482517482
       ]
     },
@@ -19741,7 +10941,7 @@ const testing =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        0.17579908675799086,
+        0.154,
         0.38927738927738925
       ]
     },
@@ -19751,7 +10951,7 @@ const testing =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        0.01141552511415525,
+        0.01,
         0.22377622377622378
       ]
     },
@@ -19761,7 +10961,7 @@ const testing =
       "student_name": "Jonas Torres",
       "student_id": 1670210022068,
       "point": [
-        0.2191780821917808,
+        0.192,
         0.23543123543123542
       ]
     },
@@ -19771,7 +10971,7 @@ const testing =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        0.730593607305936,
+        0.64,
         0.26107226107226106
       ]
     },
@@ -19781,7 +10981,7 @@ const testing =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.21212121212121213
       ]
     },
@@ -19791,7 +10991,7 @@ const testing =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.5291375291375291
       ]
     },
@@ -19801,7 +11001,7 @@ const testing =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        0.4885844748858447,
+        0.428,
         0.7412587412587412
       ]
     },
@@ -19811,7 +11011,7 @@ const testing =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.4731934731934732
       ]
     },
@@ -19821,7 +11021,7 @@ const testing =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        0.7465753424657534,
+        0.654,
         0.27505827505827507
       ]
     },
@@ -19831,7 +11031,7 @@ const testing =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        0.3675799086757991,
+        0.322,
         0.006993006993006993
       ]
     },
@@ -19841,8 +11041,17608 @@ const testing =
       "student_name": "MiMs",
       "student_id": 1670331453322,
       "point": [
-        0.3698630136986301,
+        0.324,
         0.28438228438228436
+      ]
+    },
+    {
+      "id": 3969,
+      "label": "car",
+      "student_name": "Mika",
+      "student_id": 1670417997888,
+      "point": [
+        0.644,
+        0.4195804195804196
+      ]
+    },
+    {
+      "id": 3970,
+      "label": "fish",
+      "student_name": "Mika",
+      "student_id": 1670417997888,
+      "point": [
+        0.512,
+        0.15384615384615385
+      ]
+    },
+    {
+      "id": 3971,
+      "label": "house",
+      "student_name": "Mika",
+      "student_id": 1670417997888,
+      "point": [
+        0.514,
+        0.5151515151515151
+      ]
+    },
+    {
+      "id": 3972,
+      "label": "tree",
+      "student_name": "Mika",
+      "student_id": 1670417997888,
+      "point": [
+        0.214,
+        0.5128205128205128
+      ]
+    },
+    {
+      "id": 3973,
+      "label": "bicycle",
+      "student_name": "Mika",
+      "student_id": 1670417997888,
+      "point": [
+        0.402,
+        0.289044289044289
+      ]
+    },
+    {
+      "id": 3974,
+      "label": "guitar",
+      "student_name": "Mika",
+      "student_id": 1670417997888,
+      "point": [
+        0.54,
+        0.4428904428904429
+      ]
+    },
+    {
+      "id": 3975,
+      "label": "pencil",
+      "student_name": "Mika",
+      "student_id": 1670417997888,
+      "point": [
+        0.552,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 3976,
+      "label": "clock",
+      "student_name": "Mika",
+      "student_id": 1670417997888,
+      "point": [
+        0.536,
+        0.5874125874125874
+      ]
+    },
+    {
+      "id": 3977,
+      "label": "car",
+      "student_name": "Anthony Stevens",
+      "student_id": 1670434807903,
+      "point": [
+        0.494,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 3978,
+      "label": "fish",
+      "student_name": "Anthony Stevens",
+      "student_id": 1670434807903,
+      "point": [
+        0.3,
+        0.17249417249417248
+      ]
+    },
+    {
+      "id": 3979,
+      "label": "house",
+      "student_name": "Anthony Stevens",
+      "student_id": 1670434807903,
+      "point": [
+        0.378,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 3980,
+      "label": "tree",
+      "student_name": "Anthony Stevens",
+      "student_id": 1670434807903,
+      "point": [
+        0.626,
+        0.7342657342657343
+      ]
+    },
+    {
+      "id": 3981,
+      "label": "bicycle",
+      "student_name": "Anthony Stevens",
+      "student_id": 1670434807903,
+      "point": [
+        0.528,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 3982,
+      "label": "guitar",
+      "student_name": "Anthony Stevens",
+      "student_id": 1670434807903,
+      "point": [
+        0.384,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 3983,
+      "label": "pencil",
+      "student_name": "Anthony Stevens",
+      "student_id": 1670434807903,
+      "point": [
+        0.026,
+        0.5011655011655012
+      ]
+    },
+    {
+      "id": 3984,
+      "label": "clock",
+      "student_name": "Anthony Stevens",
+      "student_id": 1670434807903,
+      "point": [
+        0.448,
+        0.4662004662004662
+      ]
+    },
+    {
+      "id": 3985,
+      "label": "car",
+      "student_name": "Joseness123plays",
+      "student_id": 1670475500758,
+      "point": [
+        0.41,
+        0.13286713286713286
+      ]
+    },
+    {
+      "id": 3986,
+      "label": "fish",
+      "student_name": "Joseness123plays",
+      "student_id": 1670475500758,
+      "point": [
+        0.35,
+        0.13053613053613053
+      ]
+    },
+    {
+      "id": 3987,
+      "label": "house",
+      "student_name": "Joseness123plays",
+      "student_id": 1670475500758,
+      "point": [
+        0.142,
+        0.1888111888111888
+      ]
+    },
+    {
+      "id": 3988,
+      "label": "tree",
+      "student_name": "Joseness123plays",
+      "student_id": 1670475500758,
+      "point": [
+        0.256,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 3989,
+      "label": "bicycle",
+      "student_name": "Joseness123plays",
+      "student_id": 1670475500758,
+      "point": [
+        0.402,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 3990,
+      "label": "guitar",
+      "student_name": "Joseness123plays",
+      "student_id": 1670475500758,
+      "point": [
+        0.51,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 3991,
+      "label": "pencil",
+      "student_name": "Joseness123plays",
+      "student_id": 1670475500758,
+      "point": [
+        0.32,
+        0.1864801864801865
+      ]
+    },
+    {
+      "id": 3992,
+      "label": "clock",
+      "student_name": "Joseness123plays",
+      "student_id": 1670475500758,
+      "point": [
+        0.418,
+        0.40093240093240096
+      ]
+    },
+    {
+      "id": 3993,
+      "label": "car",
+      "student_name": "harsha vardhan",
+      "student_id": 1670545140487,
+      "point": [
+        0.514,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 3994,
+      "label": "fish",
+      "student_name": "harsha vardhan",
+      "student_id": 1670545140487,
+      "point": [
+        0.49,
+        0.1864801864801865
+      ]
+    },
+    {
+      "id": 3995,
+      "label": "house",
+      "student_name": "harsha vardhan",
+      "student_id": 1670545140487,
+      "point": [
+        0.49,
+        0.41025641025641024
+      ]
+    },
+    {
+      "id": 3996,
+      "label": "tree",
+      "student_name": "harsha vardhan",
+      "student_id": 1670545140487,
+      "point": [
+        0.346,
+        0.36363636363636365
+      ]
+    },
+    {
+      "id": 3997,
+      "label": "bicycle",
+      "student_name": "harsha vardhan",
+      "student_id": 1670545140487,
+      "point": [
+        0.386,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 3998,
+      "label": "guitar",
+      "student_name": "harsha vardhan",
+      "student_id": 1670545140487,
+      "point": [
+        0.414,
+        0.44522144522144524
+      ]
+    },
+    {
+      "id": 3999,
+      "label": "pencil",
+      "student_name": "harsha vardhan",
+      "student_id": 1670545140487,
+      "point": [
+        0.136,
+        0.5244755244755245
+      ]
+    },
+    {
+      "id": 4000,
+      "label": "clock",
+      "student_name": "harsha vardhan",
+      "student_id": 1670545140487,
+      "point": [
+        0.33,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 4001,
+      "label": "car",
+      "student_name": "jkl",
+      "student_id": 1670824629511,
+      "point": [
+        0.632,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 4002,
+      "label": "fish",
+      "student_name": "jkl",
+      "student_id": 1670824629511,
+      "point": [
+        0.714,
+        0.3356643356643357
+      ]
+    },
+    {
+      "id": 4003,
+      "label": "house",
+      "student_name": "jkl",
+      "student_id": 1670824629511,
+      "point": [
+        0.394,
+        0.5734265734265734
+      ]
+    },
+    {
+      "id": 4004,
+      "label": "tree",
+      "student_name": "jkl",
+      "student_id": 1670824629511,
+      "point": [
+        -0.02,
+        0.2191142191142191
+      ]
+    },
+    {
+      "id": 4005,
+      "label": "bicycle",
+      "student_name": "jkl",
+      "student_id": 1670824629511,
+      "point": [
+        0.38,
+        0.5337995337995338
+      ]
+    },
+    {
+      "id": 4006,
+      "label": "guitar",
+      "student_name": "jkl",
+      "student_id": 1670824629511,
+      "point": [
+        0.12,
+        0.40792540792540793
+      ]
+    },
+    {
+      "id": 4007,
+      "label": "pencil",
+      "student_name": "jkl",
+      "student_id": 1670824629511,
+      "point": [
+        0.13,
+        0.2727272727272727
+      ]
+    },
+    {
+      "id": 4008,
+      "label": "clock",
+      "student_name": "jkl",
+      "student_id": 1670824629511,
+      "point": [
+        0.276,
+        0.19813519813519814
+      ]
+    },
+    {
+      "id": 4009,
+      "label": "car",
+      "student_name": "trishank.me",
+      "student_id": 1670853804934,
+      "point": [
+        0.5,
+        0.5174825174825175
+      ]
+    },
+    {
+      "id": 4010,
+      "label": "fish",
+      "student_name": "trishank.me",
+      "student_id": 1670853804934,
+      "point": [
+        0.362,
+        0.5641025641025641
+      ]
+    },
+    {
+      "id": 4011,
+      "label": "house",
+      "student_name": "trishank.me",
+      "student_id": 1670853804934,
+      "point": [
+        0.634,
+        0.5594405594405595
+      ]
+    },
+    {
+      "id": 4012,
+      "label": "tree",
+      "student_name": "trishank.me",
+      "student_id": 1670853804934,
+      "point": [
+        0.496,
+        0.6503496503496503
+      ]
+    },
+    {
+      "id": 4013,
+      "label": "bicycle",
+      "student_name": "trishank.me",
+      "student_id": 1670853804934,
+      "point": [
+        0.574,
+        0.4965034965034965
+      ]
+    },
+    {
+      "id": 4014,
+      "label": "guitar",
+      "student_name": "trishank.me",
+      "student_id": 1670853804934,
+      "point": [
+        0.42,
+        0.578088578088578
+      ]
+    },
+    {
+      "id": 4015,
+      "label": "pencil",
+      "student_name": "trishank.me",
+      "student_id": 1670853804934,
+      "point": [
+        0.384,
+        0.4219114219114219
+      ]
+    },
+    {
+      "id": 4016,
+      "label": "clock",
+      "student_name": "trishank.me",
+      "student_id": 1670853804934,
+      "point": [
+        0.322,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 4017,
+      "label": "car",
+      "student_name": "Faris",
+      "student_id": 1670856414073,
+      "point": [
+        0.448,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 4018,
+      "label": "fish",
+      "student_name": "Faris",
+      "student_id": 1670856414073,
+      "point": [
+        0.458,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 4019,
+      "label": "house",
+      "student_name": "Faris",
+      "student_id": 1670856414073,
+      "point": [
+        0.35,
+        0.5571095571095571
+      ]
+    },
+    {
+      "id": 4020,
+      "label": "tree",
+      "student_name": "Faris",
+      "student_id": 1670856414073,
+      "point": [
+        0.456,
+        0.8181818181818182
+      ]
+    },
+    {
+      "id": 4021,
+      "label": "bicycle",
+      "student_name": "Faris",
+      "student_id": 1670856414073,
+      "point": [
+        0.332,
+        0.2097902097902098
+      ]
+    },
+    {
+      "id": 4022,
+      "label": "guitar",
+      "student_name": "Faris",
+      "student_id": 1670856414073,
+      "point": [
+        0.234,
+        0.6876456876456877
+      ]
+    },
+    {
+      "id": 4023,
+      "label": "pencil",
+      "student_name": "Faris",
+      "student_id": 1670856414073,
+      "point": [
+        0.05,
+        0.5897435897435898
+      ]
+    },
+    {
+      "id": 4024,
+      "label": "clock",
+      "student_name": "Faris",
+      "student_id": 1670856414073,
+      "point": [
+        0.374,
+        0.5174825174825175
+      ]
+    },
+    {
+      "id": 4025,
+      "label": "car",
+      "student_name": "kunal",
+      "student_id": 1670879054198,
+      "point": [
+        0.492,
+        0.19813519813519814
+      ]
+    },
+    {
+      "id": 4026,
+      "label": "fish",
+      "student_name": "kunal",
+      "student_id": 1670879054198,
+      "point": [
+        0.284,
+        0.14685314685314685
+      ]
+    },
+    {
+      "id": 4027,
+      "label": "house",
+      "student_name": "kunal",
+      "student_id": 1670879054198,
+      "point": [
+        0.65,
+        0.49417249417249415
+      ]
+    },
+    {
+      "id": 4028,
+      "label": "tree",
+      "student_name": "kunal",
+      "student_id": 1670879054198,
+      "point": [
+        0.52,
+        0.710955710955711
+      ]
+    },
+    {
+      "id": 4029,
+      "label": "bicycle",
+      "student_name": "kunal",
+      "student_id": 1670879054198,
+      "point": [
+        0.58,
+        0.4801864801864802
+      ]
+    },
+    {
+      "id": 4030,
+      "label": "guitar",
+      "student_name": "kunal",
+      "student_id": 1670879054198,
+      "point": [
+        0.584,
+        0.5967365967365967
+      ]
+    },
+    {
+      "id": 4031,
+      "label": "pencil",
+      "student_name": "kunal",
+      "student_id": 1670879054198,
+      "point": [
+        0.504,
+        0.675990675990676
+      ]
+    },
+    {
+      "id": 4032,
+      "label": "clock",
+      "student_name": "kunal",
+      "student_id": 1670879054198,
+      "point": [
+        0.452,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 4033,
+      "label": "car",
+      "student_name": "diego",
+      "student_id": 1670948679953,
+      "point": [
+        0.328,
+        0.10256410256410256
+      ]
+    },
+    {
+      "id": 4034,
+      "label": "fish",
+      "student_name": "diego",
+      "student_id": 1670948679953,
+      "point": [
+        0.302,
+        0.013986013986013986
+      ]
+    },
+    {
+      "id": 4035,
+      "label": "house",
+      "student_name": "diego",
+      "student_id": 1670948679953,
+      "point": [
+        0.296,
+        0.40792540792540793
+      ]
+    },
+    {
+      "id": 4036,
+      "label": "tree",
+      "student_name": "diego",
+      "student_id": 1670948679953,
+      "point": [
+        0.504,
+        0.7272727272727273
+      ]
+    },
+    {
+      "id": 4037,
+      "label": "bicycle",
+      "student_name": "diego",
+      "student_id": 1670948679953,
+      "point": [
+        0.422,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 4038,
+      "label": "guitar",
+      "student_name": "diego",
+      "student_id": 1670948679953,
+      "point": [
+        0.562,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 4039,
+      "label": "pencil",
+      "student_name": "diego",
+      "student_id": 1670948679953,
+      "point": [
+        0.34,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 4040,
+      "label": "clock",
+      "student_name": "diego",
+      "student_id": 1670948679953,
+      "point": [
+        0.458,
+        0.5291375291375291
+      ]
+    },
+    {
+      "id": 4041,
+      "label": "car",
+      "student_name": "k",
+      "student_id": 1671743972795,
+      "point": [
+        0.54,
+        0.2937062937062937
+      ]
+    },
+    {
+      "id": 4042,
+      "label": "fish",
+      "student_name": "k",
+      "student_id": 1671743972795,
+      "point": [
+        0.252,
+        0.1351981351981352
+      ]
+    },
+    {
+      "id": 4043,
+      "label": "house",
+      "student_name": "k",
+      "student_id": 1671743972795,
+      "point": [
+        0.454,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 4044,
+      "label": "tree",
+      "student_name": "k",
+      "student_id": 1671743972795,
+      "point": [
+        0.166,
+        0.28438228438228436
+      ]
+    },
+    {
+      "id": 4045,
+      "label": "bicycle",
+      "student_name": "k",
+      "student_id": 1671743972795,
+      "point": [
+        0.31,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 4046,
+      "label": "guitar",
+      "student_name": "k",
+      "student_id": 1671743972795,
+      "point": [
+        0.514,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 4047,
+      "label": "pencil",
+      "student_name": "k",
+      "student_id": 1671743972795,
+      "point": [
+        0.252,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 4048,
+      "label": "clock",
+      "student_name": "k",
+      "student_id": 1671743972795,
+      "point": [
+        0.29,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 4049,
+      "label": "car",
+      "student_name": "BlueSquib",
+      "student_id": 1671787398347,
+      "point": [
+        0.598,
+        0.46153846153846156
+      ]
+    },
+    {
+      "id": 4050,
+      "label": "fish",
+      "student_name": "BlueSquib",
+      "student_id": 1671787398347,
+      "point": [
+        0.596,
+        0.4825174825174825
+      ]
+    },
+    {
+      "id": 4051,
+      "label": "house",
+      "student_name": "BlueSquib",
+      "student_id": 1671787398347,
+      "point": [
+        0.498,
+        0.8065268065268065
+      ]
+    },
+    {
+      "id": 4052,
+      "label": "tree",
+      "student_name": "BlueSquib",
+      "student_id": 1671787398347,
+      "point": [
+        0.326,
+        0.6946386946386947
+      ]
+    },
+    {
+      "id": 4053,
+      "label": "bicycle",
+      "student_name": "BlueSquib",
+      "student_id": 1671787398347,
+      "point": [
+        0.58,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 4054,
+      "label": "guitar",
+      "student_name": "BlueSquib",
+      "student_id": 1671787398347,
+      "point": [
+        0.528,
+        0.7482517482517482
+      ]
+    },
+    {
+      "id": 4055,
+      "label": "pencil",
+      "student_name": "BlueSquib",
+      "student_id": 1671787398347,
+      "point": [
+        0.326,
+        0.4405594405594406
+      ]
+    },
+    {
+      "id": 4056,
+      "label": "clock",
+      "student_name": "BlueSquib",
+      "student_id": 1671787398347,
+      "point": [
+        0.396,
+        0.6223776223776224
+      ]
+    },
+    {
+      "id": 4057,
+      "label": "car",
+      "student_name": "Aubisoka",
+      "student_id": 1671878163748,
+      "point": [
+        0.224,
+        0.11188811188811189
+      ]
+    },
+    {
+      "id": 4058,
+      "label": "fish",
+      "student_name": "Aubisoka",
+      "student_id": 1671878163748,
+      "point": [
+        0.152,
+        0.10955710955710955
+      ]
+    },
+    {
+      "id": 4059,
+      "label": "house",
+      "student_name": "Aubisoka",
+      "student_id": 1671878163748,
+      "point": [
+        0.358,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 4060,
+      "label": "tree",
+      "student_name": "Aubisoka",
+      "student_id": 1671878163748,
+      "point": [
+        0.534,
+        0.5547785547785548
+      ]
+    },
+    {
+      "id": 4061,
+      "label": "bicycle",
+      "student_name": "Aubisoka",
+      "student_id": 1671878163748,
+      "point": [
+        0.468,
+        0.44988344988344986
+      ]
+    },
+    {
+      "id": 4062,
+      "label": "guitar",
+      "student_name": "Aubisoka",
+      "student_id": 1671878163748,
+      "point": [
+        0.118,
+        0.40792540792540793
+      ]
+    },
+    {
+      "id": 4063,
+      "label": "pencil",
+      "student_name": "Aubisoka",
+      "student_id": 1671878163748,
+      "point": [
+        0.008,
+        0.29603729603729606
+      ]
+    },
+    {
+      "id": 4064,
+      "label": "clock",
+      "student_name": "Aubisoka",
+      "student_id": 1671878163748,
+      "point": [
+        0.326,
+        0.40559440559440557
+      ]
+    },
+    {
+      "id": 4065,
+      "label": "car",
+      "student_name": "mansur",
+      "student_id": 1671882775412,
+      "point": [
+        0.698,
+        0.29603729603729606
+      ]
+    },
+    {
+      "id": 4066,
+      "label": "fish",
+      "student_name": "mansur",
+      "student_id": 1671882775412,
+      "point": [
+        0.378,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 4067,
+      "label": "house",
+      "student_name": "mansur",
+      "student_id": 1671882775412,
+      "point": [
+        0.456,
+        0.703962703962704
+      ]
+    },
+    {
+      "id": 4068,
+      "label": "tree",
+      "student_name": "mansur",
+      "student_id": 1671882775412,
+      "point": [
+        0.534,
+        0.8018648018648019
+      ]
+    },
+    {
+      "id": 4069,
+      "label": "bicycle",
+      "student_name": "mansur",
+      "student_id": 1671882775412,
+      "point": [
+        0.644,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 4070,
+      "label": "guitar",
+      "student_name": "mansur",
+      "student_id": 1671882775412,
+      "point": [
+        0.456,
+        0.5687645687645687
+      ]
+    },
+    {
+      "id": 4071,
+      "label": "pencil",
+      "student_name": "mansur",
+      "student_id": 1671882775412,
+      "point": [
+        0.186,
+        0.48717948717948717
+      ]
+    },
+    {
+      "id": 4072,
+      "label": "clock",
+      "student_name": "mansur",
+      "student_id": 1671882775412,
+      "point": [
+        0.494,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 4073,
+      "label": "car",
+      "student_name": "Badri",
+      "student_id": 1672117734832,
+      "point": [
+        0.656,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 4074,
+      "label": "fish",
+      "student_name": "Badri",
+      "student_id": 1672117734832,
+      "point": [
+        0.634,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 4075,
+      "label": "house",
+      "student_name": "Badri",
+      "student_id": 1672117734832,
+      "point": [
+        0.554,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 4076,
+      "label": "tree",
+      "student_name": "Badri",
+      "student_id": 1672117734832,
+      "point": [
+        0.386,
+        0.655011655011655
+      ]
+    },
+    {
+      "id": 4077,
+      "label": "bicycle",
+      "student_name": "Badri",
+      "student_id": 1672117734832,
+      "point": [
+        0.588,
+        0.3613053613053613
+      ]
+    },
+    {
+      "id": 4078,
+      "label": "guitar",
+      "student_name": "Badri",
+      "student_id": 1672117734832,
+      "point": [
+        0.638,
+        0.2634032634032634
+      ]
+    },
+    {
+      "id": 4079,
+      "label": "pencil",
+      "student_name": "Badri",
+      "student_id": 1672117734832,
+      "point": [
+        0.026,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 4080,
+      "label": "clock",
+      "student_name": "Badri",
+      "student_id": 1672117734832,
+      "point": [
+        0.286,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 4081,
+      "label": "car",
+      "student_name": "Saranan Samanta",
+      "student_id": 1672762548572,
+      "point": [
+        0.708,
+        0.372960372960373
+      ]
+    },
+    {
+      "id": 4082,
+      "label": "fish",
+      "student_name": "Saranan Samanta",
+      "student_id": 1672762548572,
+      "point": [
+        0.686,
+        0.31002331002331
+      ]
+    },
+    {
+      "id": 4083,
+      "label": "house",
+      "student_name": "Saranan Samanta",
+      "student_id": 1672762548572,
+      "point": [
+        0.464,
+        0.47785547785547783
+      ]
+    },
+    {
+      "id": 4084,
+      "label": "tree",
+      "student_name": "Saranan Samanta",
+      "student_id": 1672762548572,
+      "point": [
+        0.464,
+        0.6317016317016317
+      ]
+    },
+    {
+      "id": 4085,
+      "label": "bicycle",
+      "student_name": "Saranan Samanta",
+      "student_id": 1672762548572,
+      "point": [
+        0.418,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 4086,
+      "label": "guitar",
+      "student_name": "Saranan Samanta",
+      "student_id": 1672762548572,
+      "point": [
+        0.596,
+        0.44522144522144524
+      ]
+    },
+    {
+      "id": 4087,
+      "label": "pencil",
+      "student_name": "Saranan Samanta",
+      "student_id": 1672762548572,
+      "point": [
+        0.472,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 4088,
+      "label": "clock",
+      "student_name": "Saranan Samanta",
+      "student_id": 1672762548572,
+      "point": [
+        0.402,
+        0.4428904428904429
+      ]
+    },
+    {
+      "id": 4089,
+      "label": "car",
+      "student_name": "Joni Bies",
+      "student_id": 1672830997090,
+      "point": [
+        0.378,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 4090,
+      "label": "fish",
+      "student_name": "Joni Bies",
+      "student_id": 1672830997090,
+      "point": [
+        0.434,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 4091,
+      "label": "house",
+      "student_name": "Joni Bies",
+      "student_id": 1672830997090,
+      "point": [
+        0.428,
+        0.4568764568764569
+      ]
+    },
+    {
+      "id": 4092,
+      "label": "tree",
+      "student_name": "Joni Bies",
+      "student_id": 1672830997090,
+      "point": [
+        0.44,
+        0.6177156177156177
+      ]
+    },
+    {
+      "id": 4093,
+      "label": "bicycle",
+      "student_name": "Joni Bies",
+      "student_id": 1672830997090,
+      "point": [
+        0.202,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 4094,
+      "label": "guitar",
+      "student_name": "Joni Bies",
+      "student_id": 1672830997090,
+      "point": [
+        0.572,
+        0.17249417249417248
+      ]
+    },
+    {
+      "id": 4095,
+      "label": "pencil",
+      "student_name": "Joni Bies",
+      "student_id": 1672830997090,
+      "point": [
+        0.116,
+        0.7062937062937062
+      ]
+    },
+    {
+      "id": 4096,
+      "label": "clock",
+      "student_name": "Joni Bies",
+      "student_id": 1672830997090,
+      "point": [
+        0.44,
+        0.5524475524475524
+      ]
+    },
+    {
+      "id": 4097,
+      "label": "car",
+      "student_name": "Gyan",
+      "student_id": 1672846534332,
+      "point": [
+        0.436,
+        0.2634032634032634
+      ]
+    },
+    {
+      "id": 4098,
+      "label": "fish",
+      "student_name": "Gyan",
+      "student_id": 1672846534332,
+      "point": [
+        0.606,
+        0.17715617715617715
+      ]
+    },
+    {
+      "id": 4099,
+      "label": "house",
+      "student_name": "Gyan",
+      "student_id": 1672846534332,
+      "point": [
+        0.636,
+        0.5710955710955711
+      ]
+    },
+    {
+      "id": 4100,
+      "label": "tree",
+      "student_name": "Gyan",
+      "student_id": 1672846534332,
+      "point": [
+        0.388,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 4101,
+      "label": "bicycle",
+      "student_name": "Gyan",
+      "student_id": 1672846534332,
+      "point": [
+        0.3,
+        0.1585081585081585
+      ]
+    },
+    {
+      "id": 4102,
+      "label": "guitar",
+      "student_name": "Gyan",
+      "student_id": 1672846534332,
+      "point": [
+        0.61,
+        0.6037296037296037
+      ]
+    },
+    {
+      "id": 4103,
+      "label": "pencil",
+      "student_name": "Gyan",
+      "student_id": 1672846534332,
+      "point": [
+        0.328,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 4104,
+      "label": "clock",
+      "student_name": "Gyan",
+      "student_id": 1672846534332,
+      "point": [
+        0.442,
+        0.44522144522144524
+      ]
+    },
+    {
+      "id": 4105,
+      "label": "car",
+      "student_name": "fb80",
+      "student_id": 1672961036954,
+      "point": [
+        0.57,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 4106,
+      "label": "fish",
+      "student_name": "fb80",
+      "student_id": 1672961036954,
+      "point": [
+        0.51,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 4107,
+      "label": "house",
+      "student_name": "fb80",
+      "student_id": 1672961036954,
+      "point": [
+        0.376,
+        0.6083916083916084
+      ]
+    },
+    {
+      "id": 4108,
+      "label": "tree",
+      "student_name": "fb80",
+      "student_id": 1672961036954,
+      "point": [
+        0.49,
+        0.7389277389277389
+      ]
+    },
+    {
+      "id": 4109,
+      "label": "bicycle",
+      "student_name": "fb80",
+      "student_id": 1672961036954,
+      "point": [
+        0.448,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 4110,
+      "label": "guitar",
+      "student_name": "fb80",
+      "student_id": 1672961036954,
+      "point": [
+        0.612,
+        0.1888111888111888
+      ]
+    },
+    {
+      "id": 4111,
+      "label": "pencil",
+      "student_name": "fb80",
+      "student_id": 1672961036954,
+      "point": [
+        0.078,
+        0.49417249417249415
+      ]
+    },
+    {
+      "id": 4112,
+      "label": "clock",
+      "student_name": "fb80",
+      "student_id": 1672961036954,
+      "point": [
+        0.332,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 4113,
+      "label": "car",
+      "student_name": "vishnuprasad",
+      "student_id": 1673012885578,
+      "point": [
+        0.702,
+        0.45454545454545453
+      ]
+    },
+    {
+      "id": 4114,
+      "label": "fish",
+      "student_name": "vishnuprasad",
+      "student_id": 1673012885578,
+      "point": [
+        0.416,
+        0.16317016317016317
+      ]
+    },
+    {
+      "id": 4115,
+      "label": "house",
+      "student_name": "vishnuprasad",
+      "student_id": 1673012885578,
+      "point": [
+        0.768,
+        0.5594405594405595
+      ]
+    },
+    {
+      "id": 4116,
+      "label": "tree",
+      "student_name": "vishnuprasad",
+      "student_id": 1673012885578,
+      "point": [
+        0.378,
+        0.5710955710955711
+      ]
+    },
+    {
+      "id": 4117,
+      "label": "bicycle",
+      "student_name": "vishnuprasad",
+      "student_id": 1673012885578,
+      "point": [
+        0.59,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 4118,
+      "label": "guitar",
+      "student_name": "vishnuprasad",
+      "student_id": 1673012885578,
+      "point": [
+        0.534,
+        0.5897435897435898
+      ]
+    },
+    {
+      "id": 4119,
+      "label": "pencil",
+      "student_name": "vishnuprasad",
+      "student_id": 1673012885578,
+      "point": [
+        0.428,
+        0.36596736596736595
+      ]
+    },
+    {
+      "id": 4120,
+      "label": "clock",
+      "student_name": "vishnuprasad",
+      "student_id": 1673012885578,
+      "point": [
+        0.324,
+        0.372960372960373
+      ]
+    },
+    {
+      "id": 4121,
+      "label": "car",
+      "student_name": "harshvardhan",
+      "student_id": 1673102030908,
+      "point": [
+        0.562,
+        0.2517482517482518
+      ]
+    },
+    {
+      "id": 4122,
+      "label": "fish",
+      "student_name": "harshvardhan",
+      "student_id": 1673102030908,
+      "point": [
+        0.356,
+        0.2680652680652681
+      ]
+    },
+    {
+      "id": 4123,
+      "label": "house",
+      "student_name": "harshvardhan",
+      "student_id": 1673102030908,
+      "point": [
+        0.348,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 4124,
+      "label": "tree",
+      "student_name": "harshvardhan",
+      "student_id": 1673102030908,
+      "point": [
+        0.402,
+        0.5594405594405595
+      ]
+    },
+    {
+      "id": 4125,
+      "label": "bicycle",
+      "student_name": "harshvardhan",
+      "student_id": 1673102030908,
+      "point": [
+        0.394,
+        0.3939393939393939
+      ]
+    },
+    {
+      "id": 4126,
+      "label": "guitar",
+      "student_name": "harshvardhan",
+      "student_id": 1673102030908,
+      "point": [
+        0.254,
+        0.7342657342657343
+      ]
+    },
+    {
+      "id": 4127,
+      "label": "pencil",
+      "student_name": "harshvardhan",
+      "student_id": 1673102030908,
+      "point": [
+        0.066,
+        0.47785547785547783
+      ]
+    },
+    {
+      "id": 4128,
+      "label": "clock",
+      "student_name": "harshvardhan",
+      "student_id": 1673102030908,
+      "point": [
+        0.374,
+        0.46153846153846156
+      ]
+    },
+    {
+      "id": 4129,
+      "label": "car",
+      "student_name": "Jarmo Laitinen",
+      "student_id": 1673108841193,
+      "point": [
+        0.512,
+        0.10256410256410256
+      ]
+    },
+    {
+      "id": 4130,
+      "label": "fish",
+      "student_name": "Jarmo Laitinen",
+      "student_id": 1673108841193,
+      "point": [
+        0.67,
+        0.1445221445221445
+      ]
+    },
+    {
+      "id": 4131,
+      "label": "house",
+      "student_name": "Jarmo Laitinen",
+      "student_id": 1673108841193,
+      "point": [
+        0.286,
+        0.3613053613053613
+      ]
+    },
+    {
+      "id": 4132,
+      "label": "tree",
+      "student_name": "Jarmo Laitinen",
+      "student_id": 1673108841193,
+      "point": [
+        0.438,
+        0.7878787878787878
+      ]
+    },
+    {
+      "id": 4133,
+      "label": "bicycle",
+      "student_name": "Jarmo Laitinen",
+      "student_id": 1673108841193,
+      "point": [
+        0.576,
+        0.15384615384615385
+      ]
+    },
+    {
+      "id": 4134,
+      "label": "guitar",
+      "student_name": "Jarmo Laitinen",
+      "student_id": 1673108841193,
+      "point": [
+        0.63,
+        0.34965034965034963
+      ]
+    },
+    {
+      "id": 4135,
+      "label": "pencil",
+      "student_name": "Jarmo Laitinen",
+      "student_id": 1673108841193,
+      "point": [
+        0.018,
+        0.5151515151515151
+      ]
+    },
+    {
+      "id": 4136,
+      "label": "clock",
+      "student_name": "Jarmo Laitinen",
+      "student_id": 1673108841193,
+      "point": [
+        0.294,
+        0.32400932400932403
+      ]
+    },
+    {
+      "id": 4137,
+      "label": "car",
+      "student_name": "Marianne Haapalehto",
+      "student_id": 1673199580888,
+      "point": [
+        0.668,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 4138,
+      "label": "fish",
+      "student_name": "Marianne Haapalehto",
+      "student_id": 1673199580888,
+      "point": [
+        0.374,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 4139,
+      "label": "house",
+      "student_name": "Marianne Haapalehto",
+      "student_id": 1673199580888,
+      "point": [
+        0.288,
+        0.4825174825174825
+      ]
+    },
+    {
+      "id": 4140,
+      "label": "tree",
+      "student_name": "Marianne Haapalehto",
+      "student_id": 1673199580888,
+      "point": [
+        0.37,
+        0.7016317016317016
+      ]
+    },
+    {
+      "id": 4141,
+      "label": "bicycle",
+      "student_name": "Marianne Haapalehto",
+      "student_id": 1673199580888,
+      "point": [
+        0.41,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 4142,
+      "label": "guitar",
+      "student_name": "Marianne Haapalehto",
+      "student_id": 1673199580888,
+      "point": [
+        0.286,
+        0.5361305361305362
+      ]
+    },
+    {
+      "id": 4143,
+      "label": "pencil",
+      "student_name": "Marianne Haapalehto",
+      "student_id": 1673199580888,
+      "point": [
+        0.496,
+        0.027972027972027972
+      ]
+    },
+    {
+      "id": 4144,
+      "label": "clock",
+      "student_name": "Marianne Haapalehto",
+      "student_id": 1673199580888,
+      "point": [
+        0.432,
+        0.4382284382284382
+      ]
+    },
+    {
+      "id": 4145,
+      "label": "car",
+      "student_name": "Jaakko",
+      "student_id": 1673211015561,
+      "point": [
+        0.392,
+        0.17482517482517482
+      ]
+    },
+    {
+      "id": 4146,
+      "label": "fish",
+      "student_name": "Jaakko",
+      "student_id": 1673211015561,
+      "point": [
+        0.382,
+        0.13986013986013987
+      ]
+    },
+    {
+      "id": 4147,
+      "label": "house",
+      "student_name": "Jaakko",
+      "student_id": 1673211015561,
+      "point": [
+        0.222,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 4148,
+      "label": "tree",
+      "student_name": "Jaakko",
+      "student_id": 1673211015561,
+      "point": [
+        0.168,
+        0.3682983682983683
+      ]
+    },
+    {
+      "id": 4149,
+      "label": "bicycle",
+      "student_name": "Jaakko",
+      "student_id": 1673211015561,
+      "point": [
+        0.382,
+        0.2517482517482518
+      ]
+    },
+    {
+      "id": 4150,
+      "label": "guitar",
+      "student_name": "Jaakko",
+      "student_id": 1673211015561,
+      "point": [
+        0.22,
+        0.5687645687645687
+      ]
+    },
+    {
+      "id": 4151,
+      "label": "pencil",
+      "student_name": "Jaakko",
+      "student_id": 1673211015561,
+      "point": [
+        0.246,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 4152,
+      "label": "clock",
+      "student_name": "Jaakko",
+      "student_id": 1673211015561,
+      "point": [
+        0.332,
+        0.3613053613053613
+      ]
+    },
+    {
+      "id": 4153,
+      "label": "car",
+      "student_name": "Minna",
+      "student_id": 1673260232161,
+      "point": [
+        0.364,
+        0.1282051282051282
+      ]
+    },
+    {
+      "id": 4154,
+      "label": "fish",
+      "student_name": "Minna",
+      "student_id": 1673260232161,
+      "point": [
+        0.3,
+        0.1258741258741259
+      ]
+    },
+    {
+      "id": 4155,
+      "label": "house",
+      "student_name": "Minna",
+      "student_id": 1673260232161,
+      "point": [
+        0.136,
+        0.11655011655011654
+      ]
+    },
+    {
+      "id": 4156,
+      "label": "tree",
+      "student_name": "Minna",
+      "student_id": 1673260232161,
+      "point": [
+        0.184,
+        0.18181818181818182
+      ]
+    },
+    {
+      "id": 4157,
+      "label": "bicycle",
+      "student_name": "Minna",
+      "student_id": 1673260232161,
+      "point": [
+        0.202,
+        0.08158508158508158
+      ]
+    },
+    {
+      "id": 4158,
+      "label": "guitar",
+      "student_name": "Minna",
+      "student_id": 1673260232161,
+      "point": [
+        0.108,
+        0.3333333333333333
+      ]
+    },
+    {
+      "id": 4159,
+      "label": "pencil",
+      "student_name": "Minna",
+      "student_id": 1673260232161,
+      "point": [
+        0.228,
+        0.20745920745920746
+      ]
+    },
+    {
+      "id": 4160,
+      "label": "clock",
+      "student_name": "Minna",
+      "student_id": 1673260232161,
+      "point": [
+        0.146,
+        0.14918414918414918
+      ]
+    },
+    {
+      "id": 4161,
+      "label": "car",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1673267611521,
+      "point": [
+        0.716,
+        0.23543123543123542
+      ]
+    },
+    {
+      "id": 4162,
+      "label": "fish",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1673267611521,
+      "point": [
+        0.37,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 4163,
+      "label": "house",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1673267611521,
+      "point": [
+        0.25,
+        0.45454545454545453
+      ]
+    },
+    {
+      "id": 4164,
+      "label": "tree",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1673267611521,
+      "point": [
+        0.354,
+        0.6060606060606061
+      ]
+    },
+    {
+      "id": 4165,
+      "label": "bicycle",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1673267611521,
+      "point": [
+        0.402,
+        0.2680652680652681
+      ]
+    },
+    {
+      "id": 4166,
+      "label": "guitar",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1673267611521,
+      "point": [
+        0.574,
+        0.4662004662004662
+      ]
+    },
+    {
+      "id": 4167,
+      "label": "pencil",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1673267611521,
+      "point": [
+        0.418,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 4168,
+      "label": "clock",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1673267611521,
+      "point": [
+        0.43,
+        0.4731934731934732
+      ]
+    },
+    {
+      "id": 4169,
+      "label": "car",
+      "student_name": "7u5h42",
+      "student_id": 1673294815934,
+      "point": [
+        0.462,
+        0.48951048951048953
+      ]
+    },
+    {
+      "id": 4170,
+      "label": "fish",
+      "student_name": "7u5h42",
+      "student_id": 1673294815934,
+      "point": [
+        0.392,
+        0.5827505827505828
+      ]
+    },
+    {
+      "id": 4171,
+      "label": "house",
+      "student_name": "7u5h42",
+      "student_id": 1673294815934,
+      "point": [
+        0.65,
+        0.5407925407925408
+      ]
+    },
+    {
+      "id": 4172,
+      "label": "tree",
+      "student_name": "7u5h42",
+      "student_id": 1673294815934,
+      "point": [
+        0.608,
+        0.6410256410256411
+      ]
+    },
+    {
+      "id": 4173,
+      "label": "bicycle",
+      "student_name": "7u5h42",
+      "student_id": 1673294815934,
+      "point": [
+        0.428,
+        0.5920745920745921
+      ]
+    },
+    {
+      "id": 4174,
+      "label": "guitar",
+      "student_name": "7u5h42",
+      "student_id": 1673294815934,
+      "point": [
+        0.258,
+        0.6643356643356644
+      ]
+    },
+    {
+      "id": 4175,
+      "label": "pencil",
+      "student_name": "7u5h42",
+      "student_id": 1673294815934,
+      "point": [
+        0.402,
+        0.4755244755244755
+      ]
+    },
+    {
+      "id": 4176,
+      "label": "clock",
+      "student_name": "7u5h42",
+      "student_id": 1673294815934,
+      "point": [
+        0.526,
+        0.5710955710955711
+      ]
+    },
+    {
+      "id": 4177,
+      "label": "car",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673350321605,
+      "point": [
+        0.522,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 4178,
+      "label": "fish",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673350321605,
+      "point": [
+        0.446,
+        0.3682983682983683
+      ]
+    },
+    {
+      "id": 4179,
+      "label": "house",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673350321605,
+      "point": [
+        0.642,
+        0.6247086247086248
+      ]
+    },
+    {
+      "id": 4180,
+      "label": "tree",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673350321605,
+      "point": [
+        0.404,
+        0.6876456876456877
+      ]
+    },
+    {
+      "id": 4181,
+      "label": "bicycle",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673350321605,
+      "point": [
+        0.466,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 4182,
+      "label": "guitar",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673350321605,
+      "point": [
+        0.668,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 4183,
+      "label": "pencil",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673350321605,
+      "point": [
+        0.312,
+        0.5477855477855478
+      ]
+    },
+    {
+      "id": 4184,
+      "label": "clock",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673350321605,
+      "point": [
+        0.436,
+        0.4801864801864802
+      ]
+    },
+    {
+      "id": 4185,
+      "label": "car",
+      "student_name": "Tiina",
+      "student_id": 1673352182988,
+      "point": [
+        0.694,
+        0.5244755244755245
+      ]
+    },
+    {
+      "id": 4186,
+      "label": "fish",
+      "student_name": "Tiina",
+      "student_id": 1673352182988,
+      "point": [
+        0.518,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 4187,
+      "label": "house",
+      "student_name": "Tiina",
+      "student_id": 1673352182988,
+      "point": [
+        0.562,
+        0.662004662004662
+      ]
+    },
+    {
+      "id": 4188,
+      "label": "tree",
+      "student_name": "Tiina",
+      "student_id": 1673352182988,
+      "point": [
+        0.658,
+        0.7505827505827506
+      ]
+    },
+    {
+      "id": 4189,
+      "label": "bicycle",
+      "student_name": "Tiina",
+      "student_id": 1673352182988,
+      "point": [
+        0.614,
+        0.5058275058275058
+      ]
+    },
+    {
+      "id": 4190,
+      "label": "guitar",
+      "student_name": "Tiina",
+      "student_id": 1673352182988,
+      "point": [
+        0.378,
+        0.6083916083916084
+      ]
+    },
+    {
+      "id": 4191,
+      "label": "pencil",
+      "student_name": "Tiina",
+      "student_id": 1673352182988,
+      "point": [
+        0.236,
+        0.29836829836829837
+      ]
+    },
+    {
+      "id": 4192,
+      "label": "clock",
+      "student_name": "Tiina",
+      "student_id": 1673352182988,
+      "point": [
+        0.3,
+        0.25874125874125875
+      ]
+    },
+    {
+      "id": 4193,
+      "label": "car",
+      "student_name": "Yusra Niaz",
+      "student_id": 1673353464227,
+      "point": [
+        0.406,
+        0.20046620046620048
+      ]
+    },
+    {
+      "id": 4194,
+      "label": "fish",
+      "student_name": "Yusra Niaz",
+      "student_id": 1673353464227,
+      "point": [
+        0.404,
+        0.2703962703962704
+      ]
+    },
+    {
+      "id": 4195,
+      "label": "house",
+      "student_name": "Yusra Niaz",
+      "student_id": 1673353464227,
+      "point": [
+        0.364,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 4196,
+      "label": "tree",
+      "student_name": "Yusra Niaz",
+      "student_id": 1673353464227,
+      "point": [
+        0.586,
+        0.6013986013986014
+      ]
+    },
+    {
+      "id": 4197,
+      "label": "bicycle",
+      "student_name": "Yusra Niaz",
+      "student_id": 1673353464227,
+      "point": [
+        0.49,
+        0.3006993006993007
+      ]
+    },
+    {
+      "id": 4198,
+      "label": "guitar",
+      "student_name": "Yusra Niaz",
+      "student_id": 1673353464227,
+      "point": [
+        0.554,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 4199,
+      "label": "pencil",
+      "student_name": "Yusra Niaz",
+      "student_id": 1673353464227,
+      "point": [
+        0.548,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 4200,
+      "label": "clock",
+      "student_name": "Yusra Niaz",
+      "student_id": 1673353464227,
+      "point": [
+        0.312,
+        0.32400932400932403
+      ]
+    },
+    {
+      "id": 4201,
+      "label": "car",
+      "student_name": "chi",
+      "student_id": 1673366141819,
+      "point": [
+        0.496,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 4202,
+      "label": "fish",
+      "student_name": "chi",
+      "student_id": 1673366141819,
+      "point": [
+        0.27,
+        0.19114219114219114
+      ]
+    },
+    {
+      "id": 4203,
+      "label": "house",
+      "student_name": "chi",
+      "student_id": 1673366141819,
+      "point": [
+        0.308,
+        0.5571095571095571
+      ]
+    },
+    {
+      "id": 4204,
+      "label": "tree",
+      "student_name": "chi",
+      "student_id": 1673366141819,
+      "point": [
+        0.21,
+        0.6223776223776224
+      ]
+    },
+    {
+      "id": 4205,
+      "label": "bicycle",
+      "student_name": "chi",
+      "student_id": 1673366141819,
+      "point": [
+        0.278,
+        0.3333333333333333
+      ]
+    },
+    {
+      "id": 4206,
+      "label": "guitar",
+      "student_name": "chi",
+      "student_id": 1673366141819,
+      "point": [
+        0.302,
+        0.4801864801864802
+      ]
+    },
+    {
+      "id": 4207,
+      "label": "pencil",
+      "student_name": "chi",
+      "student_id": 1673366141819,
+      "point": [
+        0.262,
+        0.4219114219114219
+      ]
+    },
+    {
+      "id": 4208,
+      "label": "clock",
+      "student_name": "chi",
+      "student_id": 1673366141819,
+      "point": [
+        0.384,
+        0.40792540792540793
+      ]
+    },
+    {
+      "id": 4209,
+      "label": "car",
+      "student_name": "Jin",
+      "student_id": 1673366400323,
+      "point": [
+        0.412,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 4210,
+      "label": "fish",
+      "student_name": "Jin",
+      "student_id": 1673366400323,
+      "point": [
+        0.546,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 4211,
+      "label": "house",
+      "student_name": "Jin",
+      "student_id": 1673366400323,
+      "point": [
+        0.662,
+        0.7226107226107226
+      ]
+    },
+    {
+      "id": 4212,
+      "label": "tree",
+      "student_name": "Jin",
+      "student_id": 1673366400323,
+      "point": [
+        0.708,
+        0.8438228438228438
+      ]
+    },
+    {
+      "id": 4213,
+      "label": "bicycle",
+      "student_name": "Jin",
+      "student_id": 1673366400323,
+      "point": [
+        0.594,
+        0.47785547785547783
+      ]
+    },
+    {
+      "id": 4214,
+      "label": "guitar",
+      "student_name": "Jin",
+      "student_id": 1673366400323,
+      "point": [
+        0.544,
+        0.4289044289044289
+      ]
+    },
+    {
+      "id": 4215,
+      "label": "pencil",
+      "student_name": "Jin",
+      "student_id": 1673366400323,
+      "point": [
+        0.518,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 4216,
+      "label": "clock",
+      "student_name": "Jin",
+      "student_id": 1673366400323,
+      "point": [
+        0.39,
+        0.42657342657342656
+      ]
+    },
+    {
+      "id": 4217,
+      "label": "car",
+      "student_name": "Ivânia",
+      "student_id": 1673419970701,
+      "point": [
+        0.444,
+        0.2097902097902098
+      ]
+    },
+    {
+      "id": 4218,
+      "label": "fish",
+      "student_name": "Ivânia",
+      "student_id": 1673419970701,
+      "point": [
+        0.478,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 4219,
+      "label": "house",
+      "student_name": "Ivânia",
+      "student_id": 1673419970701,
+      "point": [
+        0.46,
+        0.3962703962703963
+      ]
+    },
+    {
+      "id": 4220,
+      "label": "tree",
+      "student_name": "Ivânia",
+      "student_id": 1673419970701,
+      "point": [
+        0.764,
+        0.6013986013986014
+      ]
+    },
+    {
+      "id": 4221,
+      "label": "bicycle",
+      "student_name": "Ivânia",
+      "student_id": 1673419970701,
+      "point": [
+        0.4,
+        0.32867132867132864
+      ]
+    },
+    {
+      "id": 4222,
+      "label": "guitar",
+      "student_name": "Ivânia",
+      "student_id": 1673419970701,
+      "point": [
+        0.352,
+        0.47086247086247085
+      ]
+    },
+    {
+      "id": 4223,
+      "label": "pencil",
+      "student_name": "Ivânia",
+      "student_id": 1673419970701,
+      "point": [
+        0.396,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 4224,
+      "label": "clock",
+      "student_name": "Ivânia",
+      "student_id": 1673419970701,
+      "point": [
+        0.348,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 4225,
+      "label": "car",
+      "student_name": "Marjatta Teirilä",
+      "student_id": 1673431430372,
+      "point": [
+        0.698,
+        0.32867132867132864
+      ]
+    },
+    {
+      "id": 4226,
+      "label": "fish",
+      "student_name": "Marjatta Teirilä",
+      "student_id": 1673431430372,
+      "point": [
+        0.634,
+        0.17482517482517482
+      ]
+    },
+    {
+      "id": 4227,
+      "label": "house",
+      "student_name": "Marjatta Teirilä",
+      "student_id": 1673431430372,
+      "point": [
+        0.68,
+        0.34265734265734266
+      ]
+    },
+    {
+      "id": 4228,
+      "label": "tree",
+      "student_name": "Marjatta Teirilä",
+      "student_id": 1673431430372,
+      "point": [
+        0.588,
+        0.6573426573426573
+      ]
+    },
+    {
+      "id": 4229,
+      "label": "bicycle",
+      "student_name": "Marjatta Teirilä",
+      "student_id": 1673431430372,
+      "point": [
+        0.488,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 4230,
+      "label": "guitar",
+      "student_name": "Marjatta Teirilä",
+      "student_id": 1673431430372,
+      "point": [
+        0.3,
+        0.5827505827505828
+      ]
+    },
+    {
+      "id": 4231,
+      "label": "pencil",
+      "student_name": "Marjatta Teirilä",
+      "student_id": 1673431430372,
+      "point": [
+        0.426,
+        0.0675990675990676
+      ]
+    },
+    {
+      "id": 4232,
+      "label": "clock",
+      "student_name": "Marjatta Teirilä",
+      "student_id": 1673431430372,
+      "point": [
+        0.544,
+        0.4568764568764569
+      ]
+    },
+    {
+      "id": 4233,
+      "label": "car",
+      "student_name": "Minna",
+      "student_id": 1673520177789,
+      "point": [
+        0.528,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 4234,
+      "label": "fish",
+      "student_name": "Minna",
+      "student_id": 1673520177789,
+      "point": [
+        0.468,
+        0.31002331002331
+      ]
+    },
+    {
+      "id": 4235,
+      "label": "house",
+      "student_name": "Minna",
+      "student_id": 1673520177789,
+      "point": [
+        0.548,
+        0.4662004662004662
+      ]
+    },
+    {
+      "id": 4236,
+      "label": "tree",
+      "student_name": "Minna",
+      "student_id": 1673520177789,
+      "point": [
+        0.608,
+        0.8135198135198135
+      ]
+    },
+    {
+      "id": 4237,
+      "label": "bicycle",
+      "student_name": "Minna",
+      "student_id": 1673520177789,
+      "point": [
+        0.556,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 4238,
+      "label": "guitar",
+      "student_name": "Minna",
+      "student_id": 1673520177789,
+      "point": [
+        0.614,
+        0.7552447552447552
+      ]
+    },
+    {
+      "id": 4239,
+      "label": "pencil",
+      "student_name": "Minna",
+      "student_id": 1673520177789,
+      "point": [
+        0.578,
+        0.5944055944055944
+      ]
+    },
+    {
+      "id": 4240,
+      "label": "clock",
+      "student_name": "Minna",
+      "student_id": 1673520177789,
+      "point": [
+        0.396,
+        0.4522144522144522
+      ]
+    },
+    {
+      "id": 4241,
+      "label": "car",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673521959653,
+      "point": [
+        0.476,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 4242,
+      "label": "fish",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673521959653,
+      "point": [
+        0.458,
+        0.4428904428904429
+      ]
+    },
+    {
+      "id": 4243,
+      "label": "house",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673521959653,
+      "point": [
+        0.418,
+        0.44522144522144524
+      ]
+    },
+    {
+      "id": 4244,
+      "label": "tree",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673521959653,
+      "point": [
+        0.44,
+        0.6317016317016317
+      ]
+    },
+    {
+      "id": 4245,
+      "label": "bicycle",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673521959653,
+      "point": [
+        0.43,
+        0.31002331002331
+      ]
+    },
+    {
+      "id": 4246,
+      "label": "guitar",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673521959653,
+      "point": [
+        0.594,
+        0.2937062937062937
+      ]
+    },
+    {
+      "id": 4247,
+      "label": "pencil",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673521959653,
+      "point": [
+        0.38,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 4248,
+      "label": "clock",
+      "student_name": "Janne Javanainen",
+      "student_id": 1673521959653,
+      "point": [
+        0.55,
+        0.5011655011655012
+      ]
+    },
+    {
+      "id": 4249,
+      "label": "car",
+      "student_name": "Marjatta",
+      "student_id": 1673530138598,
+      "point": [
+        0.684,
+        0.36363636363636365
+      ]
+    },
+    {
+      "id": 4250,
+      "label": "fish",
+      "student_name": "Marjatta",
+      "student_id": 1673530138598,
+      "point": [
+        0.576,
+        0.18414918414918416
+      ]
+    },
+    {
+      "id": 4251,
+      "label": "house",
+      "student_name": "Marjatta",
+      "student_id": 1673530138598,
+      "point": [
+        0.532,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 4252,
+      "label": "tree",
+      "student_name": "Marjatta",
+      "student_id": 1673530138598,
+      "point": [
+        0.49,
+        0.6410256410256411
+      ]
+    },
+    {
+      "id": 4253,
+      "label": "bicycle",
+      "student_name": "Marjatta",
+      "student_id": 1673530138598,
+      "point": [
+        0.372,
+        0.31002331002331
+      ]
+    },
+    {
+      "id": 4254,
+      "label": "guitar",
+      "student_name": "Marjatta",
+      "student_id": 1673530138598,
+      "point": [
+        0.306,
+        0.5920745920745921
+      ]
+    },
+    {
+      "id": 4255,
+      "label": "pencil",
+      "student_name": "Marjatta",
+      "student_id": 1673530138598,
+      "point": [
+        0.276,
+        0.4522144522144522
+      ]
+    },
+    {
+      "id": 4256,
+      "label": "clock",
+      "student_name": "Marjatta",
+      "student_id": 1673530138598,
+      "point": [
+        0.508,
+        0.5128205128205128
+      ]
+    },
+    {
+      "id": 4257,
+      "label": "car",
+      "student_name": "Javi",
+      "student_id": 1673594780157,
+      "point": [
+        0.562,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 4258,
+      "label": "fish",
+      "student_name": "Javi",
+      "student_id": 1673594780157,
+      "point": [
+        0.49,
+        0.2727272727272727
+      ]
+    },
+    {
+      "id": 4259,
+      "label": "house",
+      "student_name": "Javi",
+      "student_id": 1673594780157,
+      "point": [
+        0.372,
+        0.35664335664335667
+      ]
+    },
+    {
+      "id": 4260,
+      "label": "tree",
+      "student_name": "Javi",
+      "student_id": 1673594780157,
+      "point": [
+        0.396,
+        0.4731934731934732
+      ]
+    },
+    {
+      "id": 4261,
+      "label": "bicycle",
+      "student_name": "Javi",
+      "student_id": 1673594780157,
+      "point": [
+        0.434,
+        0.289044289044289
+      ]
+    },
+    {
+      "id": 4262,
+      "label": "guitar",
+      "student_name": "Javi",
+      "student_id": 1673594780157,
+      "point": [
+        0.374,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 4263,
+      "label": "pencil",
+      "student_name": "Javi",
+      "student_id": 1673594780157,
+      "point": [
+        0.27,
+        0.29603729603729606
+      ]
+    },
+    {
+      "id": 4264,
+      "label": "clock",
+      "student_name": "Javi",
+      "student_id": 1673594780157,
+      "point": [
+        0.426,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 4265,
+      "label": "car",
+      "student_name": "Antti",
+      "student_id": 1673617982984,
+      "point": [
+        0.252,
+        0.19114219114219114
+      ]
+    },
+    {
+      "id": 4266,
+      "label": "fish",
+      "student_name": "Antti",
+      "student_id": 1673617982984,
+      "point": [
+        0.228,
+        0.06993006993006994
+      ]
+    },
+    {
+      "id": 4267,
+      "label": "house",
+      "student_name": "Antti",
+      "student_id": 1673617982984,
+      "point": [
+        0.304,
+        0.34965034965034963
+      ]
+    },
+    {
+      "id": 4268,
+      "label": "tree",
+      "student_name": "Antti",
+      "student_id": 1673617982984,
+      "point": [
+        0.34,
+        0.48484848484848486
+      ]
+    },
+    {
+      "id": 4269,
+      "label": "bicycle",
+      "student_name": "Antti",
+      "student_id": 1673617982984,
+      "point": [
+        0.334,
+        0.19813519813519814
+      ]
+    },
+    {
+      "id": 4270,
+      "label": "guitar",
+      "student_name": "Antti",
+      "student_id": 1673617982984,
+      "point": [
+        0.194,
+        0.46853146853146854
+      ]
+    },
+    {
+      "id": 4271,
+      "label": "pencil",
+      "student_name": "Antti",
+      "student_id": 1673617982984,
+      "point": [
+        0.412,
+        0.046620046620046623
+      ]
+    },
+    {
+      "id": 4272,
+      "label": "clock",
+      "student_name": "Antti",
+      "student_id": 1673617982984,
+      "point": [
+        0.212,
+        0.25874125874125875
+      ]
+    },
+    {
+      "id": 4273,
+      "label": "car",
+      "student_name": "Joni Vesterinen",
+      "student_id": 1673619166105,
+      "point": [
+        0.484,
+        0.351981351981352
+      ]
+    },
+    {
+      "id": 4274,
+      "label": "fish",
+      "student_name": "Joni Vesterinen",
+      "student_id": 1673619166105,
+      "point": [
+        0.642,
+        0.317016317016317
+      ]
+    },
+    {
+      "id": 4275,
+      "label": "house",
+      "student_name": "Joni Vesterinen",
+      "student_id": 1673619166105,
+      "point": [
+        0.612,
+        0.7878787878787878
+      ]
+    },
+    {
+      "id": 4276,
+      "label": "tree",
+      "student_name": "Joni Vesterinen",
+      "student_id": 1673619166105,
+      "point": [
+        0.646,
+        0.7342657342657343
+      ]
+    },
+    {
+      "id": 4277,
+      "label": "bicycle",
+      "student_name": "Joni Vesterinen",
+      "student_id": 1673619166105,
+      "point": [
+        0.564,
+        0.4568764568764569
+      ]
+    },
+    {
+      "id": 4278,
+      "label": "guitar",
+      "student_name": "Joni Vesterinen",
+      "student_id": 1673619166105,
+      "point": [
+        0.67,
+        0.6713286713286714
+      ]
+    },
+    {
+      "id": 4279,
+      "label": "pencil",
+      "student_name": "Joni Vesterinen",
+      "student_id": 1673619166105,
+      "point": [
+        0.57,
+        0.696969696969697
+      ]
+    },
+    {
+      "id": 4280,
+      "label": "clock",
+      "student_name": "Joni Vesterinen",
+      "student_id": 1673619166105,
+      "point": [
+        0.462,
+        0.5571095571095571
+      ]
+    },
+    {
+      "id": 4281,
+      "label": "car",
+      "student_name": "Heidi Borenius",
+      "student_id": 1673829321136,
+      "point": [
+        0.384,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 4282,
+      "label": "fish",
+      "student_name": "Heidi Borenius",
+      "student_id": 1673829321136,
+      "point": [
+        0.222,
+        0.07226107226107226
+      ]
+    },
+    {
+      "id": 4283,
+      "label": "house",
+      "student_name": "Heidi Borenius",
+      "student_id": 1673829321136,
+      "point": [
+        0.424,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 4284,
+      "label": "tree",
+      "student_name": "Heidi Borenius",
+      "student_id": 1673829321136,
+      "point": [
+        0.41,
+        0.45454545454545453
+      ]
+    },
+    {
+      "id": 4285,
+      "label": "bicycle",
+      "student_name": "Heidi Borenius",
+      "student_id": 1673829321136,
+      "point": [
+        0.284,
+        0.20046620046620048
+      ]
+    },
+    {
+      "id": 4286,
+      "label": "guitar",
+      "student_name": "Heidi Borenius",
+      "student_id": 1673829321136,
+      "point": [
+        0.336,
+        0.23543123543123542
+      ]
+    },
+    {
+      "id": 4287,
+      "label": "pencil",
+      "student_name": "Heidi Borenius",
+      "student_id": 1673829321136,
+      "point": [
+        0.142,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 4288,
+      "label": "clock",
+      "student_name": "Heidi Borenius",
+      "student_id": 1673829321136,
+      "point": [
+        0.106,
+        0.19347319347319347
+      ]
+    },
+    {
+      "id": 4289,
+      "label": "car",
+      "student_name": "Natalia",
+      "student_id": 1673945607702,
+      "point": [
+        0.61,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 4290,
+      "label": "fish",
+      "student_name": "Natalia",
+      "student_id": 1673945607702,
+      "point": [
+        0.406,
+        0.15151515151515152
+      ]
+    },
+    {
+      "id": 4291,
+      "label": "house",
+      "student_name": "Natalia",
+      "student_id": 1673945607702,
+      "point": [
+        0.416,
+        0.6363636363636364
+      ]
+    },
+    {
+      "id": 4292,
+      "label": "tree",
+      "student_name": "Natalia",
+      "student_id": 1673945607702,
+      "point": [
+        0.404,
+        0.7365967365967366
+      ]
+    },
+    {
+      "id": 4293,
+      "label": "bicycle",
+      "student_name": "Natalia",
+      "student_id": 1673945607702,
+      "point": [
+        0.404,
+        0.42657342657342656
+      ]
+    },
+    {
+      "id": 4294,
+      "label": "guitar",
+      "student_name": "Natalia",
+      "student_id": 1673945607702,
+      "point": [
+        0.4,
+        0.5944055944055944
+      ]
+    },
+    {
+      "id": 4295,
+      "label": "pencil",
+      "student_name": "Natalia",
+      "student_id": 1673945607702,
+      "point": [
+        0.236,
+        0.47086247086247085
+      ]
+    },
+    {
+      "id": 4296,
+      "label": "clock",
+      "student_name": "Natalia",
+      "student_id": 1673945607702,
+      "point": [
+        0.28,
+        0.4219114219114219
+      ]
+    },
+    {
+      "id": 4297,
+      "label": "car",
+      "student_name": "Toni",
+      "student_id": 1673963438683,
+      "point": [
+        0.472,
+        0.1351981351981352
+      ]
+    },
+    {
+      "id": 4298,
+      "label": "fish",
+      "student_name": "Toni",
+      "student_id": 1673963438683,
+      "point": [
+        0.43,
+        0.10955710955710955
+      ]
+    },
+    {
+      "id": 4299,
+      "label": "house",
+      "student_name": "Toni",
+      "student_id": 1673963438683,
+      "point": [
+        0.628,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 4300,
+      "label": "tree",
+      "student_name": "Toni",
+      "student_id": 1673963438683,
+      "point": [
+        0.31,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 4301,
+      "label": "bicycle",
+      "student_name": "Toni",
+      "student_id": 1673963438683,
+      "point": [
+        0.444,
+        0.20279720279720279
+      ]
+    },
+    {
+      "id": 4302,
+      "label": "guitar",
+      "student_name": "Toni",
+      "student_id": 1673963438683,
+      "point": [
+        0.702,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 4303,
+      "label": "pencil",
+      "student_name": "Toni",
+      "student_id": 1673963438683,
+      "point": [
+        0.29,
+        0.28438228438228436
+      ]
+    },
+    {
+      "id": 4304,
+      "label": "clock",
+      "student_name": "Toni",
+      "student_id": 1673963438683,
+      "point": [
+        0.31,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 4305,
+      "label": "car",
+      "student_name": "Hanna Turunen",
+      "student_id": 1673964699311,
+      "point": [
+        0.386,
+        0.11655011655011654
+      ]
+    },
+    {
+      "id": 4306,
+      "label": "fish",
+      "student_name": "Hanna Turunen",
+      "student_id": 1673964699311,
+      "point": [
+        0.296,
+        0.17715617715617715
+      ]
+    },
+    {
+      "id": 4307,
+      "label": "house",
+      "student_name": "Hanna Turunen",
+      "student_id": 1673964699311,
+      "point": [
+        0.17,
+        0.15384615384615385
+      ]
+    },
+    {
+      "id": 4308,
+      "label": "tree",
+      "student_name": "Hanna Turunen",
+      "student_id": 1673964699311,
+      "point": [
+        0.52,
+        0.7226107226107226
+      ]
+    },
+    {
+      "id": 4309,
+      "label": "bicycle",
+      "student_name": "Hanna Turunen",
+      "student_id": 1673964699311,
+      "point": [
+        0.296,
+        0.13986013986013987
+      ]
+    },
+    {
+      "id": 4310,
+      "label": "guitar",
+      "student_name": "Hanna Turunen",
+      "student_id": 1673964699311,
+      "point": [
+        0.488,
+        0.6083916083916084
+      ]
+    },
+    {
+      "id": 4311,
+      "label": "pencil",
+      "student_name": "Hanna Turunen",
+      "student_id": 1673964699311,
+      "point": [
+        0.202,
+        0.19347319347319347
+      ]
+    },
+    {
+      "id": 4312,
+      "label": "clock",
+      "student_name": "Hanna Turunen",
+      "student_id": 1673964699311,
+      "point": [
+        0.208,
+        0.2261072261072261
+      ]
+    },
+    {
+      "id": 4313,
+      "label": "car",
+      "student_name": "Tatiana Kurvinen",
+      "student_id": 1673968780281,
+      "point": [
+        0.664,
+        0.20279720279720279
+      ]
+    },
+    {
+      "id": 4314,
+      "label": "fish",
+      "student_name": "Tatiana Kurvinen",
+      "student_id": 1673968780281,
+      "point": [
+        0.6,
+        0.3356643356643357
+      ]
+    },
+    {
+      "id": 4315,
+      "label": "house",
+      "student_name": "Tatiana Kurvinen",
+      "student_id": 1673968780281,
+      "point": [
+        0.67,
+        0.6993006993006993
+      ]
+    },
+    {
+      "id": 4316,
+      "label": "tree",
+      "student_name": "Tatiana Kurvinen",
+      "student_id": 1673968780281,
+      "point": [
+        0.62,
+        0.6153846153846154
+      ]
+    },
+    {
+      "id": 4317,
+      "label": "bicycle",
+      "student_name": "Tatiana Kurvinen",
+      "student_id": 1673968780281,
+      "point": [
+        0.73,
+        0.682983682983683
+      ]
+    },
+    {
+      "id": 4318,
+      "label": "guitar",
+      "student_name": "Tatiana Kurvinen",
+      "student_id": 1673968780281,
+      "point": [
+        0.714,
+        0.26573426573426573
+      ]
+    },
+    {
+      "id": 4319,
+      "label": "pencil",
+      "student_name": "Tatiana Kurvinen",
+      "student_id": 1673968780281,
+      "point": [
+        0.404,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 4320,
+      "label": "clock",
+      "student_name": "Tatiana Kurvinen",
+      "student_id": 1673968780281,
+      "point": [
+        0.534,
+        0.47086247086247085
+      ]
+    },
+    {
+      "id": 4321,
+      "label": "car",
+      "student_name": "vakenatt",
+      "student_id": 1673986720630,
+      "point": [
+        0.488,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 4322,
+      "label": "fish",
+      "student_name": "vakenatt",
+      "student_id": 1673986720630,
+      "point": [
+        0.398,
+        0.07925407925407925
+      ]
+    },
+    {
+      "id": 4323,
+      "label": "house",
+      "student_name": "vakenatt",
+      "student_id": 1673986720630,
+      "point": [
+        0.456,
+        0.5967365967365967
+      ]
+    },
+    {
+      "id": 4324,
+      "label": "tree",
+      "student_name": "vakenatt",
+      "student_id": 1673986720630,
+      "point": [
+        0.508,
+        0.8275058275058275
+      ]
+    },
+    {
+      "id": 4325,
+      "label": "bicycle",
+      "student_name": "vakenatt",
+      "student_id": 1673986720630,
+      "point": [
+        0.626,
+        0.43123543123543123
+      ]
+    },
+    {
+      "id": 4326,
+      "label": "guitar",
+      "student_name": "vakenatt",
+      "student_id": 1673986720630,
+      "point": [
+        0.466,
+        0.18181818181818182
+      ]
+    },
+    {
+      "id": 4327,
+      "label": "pencil",
+      "student_name": "vakenatt",
+      "student_id": 1673986720630,
+      "point": [
+        0.016,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 4328,
+      "label": "clock",
+      "student_name": "vakenatt",
+      "student_id": 1673986720630,
+      "point": [
+        0.262,
+        0.28438228438228436
+      ]
+    },
+    {
+      "id": 4329,
+      "label": "car",
+      "student_name": "Arne",
+      "student_id": 1674053190152,
+      "point": [
+        0.412,
+        0.1888111888111888
+      ]
+    },
+    {
+      "id": 4330,
+      "label": "fish",
+      "student_name": "Arne",
+      "student_id": 1674053190152,
+      "point": [
+        0.232,
+        0.07925407925407925
+      ]
+    },
+    {
+      "id": 4331,
+      "label": "house",
+      "student_name": "Arne",
+      "student_id": 1674053190152,
+      "point": [
+        0.432,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 4332,
+      "label": "tree",
+      "student_name": "Arne",
+      "student_id": 1674053190152,
+      "point": [
+        0.25,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 4333,
+      "label": "bicycle",
+      "student_name": "Arne",
+      "student_id": 1674053190152,
+      "point": [
+        0.286,
+        0.16317016317016317
+      ]
+    },
+    {
+      "id": 4334,
+      "label": "guitar",
+      "student_name": "Arne",
+      "student_id": 1674053190152,
+      "point": [
+        0.264,
+        0.5594405594405595
+      ]
+    },
+    {
+      "id": 4335,
+      "label": "pencil",
+      "student_name": "Arne",
+      "student_id": 1674053190152,
+      "point": [
+        0.422,
+        -0.004662004662004662
+      ]
+    },
+    {
+      "id": 4336,
+      "label": "clock",
+      "student_name": "Arne",
+      "student_id": 1674053190152,
+      "point": [
+        0.204,
+        0.21678321678321677
+      ]
+    },
+    {
+      "id": 4337,
+      "label": "car",
+      "student_name": "PiaP",
+      "student_id": 1674064882429,
+      "point": [
+        0.76,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 4338,
+      "label": "fish",
+      "student_name": "PiaP",
+      "student_id": 1674064882429,
+      "point": [
+        0.602,
+        0.2634032634032634
+      ]
+    },
+    {
+      "id": 4339,
+      "label": "house",
+      "student_name": "PiaP",
+      "student_id": 1674064882429,
+      "point": [
+        0.212,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 4340,
+      "label": "tree",
+      "student_name": "PiaP",
+      "student_id": 1674064882429,
+      "point": [
+        0.436,
+        0.5337995337995338
+      ]
+    },
+    {
+      "id": 4341,
+      "label": "bicycle",
+      "student_name": "PiaP",
+      "student_id": 1674064882429,
+      "point": [
+        0.494,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 4342,
+      "label": "guitar",
+      "student_name": "PiaP",
+      "student_id": 1674064882429,
+      "point": [
+        0.256,
+        0.7575757575757576
+      ]
+    },
+    {
+      "id": 4343,
+      "label": "pencil",
+      "student_name": "PiaP",
+      "student_id": 1674064882429,
+      "point": [
+        0.366,
+        0.17249417249417248
+      ]
+    },
+    {
+      "id": 4344,
+      "label": "clock",
+      "student_name": "PiaP",
+      "student_id": 1674064882429,
+      "point": [
+        0.394,
+        0.47086247086247085
+      ]
+    },
+    {
+      "id": 4345,
+      "label": "car",
+      "student_name": "Ben",
+      "student_id": 1674158928877,
+      "point": [
+        0.464,
+        0.1585081585081585
+      ]
+    },
+    {
+      "id": 4346,
+      "label": "fish",
+      "student_name": "Ben",
+      "student_id": 1674158928877,
+      "point": [
+        0.44,
+        0.16317016317016317
+      ]
+    },
+    {
+      "id": 4347,
+      "label": "house",
+      "student_name": "Ben",
+      "student_id": 1674158928877,
+      "point": [
+        0.292,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 4348,
+      "label": "tree",
+      "student_name": "Ben",
+      "student_id": 1674158928877,
+      "point": [
+        0.474,
+        0.6503496503496503
+      ]
+    },
+    {
+      "id": 4349,
+      "label": "bicycle",
+      "student_name": "Ben",
+      "student_id": 1674158928877,
+      "point": [
+        0.512,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 4350,
+      "label": "guitar",
+      "student_name": "Ben",
+      "student_id": 1674158928877,
+      "point": [
+        0.764,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 4351,
+      "label": "pencil",
+      "student_name": "Ben",
+      "student_id": 1674158928877,
+      "point": [
+        0.488,
+        0.4195804195804196
+      ]
+    },
+    {
+      "id": 4352,
+      "label": "clock",
+      "student_name": "Ben",
+      "student_id": 1674158928877,
+      "point": [
+        0.374,
+        0.32400932400932403
+      ]
+    },
+    {
+      "id": 4353,
+      "label": "car",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1674198272865,
+      "point": [
+        0.698,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 4354,
+      "label": "fish",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1674198272865,
+      "point": [
+        0.55,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 4355,
+      "label": "house",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1674198272865,
+      "point": [
+        0.446,
+        0.7808857808857809
+      ]
+    },
+    {
+      "id": 4356,
+      "label": "tree",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1674198272865,
+      "point": [
+        0.4,
+        0.7622377622377622
+      ]
+    },
+    {
+      "id": 4357,
+      "label": "bicycle",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1674198272865,
+      "point": [
+        0.558,
+        0.3939393939393939
+      ]
+    },
+    {
+      "id": 4358,
+      "label": "guitar",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1674198272865,
+      "point": [
+        0.686,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 4359,
+      "label": "pencil",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1674198272865,
+      "point": [
+        0.102,
+        0.6223776223776224
+      ]
+    },
+    {
+      "id": 4360,
+      "label": "clock",
+      "student_name": "Leevi Linnovaara",
+      "student_id": 1674198272865,
+      "point": [
+        0.41,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 4361,
+      "label": "car",
+      "student_name": "Jenna",
+      "student_id": 1674217616387,
+      "point": [
+        0.526,
+        0.19813519813519814
+      ]
+    },
+    {
+      "id": 4362,
+      "label": "fish",
+      "student_name": "Jenna",
+      "student_id": 1674217616387,
+      "point": [
+        0.312,
+        0.08391608391608392
+      ]
+    },
+    {
+      "id": 4363,
+      "label": "house",
+      "student_name": "Jenna",
+      "student_id": 1674217616387,
+      "point": [
+        0.29,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 4364,
+      "label": "tree",
+      "student_name": "Jenna",
+      "student_id": 1674217616387,
+      "point": [
+        0.534,
+        0.6923076923076923
+      ]
+    },
+    {
+      "id": 4365,
+      "label": "bicycle",
+      "student_name": "Jenna",
+      "student_id": 1674217616387,
+      "point": [
+        0.384,
+        0.1958041958041958
+      ]
+    },
+    {
+      "id": 4366,
+      "label": "guitar",
+      "student_name": "Jenna",
+      "student_id": 1674217616387,
+      "point": [
+        0.33,
+        0.5524475524475524
+      ]
+    },
+    {
+      "id": 4367,
+      "label": "pencil",
+      "student_name": "Jenna",
+      "student_id": 1674217616387,
+      "point": [
+        0.27,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 4368,
+      "label": "clock",
+      "student_name": "Jenna",
+      "student_id": 1674217616387,
+      "point": [
+        0.384,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 4369,
+      "label": "car",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674226367932,
+      "point": [
+        0.532,
+        0.28438228438228436
+      ]
+    },
+    {
+      "id": 4370,
+      "label": "fish",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674226367932,
+      "point": [
+        0.378,
+        0.12354312354312354
+      ]
+    },
+    {
+      "id": 4371,
+      "label": "house",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674226367932,
+      "point": [
+        0.372,
+        0.1585081585081585
+      ]
+    },
+    {
+      "id": 4372,
+      "label": "tree",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674226367932,
+      "point": [
+        0.38,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 4373,
+      "label": "bicycle",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674226367932,
+      "point": [
+        0.368,
+        0.2331002331002331
+      ]
+    },
+    {
+      "id": 4374,
+      "label": "guitar",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674226367932,
+      "point": [
+        0.088,
+        0.4289044289044289
+      ]
+    },
+    {
+      "id": 4375,
+      "label": "pencil",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674226367932,
+      "point": [
+        0.16,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 4376,
+      "label": "clock",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674226367932,
+      "point": [
+        0.162,
+        0.1888111888111888
+      ]
+    },
+    {
+      "id": 4377,
+      "label": "car",
+      "student_name": "Vu Nguyen",
+      "student_id": 1674242529252,
+      "point": [
+        0.418,
+        0.24708624708624707
+      ]
+    },
+    {
+      "id": 4378,
+      "label": "fish",
+      "student_name": "Vu Nguyen",
+      "student_id": 1674242529252,
+      "point": [
+        0.43,
+        0.18414918414918416
+      ]
+    },
+    {
+      "id": 4379,
+      "label": "house",
+      "student_name": "Vu Nguyen",
+      "student_id": 1674242529252,
+      "point": [
+        0.418,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 4380,
+      "label": "tree",
+      "student_name": "Vu Nguyen",
+      "student_id": 1674242529252,
+      "point": [
+        0.216,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 4381,
+      "label": "bicycle",
+      "student_name": "Vu Nguyen",
+      "student_id": 1674242529252,
+      "point": [
+        0.31,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 4382,
+      "label": "guitar",
+      "student_name": "Vu Nguyen",
+      "student_id": 1674242529252,
+      "point": [
+        0.342,
+        0.07925407925407925
+      ]
+    },
+    {
+      "id": 4383,
+      "label": "pencil",
+      "student_name": "Vu Nguyen",
+      "student_id": 1674242529252,
+      "point": [
+        0.038,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 4384,
+      "label": "clock",
+      "student_name": "Vu Nguyen",
+      "student_id": 1674242529252,
+      "point": [
+        0.15,
+        0.1794871794871795
+      ]
+    },
+    {
+      "id": 4385,
+      "label": "car",
+      "student_name": "Tri Lui",
+      "student_id": 1674248220666,
+      "point": [
+        0.71,
+        0.44522144522144524
+      ]
+    },
+    {
+      "id": 4386,
+      "label": "fish",
+      "student_name": "Tri Lui",
+      "student_id": 1674248220666,
+      "point": [
+        0.436,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 4387,
+      "label": "house",
+      "student_name": "Tri Lui",
+      "student_id": 1674248220666,
+      "point": [
+        0.366,
+        0.5757575757575758
+      ]
+    },
+    {
+      "id": 4388,
+      "label": "tree",
+      "student_name": "Tri Lui",
+      "student_id": 1674248220666,
+      "point": [
+        0.356,
+        0.4382284382284382
+      ]
+    },
+    {
+      "id": 4389,
+      "label": "bicycle",
+      "student_name": "Tri Lui",
+      "student_id": 1674248220666,
+      "point": [
+        0.404,
+        0.4289044289044289
+      ]
+    },
+    {
+      "id": 4390,
+      "label": "guitar",
+      "student_name": "Tri Lui",
+      "student_id": 1674248220666,
+      "point": [
+        0.448,
+        0.351981351981352
+      ]
+    },
+    {
+      "id": 4391,
+      "label": "pencil",
+      "student_name": "Tri Lui",
+      "student_id": 1674248220666,
+      "point": [
+        0.284,
+        0.40093240093240096
+      ]
+    },
+    {
+      "id": 4392,
+      "label": "clock",
+      "student_name": "Tri Lui",
+      "student_id": 1674248220666,
+      "point": [
+        0.566,
+        0.5477855477855478
+      ]
+    },
+    {
+      "id": 4393,
+      "label": "car",
+      "student_name": "Adam",
+      "student_id": 1674322311186,
+      "point": [
+        0.366,
+        0.16083916083916083
+      ]
+    },
+    {
+      "id": 4394,
+      "label": "fish",
+      "student_name": "Adam",
+      "student_id": 1674322311186,
+      "point": [
+        0.398,
+        0.14685314685314685
+      ]
+    },
+    {
+      "id": 4395,
+      "label": "house",
+      "student_name": "Adam",
+      "student_id": 1674322311186,
+      "point": [
+        0.718,
+        0.7902097902097902
+      ]
+    },
+    {
+      "id": 4396,
+      "label": "tree",
+      "student_name": "Adam",
+      "student_id": 1674322311186,
+      "point": [
+        0.486,
+        0.5827505827505828
+      ]
+    },
+    {
+      "id": 4397,
+      "label": "bicycle",
+      "student_name": "Adam",
+      "student_id": 1674322311186,
+      "point": [
+        0.338,
+        0.16317016317016317
+      ]
+    },
+    {
+      "id": 4398,
+      "label": "guitar",
+      "student_name": "Adam",
+      "student_id": 1674322311186,
+      "point": [
+        0.404,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 4399,
+      "label": "pencil",
+      "student_name": "Adam",
+      "student_id": 1674322311186,
+      "point": [
+        0.056,
+        0.5081585081585082
+      ]
+    },
+    {
+      "id": 4400,
+      "label": "clock",
+      "student_name": "Adam",
+      "student_id": 1674322311186,
+      "point": [
+        0.238,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 4401,
+      "label": "car",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674477513186,
+      "point": [
+        0.762,
+        0.22144522144522144
+      ]
+    },
+    {
+      "id": 4402,
+      "label": "fish",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674477513186,
+      "point": [
+        0.156,
+        0.009324009324009324
+      ]
+    },
+    {
+      "id": 4403,
+      "label": "house",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674477513186,
+      "point": [
+        0.34,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 4404,
+      "label": "tree",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674477513186,
+      "point": [
+        0.538,
+        0.2517482517482518
+      ]
+    },
+    {
+      "id": 4405,
+      "label": "bicycle",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674477513186,
+      "point": [
+        0.37,
+        0.1258741258741259
+      ]
+    },
+    {
+      "id": 4406,
+      "label": "guitar",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674477513186,
+      "point": [
+        0.15,
+        0.5874125874125874
+      ]
+    },
+    {
+      "id": 4407,
+      "label": "pencil",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674477513186,
+      "point": [
+        0.118,
+        0.011655011655011656
+      ]
+    },
+    {
+      "id": 4408,
+      "label": "clock",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674477513186,
+      "point": [
+        0.186,
+        0.1561771561771562
+      ]
+    },
+    {
+      "id": 4409,
+      "label": "car",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674478601336,
+      "point": [
+        0.172,
+        0.05128205128205128
+      ]
+    },
+    {
+      "id": 4410,
+      "label": "fish",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674478601336,
+      "point": [
+        0.108,
+        0.016317016317016316
+      ]
+    },
+    {
+      "id": 4411,
+      "label": "house",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674478601336,
+      "point": [
+        0.168,
+        0.14219114219114218
+      ]
+    },
+    {
+      "id": 4412,
+      "label": "tree",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674478601336,
+      "point": [
+        0.14,
+        0.20512820512820512
+      ]
+    },
+    {
+      "id": 4413,
+      "label": "bicycle",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674478601336,
+      "point": [
+        0.13,
+        0.11888111888111888
+      ]
+    },
+    {
+      "id": 4414,
+      "label": "guitar",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674478601336,
+      "point": [
+        0.068,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 4415,
+      "label": "pencil",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674478601336,
+      "point": [
+        0.106,
+        0.11188811188811189
+      ]
+    },
+    {
+      "id": 4416,
+      "label": "clock",
+      "student_name": "Daniil Zotov",
+      "student_id": 1674478601336,
+      "point": [
+        0.124,
+        0.10955710955710955
+      ]
+    },
+    {
+      "id": 4417,
+      "label": "car",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674499991951,
+      "point": [
+        0.466,
+        0.2680652680652681
+      ]
+    },
+    {
+      "id": 4418,
+      "label": "fish",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674499991951,
+      "point": [
+        0.386,
+        0.13752913752913754
+      ]
+    },
+    {
+      "id": 4419,
+      "label": "house",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674499991951,
+      "point": [
+        0.15,
+        0.18181818181818182
+      ]
+    },
+    {
+      "id": 4420,
+      "label": "tree",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674499991951,
+      "point": [
+        0.388,
+        0.3962703962703963
+      ]
+    },
+    {
+      "id": 4421,
+      "label": "bicycle",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674499991951,
+      "point": [
+        0.418,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 4422,
+      "label": "guitar",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674499991951,
+      "point": [
+        0.186,
+        0.7156177156177156
+      ]
+    },
+    {
+      "id": 4423,
+      "label": "pencil",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674499991951,
+      "point": [
+        0.172,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 4424,
+      "label": "clock",
+      "student_name": "Kseniia Koshkina",
+      "student_id": 1674499991951,
+      "point": [
+        0.212,
+        0.23776223776223776
+      ]
+    },
+    {
+      "id": 4425,
+      "label": "car",
+      "student_name": "Telokis",
+      "student_id": 1674577134595,
+      "point": [
+        0.538,
+        0.2727272727272727
+      ]
+    },
+    {
+      "id": 4426,
+      "label": "fish",
+      "student_name": "Telokis",
+      "student_id": 1674577134595,
+      "point": [
+        0.604,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 4427,
+      "label": "house",
+      "student_name": "Telokis",
+      "student_id": 1674577134595,
+      "point": [
+        0.22,
+        0.5081585081585082
+      ]
+    },
+    {
+      "id": 4428,
+      "label": "tree",
+      "student_name": "Telokis",
+      "student_id": 1674577134595,
+      "point": [
+        0.296,
+        0.7016317016317016
+      ]
+    },
+    {
+      "id": 4429,
+      "label": "bicycle",
+      "student_name": "Telokis",
+      "student_id": 1674577134595,
+      "point": [
+        0.298,
+        0.13053613053613053
+      ]
+    },
+    {
+      "id": 4430,
+      "label": "guitar",
+      "student_name": "Telokis",
+      "student_id": 1674577134595,
+      "point": [
+        0.552,
+        0.32400932400932403
+      ]
+    },
+    {
+      "id": 4431,
+      "label": "pencil",
+      "student_name": "Telokis",
+      "student_id": 1674577134595,
+      "point": [
+        0.004,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 4432,
+      "label": "clock",
+      "student_name": "Telokis",
+      "student_id": 1674577134595,
+      "point": [
+        0.134,
+        0.6293706293706294
+      ]
+    },
+    {
+      "id": 4433,
+      "label": "car",
+      "student_name": "Marko Munsterhjelm",
+      "student_id": 1674585182978,
+      "point": [
+        0.494,
+        0.2261072261072261
+      ]
+    },
+    {
+      "id": 4434,
+      "label": "fish",
+      "student_name": "Marko Munsterhjelm",
+      "student_id": 1674585182978,
+      "point": [
+        0.466,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 4435,
+      "label": "house",
+      "student_name": "Marko Munsterhjelm",
+      "student_id": 1674585182978,
+      "point": [
+        0.388,
+        0.5547785547785548
+      ]
+    },
+    {
+      "id": 4436,
+      "label": "tree",
+      "student_name": "Marko Munsterhjelm",
+      "student_id": 1674585182978,
+      "point": [
+        0.366,
+        0.7086247086247086
+      ]
+    },
+    {
+      "id": 4437,
+      "label": "bicycle",
+      "student_name": "Marko Munsterhjelm",
+      "student_id": 1674585182978,
+      "point": [
+        0.484,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 4438,
+      "label": "guitar",
+      "student_name": "Marko Munsterhjelm",
+      "student_id": 1674585182978,
+      "point": [
+        0.416,
+        0.6177156177156177
+      ]
+    },
+    {
+      "id": 4439,
+      "label": "pencil",
+      "student_name": "Marko Munsterhjelm",
+      "student_id": 1674585182978,
+      "point": [
+        0.088,
+        0.6386946386946387
+      ]
+    },
+    {
+      "id": 4440,
+      "label": "clock",
+      "student_name": "Marko Munsterhjelm",
+      "student_id": 1674585182978,
+      "point": [
+        0.266,
+        0.6643356643356644
+      ]
+    },
+    {
+      "id": 4441,
+      "label": "car",
+      "student_name": "Luos",
+      "student_id": 1674770990949,
+      "point": [
+        0.48,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 4442,
+      "label": "fish",
+      "student_name": "Luos",
+      "student_id": 1674770990949,
+      "point": [
+        0.4,
+        0.6923076923076923
+      ]
+    },
+    {
+      "id": 4443,
+      "label": "house",
+      "student_name": "Luos",
+      "student_id": 1674770990949,
+      "point": [
+        0.594,
+        0.3822843822843823
+      ]
+    },
+    {
+      "id": 4444,
+      "label": "tree",
+      "student_name": "Luos",
+      "student_id": 1674770990949,
+      "point": [
+        0.762,
+        0.7062937062937062
+      ]
+    },
+    {
+      "id": 4445,
+      "label": "bicycle",
+      "student_name": "Luos",
+      "student_id": 1674770990949,
+      "point": [
+        0.544,
+        0.337995337995338
+      ]
+    },
+    {
+      "id": 4446,
+      "label": "guitar",
+      "student_name": "Luos",
+      "student_id": 1674770990949,
+      "point": [
+        0.23,
+        0.7552447552447552
+      ]
+    },
+    {
+      "id": 4447,
+      "label": "pencil",
+      "student_name": "Luos",
+      "student_id": 1674770990949,
+      "point": [
+        0.49,
+        0.06060606060606061
+      ]
+    },
+    {
+      "id": 4448,
+      "label": "clock",
+      "student_name": "Luos",
+      "student_id": 1674770990949,
+      "point": [
+        0.38,
+        0.6013986013986014
+      ]
+    },
+    {
+      "id": 4449,
+      "label": "car",
+      "student_name": "Valto",
+      "student_id": 1674830585765,
+      "point": [
+        0.424,
+        0.23776223776223776
+      ]
+    },
+    {
+      "id": 4450,
+      "label": "fish",
+      "student_name": "Valto",
+      "student_id": 1674830585765,
+      "point": [
+        0.22,
+        0.12121212121212122
+      ]
+    },
+    {
+      "id": 4451,
+      "label": "house",
+      "student_name": "Valto",
+      "student_id": 1674830585765,
+      "point": [
+        0.178,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 4452,
+      "label": "tree",
+      "student_name": "Valto",
+      "student_id": 1674830585765,
+      "point": [
+        0.228,
+        0.36596736596736595
+      ]
+    },
+    {
+      "id": 4453,
+      "label": "bicycle",
+      "student_name": "Valto",
+      "student_id": 1674830585765,
+      "point": [
+        0.334,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 4454,
+      "label": "guitar",
+      "student_name": "Valto",
+      "student_id": 1674830585765,
+      "point": [
+        0.18,
+        0.5431235431235432
+      ]
+    },
+    {
+      "id": 4455,
+      "label": "pencil",
+      "student_name": "Valto",
+      "student_id": 1674830585765,
+      "point": [
+        0.406,
+        0.2261072261072261
+      ]
+    },
+    {
+      "id": 4456,
+      "label": "clock",
+      "student_name": "Valto",
+      "student_id": 1674830585765,
+      "point": [
+        0.288,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 4457,
+      "label": "car",
+      "student_name": "Akash Prajapati ",
+      "student_id": 1674831922190,
+      "point": [
+        0.542,
+        0.351981351981352
+      ]
+    },
+    {
+      "id": 4458,
+      "label": "fish",
+      "student_name": "Akash Prajapati ",
+      "student_id": 1674831922190,
+      "point": [
+        0.428,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 4459,
+      "label": "house",
+      "student_name": "Akash Prajapati ",
+      "student_id": 1674831922190,
+      "point": [
+        0.408,
+        0.6060606060606061
+      ]
+    },
+    {
+      "id": 4460,
+      "label": "tree",
+      "student_name": "Akash Prajapati ",
+      "student_id": 1674831922190,
+      "point": [
+        0.52,
+        0.710955710955711
+      ]
+    },
+    {
+      "id": 4461,
+      "label": "bicycle",
+      "student_name": "Akash Prajapati ",
+      "student_id": 1674831922190,
+      "point": [
+        0.538,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 4462,
+      "label": "guitar",
+      "student_name": "Akash Prajapati ",
+      "student_id": 1674831922190,
+      "point": [
+        0.618,
+        0.19114219114219114
+      ]
+    },
+    {
+      "id": 4463,
+      "label": "pencil",
+      "student_name": "Akash Prajapati ",
+      "student_id": 1674831922190,
+      "point": [
+        0.168,
+        0.3962703962703963
+      ]
+    },
+    {
+      "id": 4464,
+      "label": "clock",
+      "student_name": "Akash Prajapati ",
+      "student_id": 1674831922190,
+      "point": [
+        0.294,
+        0.34265734265734266
+      ]
+    },
+    {
+      "id": 4465,
+      "label": "car",
+      "student_name": "Abhi",
+      "student_id": 1674833188511,
+      "point": [
+        0.632,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 4466,
+      "label": "fish",
+      "student_name": "Abhi",
+      "student_id": 1674833188511,
+      "point": [
+        0.544,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 4467,
+      "label": "house",
+      "student_name": "Abhi",
+      "student_id": 1674833188511,
+      "point": [
+        0.558,
+        0.6433566433566433
+      ]
+    },
+    {
+      "id": 4468,
+      "label": "tree",
+      "student_name": "Abhi",
+      "student_id": 1674833188511,
+      "point": [
+        0.568,
+        0.6130536130536131
+      ]
+    },
+    {
+      "id": 4469,
+      "label": "bicycle",
+      "student_name": "Abhi",
+      "student_id": 1674833188511,
+      "point": [
+        0.542,
+        0.6060606060606061
+      ]
+    },
+    {
+      "id": 4470,
+      "label": "guitar",
+      "student_name": "Abhi",
+      "student_id": 1674833188511,
+      "point": [
+        0.7,
+        0.5477855477855478
+      ]
+    },
+    {
+      "id": 4471,
+      "label": "pencil",
+      "student_name": "Abhi",
+      "student_id": 1674833188511,
+      "point": [
+        0.67,
+        0.655011655011655
+      ]
+    },
+    {
+      "id": 4472,
+      "label": "clock",
+      "student_name": "Abhi",
+      "student_id": 1674833188511,
+      "point": [
+        0.434,
+        0.4755244755244755
+      ]
+    },
+    {
+      "id": 4473,
+      "label": "car",
+      "student_name": "DavDev",
+      "student_id": 1674833893482,
+      "point": [
+        0.546,
+        0.15384615384615385
+      ]
+    },
+    {
+      "id": 4474,
+      "label": "fish",
+      "student_name": "DavDev",
+      "student_id": 1674833893482,
+      "point": [
+        0.414,
+        0.15151515151515152
+      ]
+    },
+    {
+      "id": 4475,
+      "label": "house",
+      "student_name": "DavDev",
+      "student_id": 1674833893482,
+      "point": [
+        0.444,
+        0.43123543123543123
+      ]
+    },
+    {
+      "id": 4476,
+      "label": "tree",
+      "student_name": "DavDev",
+      "student_id": 1674833893482,
+      "point": [
+        0.454,
+        0.7226107226107226
+      ]
+    },
+    {
+      "id": 4477,
+      "label": "bicycle",
+      "student_name": "DavDev",
+      "student_id": 1674833893482,
+      "point": [
+        0.482,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 4478,
+      "label": "guitar",
+      "student_name": "DavDev",
+      "student_id": 1674833893482,
+      "point": [
+        0.464,
+        0.710955710955711
+      ]
+    },
+    {
+      "id": 4479,
+      "label": "pencil",
+      "student_name": "DavDev",
+      "student_id": 1674833893482,
+      "point": [
+        0.264,
+        0.4755244755244755
+      ]
+    },
+    {
+      "id": 4480,
+      "label": "clock",
+      "student_name": "DavDev",
+      "student_id": 1674833893482,
+      "point": [
+        0.414,
+        0.34265734265734266
+      ]
+    },
+    {
+      "id": 4481,
+      "label": "car",
+      "student_name": "akhilesh",
+      "student_id": 1674834596504,
+      "point": [
+        0.474,
+        0.19347319347319347
+      ]
+    },
+    {
+      "id": 4482,
+      "label": "fish",
+      "student_name": "akhilesh",
+      "student_id": 1674834596504,
+      "point": [
+        0.464,
+        0.1958041958041958
+      ]
+    },
+    {
+      "id": 4483,
+      "label": "house",
+      "student_name": "akhilesh",
+      "student_id": 1674834596504,
+      "point": [
+        0.668,
+        0.6526806526806527
+      ]
+    },
+    {
+      "id": 4484,
+      "label": "tree",
+      "student_name": "akhilesh",
+      "student_id": 1674834596504,
+      "point": [
+        0.718,
+        0.8321678321678322
+      ]
+    },
+    {
+      "id": 4485,
+      "label": "bicycle",
+      "student_name": "akhilesh",
+      "student_id": 1674834596504,
+      "point": [
+        0.382,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 4486,
+      "label": "guitar",
+      "student_name": "akhilesh",
+      "student_id": 1674834596504,
+      "point": [
+        0.59,
+        0.12354312354312354
+      ]
+    },
+    {
+      "id": 4487,
+      "label": "pencil",
+      "student_name": "akhilesh",
+      "student_id": 1674834596504,
+      "point": [
+        0.476,
+        0.030303030303030304
+      ]
+    },
+    {
+      "id": 4488,
+      "label": "clock",
+      "student_name": "akhilesh",
+      "student_id": 1674834596504,
+      "point": [
+        0.228,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 4489,
+      "label": "car",
+      "student_name": "Binij Shrestha",
+      "student_id": 1674839192920,
+      "point": [
+        0.662,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 4490,
+      "label": "fish",
+      "student_name": "Binij Shrestha",
+      "student_id": 1674839192920,
+      "point": [
+        0.56,
+        0.3613053613053613
+      ]
+    },
+    {
+      "id": 4491,
+      "label": "house",
+      "student_name": "Binij Shrestha",
+      "student_id": 1674839192920,
+      "point": [
+        0.572,
+        0.5407925407925408
+      ]
+    },
+    {
+      "id": 4492,
+      "label": "tree",
+      "student_name": "Binij Shrestha",
+      "student_id": 1674839192920,
+      "point": [
+        0.386,
+        0.7249417249417249
+      ]
+    },
+    {
+      "id": 4493,
+      "label": "bicycle",
+      "student_name": "Binij Shrestha",
+      "student_id": 1674839192920,
+      "point": [
+        0.578,
+        0.5221445221445221
+      ]
+    },
+    {
+      "id": 4494,
+      "label": "guitar",
+      "student_name": "Binij Shrestha",
+      "student_id": 1674839192920,
+      "point": [
+        0.586,
+        0.7505827505827506
+      ]
+    },
+    {
+      "id": 4495,
+      "label": "pencil",
+      "student_name": "Binij Shrestha",
+      "student_id": 1674839192920,
+      "point": [
+        0.538,
+        0.6107226107226107
+      ]
+    },
+    {
+      "id": 4496,
+      "label": "clock",
+      "student_name": "Binij Shrestha",
+      "student_id": 1674839192920,
+      "point": [
+        0.396,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 4497,
+      "label": "car",
+      "student_name": "Gianmarco",
+      "student_id": 1674839618374,
+      "point": [
+        0.704,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 4498,
+      "label": "fish",
+      "student_name": "Gianmarco",
+      "student_id": 1674839618374,
+      "point": [
+        0.73,
+        0.36363636363636365
+      ]
+    },
+    {
+      "id": 4499,
+      "label": "house",
+      "student_name": "Gianmarco",
+      "student_id": 1674839618374,
+      "point": [
+        0.708,
+        0.5151515151515151
+      ]
+    },
+    {
+      "id": 4500,
+      "label": "tree",
+      "student_name": "Gianmarco",
+      "student_id": 1674839618374,
+      "point": [
+        0.674,
+        0.8158508158508159
+      ]
+    },
+    {
+      "id": 4501,
+      "label": "bicycle",
+      "student_name": "Gianmarco",
+      "student_id": 1674839618374,
+      "point": [
+        0.706,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 4502,
+      "label": "guitar",
+      "student_name": "Gianmarco",
+      "student_id": 1674839618374,
+      "point": [
+        0.672,
+        0.5058275058275058
+      ]
+    },
+    {
+      "id": 4503,
+      "label": "pencil",
+      "student_name": "Gianmarco",
+      "student_id": 1674839618374,
+      "point": [
+        0.1,
+        0.5967365967365967
+      ]
+    },
+    {
+      "id": 4504,
+      "label": "clock",
+      "student_name": "Gianmarco",
+      "student_id": 1674839618374,
+      "point": [
+        0.472,
+        0.5221445221445221
+      ]
+    },
+    {
+      "id": 4505,
+      "label": "car",
+      "student_name": "Dimitris",
+      "student_id": 1674841612540,
+      "point": [
+        0.592,
+        0.2937062937062937
+      ]
+    },
+    {
+      "id": 4506,
+      "label": "fish",
+      "student_name": "Dimitris",
+      "student_id": 1674841612540,
+      "point": [
+        0.596,
+        0.1958041958041958
+      ]
+    },
+    {
+      "id": 4507,
+      "label": "house",
+      "student_name": "Dimitris",
+      "student_id": 1674841612540,
+      "point": [
+        0.54,
+        0.5641025641025641
+      ]
+    },
+    {
+      "id": 4508,
+      "label": "tree",
+      "student_name": "Dimitris",
+      "student_id": 1674841612540,
+      "point": [
+        0.578,
+        0.710955710955711
+      ]
+    },
+    {
+      "id": 4509,
+      "label": "bicycle",
+      "student_name": "Dimitris",
+      "student_id": 1674841612540,
+      "point": [
+        0.488,
+        0.289044289044289
+      ]
+    },
+    {
+      "id": 4510,
+      "label": "guitar",
+      "student_name": "Dimitris",
+      "student_id": 1674841612540,
+      "point": [
+        0.598,
+        0.7435897435897436
+      ]
+    },
+    {
+      "id": 4511,
+      "label": "pencil",
+      "student_name": "Dimitris",
+      "student_id": 1674841612540,
+      "point": [
+        0.488,
+        0.5617715617715617
+      ]
+    },
+    {
+      "id": 4512,
+      "label": "clock",
+      "student_name": "Dimitris",
+      "student_id": 1674841612540,
+      "point": [
+        0.36,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 4513,
+      "label": "car",
+      "student_name": "Habayeb",
+      "student_id": 1674844423958,
+      "point": [
+        0.434,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 4514,
+      "label": "fish",
+      "student_name": "Habayeb",
+      "student_id": 1674844423958,
+      "point": [
+        0.482,
+        0.19114219114219114
+      ]
+    },
+    {
+      "id": 4515,
+      "label": "house",
+      "student_name": "Habayeb",
+      "student_id": 1674844423958,
+      "point": [
+        0.146,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 4516,
+      "label": "tree",
+      "student_name": "Habayeb",
+      "student_id": 1674844423958,
+      "point": [
+        0.472,
+        0.5990675990675991
+      ]
+    },
+    {
+      "id": 4517,
+      "label": "bicycle",
+      "student_name": "Habayeb",
+      "student_id": 1674844423958,
+      "point": [
+        0.582,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 4518,
+      "label": "guitar",
+      "student_name": "Habayeb",
+      "student_id": 1674844423958,
+      "point": [
+        0.182,
+        0.5874125874125874
+      ]
+    },
+    {
+      "id": 4519,
+      "label": "pencil",
+      "student_name": "Habayeb",
+      "student_id": 1674844423958,
+      "point": [
+        0.408,
+        0.055944055944055944
+      ]
+    },
+    {
+      "id": 4520,
+      "label": "clock",
+      "student_name": "Habayeb",
+      "student_id": 1674844423958,
+      "point": [
+        0.31,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 4521,
+      "label": "car",
+      "student_name": "sang",
+      "student_id": 1674846218472,
+      "point": [
+        0.61,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 4522,
+      "label": "fish",
+      "student_name": "sang",
+      "student_id": 1674846218472,
+      "point": [
+        0.382,
+        0.1351981351981352
+      ]
+    },
+    {
+      "id": 4523,
+      "label": "house",
+      "student_name": "sang",
+      "student_id": 1674846218472,
+      "point": [
+        0.562,
+        0.5361305361305362
+      ]
+    },
+    {
+      "id": 4524,
+      "label": "tree",
+      "student_name": "sang",
+      "student_id": 1674846218472,
+      "point": [
+        0.348,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 4525,
+      "label": "bicycle",
+      "student_name": "sang",
+      "student_id": 1674846218472,
+      "point": [
+        0.428,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 4526,
+      "label": "guitar",
+      "student_name": "sang",
+      "student_id": 1674846218472,
+      "point": [
+        0.396,
+        0.47785547785547783
+      ]
+    },
+    {
+      "id": 4527,
+      "label": "pencil",
+      "student_name": "sang",
+      "student_id": 1674846218472,
+      "point": [
+        0.162,
+        0.4149184149184149
+      ]
+    },
+    {
+      "id": 4528,
+      "label": "clock",
+      "student_name": "sang",
+      "student_id": 1674846218472,
+      "point": [
+        0.522,
+        0.6317016317016317
+      ]
+    },
+    {
+      "id": 4529,
+      "label": "car",
+      "student_name": "Tai Chio",
+      "student_id": 1674846370170,
+      "point": [
+        0.434,
+        0.19347319347319347
+      ]
+    },
+    {
+      "id": 4530,
+      "label": "fish",
+      "student_name": "Tai Chio",
+      "student_id": 1674846370170,
+      "point": [
+        0.442,
+        0.17249417249417248
+      ]
+    },
+    {
+      "id": 4531,
+      "label": "house",
+      "student_name": "Tai Chio",
+      "student_id": 1674846370170,
+      "point": [
+        0.416,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 4532,
+      "label": "tree",
+      "student_name": "Tai Chio",
+      "student_id": 1674846370170,
+      "point": [
+        0.434,
+        0.5268065268065268
+      ]
+    },
+    {
+      "id": 4533,
+      "label": "bicycle",
+      "student_name": "Tai Chio",
+      "student_id": 1674846370170,
+      "point": [
+        0.426,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 4534,
+      "label": "guitar",
+      "student_name": "Tai Chio",
+      "student_id": 1674846370170,
+      "point": [
+        0.582,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 4535,
+      "label": "pencil",
+      "student_name": "Tai Chio",
+      "student_id": 1674846370170,
+      "point": [
+        0.284,
+        0.337995337995338
+      ]
+    },
+    {
+      "id": 4536,
+      "label": "clock",
+      "student_name": "Tai Chio",
+      "student_id": 1674846370170,
+      "point": [
+        0.244,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 4537,
+      "label": "car",
+      "student_name": "Pablo ",
+      "student_id": 1674846517755,
+      "point": [
+        0.56,
+        0.3006993006993007
+      ]
+    },
+    {
+      "id": 4538,
+      "label": "fish",
+      "student_name": "Pablo ",
+      "student_id": 1674846517755,
+      "point": [
+        0.374,
+        0.18414918414918416
+      ]
+    },
+    {
+      "id": 4539,
+      "label": "house",
+      "student_name": "Pablo ",
+      "student_id": 1674846517755,
+      "point": [
+        0.368,
+        0.3682983682983683
+      ]
+    },
+    {
+      "id": 4540,
+      "label": "tree",
+      "student_name": "Pablo ",
+      "student_id": 1674846517755,
+      "point": [
+        0.416,
+        0.5617715617715617
+      ]
+    },
+    {
+      "id": 4541,
+      "label": "bicycle",
+      "student_name": "Pablo ",
+      "student_id": 1674846517755,
+      "point": [
+        0.444,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 4542,
+      "label": "guitar",
+      "student_name": "Pablo ",
+      "student_id": 1674846517755,
+      "point": [
+        0.584,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 4543,
+      "label": "pencil",
+      "student_name": "Pablo ",
+      "student_id": 1674846517755,
+      "point": [
+        0.082,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 4544,
+      "label": "clock",
+      "student_name": "Pablo ",
+      "student_id": 1674846517755,
+      "point": [
+        0.162,
+        0.17715617715617715
+      ]
+    },
+    {
+      "id": 4545,
+      "label": "car",
+      "student_name": "You are walcome",
+      "student_id": 1674847487189,
+      "point": [
+        0.552,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 4546,
+      "label": "fish",
+      "student_name": "You are walcome",
+      "student_id": 1674847487189,
+      "point": [
+        0.566,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 4547,
+      "label": "house",
+      "student_name": "You are walcome",
+      "student_id": 1674847487189,
+      "point": [
+        0.28,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 4548,
+      "label": "tree",
+      "student_name": "You are walcome",
+      "student_id": 1674847487189,
+      "point": [
+        0.446,
+        0.7482517482517482
+      ]
+    },
+    {
+      "id": 4549,
+      "label": "bicycle",
+      "student_name": "You are walcome",
+      "student_id": 1674847487189,
+      "point": [
+        0.41,
+        0.2261072261072261
+      ]
+    },
+    {
+      "id": 4550,
+      "label": "guitar",
+      "student_name": "You are walcome",
+      "student_id": 1674847487189,
+      "point": [
+        0.518,
+        0.5641025641025641
+      ]
+    },
+    {
+      "id": 4551,
+      "label": "pencil",
+      "student_name": "You are walcome",
+      "student_id": 1674847487189,
+      "point": [
+        0.422,
+        0.5454545454545454
+      ]
+    },
+    {
+      "id": 4552,
+      "label": "clock",
+      "student_name": "You are walcome",
+      "student_id": 1674847487189,
+      "point": [
+        0.408,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 4553,
+      "label": "car",
+      "student_name": "Tukhtaboy",
+      "student_id": 1674853719303,
+      "point": [
+        0.728,
+        0.29603729603729606
+      ]
+    },
+    {
+      "id": 4554,
+      "label": "fish",
+      "student_name": "Tukhtaboy",
+      "student_id": 1674853719303,
+      "point": [
+        0.512,
+        0.20745920745920746
+      ]
+    },
+    {
+      "id": 4555,
+      "label": "house",
+      "student_name": "Tukhtaboy",
+      "student_id": 1674853719303,
+      "point": [
+        0.434,
+        0.4219114219114219
+      ]
+    },
+    {
+      "id": 4556,
+      "label": "tree",
+      "student_name": "Tukhtaboy",
+      "student_id": 1674853719303,
+      "point": [
+        0.654,
+        0.8764568764568764
+      ]
+    },
+    {
+      "id": 4557,
+      "label": "bicycle",
+      "student_name": "Tukhtaboy",
+      "student_id": 1674853719303,
+      "point": [
+        0.54,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 4558,
+      "label": "guitar",
+      "student_name": "Tukhtaboy",
+      "student_id": 1674853719303,
+      "point": [
+        0.572,
+        0.15151515151515152
+      ]
+    },
+    {
+      "id": 4559,
+      "label": "pencil",
+      "student_name": "Tukhtaboy",
+      "student_id": 1674853719303,
+      "point": [
+        0.634,
+        0.17016317016317017
+      ]
+    },
+    {
+      "id": 4560,
+      "label": "clock",
+      "student_name": "Tukhtaboy",
+      "student_id": 1674853719303,
+      "point": [
+        0.476,
+        0.5990675990675991
+      ]
+    },
+    {
+      "id": 4561,
+      "label": "car",
+      "student_name": "Michael",
+      "student_id": 1674854312914,
+      "point": [
+        0.542,
+        0.18414918414918416
+      ]
+    },
+    {
+      "id": 4562,
+      "label": "fish",
+      "student_name": "Michael",
+      "student_id": 1674854312914,
+      "point": [
+        0.434,
+        0.21212121212121213
+      ]
+    },
+    {
+      "id": 4563,
+      "label": "house",
+      "student_name": "Michael",
+      "student_id": 1674854312914,
+      "point": [
+        0.414,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 4564,
+      "label": "tree",
+      "student_name": "Michael",
+      "student_id": 1674854312914,
+      "point": [
+        0.492,
+        0.62004662004662
+      ]
+    },
+    {
+      "id": 4565,
+      "label": "bicycle",
+      "student_name": "Michael",
+      "student_id": 1674854312914,
+      "point": [
+        0.292,
+        0.22144522144522144
+      ]
+    },
+    {
+      "id": 4566,
+      "label": "guitar",
+      "student_name": "Michael",
+      "student_id": 1674854312914,
+      "point": [
+        0.412,
+        0.3006993006993007
+      ]
+    },
+    {
+      "id": 4567,
+      "label": "pencil",
+      "student_name": "Michael",
+      "student_id": 1674854312914,
+      "point": [
+        -0.004,
+        0.10722610722610723
+      ]
+    },
+    {
+      "id": 4568,
+      "label": "clock",
+      "student_name": "Michael",
+      "student_id": 1674854312914,
+      "point": [
+        0.168,
+        0.17482517482517482
+      ]
+    },
+    {
+      "id": 4569,
+      "label": "car",
+      "student_name": "deus",
+      "student_id": 1674854354030,
+      "point": [
+        0.364,
+        0.25874125874125875
+      ]
+    },
+    {
+      "id": 4570,
+      "label": "fish",
+      "student_name": "deus",
+      "student_id": 1674854354030,
+      "point": [
+        0.464,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 4571,
+      "label": "house",
+      "student_name": "deus",
+      "student_id": 1674854354030,
+      "point": [
+        0.146,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 4572,
+      "label": "tree",
+      "student_name": "deus",
+      "student_id": 1674854354030,
+      "point": [
+        0.356,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 4573,
+      "label": "bicycle",
+      "student_name": "deus",
+      "student_id": 1674854354030,
+      "point": [
+        0.432,
+        0.337995337995338
+      ]
+    },
+    {
+      "id": 4574,
+      "label": "guitar",
+      "student_name": "deus",
+      "student_id": 1674854354030,
+      "point": [
+        0.374,
+        0.578088578088578
+      ]
+    },
+    {
+      "id": 4575,
+      "label": "pencil",
+      "student_name": "deus",
+      "student_id": 1674854354030,
+      "point": [
+        0.294,
+        0.4522144522144522
+      ]
+    },
+    {
+      "id": 4576,
+      "label": "clock",
+      "student_name": "deus",
+      "student_id": 1674854354030,
+      "point": [
+        0.364,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 4577,
+      "label": "car",
+      "student_name": "Terence Tian",
+      "student_id": 1674865110024,
+      "point": [
+        0.562,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 4578,
+      "label": "fish",
+      "student_name": "Terence Tian",
+      "student_id": 1674865110024,
+      "point": [
+        0.604,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 4579,
+      "label": "house",
+      "student_name": "Terence Tian",
+      "student_id": 1674865110024,
+      "point": [
+        0.56,
+        0.7365967365967366
+      ]
+    },
+    {
+      "id": 4580,
+      "label": "tree",
+      "student_name": "Terence Tian",
+      "student_id": 1674865110024,
+      "point": [
+        0.55,
+        0.7902097902097902
+      ]
+    },
+    {
+      "id": 4581,
+      "label": "bicycle",
+      "student_name": "Terence Tian",
+      "student_id": 1674865110024,
+      "point": [
+        0.524,
+        0.5174825174825175
+      ]
+    },
+    {
+      "id": 4582,
+      "label": "guitar",
+      "student_name": "Terence Tian",
+      "student_id": 1674865110024,
+      "point": [
+        0.668,
+        0.7692307692307693
+      ]
+    },
+    {
+      "id": 4583,
+      "label": "pencil",
+      "student_name": "Terence Tian",
+      "student_id": 1674865110024,
+      "point": [
+        0.5,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 4584,
+      "label": "clock",
+      "student_name": "Terence Tian",
+      "student_id": 1674865110024,
+      "point": [
+        0.402,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 4585,
+      "label": "car",
+      "student_name": "Arkadii",
+      "student_id": 1674871419783,
+      "point": [
+        0.658,
+        0.24475524475524477
+      ]
+    },
+    {
+      "id": 4586,
+      "label": "fish",
+      "student_name": "Arkadii",
+      "student_id": 1674871419783,
+      "point": [
+        0.5,
+        0.19114219114219114
+      ]
+    },
+    {
+      "id": 4587,
+      "label": "house",
+      "student_name": "Arkadii",
+      "student_id": 1674871419783,
+      "point": [
+        0.542,
+        0.6666666666666666
+      ]
+    },
+    {
+      "id": 4588,
+      "label": "tree",
+      "student_name": "Arkadii",
+      "student_id": 1674871419783,
+      "point": [
+        0.47,
+        0.6876456876456877
+      ]
+    },
+    {
+      "id": 4589,
+      "label": "bicycle",
+      "student_name": "Arkadii",
+      "student_id": 1674871419783,
+      "point": [
+        0.496,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 4590,
+      "label": "guitar",
+      "student_name": "Arkadii",
+      "student_id": 1674871419783,
+      "point": [
+        0.198,
+        0.7156177156177156
+      ]
+    },
+    {
+      "id": 4591,
+      "label": "pencil",
+      "student_name": "Arkadii",
+      "student_id": 1674871419783,
+      "point": [
+        0.112,
+        0.7086247086247086
+      ]
+    },
+    {
+      "id": 4592,
+      "label": "clock",
+      "student_name": "Arkadii",
+      "student_id": 1674871419783,
+      "point": [
+        0.458,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 4593,
+      "label": "car",
+      "student_name": "branski",
+      "student_id": 1674872494097,
+      "point": [
+        0.678,
+        0.3986013986013986
+      ]
+    },
+    {
+      "id": 4594,
+      "label": "fish",
+      "student_name": "branski",
+      "student_id": 1674872494097,
+      "point": [
+        0.562,
+        0.22144522144522144
+      ]
+    },
+    {
+      "id": 4595,
+      "label": "house",
+      "student_name": "branski",
+      "student_id": 1674872494097,
+      "point": [
+        0.234,
+        0.5151515151515151
+      ]
+    },
+    {
+      "id": 4596,
+      "label": "tree",
+      "student_name": "branski",
+      "student_id": 1674872494097,
+      "point": [
+        0.652,
+        0.7715617715617715
+      ]
+    },
+    {
+      "id": 4597,
+      "label": "bicycle",
+      "student_name": "branski",
+      "student_id": 1674872494097,
+      "point": [
+        0.46,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 4598,
+      "label": "guitar",
+      "student_name": "branski",
+      "student_id": 1674872494097,
+      "point": [
+        0.568,
+        0.710955710955711
+      ]
+    },
+    {
+      "id": 4599,
+      "label": "pencil",
+      "student_name": "branski",
+      "student_id": 1674872494097,
+      "point": [
+        0.296,
+        0.44988344988344986
+      ]
+    },
+    {
+      "id": 4600,
+      "label": "clock",
+      "student_name": "branski",
+      "student_id": 1674872494097,
+      "point": [
+        0.54,
+        0.372960372960373
+      ]
+    },
+    {
+      "id": 4601,
+      "label": "car",
+      "student_name": "linh",
+      "student_id": 1674874303857,
+      "point": [
+        0.228,
+        0.1258741258741259
+      ]
+    },
+    {
+      "id": 4602,
+      "label": "fish",
+      "student_name": "linh",
+      "student_id": 1674874303857,
+      "point": [
+        0.27,
+        0.18414918414918416
+      ]
+    },
+    {
+      "id": 4603,
+      "label": "house",
+      "student_name": "linh",
+      "student_id": 1674874303857,
+      "point": [
+        0.28,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 4604,
+      "label": "tree",
+      "student_name": "linh",
+      "student_id": 1674874303857,
+      "point": [
+        0.248,
+        0.43123543123543123
+      ]
+    },
+    {
+      "id": 4605,
+      "label": "bicycle",
+      "student_name": "linh",
+      "student_id": 1674874303857,
+      "point": [
+        0.228,
+        0.1888111888111888
+      ]
+    },
+    {
+      "id": 4606,
+      "label": "guitar",
+      "student_name": "linh",
+      "student_id": 1674874303857,
+      "point": [
+        0.292,
+        0.49417249417249415
+      ]
+    },
+    {
+      "id": 4607,
+      "label": "pencil",
+      "student_name": "linh",
+      "student_id": 1674874303857,
+      "point": [
+        0.06,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 4608,
+      "label": "clock",
+      "student_name": "linh",
+      "student_id": 1674874303857,
+      "point": [
+        0.162,
+        0.17016317016317017
+      ]
+    },
+    {
+      "id": 4609,
+      "label": "car",
+      "student_name": "ahmed",
+      "student_id": 1674890940118,
+      "point": [
+        0.482,
+        0.4965034965034965
+      ]
+    },
+    {
+      "id": 4610,
+      "label": "fish",
+      "student_name": "ahmed",
+      "student_id": 1674890940118,
+      "point": [
+        0.684,
+        0.358974358974359
+      ]
+    },
+    {
+      "id": 4611,
+      "label": "house",
+      "student_name": "ahmed",
+      "student_id": 1674890940118,
+      "point": [
+        0.426,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 4612,
+      "label": "tree",
+      "student_name": "ahmed",
+      "student_id": 1674890940118,
+      "point": [
+        0.466,
+        0.5734265734265734
+      ]
+    },
+    {
+      "id": 4613,
+      "label": "bicycle",
+      "student_name": "ahmed",
+      "student_id": 1674890940118,
+      "point": [
+        0.428,
+        0.3682983682983683
+      ]
+    },
+    {
+      "id": 4614,
+      "label": "guitar",
+      "student_name": "ahmed",
+      "student_id": 1674890940118,
+      "point": [
+        0.484,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 4615,
+      "label": "pencil",
+      "student_name": "ahmed",
+      "student_id": 1674890940118,
+      "point": [
+        0.33,
+        0.2680652680652681
+      ]
+    },
+    {
+      "id": 4616,
+      "label": "clock",
+      "student_name": "ahmed",
+      "student_id": 1674890940118,
+      "point": [
+        0.38,
+        0.5151515151515151
+      ]
+    },
+    {
+      "id": 4617,
+      "label": "car",
+      "student_name": "xutopia",
+      "student_id": 1674908796008,
+      "point": [
+        0.554,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 4618,
+      "label": "fish",
+      "student_name": "xutopia",
+      "student_id": 1674908796008,
+      "point": [
+        0.324,
+        0.20279720279720279
+      ]
+    },
+    {
+      "id": 4619,
+      "label": "house",
+      "student_name": "xutopia",
+      "student_id": 1674908796008,
+      "point": [
+        0.554,
+        0.5011655011655012
+      ]
+    },
+    {
+      "id": 4620,
+      "label": "tree",
+      "student_name": "xutopia",
+      "student_id": 1674908796008,
+      "point": [
+        0.706,
+        0.8694638694638694
+      ]
+    },
+    {
+      "id": 4621,
+      "label": "bicycle",
+      "student_name": "xutopia",
+      "student_id": 1674908796008,
+      "point": [
+        0.478,
+        0.42657342657342656
+      ]
+    },
+    {
+      "id": 4622,
+      "label": "guitar",
+      "student_name": "xutopia",
+      "student_id": 1674908796008,
+      "point": [
+        0.53,
+        0.6083916083916084
+      ]
+    },
+    {
+      "id": 4623,
+      "label": "pencil",
+      "student_name": "xutopia",
+      "student_id": 1674908796008,
+      "point": [
+        0.264,
+        0.17482517482517482
+      ]
+    },
+    {
+      "id": 4624,
+      "label": "clock",
+      "student_name": "xutopia",
+      "student_id": 1674908796008,
+      "point": [
+        0.358,
+        0.4195804195804196
+      ]
+    },
+    {
+      "id": 4625,
+      "label": "car",
+      "student_name": "Jo",
+      "student_id": 1674922008808,
+      "point": [
+        0.45,
+        0.289044289044289
+      ]
+    },
+    {
+      "id": 4626,
+      "label": "fish",
+      "student_name": "Jo",
+      "student_id": 1674922008808,
+      "point": [
+        0.434,
+        0.20512820512820512
+      ]
+    },
+    {
+      "id": 4627,
+      "label": "house",
+      "student_name": "Jo",
+      "student_id": 1674922008808,
+      "point": [
+        0.346,
+        0.5174825174825175
+      ]
+    },
+    {
+      "id": 4628,
+      "label": "tree",
+      "student_name": "Jo",
+      "student_id": 1674922008808,
+      "point": [
+        0.36,
+        0.5571095571095571
+      ]
+    },
+    {
+      "id": 4629,
+      "label": "bicycle",
+      "student_name": "Jo",
+      "student_id": 1674922008808,
+      "point": [
+        0.37,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 4630,
+      "label": "guitar",
+      "student_name": "Jo",
+      "student_id": 1674922008808,
+      "point": [
+        0.236,
+        0.5524475524475524
+      ]
+    },
+    {
+      "id": 4631,
+      "label": "pencil",
+      "student_name": "Jo",
+      "student_id": 1674922008808,
+      "point": [
+        0.352,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 4632,
+      "label": "clock",
+      "student_name": "Jo",
+      "student_id": 1674922008808,
+      "point": [
+        0.302,
+        0.358974358974359
+      ]
+    },
+    {
+      "id": 4633,
+      "label": "car",
+      "student_name": "markus",
+      "student_id": 1674927971861,
+      "point": [
+        0.446,
+        0.32867132867132864
+      ]
+    },
+    {
+      "id": 4634,
+      "label": "fish",
+      "student_name": "markus",
+      "student_id": 1674927971861,
+      "point": [
+        0.446,
+        0.7272727272727273
+      ]
+    },
+    {
+      "id": 4635,
+      "label": "house",
+      "student_name": "markus",
+      "student_id": 1674927971861,
+      "point": [
+        0.384,
+        0.675990675990676
+      ]
+    },
+    {
+      "id": 4636,
+      "label": "tree",
+      "student_name": "markus",
+      "student_id": 1674927971861,
+      "point": [
+        0.592,
+        0.7505827505827506
+      ]
+    },
+    {
+      "id": 4637,
+      "label": "bicycle",
+      "student_name": "markus",
+      "student_id": 1674927971861,
+      "point": [
+        0.426,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 4638,
+      "label": "guitar",
+      "student_name": "markus",
+      "student_id": 1674927971861,
+      "point": [
+        0.396,
+        0.5990675990675991
+      ]
+    },
+    {
+      "id": 4639,
+      "label": "pencil",
+      "student_name": "markus",
+      "student_id": 1674927971861,
+      "point": [
+        0.406,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 4640,
+      "label": "clock",
+      "student_name": "markus",
+      "student_id": 1674927971861,
+      "point": [
+        0.38,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 4641,
+      "label": "car",
+      "student_name": "John",
+      "student_id": 1674928713220,
+      "point": [
+        0.446,
+        0.23776223776223776
+      ]
+    },
+    {
+      "id": 4642,
+      "label": "fish",
+      "student_name": "John",
+      "student_id": 1674928713220,
+      "point": [
+        0.406,
+        0.14685314685314685
+      ]
+    },
+    {
+      "id": 4643,
+      "label": "house",
+      "student_name": "John",
+      "student_id": 1674928713220,
+      "point": [
+        0.314,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 4644,
+      "label": "tree",
+      "student_name": "John",
+      "student_id": 1674928713220,
+      "point": [
+        0.476,
+        0.5967365967365967
+      ]
+    },
+    {
+      "id": 4645,
+      "label": "bicycle",
+      "student_name": "John",
+      "student_id": 1674928713220,
+      "point": [
+        0.532,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 4646,
+      "label": "guitar",
+      "student_name": "John",
+      "student_id": 1674928713220,
+      "point": [
+        0.576,
+        0.18181818181818182
+      ]
+    },
+    {
+      "id": 4647,
+      "label": "pencil",
+      "student_name": "John",
+      "student_id": 1674928713220,
+      "point": [
+        0.028,
+        0.5594405594405595
+      ]
+    },
+    {
+      "id": 4648,
+      "label": "clock",
+      "student_name": "John",
+      "student_id": 1674928713220,
+      "point": [
+        0.37,
+        0.3939393939393939
+      ]
+    },
+    {
+      "id": 4649,
+      "label": "car",
+      "student_name": "suioy",
+      "student_id": 1675003946018,
+      "point": [
+        0.534,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 4650,
+      "label": "fish",
+      "student_name": "suioy",
+      "student_id": 1675003946018,
+      "point": [
+        0.516,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 4651,
+      "label": "house",
+      "student_name": "suioy",
+      "student_id": 1675003946018,
+      "point": [
+        0.446,
+        0.5081585081585082
+      ]
+    },
+    {
+      "id": 4652,
+      "label": "tree",
+      "student_name": "suioy",
+      "student_id": 1675003946018,
+      "point": [
+        0.506,
+        0.5128205128205128
+      ]
+    },
+    {
+      "id": 4653,
+      "label": "bicycle",
+      "student_name": "suioy",
+      "student_id": 1675003946018,
+      "point": [
+        0.39,
+        0.317016317016317
+      ]
+    },
+    {
+      "id": 4654,
+      "label": "guitar",
+      "student_name": "suioy",
+      "student_id": 1675003946018,
+      "point": [
+        0.474,
+        0.5524475524475524
+      ]
+    },
+    {
+      "id": 4655,
+      "label": "pencil",
+      "student_name": "suioy",
+      "student_id": 1675003946018,
+      "point": [
+        0.238,
+        0.3962703962703963
+      ]
+    },
+    {
+      "id": 4656,
+      "label": "clock",
+      "student_name": "suioy",
+      "student_id": 1675003946018,
+      "point": [
+        0.25,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 4657,
+      "label": "car",
+      "student_name": "hgj",
+      "student_id": 1675012026280,
+      "point": [
+        0.756,
+        0.6480186480186481
+      ]
+    },
+    {
+      "id": 4658,
+      "label": "fish",
+      "student_name": "hgj",
+      "student_id": 1675012026280,
+      "point": [
+        0.584,
+        0.44988344988344986
+      ]
+    },
+    {
+      "id": 4659,
+      "label": "house",
+      "student_name": "hgj",
+      "student_id": 1675012026280,
+      "point": [
+        0.656,
+        0.6480186480186481
+      ]
+    },
+    {
+      "id": 4660,
+      "label": "tree",
+      "student_name": "hgj",
+      "student_id": 1675012026280,
+      "point": [
+        0.538,
+        0.6806526806526807
+      ]
+    },
+    {
+      "id": 4661,
+      "label": "bicycle",
+      "student_name": "hgj",
+      "student_id": 1675012026280,
+      "point": [
+        0.536,
+        0.48951048951048953
+      ]
+    },
+    {
+      "id": 4662,
+      "label": "guitar",
+      "student_name": "hgj",
+      "student_id": 1675012026280,
+      "point": [
+        0.73,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 4663,
+      "label": "pencil",
+      "student_name": "hgj",
+      "student_id": 1675012026280,
+      "point": [
+        0.458,
+        0.5337995337995338
+      ]
+    },
+    {
+      "id": 4664,
+      "label": "clock",
+      "student_name": "hgj",
+      "student_id": 1675012026280,
+      "point": [
+        0.418,
+        0.3986013986013986
+      ]
+    },
+    {
+      "id": 4665,
+      "label": "car",
+      "student_name": "Oli",
+      "student_id": 1675014950250,
+      "point": [
+        0.392,
+        0.2634032634032634
+      ]
+    },
+    {
+      "id": 4666,
+      "label": "fish",
+      "student_name": "Oli",
+      "student_id": 1675014950250,
+      "point": [
+        0.482,
+        0.17016317016317017
+      ]
+    },
+    {
+      "id": 4667,
+      "label": "house",
+      "student_name": "Oli",
+      "student_id": 1675014950250,
+      "point": [
+        0.426,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 4668,
+      "label": "tree",
+      "student_name": "Oli",
+      "student_id": 1675014950250,
+      "point": [
+        0.594,
+        0.6713286713286714
+      ]
+    },
+    {
+      "id": 4669,
+      "label": "bicycle",
+      "student_name": "Oli",
+      "student_id": 1675014950250,
+      "point": [
+        0.358,
+        0.2331002331002331
+      ]
+    },
+    {
+      "id": 4670,
+      "label": "guitar",
+      "student_name": "Oli",
+      "student_id": 1675014950250,
+      "point": [
+        0.428,
+        0.6107226107226107
+      ]
+    },
+    {
+      "id": 4671,
+      "label": "pencil",
+      "student_name": "Oli",
+      "student_id": 1675014950250,
+      "point": [
+        0.28,
+        0.41025641025641024
+      ]
+    },
+    {
+      "id": 4672,
+      "label": "clock",
+      "student_name": "Oli",
+      "student_id": 1675014950250,
+      "point": [
+        0.536,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 4673,
+      "label": "car",
+      "student_name": "Bugsmith",
+      "student_id": 1675015154332,
+      "point": [
+        0.55,
+        0.17249417249417248
+      ]
+    },
+    {
+      "id": 4674,
+      "label": "fish",
+      "student_name": "Bugsmith",
+      "student_id": 1675015154332,
+      "point": [
+        0.528,
+        0.3613053613053613
+      ]
+    },
+    {
+      "id": 4675,
+      "label": "house",
+      "student_name": "Bugsmith",
+      "student_id": 1675015154332,
+      "point": [
+        0.34,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 4676,
+      "label": "tree",
+      "student_name": "Bugsmith",
+      "student_id": 1675015154332,
+      "point": [
+        0.542,
+        0.7435897435897436
+      ]
+    },
+    {
+      "id": 4677,
+      "label": "bicycle",
+      "student_name": "Bugsmith",
+      "student_id": 1675015154332,
+      "point": [
+        0.602,
+        0.5268065268065268
+      ]
+    },
+    {
+      "id": 4678,
+      "label": "guitar",
+      "student_name": "Bugsmith",
+      "student_id": 1675015154332,
+      "point": [
+        0.66,
+        0.8041958041958042
+      ]
+    },
+    {
+      "id": 4679,
+      "label": "pencil",
+      "student_name": "Bugsmith",
+      "student_id": 1675015154332,
+      "point": [
+        0.382,
+        0.5990675990675991
+      ]
+    },
+    {
+      "id": 4680,
+      "label": "clock",
+      "student_name": "Bugsmith",
+      "student_id": 1675015154332,
+      "point": [
+        0.49,
+        0.6456876456876457
+      ]
+    },
+    {
+      "id": 4681,
+      "label": "car",
+      "student_name": "asmit",
+      "student_id": 1675052958291,
+      "point": [
+        0.616,
+        0.34032634032634035
+      ]
+    },
+    {
+      "id": 4682,
+      "label": "fish",
+      "student_name": "asmit",
+      "student_id": 1675052958291,
+      "point": [
+        0.416,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 4683,
+      "label": "house",
+      "student_name": "asmit",
+      "student_id": 1675052958291,
+      "point": [
+        0.308,
+        0.47785547785547783
+      ]
+    },
+    {
+      "id": 4684,
+      "label": "tree",
+      "student_name": "asmit",
+      "student_id": 1675052958291,
+      "point": [
+        0.458,
+        0.6573426573426573
+      ]
+    },
+    {
+      "id": 4685,
+      "label": "bicycle",
+      "student_name": "asmit",
+      "student_id": 1675052958291,
+      "point": [
+        0.564,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 4686,
+      "label": "guitar",
+      "student_name": "asmit",
+      "student_id": 1675052958291,
+      "point": [
+        0.488,
+        0.703962703962704
+      ]
+    },
+    {
+      "id": 4687,
+      "label": "pencil",
+      "student_name": "asmit",
+      "student_id": 1675052958291,
+      "point": [
+        0.462,
+        0.5897435897435898
+      ]
+    },
+    {
+      "id": 4688,
+      "label": "clock",
+      "student_name": "asmit",
+      "student_id": 1675052958291,
+      "point": [
+        0.47,
+        0.5244755244755245
+      ]
+    },
+    {
+      "id": 4689,
+      "label": "car",
+      "student_name": "jag69",
+      "student_id": 1675054153740,
+      "point": [
+        0.64,
+        0.3986013986013986
+      ]
+    },
+    {
+      "id": 4690,
+      "label": "fish",
+      "student_name": "jag69",
+      "student_id": 1675054153740,
+      "point": [
+        0.412,
+        0.24475524475524477
+      ]
+    },
+    {
+      "id": 4691,
+      "label": "house",
+      "student_name": "jag69",
+      "student_id": 1675054153740,
+      "point": [
+        0.448,
+        0.5524475524475524
+      ]
+    },
+    {
+      "id": 4692,
+      "label": "tree",
+      "student_name": "jag69",
+      "student_id": 1675054153740,
+      "point": [
+        0.518,
+        0.7202797202797203
+      ]
+    },
+    {
+      "id": 4693,
+      "label": "bicycle",
+      "student_name": "jag69",
+      "student_id": 1675054153740,
+      "point": [
+        0.472,
+        0.351981351981352
+      ]
+    },
+    {
+      "id": 4694,
+      "label": "guitar",
+      "student_name": "jag69",
+      "student_id": 1675054153740,
+      "point": [
+        0.604,
+        0.8065268065268065
+      ]
+    },
+    {
+      "id": 4695,
+      "label": "pencil",
+      "student_name": "jag69",
+      "student_id": 1675054153740,
+      "point": [
+        0.194,
+        0.6480186480186481
+      ]
+    },
+    {
+      "id": 4696,
+      "label": "clock",
+      "student_name": "jag69",
+      "student_id": 1675054153740,
+      "point": [
+        0.438,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 4697,
+      "label": "car",
+      "student_name": "drow",
+      "student_id": 1675056399345,
+      "point": [
+        0.62,
+        0.23776223776223776
+      ]
+    },
+    {
+      "id": 4698,
+      "label": "fish",
+      "student_name": "drow",
+      "student_id": 1675056399345,
+      "point": [
+        0.424,
+        0.18181818181818182
+      ]
+    },
+    {
+      "id": 4699,
+      "label": "house",
+      "student_name": "drow",
+      "student_id": 1675056399345,
+      "point": [
+        0.44,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 4700,
+      "label": "tree",
+      "student_name": "drow",
+      "student_id": 1675056399345,
+      "point": [
+        0.288,
+        0.36596736596736595
+      ]
+    },
+    {
+      "id": 4701,
+      "label": "bicycle",
+      "student_name": "drow",
+      "student_id": 1675056399345,
+      "point": [
+        0.356,
+        0.013986013986013986
+      ]
+    },
+    {
+      "id": 4702,
+      "label": "guitar",
+      "student_name": "drow",
+      "student_id": 1675056399345,
+      "point": [
+        0.258,
+        0.6713286713286714
+      ]
+    },
+    {
+      "id": 4703,
+      "label": "pencil",
+      "student_name": "drow",
+      "student_id": 1675056399345,
+      "point": [
+        0.418,
+        0.10256410256410256
+      ]
+    },
+    {
+      "id": 4704,
+      "label": "clock",
+      "student_name": "drow",
+      "student_id": 1675056399345,
+      "point": [
+        0.474,
+        0.4592074592074592
+      ]
+    },
+    {
+      "id": 4705,
+      "label": "car",
+      "student_name": "Jaana",
+      "student_id": 1675068431221,
+      "point": [
+        0.548,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 4706,
+      "label": "fish",
+      "student_name": "Jaana",
+      "student_id": 1675068431221,
+      "point": [
+        0.462,
+        0.09557109557109557
+      ]
+    },
+    {
+      "id": 4707,
+      "label": "house",
+      "student_name": "Jaana",
+      "student_id": 1675068431221,
+      "point": [
+        0.338,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 4708,
+      "label": "tree",
+      "student_name": "Jaana",
+      "student_id": 1675068431221,
+      "point": [
+        0.422,
+        0.6386946386946387
+      ]
+    },
+    {
+      "id": 4709,
+      "label": "bicycle",
+      "student_name": "Jaana",
+      "student_id": 1675068431221,
+      "point": [
+        0.458,
+        0.20046620046620048
+      ]
+    },
+    {
+      "id": 4710,
+      "label": "guitar",
+      "student_name": "Jaana",
+      "student_id": 1675068431221,
+      "point": [
+        0.352,
+        0.4428904428904429
+      ]
+    },
+    {
+      "id": 4711,
+      "label": "pencil",
+      "student_name": "Jaana",
+      "student_id": 1675068431221,
+      "point": [
+        0.278,
+        0.45454545454545453
+      ]
+    },
+    {
+      "id": 4712,
+      "label": "clock",
+      "student_name": "Jaana",
+      "student_id": 1675068431221,
+      "point": [
+        0.32,
+        0.36363636363636365
+      ]
+    },
+    {
+      "id": 4713,
+      "label": "car",
+      "student_name": "Hello",
+      "student_id": 1675070862050,
+      "point": [
+        0.594,
+        0.2261072261072261
+      ]
+    },
+    {
+      "id": 4714,
+      "label": "fish",
+      "student_name": "Hello",
+      "student_id": 1675070862050,
+      "point": [
+        0.478,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 4715,
+      "label": "house",
+      "student_name": "Hello",
+      "student_id": 1675070862050,
+      "point": [
+        0.496,
+        0.40093240093240096
+      ]
+    },
+    {
+      "id": 4716,
+      "label": "tree",
+      "student_name": "Hello",
+      "student_id": 1675070862050,
+      "point": [
+        0.4,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 4717,
+      "label": "bicycle",
+      "student_name": "Hello",
+      "student_id": 1675070862050,
+      "point": [
+        0.338,
+        0.2727272727272727
+      ]
+    },
+    {
+      "id": 4718,
+      "label": "guitar",
+      "student_name": "Hello",
+      "student_id": 1675070862050,
+      "point": [
+        0.348,
+        0.3962703962703963
+      ]
+    },
+    {
+      "id": 4719,
+      "label": "pencil",
+      "student_name": "Hello",
+      "student_id": 1675070862050,
+      "point": [
+        0.248,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 4720,
+      "label": "clock",
+      "student_name": "Hello",
+      "student_id": 1675070862050,
+      "point": [
+        0.238,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 4721,
+      "label": "car",
+      "student_name": "utsav",
+      "student_id": 1675086184064,
+      "point": [
+        0.676,
+        0.2680652680652681
+      ]
+    },
+    {
+      "id": 4722,
+      "label": "fish",
+      "student_name": "utsav",
+      "student_id": 1675086184064,
+      "point": [
+        0.456,
+        0.4405594405594406
+      ]
+    },
+    {
+      "id": 4723,
+      "label": "house",
+      "student_name": "utsav",
+      "student_id": 1675086184064,
+      "point": [
+        0.404,
+        0.5244755244755245
+      ]
+    },
+    {
+      "id": 4724,
+      "label": "tree",
+      "student_name": "utsav",
+      "student_id": 1675086184064,
+      "point": [
+        0.578,
+        0.7272727272727273
+      ]
+    },
+    {
+      "id": 4725,
+      "label": "bicycle",
+      "student_name": "utsav",
+      "student_id": 1675086184064,
+      "point": [
+        0.364,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 4726,
+      "label": "guitar",
+      "student_name": "utsav",
+      "student_id": 1675086184064,
+      "point": [
+        0.202,
+        0.7296037296037297
+      ]
+    },
+    {
+      "id": 4727,
+      "label": "pencil",
+      "student_name": "utsav",
+      "student_id": 1675086184064,
+      "point": [
+        0.248,
+        0.372960372960373
+      ]
+    },
+    {
+      "id": 4728,
+      "label": "clock",
+      "student_name": "utsav",
+      "student_id": 1675086184064,
+      "point": [
+        0.428,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 4729,
+      "label": "car",
+      "student_name": "sternbomba",
+      "student_id": 1675152560597,
+      "point": [
+        0.55,
+        0.23543123543123542
+      ]
+    },
+    {
+      "id": 4730,
+      "label": "fish",
+      "student_name": "sternbomba",
+      "student_id": 1675152560597,
+      "point": [
+        0.466,
+        0.36363636363636365
+      ]
+    },
+    {
+      "id": 4731,
+      "label": "house",
+      "student_name": "sternbomba",
+      "student_id": 1675152560597,
+      "point": [
+        0.348,
+        0.5407925407925408
+      ]
+    },
+    {
+      "id": 4732,
+      "label": "tree",
+      "student_name": "sternbomba",
+      "student_id": 1675152560597,
+      "point": [
+        0.428,
+        0.5454545454545454
+      ]
+    },
+    {
+      "id": 4733,
+      "label": "bicycle",
+      "student_name": "sternbomba",
+      "student_id": 1675152560597,
+      "point": [
+        0.422,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 4734,
+      "label": "guitar",
+      "student_name": "sternbomba",
+      "student_id": 1675152560597,
+      "point": [
+        0.37,
+        0.7832167832167832
+      ]
+    },
+    {
+      "id": 4735,
+      "label": "pencil",
+      "student_name": "sternbomba",
+      "student_id": 1675152560597,
+      "point": [
+        0.254,
+        0.6736596736596736
+      ]
+    },
+    {
+      "id": 4736,
+      "label": "clock",
+      "student_name": "sternbomba",
+      "student_id": 1675152560597,
+      "point": [
+        0.29,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 4737,
+      "label": "car",
+      "student_name": "honza",
+      "student_id": 1675201906701,
+      "point": [
+        0.524,
+        0.1794871794871795
+      ]
+    },
+    {
+      "id": 4738,
+      "label": "fish",
+      "student_name": "honza",
+      "student_id": 1675201906701,
+      "point": [
+        0.17,
+        0.11188811188811189
+      ]
+    },
+    {
+      "id": 4739,
+      "label": "house",
+      "student_name": "honza",
+      "student_id": 1675201906701,
+      "point": [
+        0.264,
+        0.41025641025641024
+      ]
+    },
+    {
+      "id": 4740,
+      "label": "tree",
+      "student_name": "honza",
+      "student_id": 1675201906701,
+      "point": [
+        0.352,
+        0.585081585081585
+      ]
+    },
+    {
+      "id": 4741,
+      "label": "bicycle",
+      "student_name": "honza",
+      "student_id": 1675201906701,
+      "point": [
+        0.374,
+        0.23776223776223776
+      ]
+    },
+    {
+      "id": 4742,
+      "label": "guitar",
+      "student_name": "honza",
+      "student_id": 1675201906701,
+      "point": [
+        0.336,
+        0.3962703962703963
+      ]
+    },
+    {
+      "id": 4743,
+      "label": "pencil",
+      "student_name": "honza",
+      "student_id": 1675201906701,
+      "point": [
+        0.532,
+        0.11421911421911422
+      ]
+    },
+    {
+      "id": 4744,
+      "label": "clock",
+      "student_name": "honza",
+      "student_id": 1675201906701,
+      "point": [
+        0.392,
+        0.40559440559440557
+      ]
+    },
+    {
+      "id": 4745,
+      "label": "car",
+      "student_name": "HungDQ",
+      "student_id": 1675261761016,
+      "point": [
+        0.586,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 4746,
+      "label": "fish",
+      "student_name": "HungDQ",
+      "student_id": 1675261761016,
+      "point": [
+        0.512,
+        0.18414918414918416
+      ]
+    },
+    {
+      "id": 4747,
+      "label": "house",
+      "student_name": "HungDQ",
+      "student_id": 1675261761016,
+      "point": [
+        0.366,
+        0.337995337995338
+      ]
+    },
+    {
+      "id": 4748,
+      "label": "tree",
+      "student_name": "HungDQ",
+      "student_id": 1675261761016,
+      "point": [
+        0.41,
+        0.48951048951048953
+      ]
+    },
+    {
+      "id": 4749,
+      "label": "bicycle",
+      "student_name": "HungDQ",
+      "student_id": 1675261761016,
+      "point": [
+        0.4,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 4750,
+      "label": "guitar",
+      "student_name": "HungDQ",
+      "student_id": 1675261761016,
+      "point": [
+        0.588,
+        0.20046620046620048
+      ]
+    },
+    {
+      "id": 4751,
+      "label": "pencil",
+      "student_name": "HungDQ",
+      "student_id": 1675261761016,
+      "point": [
+        0.22,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 4752,
+      "label": "clock",
+      "student_name": "HungDQ",
+      "student_id": 1675261761016,
+      "point": [
+        0.262,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 4753,
+      "label": "car",
+      "student_name": "the return of...",
+      "student_id": 1675265410222,
+      "point": [
+        0.568,
+        0.3356643356643357
+      ]
+    },
+    {
+      "id": 4754,
+      "label": "fish",
+      "student_name": "the return of...",
+      "student_id": 1675265410222,
+      "point": [
+        0.408,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 4755,
+      "label": "house",
+      "student_name": "the return of...",
+      "student_id": 1675265410222,
+      "point": [
+        0.44,
+        0.7296037296037297
+      ]
+    },
+    {
+      "id": 4756,
+      "label": "tree",
+      "student_name": "the return of...",
+      "student_id": 1675265410222,
+      "point": [
+        0.48,
+        0.7622377622377622
+      ]
+    },
+    {
+      "id": 4757,
+      "label": "bicycle",
+      "student_name": "the return of...",
+      "student_id": 1675265410222,
+      "point": [
+        0.44,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 4758,
+      "label": "guitar",
+      "student_name": "the return of...",
+      "student_id": 1675265410222,
+      "point": [
+        0.318,
+        0.7622377622377622
+      ]
+    },
+    {
+      "id": 4759,
+      "label": "pencil",
+      "student_name": "the return of...",
+      "student_id": 1675265410222,
+      "point": [
+        0.118,
+        0.703962703962704
+      ]
+    },
+    {
+      "id": 4760,
+      "label": "clock",
+      "student_name": "the return of...",
+      "student_id": 1675265410222,
+      "point": [
+        0.446,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 4761,
+      "label": "car",
+      "student_name": "avatar",
+      "student_id": 1675312445542,
+      "point": [
+        0.57,
+        0.2703962703962704
+      ]
+    },
+    {
+      "id": 4762,
+      "label": "fish",
+      "student_name": "avatar",
+      "student_id": 1675312445542,
+      "point": [
+        0.396,
+        0.21678321678321677
+      ]
+    },
+    {
+      "id": 4763,
+      "label": "house",
+      "student_name": "avatar",
+      "student_id": 1675312445542,
+      "point": [
+        0.26,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 4764,
+      "label": "tree",
+      "student_name": "avatar",
+      "student_id": 1675312445542,
+      "point": [
+        0.302,
+        0.5151515151515151
+      ]
+    },
+    {
+      "id": 4765,
+      "label": "bicycle",
+      "student_name": "avatar",
+      "student_id": 1675312445542,
+      "point": [
+        0.29,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 4766,
+      "label": "guitar",
+      "student_name": "avatar",
+      "student_id": 1675312445542,
+      "point": [
+        0.562,
+        0.16783216783216784
+      ]
+    },
+    {
+      "id": 4767,
+      "label": "pencil",
+      "student_name": "avatar",
+      "student_id": 1675312445542,
+      "point": [
+        0.318,
+        0.5827505827505828
+      ]
+    },
+    {
+      "id": 4768,
+      "label": "clock",
+      "student_name": "avatar",
+      "student_id": 1675312445542,
+      "point": [
+        0.32,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 4769,
+      "label": "car",
+      "student_name": "An",
+      "student_id": 1675345741937,
+      "point": [
+        0.578,
+        0.351981351981352
+      ]
+    },
+    {
+      "id": 4770,
+      "label": "fish",
+      "student_name": "An",
+      "student_id": 1675345741937,
+      "point": [
+        0.308,
+        0.14918414918414918
+      ]
+    },
+    {
+      "id": 4771,
+      "label": "house",
+      "student_name": "An",
+      "student_id": 1675345741937,
+      "point": [
+        0.254,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 4772,
+      "label": "tree",
+      "student_name": "An",
+      "student_id": 1675345741937,
+      "point": [
+        0.212,
+        0.34032634032634035
+      ]
+    },
+    {
+      "id": 4773,
+      "label": "bicycle",
+      "student_name": "An",
+      "student_id": 1675345741937,
+      "point": [
+        0.326,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 4774,
+      "label": "guitar",
+      "student_name": "An",
+      "student_id": 1675345741937,
+      "point": [
+        0.296,
+        0.5128205128205128
+      ]
+    },
+    {
+      "id": 4775,
+      "label": "pencil",
+      "student_name": "An",
+      "student_id": 1675345741937,
+      "point": [
+        0.228,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 4776,
+      "label": "clock",
+      "student_name": "An",
+      "student_id": 1675345741937,
+      "point": [
+        0.352,
+        0.3962703962703963
+      ]
+    },
+    {
+      "id": 4777,
+      "label": "car",
+      "student_name": "Razvan",
+      "student_id": 1675371176374,
+      "point": [
+        0.646,
+        0.36596736596736595
+      ]
+    },
+    {
+      "id": 4778,
+      "label": "fish",
+      "student_name": "Razvan",
+      "student_id": 1675371176374,
+      "point": [
+        0.464,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 4779,
+      "label": "house",
+      "student_name": "Razvan",
+      "student_id": 1675371176374,
+      "point": [
+        0.512,
+        0.7738927738927739
+      ]
+    },
+    {
+      "id": 4780,
+      "label": "tree",
+      "student_name": "Razvan",
+      "student_id": 1675371176374,
+      "point": [
+        0.54,
+        0.7296037296037297
+      ]
+    },
+    {
+      "id": 4781,
+      "label": "bicycle",
+      "student_name": "Razvan",
+      "student_id": 1675371176374,
+      "point": [
+        0.37,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 4782,
+      "label": "guitar",
+      "student_name": "Razvan",
+      "student_id": 1675371176374,
+      "point": [
+        0.208,
+        0.627039627039627
+      ]
+    },
+    {
+      "id": 4783,
+      "label": "pencil",
+      "student_name": "Razvan",
+      "student_id": 1675371176374,
+      "point": [
+        0.238,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 4784,
+      "label": "clock",
+      "student_name": "Razvan",
+      "student_id": 1675371176374,
+      "point": [
+        0.608,
+        0.7062937062937062
+      ]
+    },
+    {
+      "id": 4785,
+      "label": "car",
+      "student_name": "Marokanec",
+      "student_id": 1675372649346,
+      "point": [
+        0.456,
+        0.18181818181818182
+      ]
+    },
+    {
+      "id": 4786,
+      "label": "fish",
+      "student_name": "Marokanec",
+      "student_id": 1675372649346,
+      "point": [
+        0.418,
+        0.1561771561771562
+      ]
+    },
+    {
+      "id": 4787,
+      "label": "house",
+      "student_name": "Marokanec",
+      "student_id": 1675372649346,
+      "point": [
+        0.284,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 4788,
+      "label": "tree",
+      "student_name": "Marokanec",
+      "student_id": 1675372649346,
+      "point": [
+        0.474,
+        0.6410256410256411
+      ]
+    },
+    {
+      "id": 4789,
+      "label": "bicycle",
+      "student_name": "Marokanec",
+      "student_id": 1675372649346,
+      "point": [
+        0.534,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 4790,
+      "label": "guitar",
+      "student_name": "Marokanec",
+      "student_id": 1675372649346,
+      "point": [
+        0.592,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 4791,
+      "label": "pencil",
+      "student_name": "Marokanec",
+      "student_id": 1675372649346,
+      "point": [
+        0.078,
+        0.45454545454545453
+      ]
+    },
+    {
+      "id": 4792,
+      "label": "clock",
+      "student_name": "Marokanec",
+      "student_id": 1675372649346,
+      "point": [
+        0.274,
+        0.28205128205128205
+      ]
+    },
+    {
+      "id": 4793,
+      "label": "car",
+      "student_name": "sas",
+      "student_id": 1675425568796,
+      "point": [
+        0.448,
+        0.2494172494172494
+      ]
+    },
+    {
+      "id": 4794,
+      "label": "fish",
+      "student_name": "sas",
+      "student_id": 1675425568796,
+      "point": [
+        0.56,
+        0.46153846153846156
+      ]
+    },
+    {
+      "id": 4795,
+      "label": "house",
+      "student_name": "sas",
+      "student_id": 1675425568796,
+      "point": [
+        0.46,
+        0.5571095571095571
+      ]
+    },
+    {
+      "id": 4796,
+      "label": "tree",
+      "student_name": "sas",
+      "student_id": 1675425568796,
+      "point": [
+        0.504,
+        0.5990675990675991
+      ]
+    },
+    {
+      "id": 4797,
+      "label": "bicycle",
+      "student_name": "sas",
+      "student_id": 1675425568796,
+      "point": [
+        0.446,
+        0.38694638694638694
+      ]
+    },
+    {
+      "id": 4798,
+      "label": "guitar",
+      "student_name": "sas",
+      "student_id": 1675425568796,
+      "point": [
+        0.62,
+        0.5337995337995338
+      ]
+    },
+    {
+      "id": 4799,
+      "label": "pencil",
+      "student_name": "sas",
+      "student_id": 1675425568796,
+      "point": [
+        0.372,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 4800,
+      "label": "clock",
+      "student_name": "sas",
+      "student_id": 1675425568796,
+      "point": [
+        0.178,
+        0.6993006993006993
+      ]
+    },
+    {
+      "id": 4801,
+      "label": "car",
+      "student_name": "Mimas",
+      "student_id": 1675429037404,
+      "point": [
+        0.478,
+        0.17016317016317017
+      ]
+    },
+    {
+      "id": 4802,
+      "label": "fish",
+      "student_name": "Mimas",
+      "student_id": 1675429037404,
+      "point": [
+        0.22,
+        0.13752913752913754
+      ]
+    },
+    {
+      "id": 4803,
+      "label": "house",
+      "student_name": "Mimas",
+      "student_id": 1675429037404,
+      "point": [
+        0.374,
+        0.4195804195804196
+      ]
+    },
+    {
+      "id": 4804,
+      "label": "tree",
+      "student_name": "Mimas",
+      "student_id": 1675429037404,
+      "point": [
+        0.278,
+        0.6456876456876457
+      ]
+    },
+    {
+      "id": 4805,
+      "label": "bicycle",
+      "student_name": "Mimas",
+      "student_id": 1675429037404,
+      "point": [
+        0.262,
+        0.20046620046620048
+      ]
+    },
+    {
+      "id": 4806,
+      "label": "guitar",
+      "student_name": "Mimas",
+      "student_id": 1675429037404,
+      "point": [
+        0.612,
+        0.13053613053613053
+      ]
+    },
+    {
+      "id": 4807,
+      "label": "pencil",
+      "student_name": "Mimas",
+      "student_id": 1675429037404,
+      "point": [
+        0.524,
+        0.06293706293706294
+      ]
+    },
+    {
+      "id": 4808,
+      "label": "clock",
+      "student_name": "Mimas",
+      "student_id": 1675429037404,
+      "point": [
+        0.386,
+        0.34032634032634035
+      ]
+    },
+    {
+      "id": 4809,
+      "label": "car",
+      "student_name": "Tino",
+      "student_id": 1675435563127,
+      "point": [
+        0.438,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 4810,
+      "label": "fish",
+      "student_name": "Tino",
+      "student_id": 1675435563127,
+      "point": [
+        0.482,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 4811,
+      "label": "house",
+      "student_name": "Tino",
+      "student_id": 1675435563127,
+      "point": [
+        0.282,
+        0.4289044289044289
+      ]
+    },
+    {
+      "id": 4812,
+      "label": "tree",
+      "student_name": "Tino",
+      "student_id": 1675435563127,
+      "point": [
+        0.414,
+        0.6363636363636364
+      ]
+    },
+    {
+      "id": 4813,
+      "label": "bicycle",
+      "student_name": "Tino",
+      "student_id": 1675435563127,
+      "point": [
+        0.404,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 4814,
+      "label": "guitar",
+      "student_name": "Tino",
+      "student_id": 1675435563127,
+      "point": [
+        0.514,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 4815,
+      "label": "pencil",
+      "student_name": "Tino",
+      "student_id": 1675435563127,
+      "point": [
+        0.52,
+        0.24475524475524477
+      ]
+    },
+    {
+      "id": 4816,
+      "label": "clock",
+      "student_name": "Tino",
+      "student_id": 1675435563127,
+      "point": [
+        0.474,
+        0.44988344988344986
+      ]
+    },
+    {
+      "id": 4817,
+      "label": "car",
+      "student_name": "Paritosh",
+      "student_id": 1675437261287,
+      "point": [
+        0.636,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 4818,
+      "label": "fish",
+      "student_name": "Paritosh",
+      "student_id": 1675437261287,
+      "point": [
+        0.436,
+        0.44522144522144524
+      ]
+    },
+    {
+      "id": 4819,
+      "label": "house",
+      "student_name": "Paritosh",
+      "student_id": 1675437261287,
+      "point": [
+        0.432,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 4820,
+      "label": "tree",
+      "student_name": "Paritosh",
+      "student_id": 1675437261287,
+      "point": [
+        0.384,
+        0.6293706293706294
+      ]
+    },
+    {
+      "id": 4821,
+      "label": "bicycle",
+      "student_name": "Paritosh",
+      "student_id": 1675437261287,
+      "point": [
+        0.47,
+        0.46153846153846156
+      ]
+    },
+    {
+      "id": 4822,
+      "label": "guitar",
+      "student_name": "Paritosh",
+      "student_id": 1675437261287,
+      "point": [
+        0.432,
+        0.5920745920745921
+      ]
+    },
+    {
+      "id": 4823,
+      "label": "pencil",
+      "student_name": "Paritosh",
+      "student_id": 1675437261287,
+      "point": [
+        0.336,
+        0.5128205128205128
+      ]
+    },
+    {
+      "id": 4824,
+      "label": "clock",
+      "student_name": "Paritosh",
+      "student_id": 1675437261287,
+      "point": [
+        0.5,
+        0.6107226107226107
+      ]
+    },
+    {
+      "id": 4825,
+      "label": "car",
+      "student_name": "Rajarajan",
+      "student_id": 1675487721103,
+      "point": [
+        0.56,
+        0.34032634032634035
+      ]
+    },
+    {
+      "id": 4826,
+      "label": "fish",
+      "student_name": "Rajarajan",
+      "student_id": 1675487721103,
+      "point": [
+        0.616,
+        0.32867132867132864
+      ]
+    },
+    {
+      "id": 4827,
+      "label": "house",
+      "student_name": "Rajarajan",
+      "student_id": 1675487721103,
+      "point": [
+        0.434,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 4828,
+      "label": "tree",
+      "student_name": "Rajarajan",
+      "student_id": 1675487721103,
+      "point": [
+        0.392,
+        0.62004662004662
+      ]
+    },
+    {
+      "id": 4829,
+      "label": "bicycle",
+      "student_name": "Rajarajan",
+      "student_id": 1675487721103,
+      "point": [
+        0.574,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 4830,
+      "label": "guitar",
+      "student_name": "Rajarajan",
+      "student_id": 1675487721103,
+      "point": [
+        0.452,
+        0.5757575757575758
+      ]
+    },
+    {
+      "id": 4831,
+      "label": "pencil",
+      "student_name": "Rajarajan",
+      "student_id": 1675487721103,
+      "point": [
+        0.324,
+        0.40559440559440557
+      ]
+    },
+    {
+      "id": 4832,
+      "label": "clock",
+      "student_name": "Rajarajan",
+      "student_id": 1675487721103,
+      "point": [
+        0.304,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 4833,
+      "label": "car",
+      "student_name": "Emmer",
+      "student_id": 1675521234080,
+      "point": [
+        0.642,
+        0.46853146853146854
+      ]
+    },
+    {
+      "id": 4834,
+      "label": "fish",
+      "student_name": "Emmer",
+      "student_id": 1675521234080,
+      "point": [
+        0.474,
+        0.18181818181818182
+      ]
+    },
+    {
+      "id": 4835,
+      "label": "house",
+      "student_name": "Emmer",
+      "student_id": 1675521234080,
+      "point": [
+        0.616,
+        0.17016317016317017
+      ]
+    },
+    {
+      "id": 4836,
+      "label": "tree",
+      "student_name": "Emmer",
+      "student_id": 1675521234080,
+      "point": [
+        0.51,
+        0.6899766899766899
+      ]
+    },
+    {
+      "id": 4837,
+      "label": "bicycle",
+      "student_name": "Emmer",
+      "student_id": 1675521234080,
+      "point": [
+        0.564,
+        0.5547785547785548
+      ]
+    },
+    {
+      "id": 4838,
+      "label": "guitar",
+      "student_name": "Emmer",
+      "student_id": 1675521234080,
+      "point": [
+        0.614,
+        0.29603729603729606
+      ]
+    },
+    {
+      "id": 4839,
+      "label": "pencil",
+      "student_name": "Emmer",
+      "student_id": 1675521234080,
+      "point": [
+        0.058,
+        0.4731934731934732
+      ]
+    },
+    {
+      "id": 4840,
+      "label": "clock",
+      "student_name": "Emmer",
+      "student_id": 1675521234080,
+      "point": [
+        0.37,
+        0.4592074592074592
+      ]
+    },
+    {
+      "id": 4841,
+      "label": "car",
+      "student_name": "test",
+      "student_id": 1675583222451,
+      "point": [
+        0.484,
+        0.28438228438228436
+      ]
+    },
+    {
+      "id": 4842,
+      "label": "fish",
+      "student_name": "test",
+      "student_id": 1675583222451,
+      "point": [
+        0.36,
+        0.2517482517482518
+      ]
+    },
+    {
+      "id": 4843,
+      "label": "house",
+      "student_name": "test",
+      "student_id": 1675583222451,
+      "point": [
+        0.428,
+        0.5337995337995338
+      ]
+    },
+    {
+      "id": 4844,
+      "label": "tree",
+      "student_name": "test",
+      "student_id": 1675583222451,
+      "point": [
+        0.562,
+        0.8461538461538461
+      ]
+    },
+    {
+      "id": 4845,
+      "label": "bicycle",
+      "student_name": "test",
+      "student_id": 1675583222451,
+      "point": [
+        0.536,
+        0.43356643356643354
+      ]
+    },
+    {
+      "id": 4846,
+      "label": "guitar",
+      "student_name": "test",
+      "student_id": 1675583222451,
+      "point": [
+        0.478,
+        0.6993006993006993
+      ]
+    },
+    {
+      "id": 4847,
+      "label": "pencil",
+      "student_name": "test",
+      "student_id": 1675583222451,
+      "point": [
+        0.302,
+        0.5477855477855478
+      ]
+    },
+    {
+      "id": 4848,
+      "label": "clock",
+      "student_name": "test",
+      "student_id": 1675583222451,
+      "point": [
+        0.296,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 4849,
+      "label": "car",
+      "student_name": "Liu Yang",
+      "student_id": 1675597983650,
+      "point": [
+        0.578,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 4850,
+      "label": "fish",
+      "student_name": "Liu Yang",
+      "student_id": 1675597983650,
+      "point": [
+        0.092,
+        0.4405594405594406
+      ]
+    },
+    {
+      "id": 4851,
+      "label": "house",
+      "student_name": "Liu Yang",
+      "student_id": 1675597983650,
+      "point": [
+        0.676,
+        0.7435897435897436
+      ]
+    },
+    {
+      "id": 4852,
+      "label": "tree",
+      "student_name": "Liu Yang",
+      "student_id": 1675597983650,
+      "point": [
+        0.358,
+        0.6946386946386947
+      ]
+    },
+    {
+      "id": 4853,
+      "label": "bicycle",
+      "student_name": "Liu Yang",
+      "student_id": 1675597983650,
+      "point": [
+        0.388,
+        0.28205128205128205
+      ]
+    },
+    {
+      "id": 4854,
+      "label": "guitar",
+      "student_name": "Liu Yang",
+      "student_id": 1675597983650,
+      "point": [
+        0.48,
+        0.15151515151515152
+      ]
+    },
+    {
+      "id": 4855,
+      "label": "pencil",
+      "student_name": "Liu Yang",
+      "student_id": 1675597983650,
+      "point": [
+        0.026,
+        0.6643356643356644
+      ]
+    },
+    {
+      "id": 4856,
+      "label": "clock",
+      "student_name": "Liu Yang",
+      "student_id": 1675597983650,
+      "point": [
+        0.404,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 4857,
+      "label": "car",
+      "student_name": "Jubraz Khan",
+      "student_id": 1675610317227,
+      "point": [
+        0.646,
+        0.2680652680652681
+      ]
+    },
+    {
+      "id": 4858,
+      "label": "fish",
+      "student_name": "Jubraz Khan",
+      "student_id": 1675610317227,
+      "point": [
+        0.56,
+        0.44988344988344986
+      ]
+    },
+    {
+      "id": 4859,
+      "label": "house",
+      "student_name": "Jubraz Khan",
+      "student_id": 1675610317227,
+      "point": [
+        0.758,
+        0.6643356643356644
+      ]
+    },
+    {
+      "id": 4860,
+      "label": "tree",
+      "student_name": "Jubraz Khan",
+      "student_id": 1675610317227,
+      "point": [
+        0.704,
+        0.8158508158508159
+      ]
+    },
+    {
+      "id": 4861,
+      "label": "bicycle",
+      "student_name": "Jubraz Khan",
+      "student_id": 1675610317227,
+      "point": [
+        0.526,
+        0.675990675990676
+      ]
+    },
+    {
+      "id": 4862,
+      "label": "guitar",
+      "student_name": "Jubraz Khan",
+      "student_id": 1675610317227,
+      "point": [
+        0.632,
+        0.7086247086247086
+      ]
+    },
+    {
+      "id": 4863,
+      "label": "pencil",
+      "student_name": "Jubraz Khan",
+      "student_id": 1675610317227,
+      "point": [
+        0.464,
+        0.7132867132867133
+      ]
+    },
+    {
+      "id": 4864,
+      "label": "clock",
+      "student_name": "Jubraz Khan",
+      "student_id": 1675610317227,
+      "point": [
+        0.518,
+        0.5571095571095571
+      ]
+    },
+    {
+      "id": 4865,
+      "label": "car",
+      "student_name": "Eyüphan",
+      "student_id": 1675612494920,
+      "point": [
+        0.47,
+        0.24708624708624707
+      ]
+    },
+    {
+      "id": 4866,
+      "label": "fish",
+      "student_name": "Eyüphan",
+      "student_id": 1675612494920,
+      "point": [
+        0.678,
+        0.5407925407925408
+      ]
+    },
+    {
+      "id": 4867,
+      "label": "house",
+      "student_name": "Eyüphan",
+      "student_id": 1675612494920,
+      "point": [
+        0.644,
+        0.20279720279720279
+      ]
+    },
+    {
+      "id": 4868,
+      "label": "tree",
+      "student_name": "Eyüphan",
+      "student_id": 1675612494920,
+      "point": [
+        0.612,
+        0.20279720279720279
+      ]
+    },
+    {
+      "id": 4869,
+      "label": "bicycle",
+      "student_name": "Eyüphan",
+      "student_id": 1675612494920,
+      "point": [
+        0.706,
+        0.20745920745920746
+      ]
+    },
+    {
+      "id": 4870,
+      "label": "guitar",
+      "student_name": "Eyüphan",
+      "student_id": 1675612494920,
+      "point": [
+        0.734,
+        0.4731934731934732
+      ]
+    },
+    {
+      "id": 4871,
+      "label": "pencil",
+      "student_name": "Eyüphan",
+      "student_id": 1675612494920,
+      "point": [
+        0.668,
+        0.2097902097902098
+      ]
+    },
+    {
+      "id": 4872,
+      "label": "clock",
+      "student_name": "Eyüphan",
+      "student_id": 1675612494920,
+      "point": [
+        0.588,
+        0.20745920745920746
+      ]
+    },
+    {
+      "id": 4873,
+      "label": "car",
+      "student_name": "sa",
+      "student_id": 1675613158094,
+      "point": [
+        0.644,
+        0.16317016317016317
+      ]
+    },
+    {
+      "id": 4874,
+      "label": "fish",
+      "student_name": "sa",
+      "student_id": 1675613158094,
+      "point": [
+        0.394,
+        0.055944055944055944
+      ]
+    },
+    {
+      "id": 4875,
+      "label": "house",
+      "student_name": "sa",
+      "student_id": 1675613158094,
+      "point": [
+        0.226,
+        0.05827505827505827
+      ]
+    },
+    {
+      "id": 4876,
+      "label": "tree",
+      "student_name": "sa",
+      "student_id": 1675613158094,
+      "point": [
+        0.27,
+        0.24475524475524477
+      ]
+    },
+    {
+      "id": 4877,
+      "label": "bicycle",
+      "student_name": "sa",
+      "student_id": 1675613158094,
+      "point": [
+        0.36,
+        0.21678321678321677
+      ]
+    },
+    {
+      "id": 4878,
+      "label": "guitar",
+      "student_name": "sa",
+      "student_id": 1675613158094,
+      "point": [
+        0.246,
+        0.10955710955710955
+      ]
+    },
+    {
+      "id": 4879,
+      "label": "pencil",
+      "student_name": "sa",
+      "student_id": 1675613158094,
+      "point": [
+        0.334,
+        0.10722610722610723
+      ]
+    },
+    {
+      "id": 4880,
+      "label": "clock",
+      "student_name": "sa",
+      "student_id": 1675613158094,
+      "point": [
+        0.268,
+        0.21678321678321677
+      ]
+    },
+    {
+      "id": 4881,
+      "label": "car",
+      "student_name": "k",
+      "student_id": 1675699775640,
+      "point": [
+        0.598,
+        0.23776223776223776
+      ]
+    },
+    {
+      "id": 4882,
+      "label": "fish",
+      "student_name": "k",
+      "student_id": 1675699775640,
+      "point": [
+        0.582,
+        0.2097902097902098
+      ]
+    },
+    {
+      "id": 4883,
+      "label": "house",
+      "student_name": "k",
+      "student_id": 1675699775640,
+      "point": [
+        0.574,
+        0.3356643356643357
+      ]
+    },
+    {
+      "id": 4884,
+      "label": "tree",
+      "student_name": "k",
+      "student_id": 1675699775640,
+      "point": [
+        0.434,
+        0.48484848484848486
+      ]
+    },
+    {
+      "id": 4885,
+      "label": "bicycle",
+      "student_name": "k",
+      "student_id": 1675699775640,
+      "point": [
+        0.502,
+        0.34265734265734266
+      ]
+    },
+    {
+      "id": 4886,
+      "label": "guitar",
+      "student_name": "k",
+      "student_id": 1675699775640,
+      "point": [
+        0.368,
+        0.6713286713286714
+      ]
+    },
+    {
+      "id": 4887,
+      "label": "pencil",
+      "student_name": "k",
+      "student_id": 1675699775640,
+      "point": [
+        0.47,
+        0.44988344988344986
+      ]
+    },
+    {
+      "id": 4888,
+      "label": "clock",
+      "student_name": "k",
+      "student_id": 1675699775640,
+      "point": [
+        0.506,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 4889,
+      "label": "car",
+      "student_name": "Skippy",
+      "student_id": 1675812870641,
+      "point": [
+        0.38,
+        0.24475524475524477
+      ]
+    },
+    {
+      "id": 4890,
+      "label": "fish",
+      "student_name": "Skippy",
+      "student_id": 1675812870641,
+      "point": [
+        0.318,
+        0.3682983682983683
+      ]
+    },
+    {
+      "id": 4891,
+      "label": "house",
+      "student_name": "Skippy",
+      "student_id": 1675812870641,
+      "point": [
+        0.558,
+        0.351981351981352
+      ]
+    },
+    {
+      "id": 4892,
+      "label": "tree",
+      "student_name": "Skippy",
+      "student_id": 1675812870641,
+      "point": [
+        0.302,
+        0.47086247086247085
+      ]
+    },
+    {
+      "id": 4893,
+      "label": "bicycle",
+      "student_name": "Skippy",
+      "student_id": 1675812870641,
+      "point": [
+        0.462,
+        0.40559440559440557
+      ]
+    },
+    {
+      "id": 4894,
+      "label": "guitar",
+      "student_name": "Skippy",
+      "student_id": 1675812870641,
+      "point": [
+        0.352,
+        0.4149184149184149
+      ]
+    },
+    {
+      "id": 4895,
+      "label": "pencil",
+      "student_name": "Skippy",
+      "student_id": 1675812870641,
+      "point": [
+        0.118,
+        0.1561771561771562
+      ]
+    },
+    {
+      "id": 4896,
+      "label": "clock",
+      "student_name": "Skippy",
+      "student_id": 1675812870641,
+      "point": [
+        0.468,
+        0.6410256410256411
+      ]
+    },
+    {
+      "id": 4897,
+      "label": "car",
+      "student_name": "Ankit R",
+      "student_id": 1676042074715,
+      "point": [
+        0.324,
+        0.13053613053613053
+      ]
+    },
+    {
+      "id": 4898,
+      "label": "fish",
+      "student_name": "Ankit R",
+      "student_id": 1676042074715,
+      "point": [
+        0.28,
+        0.1794871794871795
+      ]
+    },
+    {
+      "id": 4899,
+      "label": "house",
+      "student_name": "Ankit R",
+      "student_id": 1676042074715,
+      "point": [
+        0.378,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 4900,
+      "label": "tree",
+      "student_name": "Ankit R",
+      "student_id": 1676042074715,
+      "point": [
+        0.446,
+        0.4825174825174825
+      ]
+    },
+    {
+      "id": 4901,
+      "label": "bicycle",
+      "student_name": "Ankit R",
+      "student_id": 1676042074715,
+      "point": [
+        0.436,
+        0.19347319347319347
+      ]
+    },
+    {
+      "id": 4902,
+      "label": "guitar",
+      "student_name": "Ankit R",
+      "student_id": 1676042074715,
+      "point": [
+        0.432,
+        0.20046620046620048
+      ]
+    },
+    {
+      "id": 4903,
+      "label": "pencil",
+      "student_name": "Ankit R",
+      "student_id": 1676042074715,
+      "point": [
+        0.108,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 4904,
+      "label": "clock",
+      "student_name": "Ankit R",
+      "student_id": 1676042074715,
+      "point": [
+        0.602,
+        0.46153846153846156
+      ]
+    },
+    {
+      "id": 4905,
+      "label": "car",
+      "student_name": "marco",
+      "student_id": 1676068265592,
+      "point": [
+        0.472,
+        0.15384615384615385
+      ]
+    },
+    {
+      "id": 4906,
+      "label": "fish",
+      "student_name": "marco",
+      "student_id": 1676068265592,
+      "point": [
+        0.36,
+        0.13752913752913754
+      ]
+    },
+    {
+      "id": 4907,
+      "label": "house",
+      "student_name": "marco",
+      "student_id": 1676068265592,
+      "point": [
+        0.21,
+        0.36596736596736595
+      ]
+    },
+    {
+      "id": 4908,
+      "label": "tree",
+      "student_name": "marco",
+      "student_id": 1676068265592,
+      "point": [
+        0.272,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 4909,
+      "label": "bicycle",
+      "student_name": "marco",
+      "student_id": 1676068265592,
+      "point": [
+        0.19,
+        0.13986013986013987
+      ]
+    },
+    {
+      "id": 4910,
+      "label": "guitar",
+      "student_name": "marco",
+      "student_id": 1676068265592,
+      "point": [
+        0.326,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 4911,
+      "label": "pencil",
+      "student_name": "marco",
+      "student_id": 1676068265592,
+      "point": [
+        0.24,
+        0.3613053613053613
+      ]
+    },
+    {
+      "id": 4912,
+      "label": "clock",
+      "student_name": "marco",
+      "student_id": 1676068265592,
+      "point": [
+        0.2,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 4913,
+      "label": "car",
+      "student_name": "Manu",
+      "student_id": 1676098827392,
+      "point": [
+        0.746,
+        0.8321678321678322
+      ]
+    },
+    {
+      "id": 4914,
+      "label": "fish",
+      "student_name": "Manu",
+      "student_id": 1676098827392,
+      "point": [
+        0.502,
+        0.4522144522144522
+      ]
+    },
+    {
+      "id": 4915,
+      "label": "house",
+      "student_name": "Manu",
+      "student_id": 1676098827392,
+      "point": [
+        0.706,
+        0.8787878787878788
+      ]
+    },
+    {
+      "id": 4916,
+      "label": "tree",
+      "student_name": "Manu",
+      "student_id": 1676098827392,
+      "point": [
+        0.736,
+        0.9230769230769231
+      ]
+    },
+    {
+      "id": 4917,
+      "label": "bicycle",
+      "student_name": "Manu",
+      "student_id": 1676098827392,
+      "point": [
+        0.582,
+        0.7132867132867133
+      ]
+    },
+    {
+      "id": 4918,
+      "label": "guitar",
+      "student_name": "Manu",
+      "student_id": 1676098827392,
+      "point": [
+        0.652,
+        0.5571095571095571
+      ]
+    },
+    {
+      "id": 4919,
+      "label": "pencil",
+      "student_name": "Manu",
+      "student_id": 1676098827392,
+      "point": [
+        0.506,
+        0.6526806526806527
+      ]
+    },
+    {
+      "id": 4920,
+      "label": "clock",
+      "student_name": "Manu",
+      "student_id": 1676098827392,
+      "point": [
+        0.454,
+        0.5617715617715617
+      ]
+    },
+    {
+      "id": 4921,
+      "label": "car",
+      "student_name": "aso",
+      "student_id": 1676142896890,
+      "point": [
+        0.358,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 4922,
+      "label": "fish",
+      "student_name": "aso",
+      "student_id": 1676142896890,
+      "point": [
+        0.46,
+        0.15151515151515152
+      ]
+    },
+    {
+      "id": 4923,
+      "label": "house",
+      "student_name": "aso",
+      "student_id": 1676142896890,
+      "point": [
+        0.518,
+        0.2703962703962704
+      ]
+    },
+    {
+      "id": 4924,
+      "label": "tree",
+      "student_name": "aso",
+      "student_id": 1676142896890,
+      "point": [
+        0.402,
+        0.6177156177156177
+      ]
+    },
+    {
+      "id": 4925,
+      "label": "bicycle",
+      "student_name": "aso",
+      "student_id": 1676142896890,
+      "point": [
+        0.36,
+        0.358974358974359
+      ]
+    },
+    {
+      "id": 4926,
+      "label": "guitar",
+      "student_name": "aso",
+      "student_id": 1676142896890,
+      "point": [
+        0.386,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 4927,
+      "label": "pencil",
+      "student_name": "aso",
+      "student_id": 1676142896890,
+      "point": [
+        0.282,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 4928,
+      "label": "clock",
+      "student_name": "aso",
+      "student_id": 1676142896890,
+      "point": [
+        0.138,
+        0.17016317016317017
+      ]
+    },
+    {
+      "id": 4929,
+      "label": "car",
+      "student_name": "asdas",
+      "student_id": 1676257394767,
+      "point": [
+        0.582,
+        0.6596736596736597
+      ]
+    },
+    {
+      "id": 4930,
+      "label": "fish",
+      "student_name": "asdas",
+      "student_id": 1676257394767,
+      "point": [
+        -0.024,
+        0.1585081585081585
+      ]
+    },
+    {
+      "id": 4931,
+      "label": "house",
+      "student_name": "asdas",
+      "student_id": 1676257394767,
+      "point": [
+        0.006,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 4932,
+      "label": "tree",
+      "student_name": "asdas",
+      "student_id": 1676257394767,
+      "point": [
+        0.14,
+        0.3006993006993007
+      ]
+    },
+    {
+      "id": 4933,
+      "label": "bicycle",
+      "student_name": "asdas",
+      "student_id": 1676257394767,
+      "point": [
+        0.176,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 4934,
+      "label": "guitar",
+      "student_name": "asdas",
+      "student_id": 1676257394767,
+      "point": [
+        0.176,
+        0.2331002331002331
+      ]
+    },
+    {
+      "id": 4935,
+      "label": "pencil",
+      "student_name": "asdas",
+      "student_id": 1676257394767,
+      "point": [
+        0.112,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 4936,
+      "label": "clock",
+      "student_name": "asdas",
+      "student_id": 1676257394767,
+      "point": [
+        0.076,
+        0.18181818181818182
+      ]
+    },
+    {
+      "id": 4937,
+      "label": "car",
+      "student_name": "Kuba",
+      "student_id": 1676314400805,
+      "point": [
+        0.584,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 4938,
+      "label": "fish",
+      "student_name": "Kuba",
+      "student_id": 1676314400805,
+      "point": [
+        0.444,
+        0.20279720279720279
+      ]
+    },
+    {
+      "id": 4939,
+      "label": "house",
+      "student_name": "Kuba",
+      "student_id": 1676314400805,
+      "point": [
+        0.308,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 4940,
+      "label": "tree",
+      "student_name": "Kuba",
+      "student_id": 1676314400805,
+      "point": [
+        0.536,
+        0.5944055944055944
+      ]
+    },
+    {
+      "id": 4941,
+      "label": "bicycle",
+      "student_name": "Kuba",
+      "student_id": 1676314400805,
+      "point": [
+        0.416,
+        0.29836829836829837
+      ]
+    },
+    {
+      "id": 4942,
+      "label": "guitar",
+      "student_name": "Kuba",
+      "student_id": 1676314400805,
+      "point": [
+        0.41,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 4943,
+      "label": "pencil",
+      "student_name": "Kuba",
+      "student_id": 1676314400805,
+      "point": [
+        0.52,
+        0.5757575757575758
+      ]
+    },
+    {
+      "id": 4944,
+      "label": "clock",
+      "student_name": "Kuba",
+      "student_id": 1676314400805,
+      "point": [
+        0.344,
+        0.34265734265734266
+      ]
+    },
+    {
+      "id": 4945,
+      "label": "car",
+      "student_name": "Shankar",
+      "student_id": 1676322531505,
+      "point": [
+        0.32,
+        0.2494172494172494
+      ]
+    },
+    {
+      "id": 4946,
+      "label": "fish",
+      "student_name": "Shankar",
+      "student_id": 1676322531505,
+      "point": [
+        0.264,
+        0.2261072261072261
+      ]
+    },
+    {
+      "id": 4947,
+      "label": "house",
+      "student_name": "Shankar",
+      "student_id": 1676322531505,
+      "point": [
+        0.326,
+        0.4731934731934732
+      ]
+    },
+    {
+      "id": 4948,
+      "label": "tree",
+      "student_name": "Shankar",
+      "student_id": 1676322531505,
+      "point": [
+        0.376,
+        0.7855477855477856
+      ]
+    },
+    {
+      "id": 4949,
+      "label": "bicycle",
+      "student_name": "Shankar",
+      "student_id": 1676322531505,
+      "point": [
+        0.458,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 4950,
+      "label": "guitar",
+      "student_name": "Shankar",
+      "student_id": 1676322531505,
+      "point": [
+        0.21,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 4951,
+      "label": "pencil",
+      "student_name": "Shankar",
+      "student_id": 1676322531505,
+      "point": [
+        0.044,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 4952,
+      "label": "clock",
+      "student_name": "Shankar",
+      "student_id": 1676322531505,
+      "point": [
+        0.318,
+        0.358974358974359
+      ]
+    },
+    {
+      "id": 4953,
+      "label": "car",
+      "student_name": "Umar",
+      "student_id": 1676348574010,
+      "point": [
+        0.704,
+        0.6853146853146853
+      ]
+    },
+    {
+      "id": 4954,
+      "label": "fish",
+      "student_name": "Umar",
+      "student_id": 1676348574010,
+      "point": [
+        0.588,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 4955,
+      "label": "house",
+      "student_name": "Umar",
+      "student_id": 1676348574010,
+      "point": [
+        0.272,
+        0.20279720279720279
+      ]
+    },
+    {
+      "id": 4956,
+      "label": "tree",
+      "student_name": "Umar",
+      "student_id": 1676348574010,
+      "point": [
+        0.4,
+        0.14219114219114218
+      ]
+    },
+    {
+      "id": 4957,
+      "label": "bicycle",
+      "student_name": "Umar",
+      "student_id": 1676348574010,
+      "point": [
+        0.506,
+        0.4289044289044289
+      ]
+    },
+    {
+      "id": 4958,
+      "label": "guitar",
+      "student_name": "Umar",
+      "student_id": 1676348574010,
+      "point": [
+        0.598,
+        0.5990675990675991
+      ]
+    },
+    {
+      "id": 4959,
+      "label": "pencil",
+      "student_name": "Umar",
+      "student_id": 1676348574010,
+      "point": [
+        0.702,
+        0.8065268065268065
+      ]
+    },
+    {
+      "id": 4960,
+      "label": "clock",
+      "student_name": "Umar",
+      "student_id": 1676348574010,
+      "point": [
+        0.564,
+        0.6806526806526807
+      ]
+    },
+    {
+      "id": 4961,
+      "label": "car",
+      "student_name": "amine ",
+      "student_id": 1676377911400,
+      "point": [
+        0.4,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 4962,
+      "label": "fish",
+      "student_name": "amine ",
+      "student_id": 1676377911400,
+      "point": [
+        0.488,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 4963,
+      "label": "house",
+      "student_name": "amine ",
+      "student_id": 1676377911400,
+      "point": [
+        0.426,
+        0.4568764568764569
+      ]
+    },
+    {
+      "id": 4964,
+      "label": "tree",
+      "student_name": "amine ",
+      "student_id": 1676377911400,
+      "point": [
+        0.756,
+        0.8764568764568764
+      ]
+    },
+    {
+      "id": 4965,
+      "label": "bicycle",
+      "student_name": "amine ",
+      "student_id": 1676377911400,
+      "point": [
+        0.584,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 4966,
+      "label": "guitar",
+      "student_name": "amine ",
+      "student_id": 1676377911400,
+      "point": [
+        0.652,
+        0.2703962703962704
+      ]
+    },
+    {
+      "id": 4967,
+      "label": "pencil",
+      "student_name": "amine ",
+      "student_id": 1676377911400,
+      "point": [
+        0.34,
+        0.36363636363636365
+      ]
+    },
+    {
+      "id": 4968,
+      "label": "clock",
+      "student_name": "amine ",
+      "student_id": 1676377911400,
+      "point": [
+        0.218,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 4969,
+      "label": "car",
+      "student_name": "pepe",
+      "student_id": 1676407027146,
+      "point": [
+        0.37,
+        0.2331002331002331
+      ]
+    },
+    {
+      "id": 4970,
+      "label": "fish",
+      "student_name": "pepe",
+      "student_id": 1676407027146,
+      "point": [
+        0.484,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 4971,
+      "label": "house",
+      "student_name": "pepe",
+      "student_id": 1676407027146,
+      "point": [
+        0.528,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 4972,
+      "label": "tree",
+      "student_name": "pepe",
+      "student_id": 1676407027146,
+      "point": [
+        0.312,
+        0.5664335664335665
+      ]
+    },
+    {
+      "id": 4973,
+      "label": "bicycle",
+      "student_name": "pepe",
+      "student_id": 1676407027146,
+      "point": [
+        0.294,
+        0.18181818181818182
+      ]
+    },
+    {
+      "id": 4974,
+      "label": "guitar",
+      "student_name": "pepe",
+      "student_id": 1676407027146,
+      "point": [
+        0.596,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 4975,
+      "label": "pencil",
+      "student_name": "pepe",
+      "student_id": 1676407027146,
+      "point": [
+        0.014,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 4976,
+      "label": "clock",
+      "student_name": "pepe",
+      "student_id": 1676407027146,
+      "point": [
+        0.446,
+        0.46153846153846156
+      ]
+    },
+    {
+      "id": 4977,
+      "label": "car",
+      "student_name": "vineet",
+      "student_id": 1676444839718,
+      "point": [
+        0.694,
+        0.5128205128205128
+      ]
+    },
+    {
+      "id": 4978,
+      "label": "fish",
+      "student_name": "vineet",
+      "student_id": 1676444839718,
+      "point": [
+        0.558,
+        0.21678321678321677
+      ]
+    },
+    {
+      "id": 4979,
+      "label": "house",
+      "student_name": "vineet",
+      "student_id": 1676444839718,
+      "point": [
+        0.44,
+        0.5081585081585082
+      ]
+    },
+    {
+      "id": 4980,
+      "label": "tree",
+      "student_name": "vineet",
+      "student_id": 1676444839718,
+      "point": [
+        0.248,
+        0.5641025641025641
+      ]
+    },
+    {
+      "id": 4981,
+      "label": "bicycle",
+      "student_name": "vineet",
+      "student_id": 1676444839718,
+      "point": [
+        0.546,
+        0.41025641025641024
+      ]
+    },
+    {
+      "id": 4982,
+      "label": "guitar",
+      "student_name": "vineet",
+      "student_id": 1676444839718,
+      "point": [
+        0.246,
+        0.6503496503496503
+      ]
+    },
+    {
+      "id": 4983,
+      "label": "pencil",
+      "student_name": "vineet",
+      "student_id": 1676444839718,
+      "point": [
+        0.048,
+        0.4428904428904429
+      ]
+    },
+    {
+      "id": 4984,
+      "label": "clock",
+      "student_name": "vineet",
+      "student_id": 1676444839718,
+      "point": [
+        0.412,
+        0.4522144522144522
+      ]
+    },
+    {
+      "id": 4985,
+      "label": "car",
+      "student_name": "Matvei ",
+      "student_id": 1676469022453,
+      "point": [
+        0.618,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 4986,
+      "label": "fish",
+      "student_name": "Matvei ",
+      "student_id": 1676469022453,
+      "point": [
+        0.2,
+        0.07459207459207459
+      ]
+    },
+    {
+      "id": 4987,
+      "label": "house",
+      "student_name": "Matvei ",
+      "student_id": 1676469022453,
+      "point": [
+        0.282,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 4988,
+      "label": "tree",
+      "student_name": "Matvei ",
+      "student_id": 1676469022453,
+      "point": [
+        0.502,
+        0.6013986013986014
+      ]
+    },
+    {
+      "id": 4989,
+      "label": "bicycle",
+      "student_name": "Matvei ",
+      "student_id": 1676469022453,
+      "point": [
+        0.494,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 4990,
+      "label": "guitar",
+      "student_name": "Matvei ",
+      "student_id": 1676469022453,
+      "point": [
+        0.298,
+        0.6480186480186481
+      ]
+    },
+    {
+      "id": 4991,
+      "label": "pencil",
+      "student_name": "Matvei ",
+      "student_id": 1676469022453,
+      "point": [
+        0.05,
+        0.6013986013986014
+      ]
+    },
+    {
+      "id": 4992,
+      "label": "clock",
+      "student_name": "Matvei ",
+      "student_id": 1676469022453,
+      "point": [
+        0.324,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 4993,
+      "label": "car",
+      "student_name": "Sonja",
+      "student_id": 1676553877645,
+      "point": [
+        0.506,
+        0.3356643356643357
+      ]
+    },
+    {
+      "id": 4994,
+      "label": "fish",
+      "student_name": "Sonja",
+      "student_id": 1676553877645,
+      "point": [
+        0.516,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 4995,
+      "label": "house",
+      "student_name": "Sonja",
+      "student_id": 1676553877645,
+      "point": [
+        0.762,
+        0.7645687645687645
+      ]
+    },
+    {
+      "id": 4996,
+      "label": "tree",
+      "student_name": "Sonja",
+      "student_id": 1676553877645,
+      "point": [
+        0.616,
+        0.8135198135198135
+      ]
+    },
+    {
+      "id": 4997,
+      "label": "bicycle",
+      "student_name": "Sonja",
+      "student_id": 1676553877645,
+      "point": [
+        0.486,
+        0.351981351981352
+      ]
+    },
+    {
+      "id": 4998,
+      "label": "guitar",
+      "student_name": "Sonja",
+      "student_id": 1676553877645,
+      "point": [
+        0.504,
+        0.8321678321678322
+      ]
+    },
+    {
+      "id": 4999,
+      "label": "pencil",
+      "student_name": "Sonja",
+      "student_id": 1676553877645,
+      "point": [
+        0.274,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 5000,
+      "label": "clock",
+      "student_name": "Sonja",
+      "student_id": 1676553877645,
+      "point": [
+        0.498,
+        0.6083916083916084
+      ]
+    },
+    {
+      "id": 5001,
+      "label": "car",
+      "student_name": "Koulis",
+      "student_id": 1676570548959,
+      "point": [
+        0.358,
+        0.17249417249417248
+      ]
+    },
+    {
+      "id": 5002,
+      "label": "fish",
+      "student_name": "Koulis",
+      "student_id": 1676570548959,
+      "point": [
+        0.286,
+        0.1585081585081585
+      ]
+    },
+    {
+      "id": 5003,
+      "label": "house",
+      "student_name": "Koulis",
+      "student_id": 1676570548959,
+      "point": [
+        0.354,
+        0.4755244755244755
+      ]
+    },
+    {
+      "id": 5004,
+      "label": "tree",
+      "student_name": "Koulis",
+      "student_id": 1676570548959,
+      "point": [
+        0.338,
+        0.5664335664335665
+      ]
+    },
+    {
+      "id": 5005,
+      "label": "bicycle",
+      "student_name": "Koulis",
+      "student_id": 1676570548959,
+      "point": [
+        0.404,
+        0.28438228438228436
+      ]
+    },
+    {
+      "id": 5006,
+      "label": "guitar",
+      "student_name": "Koulis",
+      "student_id": 1676570548959,
+      "point": [
+        0.416,
+        0.42657342657342656
+      ]
+    },
+    {
+      "id": 5007,
+      "label": "pencil",
+      "student_name": "Koulis",
+      "student_id": 1676570548959,
+      "point": [
+        0.372,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 5008,
+      "label": "clock",
+      "student_name": "Koulis",
+      "student_id": 1676570548959,
+      "point": [
+        0.324,
+        0.08158508158508158
+      ]
+    },
+    {
+      "id": 5009,
+      "label": "car",
+      "student_name": "Ira",
+      "student_id": 1676631058788,
+      "point": [
+        0.666,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 5010,
+      "label": "fish",
+      "student_name": "Ira",
+      "student_id": 1676631058788,
+      "point": [
+        0.214,
+        0.5501165501165501
+      ]
+    },
+    {
+      "id": 5011,
+      "label": "house",
+      "student_name": "Ira",
+      "student_id": 1676631058788,
+      "point": [
+        0.468,
+        0.5804195804195804
+      ]
+    },
+    {
+      "id": 5012,
+      "label": "tree",
+      "student_name": "Ira",
+      "student_id": 1676631058788,
+      "point": [
+        0.374,
+        0.6666666666666666
+      ]
+    },
+    {
+      "id": 5013,
+      "label": "bicycle",
+      "student_name": "Ira",
+      "student_id": 1676631058788,
+      "point": [
+        0.458,
+        0.2703962703962704
+      ]
+    },
+    {
+      "id": 5014,
+      "label": "guitar",
+      "student_name": "Ira",
+      "student_id": 1676631058788,
+      "point": [
+        0.35,
+        0.7645687645687645
+      ]
+    },
+    {
+      "id": 5015,
+      "label": "pencil",
+      "student_name": "Ira",
+      "student_id": 1676631058788,
+      "point": [
+        0.07,
+        0.4825174825174825
+      ]
+    },
+    {
+      "id": 5016,
+      "label": "clock",
+      "student_name": "Ira",
+      "student_id": 1676631058788,
+      "point": [
+        0.474,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 5017,
+      "label": "car",
+      "student_name": "Aurelia",
+      "student_id": 1676631314450,
+      "point": [
+        0.626,
+        0.3682983682983683
+      ]
+    },
+    {
+      "id": 5018,
+      "label": "fish",
+      "student_name": "Aurelia",
+      "student_id": 1676631314450,
+      "point": [
+        0.5,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 5019,
+      "label": "house",
+      "student_name": "Aurelia",
+      "student_id": 1676631314450,
+      "point": [
+        0.462,
+        0.7435897435897436
+      ]
+    },
+    {
+      "id": 5020,
+      "label": "tree",
+      "student_name": "Aurelia",
+      "student_id": 1676631314450,
+      "point": [
+        0.65,
+        0.8251748251748252
+      ]
+    },
+    {
+      "id": 5021,
+      "label": "bicycle",
+      "student_name": "Aurelia",
+      "student_id": 1676631314450,
+      "point": [
+        0.588,
+        0.5314685314685315
+      ]
+    },
+    {
+      "id": 5022,
+      "label": "guitar",
+      "student_name": "Aurelia",
+      "student_id": 1676631314450,
+      "point": [
+        0.726,
+        0.752913752913753
+      ]
+    },
+    {
+      "id": 5023,
+      "label": "pencil",
+      "student_name": "Aurelia",
+      "student_id": 1676631314450,
+      "point": [
+        0.108,
+        0.7389277389277389
+      ]
+    },
+    {
+      "id": 5024,
+      "label": "clock",
+      "student_name": "Aurelia",
+      "student_id": 1676631314450,
+      "point": [
+        0.68,
+        0.6946386946386947
+      ]
+    },
+    {
+      "id": 5025,
+      "label": "car",
+      "student_name": "maksim",
+      "student_id": 1676640449982,
+      "point": [
+        0.636,
+        0.2937062937062937
+      ]
+    },
+    {
+      "id": 5026,
+      "label": "fish",
+      "student_name": "maksim",
+      "student_id": 1676640449982,
+      "point": [
+        0.54,
+        0.2517482517482518
+      ]
+    },
+    {
+      "id": 5027,
+      "label": "house",
+      "student_name": "maksim",
+      "student_id": 1676640449982,
+      "point": [
+        0.576,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 5028,
+      "label": "tree",
+      "student_name": "maksim",
+      "student_id": 1676640449982,
+      "point": [
+        0.448,
+        0.7412587412587412
+      ]
+    },
+    {
+      "id": 5029,
+      "label": "bicycle",
+      "student_name": "maksim",
+      "student_id": 1676640449982,
+      "point": [
+        0.586,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 5030,
+      "label": "guitar",
+      "student_name": "maksim",
+      "student_id": 1676640449982,
+      "point": [
+        0.722,
+        0.7202797202797203
+      ]
+    },
+    {
+      "id": 5031,
+      "label": "pencil",
+      "student_name": "maksim",
+      "student_id": 1676640449982,
+      "point": [
+        0.51,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 5032,
+      "label": "clock",
+      "student_name": "maksim",
+      "student_id": 1676640449982,
+      "point": [
+        0.476,
+        0.5128205128205128
+      ]
+    },
+    {
+      "id": 5033,
+      "label": "car",
+      "student_name": "Gerab",
+      "student_id": 1676647360411,
+      "point": [
+        0.472,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 5034,
+      "label": "fish",
+      "student_name": "Gerab",
+      "student_id": 1676647360411,
+      "point": [
+        0.254,
+        0.5291375291375291
+      ]
+    },
+    {
+      "id": 5035,
+      "label": "house",
+      "student_name": "Gerab",
+      "student_id": 1676647360411,
+      "point": [
+        0.618,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 5036,
+      "label": "tree",
+      "student_name": "Gerab",
+      "student_id": 1676647360411,
+      "point": [
+        0.522,
+        0.7156177156177156
+      ]
+    },
+    {
+      "id": 5037,
+      "label": "bicycle",
+      "student_name": "Gerab",
+      "student_id": 1676647360411,
+      "point": [
+        0.416,
+        0.372960372960373
+      ]
+    },
+    {
+      "id": 5038,
+      "label": "guitar",
+      "student_name": "Gerab",
+      "student_id": 1676647360411,
+      "point": [
+        0.372,
+        0.7132867132867133
+      ]
+    },
+    {
+      "id": 5039,
+      "label": "pencil",
+      "student_name": "Gerab",
+      "student_id": 1676647360411,
+      "point": [
+        0.342,
+        0.6526806526806527
+      ]
+    },
+    {
+      "id": 5040,
+      "label": "clock",
+      "student_name": "Gerab",
+      "student_id": 1676647360411,
+      "point": [
+        0.352,
+        0.4965034965034965
+      ]
+    },
+    {
+      "id": 5041,
+      "label": "car",
+      "student_name": "cincy_developer",
+      "student_id": 1676749564879,
+      "point": [
+        0.734,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 5042,
+      "label": "fish",
+      "student_name": "cincy_developer",
+      "student_id": 1676749564879,
+      "point": [
+        0.5,
+        0.28205128205128205
+      ]
+    },
+    {
+      "id": 5043,
+      "label": "house",
+      "student_name": "cincy_developer",
+      "student_id": 1676749564879,
+      "point": [
+        0.522,
+        0.6899766899766899
+      ]
+    },
+    {
+      "id": 5044,
+      "label": "tree",
+      "student_name": "cincy_developer",
+      "student_id": 1676749564879,
+      "point": [
+        0.76,
+        0.8251748251748252
+      ]
+    },
+    {
+      "id": 5045,
+      "label": "bicycle",
+      "student_name": "cincy_developer",
+      "student_id": 1676749564879,
+      "point": [
+        0.574,
+        0.29603729603729606
+      ]
+    },
+    {
+      "id": 5046,
+      "label": "guitar",
+      "student_name": "cincy_developer",
+      "student_id": 1676749564879,
+      "point": [
+        0.48,
+        0.7505827505827506
+      ]
+    },
+    {
+      "id": 5047,
+      "label": "pencil",
+      "student_name": "cincy_developer",
+      "student_id": 1676749564879,
+      "point": [
+        0.396,
+        0.627039627039627
+      ]
+    },
+    {
+      "id": 5048,
+      "label": "clock",
+      "student_name": "cincy_developer",
+      "student_id": 1676749564879,
+      "point": [
+        0.686,
+        0.7202797202797203
+      ]
+    },
+    {
+      "id": 5049,
+      "label": "car",
+      "student_name": "Nishi",
+      "student_id": 1676797268479,
+      "point": [
+        0.494,
+        0.1655011655011655
+      ]
+    },
+    {
+      "id": 5050,
+      "label": "fish",
+      "student_name": "Nishi",
+      "student_id": 1676797268479,
+      "point": [
+        0.534,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 5051,
+      "label": "house",
+      "student_name": "Nishi",
+      "student_id": 1676797268479,
+      "point": [
+        0.244,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 5052,
+      "label": "tree",
+      "student_name": "Nishi",
+      "student_id": 1676797268479,
+      "point": [
+        0.398,
+        0.48951048951048953
+      ]
+    },
+    {
+      "id": 5053,
+      "label": "bicycle",
+      "student_name": "Nishi",
+      "student_id": 1676797268479,
+      "point": [
+        0.552,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 5054,
+      "label": "guitar",
+      "student_name": "Nishi",
+      "student_id": 1676797268479,
+      "point": [
+        0.37,
+        0.578088578088578
+      ]
+    },
+    {
+      "id": 5055,
+      "label": "pencil",
+      "student_name": "Nishi",
+      "student_id": 1676797268479,
+      "point": [
+        0.386,
+        0.5268065268065268
+      ]
+    },
+    {
+      "id": 5056,
+      "label": "clock",
+      "student_name": "Nishi",
+      "student_id": 1676797268479,
+      "point": [
+        0.53,
+        0.3613053613053613
+      ]
+    },
+    {
+      "id": 5057,
+      "label": "car",
+      "student_name": "Joseph",
+      "student_id": 1676835604898,
+      "point": [
+        0.512,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 5058,
+      "label": "fish",
+      "student_name": "Joseph",
+      "student_id": 1676835604898,
+      "point": [
+        0.36,
+        0.5384615384615384
+      ]
+    },
+    {
+      "id": 5059,
+      "label": "house",
+      "student_name": "Joseph",
+      "student_id": 1676835604898,
+      "point": [
+        0.372,
+        0.42657342657342656
+      ]
+    },
+    {
+      "id": 5060,
+      "label": "tree",
+      "student_name": "Joseph",
+      "student_id": 1676835604898,
+      "point": [
+        0.454,
+        0.8135198135198135
+      ]
+    },
+    {
+      "id": 5061,
+      "label": "bicycle",
+      "student_name": "Joseph",
+      "student_id": 1676835604898,
+      "point": [
+        0.508,
+        0.358974358974359
+      ]
+    },
+    {
+      "id": 5062,
+      "label": "guitar",
+      "student_name": "Joseph",
+      "student_id": 1676835604898,
+      "point": [
+        0.348,
+        0.6596736596736597
+      ]
+    },
+    {
+      "id": 5063,
+      "label": "pencil",
+      "student_name": "Joseph",
+      "student_id": 1676835604898,
+      "point": [
+        0.166,
+        0.5594405594405595
+      ]
+    },
+    {
+      "id": 5064,
+      "label": "clock",
+      "student_name": "Joseph",
+      "student_id": 1676835604898,
+      "point": [
+        0.392,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 5065,
+      "label": "car",
+      "student_name": "Eetu",
+      "student_id": 1676908024877,
+      "point": [
+        0.58,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 5066,
+      "label": "fish",
+      "student_name": "Eetu",
+      "student_id": 1676908024877,
+      "point": [
+        0.568,
+        0.3006993006993007
+      ]
+    },
+    {
+      "id": 5067,
+      "label": "house",
+      "student_name": "Eetu",
+      "student_id": 1676908024877,
+      "point": [
+        0.74,
+        0.6736596736596736
+      ]
+    },
+    {
+      "id": 5068,
+      "label": "tree",
+      "student_name": "Eetu",
+      "student_id": 1676908024877,
+      "point": [
+        0.3,
+        0.5804195804195804
+      ]
+    },
+    {
+      "id": 5069,
+      "label": "bicycle",
+      "student_name": "Eetu",
+      "student_id": 1676908024877,
+      "point": [
+        0.412,
+        0.2517482517482518
+      ]
+    },
+    {
+      "id": 5070,
+      "label": "guitar",
+      "student_name": "Eetu",
+      "student_id": 1676908024877,
+      "point": [
+        0.24,
+        0.752913752913753
+      ]
+    },
+    {
+      "id": 5071,
+      "label": "pencil",
+      "student_name": "Eetu",
+      "student_id": 1676908024877,
+      "point": [
+        0.362,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 5072,
+      "label": "clock",
+      "student_name": "Eetu",
+      "student_id": 1676908024877,
+      "point": [
+        0.368,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 5073,
+      "label": "car",
+      "student_name": "Gaurav",
+      "student_id": 1676911159759,
+      "point": [
+        0.562,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 5074,
+      "label": "fish",
+      "student_name": "Gaurav",
+      "student_id": 1676911159759,
+      "point": [
+        0.478,
+        0.2097902097902098
+      ]
+    },
+    {
+      "id": 5075,
+      "label": "house",
+      "student_name": "Gaurav",
+      "student_id": 1676911159759,
+      "point": [
+        0.534,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 5076,
+      "label": "tree",
+      "student_name": "Gaurav",
+      "student_id": 1676911159759,
+      "point": [
+        0.462,
+        0.4662004662004662
+      ]
+    },
+    {
+      "id": 5077,
+      "label": "bicycle",
+      "student_name": "Gaurav",
+      "student_id": 1676911159759,
+      "point": [
+        0.402,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 5078,
+      "label": "guitar",
+      "student_name": "Gaurav",
+      "student_id": 1676911159759,
+      "point": [
+        0.444,
+        0.7902097902097902
+      ]
+    },
+    {
+      "id": 5079,
+      "label": "pencil",
+      "student_name": "Gaurav",
+      "student_id": 1676911159759,
+      "point": [
+        0.008,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 5080,
+      "label": "clock",
+      "student_name": "Gaurav",
+      "student_id": 1676911159759,
+      "point": [
+        0.25,
+        0.2680652680652681
+      ]
+    },
+    {
+      "id": 5081,
+      "label": "car",
+      "student_name": "smart",
+      "student_id": 1676914475393,
+      "point": [
+        0.58,
+        0.16783216783216784
+      ]
+    },
+    {
+      "id": 5082,
+      "label": "fish",
+      "student_name": "smart",
+      "student_id": 1676914475393,
+      "point": [
+        0.51,
+        0.20512820512820512
+      ]
+    },
+    {
+      "id": 5083,
+      "label": "house",
+      "student_name": "smart",
+      "student_id": 1676914475393,
+      "point": [
+        0.606,
+        0.4662004662004662
+      ]
+    },
+    {
+      "id": 5084,
+      "label": "tree",
+      "student_name": "smart",
+      "student_id": 1676914475393,
+      "point": [
+        0.572,
+        0.745920745920746
+      ]
+    },
+    {
+      "id": 5085,
+      "label": "bicycle",
+      "student_name": "smart",
+      "student_id": 1676914475393,
+      "point": [
+        0.486,
+        0.31002331002331
+      ]
+    },
+    {
+      "id": 5086,
+      "label": "guitar",
+      "student_name": "smart",
+      "student_id": 1676914475393,
+      "point": [
+        0.324,
+        0.7995337995337995
+      ]
+    },
+    {
+      "id": 5087,
+      "label": "pencil",
+      "student_name": "smart",
+      "student_id": 1676914475393,
+      "point": [
+        0.426,
+        0.2494172494172494
+      ]
+    },
+    {
+      "id": 5088,
+      "label": "clock",
+      "student_name": "smart",
+      "student_id": 1676914475393,
+      "point": [
+        0.328,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 5089,
+      "label": "car",
+      "student_name": "Latewe",
+      "student_id": 1676916889744,
+      "point": [
+        0.648,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 5090,
+      "label": "fish",
+      "student_name": "Latewe",
+      "student_id": 1676916889744,
+      "point": [
+        0.682,
+        0.2680652680652681
+      ]
+    },
+    {
+      "id": 5091,
+      "label": "house",
+      "student_name": "Latewe",
+      "student_id": 1676916889744,
+      "point": [
+        0.626,
+        0.585081585081585
+      ]
+    },
+    {
+      "id": 5092,
+      "label": "tree",
+      "student_name": "Latewe",
+      "student_id": 1676916889744,
+      "point": [
+        0.5,
+        0.6736596736596736
+      ]
+    },
+    {
+      "id": 5093,
+      "label": "bicycle",
+      "student_name": "Latewe",
+      "student_id": 1676916889744,
+      "point": [
+        0.702,
+        0.5664335664335665
+      ]
+    },
+    {
+      "id": 5094,
+      "label": "guitar",
+      "student_name": "Latewe",
+      "student_id": 1676916889744,
+      "point": [
+        0.722,
+        0.25874125874125875
+      ]
+    },
+    {
+      "id": 5095,
+      "label": "pencil",
+      "student_name": "Latewe",
+      "student_id": 1676916889744,
+      "point": [
+        0.42,
+        0.32867132867132864
+      ]
+    },
+    {
+      "id": 5096,
+      "label": "clock",
+      "student_name": "Latewe",
+      "student_id": 1676916889744,
+      "point": [
+        0.41,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 5097,
+      "label": "car",
+      "student_name": "Nouhan koulibaly",
+      "student_id": 1676968878972,
+      "point": [
+        0.598,
+        0.3333333333333333
+      ]
+    },
+    {
+      "id": 5098,
+      "label": "fish",
+      "student_name": "Nouhan koulibaly",
+      "student_id": 1676968878972,
+      "point": [
+        0.466,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 5099,
+      "label": "house",
+      "student_name": "Nouhan koulibaly",
+      "student_id": 1676968878972,
+      "point": [
+        0.434,
+        0.5011655011655012
+      ]
+    },
+    {
+      "id": 5100,
+      "label": "tree",
+      "student_name": "Nouhan koulibaly",
+      "student_id": 1676968878972,
+      "point": [
+        0.346,
+        0.47086247086247085
+      ]
+    },
+    {
+      "id": 5101,
+      "label": "bicycle",
+      "student_name": "Nouhan koulibaly",
+      "student_id": 1676968878972,
+      "point": [
+        0.332,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 5102,
+      "label": "guitar",
+      "student_name": "Nouhan koulibaly",
+      "student_id": 1676968878972,
+      "point": [
+        0.314,
+        0.7435897435897436
+      ]
+    },
+    {
+      "id": 5103,
+      "label": "pencil",
+      "student_name": "Nouhan koulibaly",
+      "student_id": 1676968878972,
+      "point": [
+        0.028,
+        0.36363636363636365
+      ]
+    },
+    {
+      "id": 5104,
+      "label": "clock",
+      "student_name": "Nouhan koulibaly",
+      "student_id": 1676968878972,
+      "point": [
+        0.348,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 5105,
+      "label": "car",
+      "student_name": "Muhammad Noman",
+      "student_id": 1676972965541,
+      "point": [
+        0.628,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 5106,
+      "label": "fish",
+      "student_name": "Muhammad Noman",
+      "student_id": 1676972965541,
+      "point": [
+        0.69,
+        0.5058275058275058
+      ]
+    },
+    {
+      "id": 5107,
+      "label": "house",
+      "student_name": "Muhammad Noman",
+      "student_id": 1676972965541,
+      "point": [
+        0.766,
+        0.8414918414918415
+      ]
+    },
+    {
+      "id": 5108,
+      "label": "tree",
+      "student_name": "Muhammad Noman",
+      "student_id": 1676972965541,
+      "point": [
+        0.714,
+        0.8717948717948718
+      ]
+    },
+    {
+      "id": 5109,
+      "label": "bicycle",
+      "student_name": "Muhammad Noman",
+      "student_id": 1676972965541,
+      "point": [
+        0.466,
+        0.3006993006993007
+      ]
+    },
+    {
+      "id": 5110,
+      "label": "guitar",
+      "student_name": "Muhammad Noman",
+      "student_id": 1676972965541,
+      "point": [
+        0.768,
+        0.6480186480186481
+      ]
+    },
+    {
+      "id": 5111,
+      "label": "pencil",
+      "student_name": "Muhammad Noman",
+      "student_id": 1676972965541,
+      "point": [
+        0.484,
+        0.6993006993006993
+      ]
+    },
+    {
+      "id": 5112,
+      "label": "clock",
+      "student_name": "Muhammad Noman",
+      "student_id": 1676972965541,
+      "point": [
+        0.444,
+        0.7902097902097902
+      ]
+    },
+    {
+      "id": 5113,
+      "label": "car",
+      "student_name": "sakawat Hossain",
+      "student_id": 1677003687315,
+      "point": [
+        0.45,
+        0.06293706293706294
+      ]
+    },
+    {
+      "id": 5114,
+      "label": "fish",
+      "student_name": "sakawat Hossain",
+      "student_id": 1677003687315,
+      "point": [
+        0.52,
+        0.13986013986013987
+      ]
+    },
+    {
+      "id": 5115,
+      "label": "house",
+      "student_name": "sakawat Hossain",
+      "student_id": 1677003687315,
+      "point": [
+        0.362,
+        0.2494172494172494
+      ]
+    },
+    {
+      "id": 5116,
+      "label": "tree",
+      "student_name": "sakawat Hossain",
+      "student_id": 1677003687315,
+      "point": [
+        0.526,
+        0.7505827505827506
+      ]
+    },
+    {
+      "id": 5117,
+      "label": "bicycle",
+      "student_name": "sakawat Hossain",
+      "student_id": 1677003687315,
+      "point": [
+        0.38,
+        0.2097902097902098
+      ]
+    },
+    {
+      "id": 5118,
+      "label": "guitar",
+      "student_name": "sakawat Hossain",
+      "student_id": 1677003687315,
+      "point": [
+        0.652,
+        0.6060606060606061
+      ]
+    },
+    {
+      "id": 5119,
+      "label": "pencil",
+      "student_name": "sakawat Hossain",
+      "student_id": 1677003687315,
+      "point": [
+        0.518,
+        0.4592074592074592
+      ]
+    },
+    {
+      "id": 5120,
+      "label": "clock",
+      "student_name": "sakawat Hossain",
+      "student_id": 1677003687315,
+      "point": [
+        0.272,
+        0.2494172494172494
+      ]
+    },
+    {
+      "id": 5121,
+      "label": "car",
+      "student_name": "Humayun Kair",
+      "student_id": 1677012978857,
+      "point": [
+        0.67,
+        0.372960372960373
+      ]
+    },
+    {
+      "id": 5122,
+      "label": "fish",
+      "student_name": "Humayun Kair",
+      "student_id": 1677012978857,
+      "point": [
+        0.448,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 5123,
+      "label": "house",
+      "student_name": "Humayun Kair",
+      "student_id": 1677012978857,
+      "point": [
+        0.572,
+        0.47785547785547783
+      ]
+    },
+    {
+      "id": 5124,
+      "label": "tree",
+      "student_name": "Humayun Kair",
+      "student_id": 1677012978857,
+      "point": [
+        0.53,
+        0.5641025641025641
+      ]
+    },
+    {
+      "id": 5125,
+      "label": "bicycle",
+      "student_name": "Humayun Kair",
+      "student_id": 1677012978857,
+      "point": [
+        0.588,
+        0.47086247086247085
+      ]
+    },
+    {
+      "id": 5126,
+      "label": "guitar",
+      "student_name": "Humayun Kair",
+      "student_id": 1677012978857,
+      "point": [
+        0.29,
+        0.7062937062937062
+      ]
+    },
+    {
+      "id": 5127,
+      "label": "pencil",
+      "student_name": "Humayun Kair",
+      "student_id": 1677012978857,
+      "point": [
+        0.082,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 5128,
+      "label": "clock",
+      "student_name": "Humayun Kair",
+      "student_id": 1677012978857,
+      "point": [
+        0.228,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 5129,
+      "label": "car",
+      "student_name": "Nour Monir",
+      "student_id": 1677028533119,
+      "point": [
+        0.542,
+        0.5081585081585082
+      ]
+    },
+    {
+      "id": 5130,
+      "label": "fish",
+      "student_name": "Nour Monir",
+      "student_id": 1677028533119,
+      "point": [
+        0.53,
+        0.26107226107226106
+      ]
+    },
+    {
+      "id": 5131,
+      "label": "house",
+      "student_name": "Nour Monir",
+      "student_id": 1677028533119,
+      "point": [
+        0.314,
+        0.5874125874125874
+      ]
+    },
+    {
+      "id": 5132,
+      "label": "tree",
+      "student_name": "Nour Monir",
+      "student_id": 1677028533119,
+      "point": [
+        0.536,
+        0.6596736596736597
+      ]
+    },
+    {
+      "id": 5133,
+      "label": "bicycle",
+      "student_name": "Nour Monir",
+      "student_id": 1677028533119,
+      "point": [
+        0.48,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 5134,
+      "label": "guitar",
+      "student_name": "Nour Monir",
+      "student_id": 1677028533119,
+      "point": [
+        0.578,
+        0.6153846153846154
+      ]
+    },
+    {
+      "id": 5135,
+      "label": "pencil",
+      "student_name": "Nour Monir",
+      "student_id": 1677028533119,
+      "point": [
+        0.408,
+        0.6363636363636364
+      ]
+    },
+    {
+      "id": 5136,
+      "label": "clock",
+      "student_name": "Nour Monir",
+      "student_id": 1677028533119,
+      "point": [
+        0.378,
+        0.45454545454545453
+      ]
+    },
+    {
+      "id": 5137,
+      "label": "car",
+      "student_name": "Lateef Raheem",
+      "student_id": 1677083502098,
+      "point": [
+        0.444,
+        0.09557109557109557
+      ]
+    },
+    {
+      "id": 5138,
+      "label": "fish",
+      "student_name": "Lateef Raheem",
+      "student_id": 1677083502098,
+      "point": [
+        0.524,
+        0.09557109557109557
+      ]
+    },
+    {
+      "id": 5139,
+      "label": "house",
+      "student_name": "Lateef Raheem",
+      "student_id": 1677083502098,
+      "point": [
+        0.242,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 5140,
+      "label": "tree",
+      "student_name": "Lateef Raheem",
+      "student_id": 1677083502098,
+      "point": [
+        0.55,
+        0.5314685314685315
+      ]
+    },
+    {
+      "id": 5141,
+      "label": "bicycle",
+      "student_name": "Lateef Raheem",
+      "student_id": 1677083502098,
+      "point": [
+        0.19,
+        0.11888111888111888
+      ]
+    },
+    {
+      "id": 5142,
+      "label": "guitar",
+      "student_name": "Lateef Raheem",
+      "student_id": 1677083502098,
+      "point": [
+        0.212,
+        0.5361305361305362
+      ]
+    },
+    {
+      "id": 5143,
+      "label": "pencil",
+      "student_name": "Lateef Raheem",
+      "student_id": 1677083502098,
+      "point": [
+        -0.008,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 5144,
+      "label": "clock",
+      "student_name": "Lateef Raheem",
+      "student_id": 1677083502098,
+      "point": [
+        0.242,
+        0.2331002331002331
+      ]
+    },
+    {
+      "id": 5145,
+      "label": "car",
+      "student_name": "Rajesh Pillai ",
+      "student_id": 1677248410634,
+      "point": [
+        0.538,
+        0.36363636363636365
+      ]
+    },
+    {
+      "id": 5146,
+      "label": "fish",
+      "student_name": "Rajesh Pillai ",
+      "student_id": 1677248410634,
+      "point": [
+        0.556,
+        0.3006993006993007
+      ]
+    },
+    {
+      "id": 5147,
+      "label": "house",
+      "student_name": "Rajesh Pillai ",
+      "student_id": 1677248410634,
+      "point": [
+        0.458,
+        0.49417249417249415
+      ]
+    },
+    {
+      "id": 5148,
+      "label": "tree",
+      "student_name": "Rajesh Pillai ",
+      "student_id": 1677248410634,
+      "point": [
+        0.368,
+        0.6410256410256411
+      ]
+    },
+    {
+      "id": 5149,
+      "label": "bicycle",
+      "student_name": "Rajesh Pillai ",
+      "student_id": 1677248410634,
+      "point": [
+        0.452,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 5150,
+      "label": "guitar",
+      "student_name": "Rajesh Pillai ",
+      "student_id": 1677248410634,
+      "point": [
+        0.538,
+        0.26107226107226106
+      ]
+    },
+    {
+      "id": 5151,
+      "label": "pencil",
+      "student_name": "Rajesh Pillai ",
+      "student_id": 1677248410634,
+      "point": [
+        0.12,
+        0.634032634032634
+      ]
+    },
+    {
+      "id": 5152,
+      "label": "clock",
+      "student_name": "Rajesh Pillai ",
+      "student_id": 1677248410634,
+      "point": [
+        0.314,
+        0.4662004662004662
+      ]
+    },
+    {
+      "id": 5153,
+      "label": "car",
+      "student_name": "Stephan",
+      "student_id": 1677252058416,
+      "point": [
+        0.752,
+        0.5431235431235432
+      ]
+    },
+    {
+      "id": 5154,
+      "label": "fish",
+      "student_name": "Stephan",
+      "student_id": 1677252058416,
+      "point": [
+        0.61,
+        0.3613053613053613
+      ]
+    },
+    {
+      "id": 5155,
+      "label": "house",
+      "student_name": "Stephan",
+      "student_id": 1677252058416,
+      "point": [
+        0.642,
+        0.5547785547785548
+      ]
+    },
+    {
+      "id": 5156,
+      "label": "tree",
+      "student_name": "Stephan",
+      "student_id": 1677252058416,
+      "point": [
+        0.37,
+        0.6643356643356644
+      ]
+    },
+    {
+      "id": 5157,
+      "label": "bicycle",
+      "student_name": "Stephan",
+      "student_id": 1677252058416,
+      "point": [
+        0.494,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 5158,
+      "label": "guitar",
+      "student_name": "Stephan",
+      "student_id": 1677252058416,
+      "point": [
+        0.658,
+        0.7668997668997669
+      ]
+    },
+    {
+      "id": 5159,
+      "label": "pencil",
+      "student_name": "Stephan",
+      "student_id": 1677252058416,
+      "point": [
+        0.526,
+        0.703962703962704
+      ]
+    },
+    {
+      "id": 5160,
+      "label": "clock",
+      "student_name": "Stephan",
+      "student_id": 1677252058416,
+      "point": [
+        0.304,
+        0.2634032634032634
+      ]
+    },
+    {
+      "id": 5161,
+      "label": "car",
+      "student_name": "Mohsin",
+      "student_id": 1677331041938,
+      "point": [
+        0.454,
+        0.2727272727272727
+      ]
+    },
+    {
+      "id": 5162,
+      "label": "fish",
+      "student_name": "Mohsin",
+      "student_id": 1677331041938,
+      "point": [
+        0.224,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 5163,
+      "label": "house",
+      "student_name": "Mohsin",
+      "student_id": 1677331041938,
+      "point": [
+        0.764,
+        0.6317016317016317
+      ]
+    },
+    {
+      "id": 5164,
+      "label": "tree",
+      "student_name": "Mohsin",
+      "student_id": 1677331041938,
+      "point": [
+        0.74,
+        0.5268065268065268
+      ]
+    },
+    {
+      "id": 5165,
+      "label": "bicycle",
+      "student_name": "Mohsin",
+      "student_id": 1677331041938,
+      "point": [
+        0.474,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 5166,
+      "label": "guitar",
+      "student_name": "Mohsin",
+      "student_id": 1677331041938,
+      "point": [
+        0.658,
+        0.6083916083916084
+      ]
+    },
+    {
+      "id": 5167,
+      "label": "pencil",
+      "student_name": "Mohsin",
+      "student_id": 1677331041938,
+      "point": [
+        0.432,
+        0.5617715617715617
+      ]
+    },
+    {
+      "id": 5168,
+      "label": "clock",
+      "student_name": "Mohsin",
+      "student_id": 1677331041938,
+      "point": [
+        0.402,
+        0.5384615384615384
+      ]
+    },
+    {
+      "id": 5169,
+      "label": "car",
+      "student_name": "han",
+      "student_id": 1677433670004,
+      "point": [
+        0.568,
+        0.2937062937062937
+      ]
+    },
+    {
+      "id": 5170,
+      "label": "fish",
+      "student_name": "han",
+      "student_id": 1677433670004,
+      "point": [
+        0.606,
+        0.2191142191142191
+      ]
+    },
+    {
+      "id": 5171,
+      "label": "house",
+      "student_name": "han",
+      "student_id": 1677433670004,
+      "point": [
+        0.682,
+        0.5874125874125874
+      ]
+    },
+    {
+      "id": 5172,
+      "label": "tree",
+      "student_name": "han",
+      "student_id": 1677433670004,
+      "point": [
+        0.472,
+        0.6993006993006993
+      ]
+    },
+    {
+      "id": 5173,
+      "label": "bicycle",
+      "student_name": "han",
+      "student_id": 1677433670004,
+      "point": [
+        0.192,
+        0.17715617715617715
+      ]
+    },
+    {
+      "id": 5174,
+      "label": "guitar",
+      "student_name": "han",
+      "student_id": 1677433670004,
+      "point": [
+        0.65,
+        0.26573426573426573
+      ]
+    },
+    {
+      "id": 5175,
+      "label": "pencil",
+      "student_name": "han",
+      "student_id": 1677433670004,
+      "point": [
+        0.398,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 5176,
+      "label": "clock",
+      "student_name": "han",
+      "student_id": 1677433670004,
+      "point": [
+        0.476,
+        0.16783216783216784
+      ]
+    },
+    {
+      "id": 5177,
+      "label": "car",
+      "student_name": "SD",
+      "student_id": 1677492475732,
+      "point": [
+        0.648,
+        0.20512820512820512
+      ]
+    },
+    {
+      "id": 5178,
+      "label": "fish",
+      "student_name": "SD",
+      "student_id": 1677492475732,
+      "point": [
+        0.674,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 5179,
+      "label": "house",
+      "student_name": "SD",
+      "student_id": 1677492475732,
+      "point": [
+        0.528,
+        0.6573426573426573
+      ]
+    },
+    {
+      "id": 5180,
+      "label": "tree",
+      "student_name": "SD",
+      "student_id": 1677492475732,
+      "point": [
+        0.54,
+        0.6946386946386947
+      ]
+    },
+    {
+      "id": 5181,
+      "label": "bicycle",
+      "student_name": "SD",
+      "student_id": 1677492475732,
+      "point": [
+        0.536,
+        0.4219114219114219
+      ]
+    },
+    {
+      "id": 5182,
+      "label": "guitar",
+      "student_name": "SD",
+      "student_id": 1677492475732,
+      "point": [
+        0.636,
+        0.7925407925407926
+      ]
+    },
+    {
+      "id": 5183,
+      "label": "pencil",
+      "student_name": "SD",
+      "student_id": 1677492475732,
+      "point": [
+        0.632,
+        0.6899766899766899
+      ]
+    },
+    {
+      "id": 5184,
+      "label": "clock",
+      "student_name": "SD",
+      "student_id": 1677492475732,
+      "point": [
+        0.434,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 5185,
+      "label": "car",
+      "student_name": "Madraa Uchiha 🔥vs💧",
+      "student_id": 1677531049492,
+      "point": [
+        0.612,
+        0.4289044289044289
+      ]
+    },
+    {
+      "id": 5186,
+      "label": "fish",
+      "student_name": "Madraa Uchiha 🔥vs💧",
+      "student_id": 1677531049492,
+      "point": [
+        0.678,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 5187,
+      "label": "house",
+      "student_name": "Madraa Uchiha 🔥vs💧",
+      "student_id": 1677531049492,
+      "point": [
+        0.634,
+        0.8787878787878788
+      ]
+    },
+    {
+      "id": 5188,
+      "label": "tree",
+      "student_name": "Madraa Uchiha 🔥vs💧",
+      "student_id": 1677531049492,
+      "point": [
+        0.996,
+        1.0536130536130537
+      ]
+    },
+    {
+      "id": 5189,
+      "label": "bicycle",
+      "student_name": "Madraa Uchiha 🔥vs💧",
+      "student_id": 1677531049492,
+      "point": [
+        0.56,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 5190,
+      "label": "guitar",
+      "student_name": "Madraa Uchiha 🔥vs💧",
+      "student_id": 1677531049492,
+      "point": [
+        0.654,
+        0.6596736596736597
+      ]
+    },
+    {
+      "id": 5191,
+      "label": "pencil",
+      "student_name": "Madraa Uchiha 🔥vs💧",
+      "student_id": 1677531049492,
+      "point": [
+        0.546,
+        0.578088578088578
+      ]
+    },
+    {
+      "id": 5192,
+      "label": "clock",
+      "student_name": "Madraa Uchiha 🔥vs💧",
+      "student_id": 1677531049492,
+      "point": [
+        0.506,
+        0.5221445221445221
+      ]
+    },
+    {
+      "id": 5193,
+      "label": "car",
+      "student_name": "RADU",
+      "student_id": 1677596648024,
+      "point": [
+        0.758,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 5194,
+      "label": "fish",
+      "student_name": "RADU",
+      "student_id": 1677596648024,
+      "point": [
+        0.632,
+        0.3822843822843823
+      ]
+    },
+    {
+      "id": 5195,
+      "label": "house",
+      "student_name": "RADU",
+      "student_id": 1677596648024,
+      "point": [
+        0.254,
+        0.6130536130536131
+      ]
+    },
+    {
+      "id": 5196,
+      "label": "tree",
+      "student_name": "RADU",
+      "student_id": 1677596648024,
+      "point": [
+        0.304,
+        0.6013986013986014
+      ]
+    },
+    {
+      "id": 5197,
+      "label": "bicycle",
+      "student_name": "RADU",
+      "student_id": 1677596648024,
+      "point": [
+        0.484,
+        0.578088578088578
+      ]
+    },
+    {
+      "id": 5198,
+      "label": "guitar",
+      "student_name": "RADU",
+      "student_id": 1677596648024,
+      "point": [
+        0.516,
+        0.662004662004662
+      ]
+    },
+    {
+      "id": 5199,
+      "label": "pencil",
+      "student_name": "RADU",
+      "student_id": 1677596648024,
+      "point": [
+        0.444,
+        0.6153846153846154
+      ]
+    },
+    {
+      "id": 5200,
+      "label": "clock",
+      "student_name": "RADU",
+      "student_id": 1677596648024,
+      "point": [
+        0.602,
+        0.6153846153846154
+      ]
+    },
+    {
+      "id": 5201,
+      "label": "car",
+      "student_name": "Dormin",
+      "student_id": 1677611269217,
+      "point": [
+        0.478,
+        0.20279720279720279
+      ]
+    },
+    {
+      "id": 5202,
+      "label": "fish",
+      "student_name": "Dormin",
+      "student_id": 1677611269217,
+      "point": [
+        0.328,
+        0.2540792540792541
+      ]
+    },
+    {
+      "id": 5203,
+      "label": "house",
+      "student_name": "Dormin",
+      "student_id": 1677611269217,
+      "point": [
+        0.244,
+        0.44522144522144524
+      ]
+    },
+    {
+      "id": 5204,
+      "label": "tree",
+      "student_name": "Dormin",
+      "student_id": 1677611269217,
+      "point": [
+        0.522,
+        0.5897435897435898
+      ]
+    },
+    {
+      "id": 5205,
+      "label": "bicycle",
+      "student_name": "Dormin",
+      "student_id": 1677611269217,
+      "point": [
+        0.43,
+        0.3986013986013986
+      ]
+    },
+    {
+      "id": 5206,
+      "label": "guitar",
+      "student_name": "Dormin",
+      "student_id": 1677611269217,
+      "point": [
+        0.41,
+        0.627039627039627
+      ]
+    },
+    {
+      "id": 5207,
+      "label": "pencil",
+      "student_name": "Dormin",
+      "student_id": 1677611269217,
+      "point": [
+        0.502,
+        0.34032634032634035
+      ]
+    },
+    {
+      "id": 5208,
+      "label": "clock",
+      "student_name": "Dormin",
+      "student_id": 1677611269217,
+      "point": [
+        0.266,
+        0.36363636363636365
+      ]
+    },
+    {
+      "id": 5209,
+      "label": "car",
+      "student_name": "Woonsz",
+      "student_id": 1678202690500,
+      "point": [
+        0.348,
+        0.2191142191142191
+      ]
+    },
+    {
+      "id": 5210,
+      "label": "fish",
+      "student_name": "Woonsz",
+      "student_id": 1678202690500,
+      "point": [
+        0.23,
+        0.0979020979020979
+      ]
+    },
+    {
+      "id": 5211,
+      "label": "house",
+      "student_name": "Woonsz",
+      "student_id": 1678202690500,
+      "point": [
+        0.18,
+        0.2494172494172494
+      ]
+    },
+    {
+      "id": 5212,
+      "label": "tree",
+      "student_name": "Woonsz",
+      "student_id": 1678202690500,
+      "point": [
+        0.292,
+        0.46853146853146854
+      ]
+    },
+    {
+      "id": 5213,
+      "label": "bicycle",
+      "student_name": "Woonsz",
+      "student_id": 1678202690500,
+      "point": [
+        0.34,
+        0.28438228438228436
+      ]
+    },
+    {
+      "id": 5214,
+      "label": "guitar",
+      "student_name": "Woonsz",
+      "student_id": 1678202690500,
+      "point": [
+        0.418,
+        0.4662004662004662
+      ]
+    },
+    {
+      "id": 5215,
+      "label": "pencil",
+      "student_name": "Woonsz",
+      "student_id": 1678202690500,
+      "point": [
+        0.176,
+        0.2937062937062937
+      ]
+    },
+    {
+      "id": 5216,
+      "label": "clock",
+      "student_name": "Woonsz",
+      "student_id": 1678202690500,
+      "point": [
+        0.23,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 5217,
+      "label": "car",
+      "student_name": "tom",
+      "student_id": 1678207465106,
+      "point": [
+        0.374,
+        0.20046620046620048
+      ]
+    },
+    {
+      "id": 5218,
+      "label": "fish",
+      "student_name": "tom",
+      "student_id": 1678207465106,
+      "point": [
+        0.32,
+        0.023310023310023312
+      ]
+    },
+    {
+      "id": 5219,
+      "label": "house",
+      "student_name": "tom",
+      "student_id": 1678207465106,
+      "point": [
+        0.268,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 5220,
+      "label": "tree",
+      "student_name": "tom",
+      "student_id": 1678207465106,
+      "point": [
+        0.18,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 5221,
+      "label": "bicycle",
+      "student_name": "tom",
+      "student_id": 1678207465106,
+      "point": [
+        0.266,
+        0.1258741258741259
+      ]
+    },
+    {
+      "id": 5222,
+      "label": "guitar",
+      "student_name": "tom",
+      "student_id": 1678207465106,
+      "point": [
+        0.232,
+        0.13986013986013987
+      ]
+    },
+    {
+      "id": 5223,
+      "label": "pencil",
+      "student_name": "tom",
+      "student_id": 1678207465106,
+      "point": [
+        0.22,
+        0.16783216783216784
+      ]
+    },
+    {
+      "id": 5224,
+      "label": "clock",
+      "student_name": "tom",
+      "student_id": 1678207465106,
+      "point": [
+        0.186,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 5225,
+      "label": "car",
+      "student_name": "hau",
+      "student_id": 1678522995592,
+      "point": [
+        0.236,
+        0.09090909090909091
+      ]
+    },
+    {
+      "id": 5226,
+      "label": "fish",
+      "student_name": "hau",
+      "student_id": 1678522995592,
+      "point": [
+        0.174,
+        0.02564102564102564
+      ]
+    },
+    {
+      "id": 5227,
+      "label": "house",
+      "student_name": "hau",
+      "student_id": 1678522995592,
+      "point": [
+        0.232,
+        0.1794871794871795
+      ]
+    },
+    {
+      "id": 5228,
+      "label": "tree",
+      "student_name": "hau",
+      "student_id": 1678522995592,
+      "point": [
+        0.19,
+        0.24475524475524477
+      ]
+    },
+    {
+      "id": 5229,
+      "label": "bicycle",
+      "student_name": "hau",
+      "student_id": 1678522995592,
+      "point": [
+        0.45,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 5230,
+      "label": "guitar",
+      "student_name": "hau",
+      "student_id": 1678522995592,
+      "point": [
+        0.314,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 5231,
+      "label": "pencil",
+      "student_name": "hau",
+      "student_id": 1678522995592,
+      "point": [
+        0.172,
+        0.1958041958041958
+      ]
+    },
+    {
+      "id": 5232,
+      "label": "clock",
+      "student_name": "hau",
+      "student_id": 1678522995592,
+      "point": [
+        0.134,
+        0.12121212121212122
+      ]
+    },
+    {
+      "id": 5233,
+      "label": "car",
+      "student_name": "Me",
+      "student_id": 1678977682698,
+      "point": [
+        0.514,
+        0.32867132867132864
+      ]
+    },
+    {
+      "id": 5234,
+      "label": "fish",
+      "student_name": "Me",
+      "student_id": 1678977682698,
+      "point": [
+        0.512,
+        0.1655011655011655
+      ]
+    },
+    {
+      "id": 5235,
+      "label": "house",
+      "student_name": "Me",
+      "student_id": 1678977682698,
+      "point": [
+        0.258,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 5236,
+      "label": "tree",
+      "student_name": "Me",
+      "student_id": 1678977682698,
+      "point": [
+        0.388,
+        0.585081585081585
+      ]
+    },
+    {
+      "id": 5237,
+      "label": "bicycle",
+      "student_name": "Me",
+      "student_id": 1678977682698,
+      "point": [
+        0.326,
+        0.2727272727272727
+      ]
+    },
+    {
+      "id": 5238,
+      "label": "guitar",
+      "student_name": "Me",
+      "student_id": 1678977682698,
+      "point": [
+        0.354,
+        0.36363636363636365
+      ]
+    },
+    {
+      "id": 5239,
+      "label": "pencil",
+      "student_name": "Me",
+      "student_id": 1678977682698,
+      "point": [
+        0.34,
+        0.4592074592074592
+      ]
+    },
+    {
+      "id": 5240,
+      "label": "clock",
+      "student_name": "Me",
+      "student_id": 1678977682698,
+      "point": [
+        0.162,
+        0.1351981351981352
+      ]
+    },
+    {
+      "id": 5241,
+      "label": "car",
+      "student_name": "Arya",
+      "student_id": 1679244334521,
+      "point": [
+        0.534,
+        0.24708624708624707
+      ]
+    },
+    {
+      "id": 5242,
+      "label": "fish",
+      "student_name": "Arya",
+      "student_id": 1679244334521,
+      "point": [
+        0.284,
+        0.10722610722610723
+      ]
+    },
+    {
+      "id": 5243,
+      "label": "house",
+      "student_name": "Arya",
+      "student_id": 1679244334521,
+      "point": [
+        0.436,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 5244,
+      "label": "tree",
+      "student_name": "Arya",
+      "student_id": 1679244334521,
+      "point": [
+        0.668,
+        0.7296037296037297
+      ]
+    },
+    {
+      "id": 5245,
+      "label": "bicycle",
+      "student_name": "Arya",
+      "student_id": 1679244334521,
+      "point": [
+        0.54,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 5246,
+      "label": "guitar",
+      "student_name": "Arya",
+      "student_id": 1679244334521,
+      "point": [
+        0.548,
+        0.6643356643356644
+      ]
+    },
+    {
+      "id": 5247,
+      "label": "pencil",
+      "student_name": "Arya",
+      "student_id": 1679244334521,
+      "point": [
+        0.43,
+        0.5384615384615384
+      ]
+    },
+    {
+      "id": 5248,
+      "label": "clock",
+      "student_name": "Arya",
+      "student_id": 1679244334521,
+      "point": [
+        0.388,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 5249,
+      "label": "car",
+      "student_name": "Hi",
+      "student_id": 1679403820124,
+      "point": [
+        0.414,
+        0.627039627039627
+      ]
+    },
+    {
+      "id": 5250,
+      "label": "fish",
+      "student_name": "Hi",
+      "student_id": 1679403820124,
+      "point": [
+        0.586,
+        0.47785547785547783
+      ]
+    },
+    {
+      "id": 5251,
+      "label": "house",
+      "student_name": "Hi",
+      "student_id": 1679403820124,
+      "point": [
+        0.488,
+        0.7226107226107226
+      ]
+    },
+    {
+      "id": 5252,
+      "label": "tree",
+      "student_name": "Hi",
+      "student_id": 1679403820124,
+      "point": [
+        0.496,
+        0.8648018648018648
+      ]
+    },
+    {
+      "id": 5253,
+      "label": "bicycle",
+      "student_name": "Hi",
+      "student_id": 1679403820124,
+      "point": [
+        0.538,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 5254,
+      "label": "guitar",
+      "student_name": "Hi",
+      "student_id": 1679403820124,
+      "point": [
+        0.574,
+        0.6247086247086248
+      ]
+    },
+    {
+      "id": 5255,
+      "label": "pencil",
+      "student_name": "Hi",
+      "student_id": 1679403820124,
+      "point": [
+        0.37,
+        0.5524475524475524
+      ]
+    },
+    {
+      "id": 5256,
+      "label": "clock",
+      "student_name": "Hi",
+      "student_id": 1679403820124,
+      "point": [
+        0.308,
+        0.6596736596736597
+      ]
+    },
+    {
+      "id": 5257,
+      "label": "car",
+      "student_name": "Bello",
+      "student_id": 1679403934444,
+      "point": [
+        0.656,
+        0.48717948717948717
+      ]
+    },
+    {
+      "id": 5258,
+      "label": "fish",
+      "student_name": "Bello",
+      "student_id": 1679403934444,
+      "point": [
+        0.318,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 5259,
+      "label": "house",
+      "student_name": "Bello",
+      "student_id": 1679403934444,
+      "point": [
+        0.232,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 5260,
+      "label": "tree",
+      "student_name": "Bello",
+      "student_id": 1679403934444,
+      "point": [
+        0.222,
+        0.6363636363636364
+      ]
+    },
+    {
+      "id": 5261,
+      "label": "bicycle",
+      "student_name": "Bello",
+      "student_id": 1679403934444,
+      "point": [
+        0.288,
+        1.048951048951049
+      ]
+    },
+    {
+      "id": 5262,
+      "label": "guitar",
+      "student_name": "Bello",
+      "student_id": 1679403934444,
+      "point": [
+        0.334,
+        1.0675990675990676
+      ]
+    },
+    {
+      "id": 5263,
+      "label": "pencil",
+      "student_name": "Bello",
+      "student_id": 1679403934444,
+      "point": [
+        0.416,
+        1.0442890442890442
+      ]
+    },
+    {
+      "id": 5264,
+      "label": "clock",
+      "student_name": "Bello",
+      "student_id": 1679403934444,
+      "point": [
+        0.254,
+        0.9417249417249417
+      ]
+    },
+    {
+      "id": 5265,
+      "label": "car",
+      "student_name": "Daivd H",
+      "student_id": 1679651461560,
+      "point": [
+        0.604,
+        0.5174825174825175
+      ]
+    },
+    {
+      "id": 5266,
+      "label": "fish",
+      "student_name": "Daivd H",
+      "student_id": 1679651461560,
+      "point": [
+        0.516,
+        0.6293706293706294
+      ]
+    },
+    {
+      "id": 5267,
+      "label": "house",
+      "student_name": "Daivd H",
+      "student_id": 1679651461560,
+      "point": [
+        0.638,
+        0.5874125874125874
+      ]
+    },
+    {
+      "id": 5268,
+      "label": "tree",
+      "student_name": "Daivd H",
+      "student_id": 1679651461560,
+      "point": [
+        0.478,
+        0.7972027972027972
+      ]
+    },
+    {
+      "id": 5269,
+      "label": "bicycle",
+      "student_name": "Daivd H",
+      "student_id": 1679651461560,
+      "point": [
+        0.55,
+        0.5128205128205128
+      ]
+    },
+    {
+      "id": 5270,
+      "label": "guitar",
+      "student_name": "Daivd H",
+      "student_id": 1679651461560,
+      "point": [
+        0.592,
+        0.8041958041958042
+      ]
+    },
+    {
+      "id": 5271,
+      "label": "pencil",
+      "student_name": "Daivd H",
+      "student_id": 1679651461560,
+      "point": [
+        0.332,
+        0.710955710955711
+      ]
+    },
+    {
+      "id": 5272,
+      "label": "clock",
+      "student_name": "Daivd H",
+      "student_id": 1679651461560,
+      "point": [
+        0.478,
+        0.662004662004662
+      ]
+    },
+    {
+      "id": 5273,
+      "label": "car",
+      "student_name": "Victor",
+      "student_id": 1679763581542,
+      "point": [
+        0.746,
+        0.32867132867132864
+      ]
+    },
+    {
+      "id": 5274,
+      "label": "fish",
+      "student_name": "Victor",
+      "student_id": 1679763581542,
+      "point": [
+        0.594,
+        0.2261072261072261
+      ]
+    },
+    {
+      "id": 5275,
+      "label": "house",
+      "student_name": "Victor",
+      "student_id": 1679763581542,
+      "point": [
+        0.366,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 5276,
+      "label": "tree",
+      "student_name": "Victor",
+      "student_id": 1679763581542,
+      "point": [
+        0.516,
+        0.4965034965034965
+      ]
+    },
+    {
+      "id": 5277,
+      "label": "bicycle",
+      "student_name": "Victor",
+      "student_id": 1679763581542,
+      "point": [
+        0.378,
+        0.24708624708624707
+      ]
+    },
+    {
+      "id": 5278,
+      "label": "guitar",
+      "student_name": "Victor",
+      "student_id": 1679763581542,
+      "point": [
+        0.498,
+        0.16783216783216784
+      ]
+    },
+    {
+      "id": 5279,
+      "label": "pencil",
+      "student_name": "Victor",
+      "student_id": 1679763581542,
+      "point": [
+        0.054,
+        0.5641025641025641
+      ]
+    },
+    {
+      "id": 5280,
+      "label": "clock",
+      "student_name": "Victor",
+      "student_id": 1679763581542,
+      "point": [
+        0.414,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 5281,
+      "label": "car",
+      "student_name": "Sunny",
+      "student_id": 1679805411998,
+      "point": [
+        0.418,
+        0.17016317016317017
+      ]
+    },
+    {
+      "id": 5282,
+      "label": "fish",
+      "student_name": "Sunny",
+      "student_id": 1679805411998,
+      "point": [
+        0.382,
+        0.20745920745920746
+      ]
+    },
+    {
+      "id": 5283,
+      "label": "house",
+      "student_name": "Sunny",
+      "student_id": 1679805411998,
+      "point": [
+        0.214,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 5284,
+      "label": "tree",
+      "student_name": "Sunny",
+      "student_id": 1679805411998,
+      "point": [
+        0.402,
+        0.6433566433566433
+      ]
+    },
+    {
+      "id": 5285,
+      "label": "bicycle",
+      "student_name": "Sunny",
+      "student_id": 1679805411998,
+      "point": [
+        0.282,
+        0.2494172494172494
+      ]
+    },
+    {
+      "id": 5286,
+      "label": "guitar",
+      "student_name": "Sunny",
+      "student_id": 1679805411998,
+      "point": [
+        0.324,
+        0.5617715617715617
+      ]
+    },
+    {
+      "id": 5287,
+      "label": "pencil",
+      "student_name": "Sunny",
+      "student_id": 1679805411998,
+      "point": [
+        0.358,
+        0.35664335664335667
+      ]
+    },
+    {
+      "id": 5288,
+      "label": "clock",
+      "student_name": "Sunny",
+      "student_id": 1679805411998,
+      "point": [
+        0.312,
+        0.34265734265734266
+      ]
+    },
+    {
+      "id": 5289,
+      "label": "car",
+      "student_name": "aditya",
+      "student_id": 1680162995195,
+      "point": [
+        0.628,
+        0.40792540792540793
+      ]
+    },
+    {
+      "id": 5290,
+      "label": "fish",
+      "student_name": "aditya",
+      "student_id": 1680162995195,
+      "point": [
+        0.578,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 5291,
+      "label": "house",
+      "student_name": "aditya",
+      "student_id": 1680162995195,
+      "point": [
+        0.576,
+        0.38694638694638694
+      ]
+    },
+    {
+      "id": 5292,
+      "label": "tree",
+      "student_name": "aditya",
+      "student_id": 1680162995195,
+      "point": [
+        0.538,
+        0.5641025641025641
+      ]
+    },
+    {
+      "id": 5293,
+      "label": "bicycle",
+      "student_name": "aditya",
+      "student_id": 1680162995195,
+      "point": [
+        0.532,
+        0.40093240093240096
+      ]
+    },
+    {
+      "id": 5294,
+      "label": "guitar",
+      "student_name": "aditya",
+      "student_id": 1680162995195,
+      "point": [
+        0.604,
+        0.6247086247086248
+      ]
+    },
+    {
+      "id": 5295,
+      "label": "pencil",
+      "student_name": "aditya",
+      "student_id": 1680162995195,
+      "point": [
+        0.49,
+        0.5664335664335665
+      ]
+    },
+    {
+      "id": 5296,
+      "label": "clock",
+      "student_name": "aditya",
+      "student_id": 1680162995195,
+      "point": [
+        0.356,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 5297,
+      "label": "car",
+      "student_name": "Obada",
+      "student_id": 1680358917470,
+      "point": [
+        0.572,
+        0.2937062937062937
+      ]
+    },
+    {
+      "id": 5298,
+      "label": "fish",
+      "student_name": "Obada",
+      "student_id": 1680358917470,
+      "point": [
+        0.536,
+        0.2680652680652681
+      ]
+    },
+    {
+      "id": 5299,
+      "label": "house",
+      "student_name": "Obada",
+      "student_id": 1680358917470,
+      "point": [
+        0.282,
+        0.5710955710955711
+      ]
+    },
+    {
+      "id": 5300,
+      "label": "tree",
+      "student_name": "Obada",
+      "student_id": 1680358917470,
+      "point": [
+        0.508,
+        0.8648018648018648
+      ]
+    },
+    {
+      "id": 5301,
+      "label": "bicycle",
+      "student_name": "Obada",
+      "student_id": 1680358917470,
+      "point": [
+        0.498,
+        0.4965034965034965
+      ]
+    },
+    {
+      "id": 5302,
+      "label": "guitar",
+      "student_name": "Obada",
+      "student_id": 1680358917470,
+      "point": [
+        0.712,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 5303,
+      "label": "pencil",
+      "student_name": "Obada",
+      "student_id": 1680358917470,
+      "point": [
+        0.404,
+        0.49417249417249415
+      ]
+    },
+    {
+      "id": 5304,
+      "label": "clock",
+      "student_name": "Obada",
+      "student_id": 1680358917470,
+      "point": [
+        0.486,
+        0.6456876456876457
+      ]
+    },
+    {
+      "id": 5305,
+      "label": "car",
+      "student_name": "bbb",
+      "student_id": 1680608958089,
+      "point": [
+        0.476,
+        0.19813519813519814
+      ]
+    },
+    {
+      "id": 5306,
+      "label": "fish",
+      "student_name": "bbb",
+      "student_id": 1680608958089,
+      "point": [
+        0.48,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 5307,
+      "label": "house",
+      "student_name": "bbb",
+      "student_id": 1680608958089,
+      "point": [
+        0.34,
+        0.5501165501165501
+      ]
+    },
+    {
+      "id": 5308,
+      "label": "tree",
+      "student_name": "bbb",
+      "student_id": 1680608958089,
+      "point": [
+        0.524,
+        0.6130536130536131
+      ]
+    },
+    {
+      "id": 5309,
+      "label": "bicycle",
+      "student_name": "bbb",
+      "student_id": 1680608958089,
+      "point": [
+        0.426,
+        0.23543123543123542
+      ]
+    },
+    {
+      "id": 5310,
+      "label": "guitar",
+      "student_name": "bbb",
+      "student_id": 1680608958089,
+      "point": [
+        0.402,
+        0.6247086247086248
+      ]
+    },
+    {
+      "id": 5311,
+      "label": "pencil",
+      "student_name": "bbb",
+      "student_id": 1680608958089,
+      "point": [
+        0.432,
+        0.02097902097902098
+      ]
+    },
+    {
+      "id": 5312,
+      "label": "clock",
+      "student_name": "bbb",
+      "student_id": 1680608958089,
+      "point": [
+        0.39,
+        0.5174825174825175
+      ]
+    },
+    {
+      "id": 5313,
+      "label": "car",
+      "student_name": "Billy",
+      "student_id": 1680621102983,
+      "point": [
+        0.548,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 5314,
+      "label": "fish",
+      "student_name": "Billy",
+      "student_id": 1680621102983,
+      "point": [
+        0.428,
+        0.19114219114219114
+      ]
+    },
+    {
+      "id": 5315,
+      "label": "house",
+      "student_name": "Billy",
+      "student_id": 1680621102983,
+      "point": [
+        0.302,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 5316,
+      "label": "tree",
+      "student_name": "Billy",
+      "student_id": 1680621102983,
+      "point": [
+        0.266,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 5317,
+      "label": "bicycle",
+      "student_name": "Billy",
+      "student_id": 1680621102983,
+      "point": [
+        0.264,
+        0.20279720279720279
+      ]
+    },
+    {
+      "id": 5318,
+      "label": "guitar",
+      "student_name": "Billy",
+      "student_id": 1680621102983,
+      "point": [
+        0.454,
+        0.1561771561771562
+      ]
+    },
+    {
+      "id": 5319,
+      "label": "pencil",
+      "student_name": "Billy",
+      "student_id": 1680621102983,
+      "point": [
+        0.024,
+        0.5617715617715617
+      ]
+    },
+    {
+      "id": 5320,
+      "label": "clock",
+      "student_name": "Billy",
+      "student_id": 1680621102983,
+      "point": [
+        0.242,
+        0.337995337995338
+      ]
+    },
+    {
+      "id": 5321,
+      "label": "car",
+      "student_name": "aryan",
+      "student_id": 1680809386789,
+      "point": [
+        0.468,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 5322,
+      "label": "fish",
+      "student_name": "aryan",
+      "student_id": 1680809386789,
+      "point": [
+        0.554,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 5323,
+      "label": "house",
+      "student_name": "aryan",
+      "student_id": 1680809386789,
+      "point": [
+        0.504,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 5324,
+      "label": "tree",
+      "student_name": "aryan",
+      "student_id": 1680809386789,
+      "point": [
+        0.462,
+        0.5314685314685315
+      ]
+    },
+    {
+      "id": 5325,
+      "label": "bicycle",
+      "student_name": "aryan",
+      "student_id": 1680809386789,
+      "point": [
+        0.396,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 5326,
+      "label": "guitar",
+      "student_name": "aryan",
+      "student_id": 1680809386789,
+      "point": [
+        0.5,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 5327,
+      "label": "pencil",
+      "student_name": "aryan",
+      "student_id": 1680809386789,
+      "point": [
+        0.116,
+        0.47785547785547783
+      ]
+    },
+    {
+      "id": 5328,
+      "label": "clock",
+      "student_name": "aryan",
+      "student_id": 1680809386789,
+      "point": [
+        0.316,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 5329,
+      "label": "car",
+      "student_name": "Param",
+      "student_id": 1680851392294,
+      "point": [
+        0.582,
+        0.1958041958041958
+      ]
+    },
+    {
+      "id": 5330,
+      "label": "fish",
+      "student_name": "Param",
+      "student_id": 1680851392294,
+      "point": [
+        0.488,
+        0.15384615384615385
+      ]
+    },
+    {
+      "id": 5331,
+      "label": "house",
+      "student_name": "Param",
+      "student_id": 1680851392294,
+      "point": [
+        0.602,
+        0.4405594405594406
+      ]
+    },
+    {
+      "id": 5332,
+      "label": "tree",
+      "student_name": "Param",
+      "student_id": 1680851392294,
+      "point": [
+        0.598,
+        0.696969696969697
+      ]
+    },
+    {
+      "id": 5333,
+      "label": "bicycle",
+      "student_name": "Param",
+      "student_id": 1680851392294,
+      "point": [
+        0.326,
+        0.23776223776223776
+      ]
+    },
+    {
+      "id": 5334,
+      "label": "guitar",
+      "student_name": "Param",
+      "student_id": 1680851392294,
+      "point": [
+        0.412,
+        0.6130536130536131
+      ]
+    },
+    {
+      "id": 5335,
+      "label": "pencil",
+      "student_name": "Param",
+      "student_id": 1680851392294,
+      "point": [
+        0.174,
+        0.48951048951048953
+      ]
+    },
+    {
+      "id": 5336,
+      "label": "clock",
+      "student_name": "Param",
+      "student_id": 1680851392294,
+      "point": [
+        0.432,
+        0.4522144522144522
+      ]
+    },
+    {
+      "id": 5337,
+      "label": "car",
+      "student_name": "Andrea",
+      "student_id": 1680968788795,
+      "point": [
+        0.604,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 5338,
+      "label": "fish",
+      "student_name": "Andrea",
+      "student_id": 1680968788795,
+      "point": [
+        0.38,
+        0.1585081585081585
+      ]
+    },
+    {
+      "id": 5339,
+      "label": "house",
+      "student_name": "Andrea",
+      "student_id": 1680968788795,
+      "point": [
+        0.206,
+        0.5268065268065268
+      ]
+    },
+    {
+      "id": 5340,
+      "label": "tree",
+      "student_name": "Andrea",
+      "student_id": 1680968788795,
+      "point": [
+        0.722,
+        0.6993006993006993
+      ]
+    },
+    {
+      "id": 5341,
+      "label": "bicycle",
+      "student_name": "Andrea",
+      "student_id": 1680968788795,
+      "point": [
+        0.462,
+        0.38694638694638694
+      ]
+    },
+    {
+      "id": 5342,
+      "label": "guitar",
+      "student_name": "Andrea",
+      "student_id": 1680968788795,
+      "point": [
+        0.476,
+        0.4382284382284382
+      ]
+    },
+    {
+      "id": 5343,
+      "label": "pencil",
+      "student_name": "Andrea",
+      "student_id": 1680968788795,
+      "point": [
+        0.006,
+        0.337995337995338
+      ]
+    },
+    {
+      "id": 5344,
+      "label": "clock",
+      "student_name": "Andrea",
+      "student_id": 1680968788795,
+      "point": [
+        0.166,
+        0.20046620046620048
+      ]
+    },
+    {
+      "id": 5345,
+      "label": "car",
+      "student_name": "qqq",
+      "student_id": 1681255791338,
+      "point": [
+        0.576,
+        0.351981351981352
+      ]
+    },
+    {
+      "id": 5346,
+      "label": "fish",
+      "student_name": "qqq",
+      "student_id": 1681255791338,
+      "point": [
+        0.458,
+        0.43356643356643354
+      ]
+    },
+    {
+      "id": 5347,
+      "label": "house",
+      "student_name": "qqq",
+      "student_id": 1681255791338,
+      "point": [
+        0.252,
+        0.3986013986013986
+      ]
+    },
+    {
+      "id": 5348,
+      "label": "tree",
+      "student_name": "qqq",
+      "student_id": 1681255791338,
+      "point": [
+        0.4,
+        0.5477855477855478
+      ]
+    },
+    {
+      "id": 5349,
+      "label": "bicycle",
+      "student_name": "qqq",
+      "student_id": 1681255791338,
+      "point": [
+        0.374,
+        0.43356643356643354
+      ]
+    },
+    {
+      "id": 5350,
+      "label": "guitar",
+      "student_name": "qqq",
+      "student_id": 1681255791338,
+      "point": [
+        0.238,
+        0.578088578088578
+      ]
+    },
+    {
+      "id": 5351,
+      "label": "pencil",
+      "student_name": "qqq",
+      "student_id": 1681255791338,
+      "point": [
+        0.052,
+        0.4219114219114219
+      ]
+    },
+    {
+      "id": 5352,
+      "label": "clock",
+      "student_name": "qqq",
+      "student_id": 1681255791338,
+      "point": [
+        0.282,
+        0.43356643356643354
+      ]
+    },
+    {
+      "id": 5353,
+      "label": "car",
+      "student_name": "prajwal",
+      "student_id": 1681744665888,
+      "point": [
+        0.658,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 5354,
+      "label": "fish",
+      "student_name": "prajwal",
+      "student_id": 1681744665888,
+      "point": [
+        0.36,
+        0.2097902097902098
+      ]
+    },
+    {
+      "id": 5355,
+      "label": "house",
+      "student_name": "prajwal",
+      "student_id": 1681744665888,
+      "point": [
+        0.496,
+        0.38694638694638694
+      ]
+    },
+    {
+      "id": 5356,
+      "label": "tree",
+      "student_name": "prajwal",
+      "student_id": 1681744665888,
+      "point": [
+        0.316,
+        0.4568764568764569
+      ]
+    },
+    {
+      "id": 5357,
+      "label": "bicycle",
+      "student_name": "prajwal",
+      "student_id": 1681744665888,
+      "point": [
+        0.44,
+        0.317016317016317
+      ]
+    },
+    {
+      "id": 5358,
+      "label": "guitar",
+      "student_name": "prajwal",
+      "student_id": 1681744665888,
+      "point": [
+        0.198,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 5359,
+      "label": "pencil",
+      "student_name": "prajwal",
+      "student_id": 1681744665888,
+      "point": [
+        0.086,
+        0.4195804195804196
+      ]
+    },
+    {
+      "id": 5360,
+      "label": "clock",
+      "student_name": "prajwal",
+      "student_id": 1681744665888,
+      "point": [
+        0.368,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 5361,
+      "label": "car",
+      "student_name": "_",
+      "student_id": 1681750351703,
+      "point": [
+        0.284,
+        0.5058275058275058
+      ]
+    },
+    {
+      "id": 5362,
+      "label": "fish",
+      "student_name": "_",
+      "student_id": 1681750351703,
+      "point": [
+        0.436,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 5363,
+      "label": "house",
+      "student_name": "_",
+      "student_id": 1681750351703,
+      "point": [
+        0.38,
+        0.5314685314685315
+      ]
+    },
+    {
+      "id": 5364,
+      "label": "tree",
+      "student_name": "_",
+      "student_id": 1681750351703,
+      "point": [
+        0.384,
+        0.5431235431235432
+      ]
+    },
+    {
+      "id": 5365,
+      "label": "bicycle",
+      "student_name": "_",
+      "student_id": 1681750351703,
+      "point": [
+        0.172,
+        0.2703962703962704
+      ]
+    },
+    {
+      "id": 5366,
+      "label": "guitar",
+      "student_name": "_",
+      "student_id": 1681750351703,
+      "point": [
+        -0.024,
+        -0.039627039627039624
+      ]
+    },
+    {
+      "id": 5367,
+      "label": "pencil",
+      "student_name": "_",
+      "student_id": 1681750351703,
+      "point": [
+        0.042,
+        0.17249417249417248
+      ]
+    },
+    {
+      "id": 5368,
+      "label": "clock",
+      "student_name": "_",
+      "student_id": 1681750351703,
+      "point": [
+        0.102,
+        0.21212121212121213
+      ]
+    },
+    {
+      "id": 5369,
+      "label": "car",
+      "student_name": "Machine Learning Course",
+      "student_id": 1681750663602,
+      "point": [
+        0.64,
+        0.2494172494172494
+      ]
+    },
+    {
+      "id": 5370,
+      "label": "fish",
+      "student_name": "Machine Learning Course",
+      "student_id": 1681750663602,
+      "point": [
+        0.436,
+        0.16083916083916083
+      ]
+    },
+    {
+      "id": 5371,
+      "label": "house",
+      "student_name": "Machine Learning Course",
+      "student_id": 1681750663602,
+      "point": [
+        0.608,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 5372,
+      "label": "tree",
+      "student_name": "Machine Learning Course",
+      "student_id": 1681750663602,
+      "point": [
+        0.494,
+        0.7785547785547785
+      ]
+    },
+    {
+      "id": 5373,
+      "label": "bicycle",
+      "student_name": "Machine Learning Course",
+      "student_id": 1681750663602,
+      "point": [
+        0.532,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 5374,
+      "label": "guitar",
+      "student_name": "Machine Learning Course",
+      "student_id": 1681750663602,
+      "point": [
+        0.626,
+        0.5244755244755245
+      ]
+    },
+    {
+      "id": 5375,
+      "label": "pencil",
+      "student_name": "Machine Learning Course",
+      "student_id": 1681750663602,
+      "point": [
+        0.06,
+        0.5944055944055944
+      ]
+    },
+    {
+      "id": 5376,
+      "label": "clock",
+      "student_name": "Machine Learning Course",
+      "student_id": 1681750663602,
+      "point": [
+        0.522,
+        0.5594405594405595
+      ]
+    },
+    {
+      "id": 5377,
+      "label": "car",
+      "student_name": "Den",
+      "student_id": 1681777018663,
+      "point": [
+        1.196,
+        0.717948717948718
+      ]
+    },
+    {
+      "id": 5378,
+      "label": "fish",
+      "student_name": "Den",
+      "student_id": 1681777018663,
+      "point": [
+        0.55,
+        0.4405594405594406
+      ]
+    },
+    {
+      "id": 5379,
+      "label": "house",
+      "student_name": "Den",
+      "student_id": 1681777018663,
+      "point": [
+        0.404,
+        0.7086247086247086
+      ]
+    },
+    {
+      "id": 5380,
+      "label": "tree",
+      "student_name": "Den",
+      "student_id": 1681777018663,
+      "point": [
+        0.6,
+        0.745920745920746
+      ]
+    },
+    {
+      "id": 5381,
+      "label": "bicycle",
+      "student_name": "Den",
+      "student_id": 1681777018663,
+      "point": [
+        0.476,
+        0.5477855477855478
+      ]
+    },
+    {
+      "id": 5382,
+      "label": "guitar",
+      "student_name": "Den",
+      "student_id": 1681777018663,
+      "point": [
+        0.672,
+        0.5314685314685315
+      ]
+    },
+    {
+      "id": 5383,
+      "label": "pencil",
+      "student_name": "Den",
+      "student_id": 1681777018663,
+      "point": [
+        0.708,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 5384,
+      "label": "clock",
+      "student_name": "Den",
+      "student_id": 1681777018663,
+      "point": [
+        0.596,
+        0.4801864801864802
+      ]
+    },
+    {
+      "id": 5385,
+      "label": "car",
+      "student_name": "James",
+      "student_id": 1681777101369,
+      "point": [
+        0.554,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 5386,
+      "label": "fish",
+      "student_name": "James",
+      "student_id": 1681777101369,
+      "point": [
+        0.352,
+        0.3356643356643357
+      ]
+    },
+    {
+      "id": 5387,
+      "label": "house",
+      "student_name": "James",
+      "student_id": 1681777101369,
+      "point": [
+        0.472,
+        0.6433566433566433
+      ]
+    },
+    {
+      "id": 5388,
+      "label": "tree",
+      "student_name": "James",
+      "student_id": 1681777101369,
+      "point": [
+        0.304,
+        0.42657342657342656
+      ]
+    },
+    {
+      "id": 5389,
+      "label": "bicycle",
+      "student_name": "James",
+      "student_id": 1681777101369,
+      "point": [
+        0.754,
+        0.8508158508158508
+      ]
+    },
+    {
+      "id": 5390,
+      "label": "guitar",
+      "student_name": "James",
+      "student_id": 1681777101369,
+      "point": [
+        0.172,
+        0.317016317016317
+      ]
+    },
+    {
+      "id": 5391,
+      "label": "pencil",
+      "student_name": "James",
+      "student_id": 1681777101369,
+      "point": [
+        0.336,
+        0.34032634032634035
+      ]
+    },
+    {
+      "id": 5392,
+      "label": "clock",
+      "student_name": "James",
+      "student_id": 1681777101369,
+      "point": [
+        0.286,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 5393,
+      "label": "car",
+      "student_name": "Den",
+      "student_id": 1681778765385,
+      "point": [
+        0.658,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 5394,
+      "label": "fish",
+      "student_name": "Den",
+      "student_id": 1681778765385,
+      "point": [
+        0.57,
+        0.4522144522144522
+      ]
+    },
+    {
+      "id": 5395,
+      "label": "house",
+      "student_name": "Den",
+      "student_id": 1681778765385,
+      "point": [
+        0.286,
+        0.6736596736596736
+      ]
+    },
+    {
+      "id": 5396,
+      "label": "tree",
+      "student_name": "Den",
+      "student_id": 1681778765385,
+      "point": [
+        0.376,
+        0.7948717948717948
+      ]
+    },
+    {
+      "id": 5397,
+      "label": "bicycle",
+      "student_name": "Den",
+      "student_id": 1681778765385,
+      "point": [
+        0.514,
+        0.5221445221445221
+      ]
+    },
+    {
+      "id": 5398,
+      "label": "guitar",
+      "student_name": "Den",
+      "student_id": 1681778765385,
+      "point": [
+        0.612,
+        0.662004662004662
+      ]
+    },
+    {
+      "id": 5399,
+      "label": "pencil",
+      "student_name": "Den",
+      "student_id": 1681778765385,
+      "point": [
+        0.602,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 5400,
+      "label": "clock",
+      "student_name": "Den",
+      "student_id": 1681778765385,
+      "point": [
+        0.612,
+        0.696969696969697
+      ]
+    },
+    {
+      "id": 5401,
+      "label": "car",
+      "student_name": "Karthik",
+      "student_id": 1681812146726,
+      "point": [
+        0.502,
+        0.20512820512820512
+      ]
+    },
+    {
+      "id": 5402,
+      "label": "fish",
+      "student_name": "Karthik",
+      "student_id": 1681812146726,
+      "point": [
+        0.48,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 5403,
+      "label": "house",
+      "student_name": "Karthik",
+      "student_id": 1681812146726,
+      "point": [
+        0.28,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 5404,
+      "label": "tree",
+      "student_name": "Karthik",
+      "student_id": 1681812146726,
+      "point": [
+        0.276,
+        0.3822843822843823
+      ]
+    },
+    {
+      "id": 5405,
+      "label": "bicycle",
+      "student_name": "Karthik",
+      "student_id": 1681812146726,
+      "point": [
+        0.306,
+        0.21212121212121213
+      ]
+    },
+    {
+      "id": 5406,
+      "label": "guitar",
+      "student_name": "Karthik",
+      "student_id": 1681812146726,
+      "point": [
+        0.19,
+        0.5128205128205128
+      ]
+    },
+    {
+      "id": 5407,
+      "label": "pencil",
+      "student_name": "Karthik",
+      "student_id": 1681812146726,
+      "point": [
+        0.096,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 5408,
+      "label": "clock",
+      "student_name": "Karthik",
+      "student_id": 1681812146726,
+      "point": [
+        0.184,
+        0.19347319347319347
+      ]
+    },
+    {
+      "id": 5409,
+      "label": "car",
+      "student_name": "Dd",
+      "student_id": 1681818416051,
+      "point": [
+        0.45,
+        0.6573426573426573
+      ]
+    },
+    {
+      "id": 5410,
+      "label": "fish",
+      "student_name": "Dd",
+      "student_id": 1681818416051,
+      "point": [
+        0.324,
+        0.675990675990676
+      ]
+    },
+    {
+      "id": 5411,
+      "label": "house",
+      "student_name": "Dd",
+      "student_id": 1681818416051,
+      "point": [
+        0.394,
+        0.6876456876456877
+      ]
+    },
+    {
+      "id": 5412,
+      "label": "tree",
+      "student_name": "Dd",
+      "student_id": 1681818416051,
+      "point": [
+        0.562,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 5413,
+      "label": "bicycle",
+      "student_name": "Dd",
+      "student_id": 1681818416051,
+      "point": [
+        0.362,
+        0.6806526806526807
+      ]
+    },
+    {
+      "id": 5414,
+      "label": "guitar",
+      "student_name": "Dd",
+      "student_id": 1681818416051,
+      "point": [
+        0.41,
+        0.3613053613053613
+      ]
+    },
+    {
+      "id": 5415,
+      "label": "pencil",
+      "student_name": "Dd",
+      "student_id": 1681818416051,
+      "point": [
+        0.498,
+        0.7156177156177156
+      ]
+    },
+    {
+      "id": 5416,
+      "label": "clock",
+      "student_name": "Dd",
+      "student_id": 1681818416051,
+      "point": [
+        0.606,
+        0.4731934731934732
+      ]
+    },
+    {
+      "id": 5417,
+      "label": "car",
+      "student_name": "Eshan Shekhaji",
+      "student_id": 1681823798314,
+      "point": [
+        -0.026,
+        -0.05128205128205128
+      ]
+    },
+    {
+      "id": 5418,
+      "label": "fish",
+      "student_name": "Eshan Shekhaji",
+      "student_id": 1681823798314,
+      "point": [
+        0.49,
+        0.1958041958041958
+      ]
+    },
+    {
+      "id": 5419,
+      "label": "house",
+      "student_name": "Eshan Shekhaji",
+      "student_id": 1681823798314,
+      "point": [
+        0.272,
+        0.358974358974359
+      ]
+    },
+    {
+      "id": 5420,
+      "label": "tree",
+      "student_name": "Eshan Shekhaji",
+      "student_id": 1681823798314,
+      "point": [
+        0.25,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 5421,
+      "label": "bicycle",
+      "student_name": "Eshan Shekhaji",
+      "student_id": 1681823798314,
+      "point": [
+        0.268,
+        0.14685314685314685
+      ]
+    },
+    {
+      "id": 5422,
+      "label": "guitar",
+      "student_name": "Eshan Shekhaji",
+      "student_id": 1681823798314,
+      "point": [
+        0.578,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 5423,
+      "label": "pencil",
+      "student_name": "Eshan Shekhaji",
+      "student_id": 1681823798314,
+      "point": [
+        0.434,
+        0.5384615384615384
+      ]
+    },
+    {
+      "id": 5424,
+      "label": "clock",
+      "student_name": "Eshan Shekhaji",
+      "student_id": 1681823798314,
+      "point": [
+        0.342,
+        0.3822843822843823
+      ]
+    },
+    {
+      "id": 5425,
+      "label": "car",
+      "student_name": "Vishal",
+      "student_id": 1681837899558,
+      "point": [
+        0.476,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 5426,
+      "label": "fish",
+      "student_name": "Vishal",
+      "student_id": 1681837899558,
+      "point": [
+        0.554,
+        0.46153846153846156
+      ]
+    },
+    {
+      "id": 5427,
+      "label": "house",
+      "student_name": "Vishal",
+      "student_id": 1681837899558,
+      "point": [
+        0.374,
+        0.4568764568764569
+      ]
+    },
+    {
+      "id": 5428,
+      "label": "tree",
+      "student_name": "Vishal",
+      "student_id": 1681837899558,
+      "point": [
+        0.256,
+        0.4219114219114219
+      ]
+    },
+    {
+      "id": 5429,
+      "label": "bicycle",
+      "student_name": "Vishal",
+      "student_id": 1681837899558,
+      "point": [
+        0.258,
+        0.4592074592074592
+      ]
+    },
+    {
+      "id": 5430,
+      "label": "guitar",
+      "student_name": "Vishal",
+      "student_id": 1681837899558,
+      "point": [
+        0.192,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 5431,
+      "label": "pencil",
+      "student_name": "Vishal",
+      "student_id": 1681837899558,
+      "point": [
+        0.196,
+        0.11421911421911422
+      ]
+    },
+    {
+      "id": 5432,
+      "label": "clock",
+      "student_name": "Vishal",
+      "student_id": 1681837899558,
+      "point": [
+        0.354,
+        0.44988344988344986
+      ]
+    },
+    {
+      "id": 5433,
+      "label": "car",
+      "student_name": "n00req",
+      "student_id": 1681849621835,
+      "point": [
+        0.672,
+        0.35664335664335667
+      ]
+    },
+    {
+      "id": 5434,
+      "label": "fish",
+      "student_name": "n00req",
+      "student_id": 1681849621835,
+      "point": [
+        0.466,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 5435,
+      "label": "house",
+      "student_name": "n00req",
+      "student_id": 1681849621835,
+      "point": [
+        0.436,
+        0.46153846153846156
+      ]
+    },
+    {
+      "id": 5436,
+      "label": "tree",
+      "student_name": "n00req",
+      "student_id": 1681849621835,
+      "point": [
+        0.394,
+        0.5081585081585082
+      ]
+    },
+    {
+      "id": 5437,
+      "label": "bicycle",
+      "student_name": "n00req",
+      "student_id": 1681849621835,
+      "point": [
+        0.518,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 5438,
+      "label": "guitar",
+      "student_name": "n00req",
+      "student_id": 1681849621835,
+      "point": [
+        0.314,
+        0.6923076923076923
+      ]
+    },
+    {
+      "id": 5439,
+      "label": "pencil",
+      "student_name": "n00req",
+      "student_id": 1681849621835,
+      "point": [
+        0.474,
+        0.675990675990676
+      ]
+    },
+    {
+      "id": 5440,
+      "label": "clock",
+      "student_name": "n00req",
+      "student_id": 1681849621835,
+      "point": [
+        0.434,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 5441,
+      "label": "car",
+      "student_name": "steph",
+      "student_id": 1681886078786,
+      "point": [
+        0.456,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 5442,
+      "label": "fish",
+      "student_name": "steph",
+      "student_id": 1681886078786,
+      "point": [
+        0.276,
+        0.13053613053613053
+      ]
+    },
+    {
+      "id": 5443,
+      "label": "house",
+      "student_name": "steph",
+      "student_id": 1681886078786,
+      "point": [
+        0.484,
+        0.49417249417249415
+      ]
+    },
+    {
+      "id": 5444,
+      "label": "tree",
+      "student_name": "steph",
+      "student_id": 1681886078786,
+      "point": [
+        0.41,
+        0.745920745920746
+      ]
+    },
+    {
+      "id": 5445,
+      "label": "bicycle",
+      "student_name": "steph",
+      "student_id": 1681886078786,
+      "point": [
+        0.45,
+        0.4219114219114219
+      ]
+    },
+    {
+      "id": 5446,
+      "label": "guitar",
+      "student_name": "steph",
+      "student_id": 1681886078786,
+      "point": [
+        0.392,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 5447,
+      "label": "pencil",
+      "student_name": "steph",
+      "student_id": 1681886078786,
+      "point": [
+        0.214,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 5448,
+      "label": "clock",
+      "student_name": "steph",
+      "student_id": 1681886078786,
+      "point": [
+        0.222,
+        0.21212121212121213
+      ]
+    },
+    {
+      "id": 5449,
+      "label": "car",
+      "student_name": "nonte",
+      "student_id": 1681930124913,
+      "point": [
+        0.528,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 5450,
+      "label": "fish",
+      "student_name": "nonte",
+      "student_id": 1681930124913,
+      "point": [
+        0.526,
+        0.24475524475524477
+      ]
+    },
+    {
+      "id": 5451,
+      "label": "house",
+      "student_name": "nonte",
+      "student_id": 1681930124913,
+      "point": [
+        0.43,
+        0.5268065268065268
+      ]
+    },
+    {
+      "id": 5452,
+      "label": "tree",
+      "student_name": "nonte",
+      "student_id": 1681930124913,
+      "point": [
+        0.466,
+        0.6503496503496503
+      ]
+    },
+    {
+      "id": 5453,
+      "label": "bicycle",
+      "student_name": "nonte",
+      "student_id": 1681930124913,
+      "point": [
+        0.45,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 5454,
+      "label": "guitar",
+      "student_name": "nonte",
+      "student_id": 1681930124913,
+      "point": [
+        0.544,
+        0.26573426573426573
+      ]
+    },
+    {
+      "id": 5455,
+      "label": "pencil",
+      "student_name": "nonte",
+      "student_id": 1681930124913,
+      "point": [
+        0.48,
+        0.030303030303030304
+      ]
+    },
+    {
+      "id": 5456,
+      "label": "clock",
+      "student_name": "nonte",
+      "student_id": 1681930124913,
+      "point": [
+        0.426,
+        0.40792540792540793
+      ]
+    },
+    {
+      "id": 5457,
+      "label": "car",
+      "student_name": "jaeyoung",
+      "student_id": 1681996269686,
+      "point": [
+        0.592,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 5458,
+      "label": "fish",
+      "student_name": "jaeyoung",
+      "student_id": 1681996269686,
+      "point": [
+        0.558,
+        0.44988344988344986
+      ]
+    },
+    {
+      "id": 5459,
+      "label": "house",
+      "student_name": "jaeyoung",
+      "student_id": 1681996269686,
+      "point": [
+        0.498,
+        0.5174825174825175
+      ]
+    },
+    {
+      "id": 5460,
+      "label": "tree",
+      "student_name": "jaeyoung",
+      "student_id": 1681996269686,
+      "point": [
+        0.578,
+        0.7272727272727273
+      ]
+    },
+    {
+      "id": 5461,
+      "label": "bicycle",
+      "student_name": "jaeyoung",
+      "student_id": 1681996269686,
+      "point": [
+        0.448,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 5462,
+      "label": "guitar",
+      "student_name": "jaeyoung",
+      "student_id": 1681996269686,
+      "point": [
+        0.444,
+        0.6433566433566433
+      ]
+    },
+    {
+      "id": 5463,
+      "label": "pencil",
+      "student_name": "jaeyoung",
+      "student_id": 1681996269686,
+      "point": [
+        0.376,
+        0.5477855477855478
+      ]
+    },
+    {
+      "id": 5464,
+      "label": "clock",
+      "student_name": "jaeyoung",
+      "student_id": 1681996269686,
+      "point": [
+        0.358,
+        0.372960372960373
+      ]
+    },
+    {
+      "id": 5465,
+      "label": "car",
+      "student_name": "Killmonger",
+      "student_id": 1681996669602,
+      "point": [
+        0.412,
+        0.34965034965034963
+      ]
+    },
+    {
+      "id": 5466,
+      "label": "fish",
+      "student_name": "Killmonger",
+      "student_id": 1681996669602,
+      "point": [
+        0.412,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 5467,
+      "label": "house",
+      "student_name": "Killmonger",
+      "student_id": 1681996669602,
+      "point": [
+        0.332,
+        0.372960372960373
+      ]
+    },
+    {
+      "id": 5468,
+      "label": "tree",
+      "student_name": "Killmonger",
+      "student_id": 1681996669602,
+      "point": [
+        0.324,
+        0.45454545454545453
+      ]
+    },
+    {
+      "id": 5469,
+      "label": "bicycle",
+      "student_name": "Killmonger",
+      "student_id": 1681996669602,
+      "point": [
+        0.462,
+        0.2727272727272727
+      ]
+    },
+    {
+      "id": 5470,
+      "label": "guitar",
+      "student_name": "Killmonger",
+      "student_id": 1681996669602,
+      "point": [
+        0.668,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 5471,
+      "label": "pencil",
+      "student_name": "Killmonger",
+      "student_id": 1681996669602,
+      "point": [
+        -0.012,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 5472,
+      "label": "clock",
+      "student_name": "Killmonger",
+      "student_id": 1681996669602,
+      "point": [
+        0.26,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 5473,
+      "label": "car",
+      "student_name": "Gab@nuage.ch",
+      "student_id": 1682018596776,
+      "point": [
+        0.604,
+        0.3962703962703963
+      ]
+    },
+    {
+      "id": 5474,
+      "label": "fish",
+      "student_name": "Gab@nuage.ch",
+      "student_id": 1682018596776,
+      "point": [
+        0.424,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 5475,
+      "label": "house",
+      "student_name": "Gab@nuage.ch",
+      "student_id": 1682018596776,
+      "point": [
+        0.308,
+        0.6247086247086248
+      ]
+    },
+    {
+      "id": 5476,
+      "label": "tree",
+      "student_name": "Gab@nuage.ch",
+      "student_id": 1682018596776,
+      "point": [
+        0.362,
+        0.6386946386946387
+      ]
+    },
+    {
+      "id": 5477,
+      "label": "bicycle",
+      "student_name": "Gab@nuage.ch",
+      "student_id": 1682018596776,
+      "point": [
+        0.514,
+        0.4965034965034965
+      ]
+    },
+    {
+      "id": 5478,
+      "label": "guitar",
+      "student_name": "Gab@nuage.ch",
+      "student_id": 1682018596776,
+      "point": [
+        0.378,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 5479,
+      "label": "pencil",
+      "student_name": "Gab@nuage.ch",
+      "student_id": 1682018596776,
+      "point": [
+        0.31,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 5480,
+      "label": "clock",
+      "student_name": "Gab@nuage.ch",
+      "student_id": 1682018596776,
+      "point": [
+        0.378,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 5481,
+      "label": "car",
+      "student_name": "Rabbi Ofori ",
+      "student_id": 1682064641150,
+      "point": [
+        0.534,
+        0.48951048951048953
+      ]
+    },
+    {
+      "id": 5482,
+      "label": "fish",
+      "student_name": "Rabbi Ofori ",
+      "student_id": 1682064641150,
+      "point": [
+        0.444,
+        0.2937062937062937
+      ]
+    },
+    {
+      "id": 5483,
+      "label": "house",
+      "student_name": "Rabbi Ofori ",
+      "student_id": 1682064641150,
+      "point": [
+        0.272,
+        0.3822843822843823
+      ]
+    },
+    {
+      "id": 5484,
+      "label": "tree",
+      "student_name": "Rabbi Ofori ",
+      "student_id": 1682064641150,
+      "point": [
+        0.412,
+        0.7482517482517482
+      ]
+    },
+    {
+      "id": 5485,
+      "label": "bicycle",
+      "student_name": "Rabbi Ofori ",
+      "student_id": 1682064641150,
+      "point": [
+        0.51,
+        0.5524475524475524
+      ]
+    },
+    {
+      "id": 5486,
+      "label": "guitar",
+      "student_name": "Rabbi Ofori ",
+      "student_id": 1682064641150,
+      "point": [
+        0.562,
+        0.662004662004662
+      ]
+    },
+    {
+      "id": 5487,
+      "label": "pencil",
+      "student_name": "Rabbi Ofori ",
+      "student_id": 1682064641150,
+      "point": [
+        0.532,
+        0.7202797202797203
+      ]
+    },
+    {
+      "id": 5488,
+      "label": "clock",
+      "student_name": "Rabbi Ofori ",
+      "student_id": 1682064641150,
+      "point": [
+        0.368,
+        0.4289044289044289
+      ]
+    },
+    {
+      "id": 5489,
+      "label": "car",
+      "student_name": "Deb",
+      "student_id": 1682095019591,
+      "point": [
+        0.544,
+        0.4825174825174825
+      ]
+    },
+    {
+      "id": 5490,
+      "label": "fish",
+      "student_name": "Deb",
+      "student_id": 1682095019591,
+      "point": [
+        0.464,
+        0.21678321678321677
+      ]
+    },
+    {
+      "id": 5491,
+      "label": "house",
+      "student_name": "Deb",
+      "student_id": 1682095019591,
+      "point": [
+        0.464,
+        0.5734265734265734
+      ]
+    },
+    {
+      "id": 5492,
+      "label": "tree",
+      "student_name": "Deb",
+      "student_id": 1682095019591,
+      "point": [
+        0.398,
+        0.48951048951048953
+      ]
+    },
+    {
+      "id": 5493,
+      "label": "bicycle",
+      "student_name": "Deb",
+      "student_id": 1682095019591,
+      "point": [
+        0.362,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 5494,
+      "label": "guitar",
+      "student_name": "Deb",
+      "student_id": 1682095019591,
+      "point": [
+        0.28,
+        0.47086247086247085
+      ]
+    },
+    {
+      "id": 5495,
+      "label": "pencil",
+      "student_name": "Deb",
+      "student_id": 1682095019591,
+      "point": [
+        0.2,
+        0.5431235431235432
+      ]
+    },
+    {
+      "id": 5496,
+      "label": "clock",
+      "student_name": "Deb",
+      "student_id": 1682095019591,
+      "point": [
+        0.328,
+        0.4289044289044289
+      ]
+    },
+    {
+      "id": 5497,
+      "label": "car",
+      "student_name": "Spryzu",
+      "student_id": 1682105924140,
+      "point": [
+        0.652,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 5498,
+      "label": "fish",
+      "student_name": "Spryzu",
+      "student_id": 1682105924140,
+      "point": [
+        0.548,
+        0.2680652680652681
+      ]
+    },
+    {
+      "id": 5499,
+      "label": "house",
+      "student_name": "Spryzu",
+      "student_id": 1682105924140,
+      "point": [
+        0.748,
+        0.7202797202797203
+      ]
+    },
+    {
+      "id": 5500,
+      "label": "tree",
+      "student_name": "Spryzu",
+      "student_id": 1682105924140,
+      "point": [
+        0.68,
+        0.5501165501165501
+      ]
+    },
+    {
+      "id": 5501,
+      "label": "bicycle",
+      "student_name": "Spryzu",
+      "student_id": 1682105924140,
+      "point": [
+        0.398,
+        0.4149184149184149
+      ]
+    },
+    {
+      "id": 5502,
+      "label": "guitar",
+      "student_name": "Spryzu",
+      "student_id": 1682105924140,
+      "point": [
+        0.496,
+        0.47785547785547783
+      ]
+    },
+    {
+      "id": 5503,
+      "label": "pencil",
+      "student_name": "Spryzu",
+      "student_id": 1682105924140,
+      "point": [
+        0.528,
+        0.1888111888111888
+      ]
+    },
+    {
+      "id": 5504,
+      "label": "clock",
+      "student_name": "Spryzu",
+      "student_id": 1682105924140,
+      "point": [
+        0.398,
+        0.44522144522144524
+      ]
+    },
+    {
+      "id": 5505,
+      "label": "car",
+      "student_name": "Vikash",
+      "student_id": 1682144074318,
+      "point": [
+        0.506,
+        0.2191142191142191
+      ]
+    },
+    {
+      "id": 5506,
+      "label": "fish",
+      "student_name": "Vikash",
+      "student_id": 1682144074318,
+      "point": [
+        0.514,
+        0.16083916083916083
+      ]
+    },
+    {
+      "id": 5507,
+      "label": "house",
+      "student_name": "Vikash",
+      "student_id": 1682144074318,
+      "point": [
+        0.44,
+        0.46153846153846156
+      ]
+    },
+    {
+      "id": 5508,
+      "label": "tree",
+      "student_name": "Vikash",
+      "student_id": 1682144074318,
+      "point": [
+        0.41,
+        0.4825174825174825
+      ]
+    },
+    {
+      "id": 5509,
+      "label": "bicycle",
+      "student_name": "Vikash",
+      "student_id": 1682144074318,
+      "point": [
+        0.638,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 5510,
+      "label": "guitar",
+      "student_name": "Vikash",
+      "student_id": 1682144074318,
+      "point": [
+        0.288,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 5511,
+      "label": "pencil",
+      "student_name": "Vikash",
+      "student_id": 1682144074318,
+      "point": [
+        0.392,
+        0.2727272727272727
+      ]
+    },
+    {
+      "id": 5512,
+      "label": "clock",
+      "student_name": "Vikash",
+      "student_id": 1682144074318,
+      "point": [
+        0.328,
+        0.26107226107226106
+      ]
+    },
+    {
+      "id": 5513,
+      "label": "car",
+      "student_name": "K",
+      "student_id": 1682177422623,
+      "point": [
+        0.4,
+        0.2937062937062937
+      ]
+    },
+    {
+      "id": 5514,
+      "label": "fish",
+      "student_name": "K",
+      "student_id": 1682177422623,
+      "point": [
+        0.266,
+        0.14918414918414918
+      ]
+    },
+    {
+      "id": 5515,
+      "label": "house",
+      "student_name": "K",
+      "student_id": 1682177422623,
+      "point": [
+        0.27,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 5516,
+      "label": "tree",
+      "student_name": "K",
+      "student_id": 1682177422623,
+      "point": [
+        0.564,
+        0.40093240093240096
+      ]
+    },
+    {
+      "id": 5517,
+      "label": "bicycle",
+      "student_name": "K",
+      "student_id": 1682177422623,
+      "point": [
+        0.502,
+        0.24708624708624707
+      ]
+    },
+    {
+      "id": 5518,
+      "label": "guitar",
+      "student_name": "K",
+      "student_id": 1682177422623,
+      "point": [
+        0.468,
+        0.34265734265734266
+      ]
+    },
+    {
+      "id": 5519,
+      "label": "pencil",
+      "student_name": "K",
+      "student_id": 1682177422623,
+      "point": [
+        0.312,
+        0.4731934731934732
+      ]
+    },
+    {
+      "id": 5520,
+      "label": "clock",
+      "student_name": "K",
+      "student_id": 1682177422623,
+      "point": [
+        0.512,
+        0.4405594405594406
+      ]
+    },
+    {
+      "id": 5521,
+      "label": "car",
+      "student_name": "tom",
+      "student_id": 1682190735013,
+      "point": [
+        0.694,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 5522,
+      "label": "fish",
+      "student_name": "tom",
+      "student_id": 1682190735013,
+      "point": [
+        0.37,
+        0.23543123543123542
+      ]
+    },
+    {
+      "id": 5523,
+      "label": "house",
+      "student_name": "tom",
+      "student_id": 1682190735013,
+      "point": [
+        0.358,
+        0.5011655011655012
+      ]
+    },
+    {
+      "id": 5524,
+      "label": "tree",
+      "student_name": "tom",
+      "student_id": 1682190735013,
+      "point": [
+        0.358,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 5525,
+      "label": "bicycle",
+      "student_name": "tom",
+      "student_id": 1682190735013,
+      "point": [
+        0.522,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 5526,
+      "label": "guitar",
+      "student_name": "tom",
+      "student_id": 1682190735013,
+      "point": [
+        0.654,
+        0.6503496503496503
+      ]
+    },
+    {
+      "id": 5527,
+      "label": "pencil",
+      "student_name": "tom",
+      "student_id": 1682190735013,
+      "point": [
+        0.414,
+        0.5920745920745921
+      ]
+    },
+    {
+      "id": 5528,
+      "label": "clock",
+      "student_name": "tom",
+      "student_id": 1682190735013,
+      "point": [
+        0.664,
+        0.5058275058275058
+      ]
+    },
+    {
+      "id": 5529,
+      "label": "car",
+      "student_name": "Dennis",
+      "student_id": 1682201057998,
+      "point": [
+        0.64,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 5530,
+      "label": "fish",
+      "student_name": "Dennis",
+      "student_id": 1682201057998,
+      "point": [
+        0.584,
+        0.3682983682983683
+      ]
+    },
+    {
+      "id": 5531,
+      "label": "house",
+      "student_name": "Dennis",
+      "student_id": 1682201057998,
+      "point": [
+        0.492,
+        0.7132867132867133
+      ]
+    },
+    {
+      "id": 5532,
+      "label": "tree",
+      "student_name": "Dennis",
+      "student_id": 1682201057998,
+      "point": [
+        0.39,
+        0.5827505827505828
+      ]
+    },
+    {
+      "id": 5533,
+      "label": "bicycle",
+      "student_name": "Dennis",
+      "student_id": 1682201057998,
+      "point": [
+        0.432,
+        0.4382284382284382
+      ]
+    },
+    {
+      "id": 5534,
+      "label": "guitar",
+      "student_name": "Dennis",
+      "student_id": 1682201057998,
+      "point": [
+        0.686,
+        0.6643356643356644
+      ]
+    },
+    {
+      "id": 5535,
+      "label": "pencil",
+      "student_name": "Dennis",
+      "student_id": 1682201057998,
+      "point": [
+        0.61,
+        0.5361305361305362
+      ]
+    },
+    {
+      "id": 5536,
+      "label": "clock",
+      "student_name": "Dennis",
+      "student_id": 1682201057998,
+      "point": [
+        0.53,
+        0.5431235431235432
+      ]
+    },
+    {
+      "id": 5537,
+      "label": "car",
+      "student_name": "mmma",
+      "student_id": 1682255271235,
+      "point": [
+        0.69,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 5538,
+      "label": "fish",
+      "student_name": "mmma",
+      "student_id": 1682255271235,
+      "point": [
+        0.658,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 5539,
+      "label": "house",
+      "student_name": "mmma",
+      "student_id": 1682255271235,
+      "point": [
+        0.674,
+        0.5337995337995338
+      ]
+    },
+    {
+      "id": 5540,
+      "label": "tree",
+      "student_name": "mmma",
+      "student_id": 1682255271235,
+      "point": [
+        0.51,
+        0.5757575757575758
+      ]
+    },
+    {
+      "id": 5541,
+      "label": "bicycle",
+      "student_name": "mmma",
+      "student_id": 1682255271235,
+      "point": [
+        0.522,
+        0.7365967365967366
+      ]
+    },
+    {
+      "id": 5542,
+      "label": "guitar",
+      "student_name": "mmma",
+      "student_id": 1682255271235,
+      "point": [
+        0.576,
+        0.28205128205128205
+      ]
+    },
+    {
+      "id": 5543,
+      "label": "pencil",
+      "student_name": "mmma",
+      "student_id": 1682255271235,
+      "point": [
+        0.634,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 5544,
+      "label": "clock",
+      "student_name": "mmma",
+      "student_id": 1682255271235,
+      "point": [
+        0.434,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 5545,
+      "label": "car",
+      "student_name": "Lord Jason",
+      "student_id": 1682285166830,
+      "point": [
+        0.766,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 5546,
+      "label": "fish",
+      "student_name": "Lord Jason",
+      "student_id": 1682285166830,
+      "point": [
+        0.298,
+        0.15151515151515152
+      ]
+    },
+    {
+      "id": 5547,
+      "label": "house",
+      "student_name": "Lord Jason",
+      "student_id": 1682285166830,
+      "point": [
+        0.76,
+        0.36596736596736595
+      ]
+    },
+    {
+      "id": 5548,
+      "label": "tree",
+      "student_name": "Lord Jason",
+      "student_id": 1682285166830,
+      "point": [
+        0.764,
+        0.6993006993006993
+      ]
+    },
+    {
+      "id": 5549,
+      "label": "bicycle",
+      "student_name": "Lord Jason",
+      "student_id": 1682285166830,
+      "point": [
+        0.29,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 5550,
+      "label": "guitar",
+      "student_name": "Lord Jason",
+      "student_id": 1682285166830,
+      "point": [
+        0.396,
+        0.09090909090909091
+      ]
+    },
+    {
+      "id": 5551,
+      "label": "pencil",
+      "student_name": "Lord Jason",
+      "student_id": 1682285166830,
+      "point": [
+        0.364,
+        0.14918414918414918
+      ]
+    },
+    {
+      "id": 5552,
+      "label": "clock",
+      "student_name": "Lord Jason",
+      "student_id": 1682285166830,
+      "point": [
+        0.346,
+        0.1655011655011655
+      ]
+    },
+    {
+      "id": 5553,
+      "label": "car",
+      "student_name": "angelica",
+      "student_id": 1682294572334,
+      "point": [
+        0.392,
+        0.7132867132867133
+      ]
+    },
+    {
+      "id": 5554,
+      "label": "fish",
+      "student_name": "angelica",
+      "student_id": 1682294572334,
+      "point": [
+        0.316,
+        0.13286713286713286
+      ]
+    },
+    {
+      "id": 5555,
+      "label": "house",
+      "student_name": "angelica",
+      "student_id": 1682294572334,
+      "point": [
+        0.378,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 5556,
+      "label": "tree",
+      "student_name": "angelica",
+      "student_id": 1682294572334,
+      "point": [
+        0.372,
+        0.7319347319347319
+      ]
+    },
+    {
+      "id": 5557,
+      "label": "bicycle",
+      "student_name": "angelica",
+      "student_id": 1682294572334,
+      "point": [
+        0.606,
+        0.3986013986013986
+      ]
+    },
+    {
+      "id": 5558,
+      "label": "guitar",
+      "student_name": "angelica",
+      "student_id": 1682294572334,
+      "point": [
+        0.688,
+        0.627039627039627
+      ]
+    },
+    {
+      "id": 5559,
+      "label": "pencil",
+      "student_name": "angelica",
+      "student_id": 1682294572334,
+      "point": [
+        0.102,
+        0.6363636363636364
+      ]
+    },
+    {
+      "id": 5560,
+      "label": "clock",
+      "student_name": "angelica",
+      "student_id": 1682294572334,
+      "point": [
+        0.574,
+        0.5944055944055944
+      ]
+    },
+    {
+      "id": 5561,
+      "label": "car",
+      "student_name": "sangram",
+      "student_id": 1682340990889,
+      "point": [
+        0.77,
+        0.8508158508158508
+      ]
+    },
+    {
+      "id": 5562,
+      "label": "fish",
+      "student_name": "sangram",
+      "student_id": 1682340990889,
+      "point": [
+        0.522,
+        0.634032634032634
+      ]
+    },
+    {
+      "id": 5563,
+      "label": "house",
+      "student_name": "sangram",
+      "student_id": 1682340990889,
+      "point": [
+        0.736,
+        0.8601398601398601
+      ]
+    },
+    {
+      "id": 5564,
+      "label": "tree",
+      "student_name": "sangram",
+      "student_id": 1682340990889,
+      "point": [
+        0.652,
+        0.752913752913753
+      ]
+    },
+    {
+      "id": 5565,
+      "label": "bicycle",
+      "student_name": "sangram",
+      "student_id": 1682340990889,
+      "point": [
+        0.42,
+        0.317016317016317
+      ]
+    },
+    {
+      "id": 5566,
+      "label": "guitar",
+      "student_name": "sangram",
+      "student_id": 1682340990889,
+      "point": [
+        0.592,
+        0.7482517482517482
+      ]
+    },
+    {
+      "id": 5567,
+      "label": "pencil",
+      "student_name": "sangram",
+      "student_id": 1682340990889,
+      "point": [
+        0.096,
+        0.7972027972027972
+      ]
+    },
+    {
+      "id": 5568,
+      "label": "clock",
+      "student_name": "sangram",
+      "student_id": 1682340990889,
+      "point": [
+        0.294,
+        0.40559440559440557
+      ]
+    },
+    {
+      "id": 5569,
+      "label": "car",
+      "student_name": "ayush",
+      "student_id": 1682362134550,
+      "point": [
+        0.554,
+        0.372960372960373
+      ]
+    },
+    {
+      "id": 5570,
+      "label": "fish",
+      "student_name": "ayush",
+      "student_id": 1682362134550,
+      "point": [
+        0.586,
+        0.46153846153846156
+      ]
+    },
+    {
+      "id": 5571,
+      "label": "house",
+      "student_name": "ayush",
+      "student_id": 1682362134550,
+      "point": [
+        0.612,
+        0.5291375291375291
+      ]
+    },
+    {
+      "id": 5572,
+      "label": "tree",
+      "student_name": "ayush",
+      "student_id": 1682362134550,
+      "point": [
+        0.388,
+        0.5547785547785548
+      ]
+    },
+    {
+      "id": 5573,
+      "label": "bicycle",
+      "student_name": "ayush",
+      "student_id": 1682362134550,
+      "point": [
+        0.46,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 5574,
+      "label": "guitar",
+      "student_name": "ayush",
+      "student_id": 1682362134550,
+      "point": [
+        0.44,
+        0.5571095571095571
+      ]
+    },
+    {
+      "id": 5575,
+      "label": "pencil",
+      "student_name": "ayush",
+      "student_id": 1682362134550,
+      "point": [
+        0.216,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 5576,
+      "label": "clock",
+      "student_name": "ayush",
+      "student_id": 1682362134550,
+      "point": [
+        0.294,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 5577,
+      "label": "car",
+      "student_name": "Nikola",
+      "student_id": 1682372449518,
+      "point": [
+        0.604,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 5578,
+      "label": "fish",
+      "student_name": "Nikola",
+      "student_id": 1682372449518,
+      "point": [
+        0.672,
+        0.34032634032634035
+      ]
+    },
+    {
+      "id": 5579,
+      "label": "house",
+      "student_name": "Nikola",
+      "student_id": 1682372449518,
+      "point": [
+        0.736,
+        0.8624708624708625
+      ]
+    },
+    {
+      "id": 5580,
+      "label": "tree",
+      "student_name": "Nikola",
+      "student_id": 1682372449518,
+      "point": [
+        0.622,
+        0.9207459207459208
+      ]
+    },
+    {
+      "id": 5581,
+      "label": "bicycle",
+      "student_name": "Nikola",
+      "student_id": 1682372449518,
+      "point": [
+        0.6,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 5582,
+      "label": "guitar",
+      "student_name": "Nikola",
+      "student_id": 1682372449518,
+      "point": [
+        0.674,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 5583,
+      "label": "pencil",
+      "student_name": "Nikola",
+      "student_id": 1682372449518,
+      "point": [
+        0.06,
+        0.7062937062937062
+      ]
+    },
+    {
+      "id": 5584,
+      "label": "clock",
+      "student_name": "Nikola",
+      "student_id": 1682372449518,
+      "point": [
+        0.476,
+        0.6853146853146853
+      ]
+    },
+    {
+      "id": 5585,
+      "label": "car",
+      "student_name": "Pi",
+      "student_id": 1682439896876,
+      "point": [
+        0.57,
+        0.5710955710955711
+      ]
+    },
+    {
+      "id": 5586,
+      "label": "fish",
+      "student_name": "Pi",
+      "student_id": 1682439896876,
+      "point": [
+        0.32,
+        0.7132867132867133
+      ]
+    },
+    {
+      "id": 5587,
+      "label": "house",
+      "student_name": "Pi",
+      "student_id": 1682439896876,
+      "point": [
+        0.5,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 5588,
+      "label": "tree",
+      "student_name": "Pi",
+      "student_id": 1682439896876,
+      "point": [
+        0.442,
+        0.36363636363636365
+      ]
+    },
+    {
+      "id": 5589,
+      "label": "bicycle",
+      "student_name": "Pi",
+      "student_id": 1682439896876,
+      "point": [
+        -0.018,
+        0.2634032634032634
+      ]
+    },
+    {
+      "id": 5590,
+      "label": "guitar",
+      "student_name": "Pi",
+      "student_id": 1682439896876,
+      "point": [
+        0.486,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 5591,
+      "label": "pencil",
+      "student_name": "Pi",
+      "student_id": 1682439896876,
+      "point": [
+        0.53,
+        0.6643356643356644
+      ]
+    },
+    {
+      "id": 5592,
+      "label": "clock",
+      "student_name": "Pi",
+      "student_id": 1682439896876,
+      "point": [
+        0.328,
+        0.4219114219114219
+      ]
+    },
+    {
+      "id": 5593,
+      "label": "car",
+      "student_name": "6",
+      "student_id": 1682502255196,
+      "point": [
+        0.644,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 5594,
+      "label": "fish",
+      "student_name": "6",
+      "student_id": 1682502255196,
+      "point": [
+        0.584,
+        0.5734265734265734
+      ]
+    },
+    {
+      "id": 5595,
+      "label": "house",
+      "student_name": "6",
+      "student_id": 1682502255196,
+      "point": [
+        0.408,
+        0.6247086247086248
+      ]
+    },
+    {
+      "id": 5596,
+      "label": "tree",
+      "student_name": "6",
+      "student_id": 1682502255196,
+      "point": [
+        0.338,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 5597,
+      "label": "bicycle",
+      "student_name": "6",
+      "student_id": 1682502255196,
+      "point": [
+        0.564,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 5598,
+      "label": "guitar",
+      "student_name": "6",
+      "student_id": 1682502255196,
+      "point": [
+        0.334,
+        0.6573426573426573
+      ]
+    },
+    {
+      "id": 5599,
+      "label": "pencil",
+      "student_name": "6",
+      "student_id": 1682502255196,
+      "point": [
+        0.124,
+        0.5011655011655012
+      ]
+    },
+    {
+      "id": 5600,
+      "label": "clock",
+      "student_name": "6",
+      "student_id": 1682502255196,
+      "point": [
+        0.502,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 5601,
+      "label": "car",
+      "student_name": "Julia",
+      "student_id": 1682682440905,
+      "point": [
+        0.696,
+        0.289044289044289
+      ]
+    },
+    {
+      "id": 5602,
+      "label": "fish",
+      "student_name": "Julia",
+      "student_id": 1682682440905,
+      "point": [
+        0.502,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 5603,
+      "label": "house",
+      "student_name": "Julia",
+      "student_id": 1682682440905,
+      "point": [
+        0.294,
+        0.5058275058275058
+      ]
+    },
+    {
+      "id": 5604,
+      "label": "tree",
+      "student_name": "Julia",
+      "student_id": 1682682440905,
+      "point": [
+        0.44,
+        0.6783216783216783
+      ]
+    },
+    {
+      "id": 5605,
+      "label": "bicycle",
+      "student_name": "Julia",
+      "student_id": 1682682440905,
+      "point": [
+        0.392,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 5606,
+      "label": "guitar",
+      "student_name": "Julia",
+      "student_id": 1682682440905,
+      "point": [
+        0.4,
+        0.6853146853146853
+      ]
+    },
+    {
+      "id": 5607,
+      "label": "pencil",
+      "student_name": "Julia",
+      "student_id": 1682682440905,
+      "point": [
+        0.28,
+        0.5944055944055944
+      ]
+    },
+    {
+      "id": 5608,
+      "label": "clock",
+      "student_name": "Julia",
+      "student_id": 1682682440905,
+      "point": [
+        0.37,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 5609,
+      "label": "car",
+      "student_name": "bart",
+      "student_id": 1682707590880,
+      "point": [
+        0.304,
+        0.17249417249417248
+      ]
+    },
+    {
+      "id": 5610,
+      "label": "fish",
+      "student_name": "bart",
+      "student_id": 1682707590880,
+      "point": [
+        0.326,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 5611,
+      "label": "house",
+      "student_name": "bart",
+      "student_id": 1682707590880,
+      "point": [
+        0.196,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 5612,
+      "label": "tree",
+      "student_name": "bart",
+      "student_id": 1682707590880,
+      "point": [
+        0.346,
+        0.4801864801864802
+      ]
+    },
+    {
+      "id": 5613,
+      "label": "bicycle",
+      "student_name": "bart",
+      "student_id": 1682707590880,
+      "point": [
+        0.37,
+        0.34265734265734266
+      ]
+    },
+    {
+      "id": 5614,
+      "label": "guitar",
+      "student_name": "bart",
+      "student_id": 1682707590880,
+      "point": [
+        0.246,
+        0.5594405594405595
+      ]
+    },
+    {
+      "id": 5615,
+      "label": "pencil",
+      "student_name": "bart",
+      "student_id": 1682707590880,
+      "point": [
+        0.234,
+        0
+      ]
+    },
+    {
+      "id": 5616,
+      "label": "clock",
+      "student_name": "bart",
+      "student_id": 1682707590880,
+      "point": [
+        0.272,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 5617,
+      "label": "car",
+      "student_name": "John",
+      "student_id": 1682758336142,
+      "point": [
+        0.608,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 5618,
+      "label": "fish",
+      "student_name": "John",
+      "student_id": 1682758336142,
+      "point": [
+        0.558,
+        0.1585081585081585
+      ]
+    },
+    {
+      "id": 5619,
+      "label": "house",
+      "student_name": "John",
+      "student_id": 1682758336142,
+      "point": [
+        0.472,
+        0.7365967365967366
+      ]
+    },
+    {
+      "id": 5620,
+      "label": "tree",
+      "student_name": "John",
+      "student_id": 1682758336142,
+      "point": [
+        0.514,
+        0.7202797202797203
+      ]
+    },
+    {
+      "id": 5621,
+      "label": "bicycle",
+      "student_name": "John",
+      "student_id": 1682758336142,
+      "point": [
+        0.688,
+        0.5221445221445221
+      ]
+    },
+    {
+      "id": 5622,
+      "label": "guitar",
+      "student_name": "John",
+      "student_id": 1682758336142,
+      "point": [
+        0.45,
+        0.6876456876456877
+      ]
+    },
+    {
+      "id": 5623,
+      "label": "pencil",
+      "student_name": "John",
+      "student_id": 1682758336142,
+      "point": [
+        0.512,
+        0.7972027972027972
+      ]
+    },
+    {
+      "id": 5624,
+      "label": "clock",
+      "student_name": "John",
+      "student_id": 1682758336142,
+      "point": [
+        0.454,
+        0.48717948717948717
+      ]
+    },
+    {
+      "id": 5625,
+      "label": "car",
+      "student_name": "fx",
+      "student_id": 1682805893749,
+      "point": [
+        0.654,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 5626,
+      "label": "fish",
+      "student_name": "fx",
+      "student_id": 1682805893749,
+      "point": [
+        0.686,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 5627,
+      "label": "house",
+      "student_name": "fx",
+      "student_id": 1682805893749,
+      "point": [
+        0.646,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 5628,
+      "label": "tree",
+      "student_name": "fx",
+      "student_id": 1682805893749,
+      "point": [
+        0.556,
+        0.42657342657342656
+      ]
+    },
+    {
+      "id": 5629,
+      "label": "bicycle",
+      "student_name": "fx",
+      "student_id": 1682805893749,
+      "point": [
+        0.652,
+        0.7925407925407926
+      ]
+    },
+    {
+      "id": 5630,
+      "label": "guitar",
+      "student_name": "fx",
+      "student_id": 1682805893749,
+      "point": [
+        0.546,
+        0.1794871794871795
+      ]
+    },
+    {
+      "id": 5631,
+      "label": "pencil",
+      "student_name": "fx",
+      "student_id": 1682805893749,
+      "point": [
+        0.548,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 5632,
+      "label": "clock",
+      "student_name": "fx",
+      "student_id": 1682805893749,
+      "point": [
+        0.388,
+        0.6130536130536131
+      ]
+    },
+    {
+      "id": 5633,
+      "label": "car",
+      "student_name": "nature language model",
+      "student_id": 1682823215835,
+      "point": [
+        0.554,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 5634,
+      "label": "fish",
+      "student_name": "nature language model",
+      "student_id": 1682823215835,
+      "point": [
+        0.69,
+        0.3986013986013986
+      ]
+    },
+    {
+      "id": 5635,
+      "label": "house",
+      "student_name": "nature language model",
+      "student_id": 1682823215835,
+      "point": [
+        0.444,
+        0.6410256410256411
+      ]
+    },
+    {
+      "id": 5636,
+      "label": "tree",
+      "student_name": "nature language model",
+      "student_id": 1682823215835,
+      "point": [
+        0.676,
+        0.6876456876456877
+      ]
+    },
+    {
+      "id": 5637,
+      "label": "bicycle",
+      "student_name": "nature language model",
+      "student_id": 1682823215835,
+      "point": [
+        0.566,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 5638,
+      "label": "guitar",
+      "student_name": "nature language model",
+      "student_id": 1682823215835,
+      "point": [
+        0.708,
+        0.5128205128205128
+      ]
+    },
+    {
+      "id": 5639,
+      "label": "pencil",
+      "student_name": "nature language model",
+      "student_id": 1682823215835,
+      "point": [
+        0.504,
+        0.36596736596736595
+      ]
+    },
+    {
+      "id": 5640,
+      "label": "clock",
+      "student_name": "nature language model",
+      "student_id": 1682823215835,
+      "point": [
+        0.444,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 5641,
+      "label": "car",
+      "student_name": "Alexandre Castro",
+      "student_id": 1682923794153,
+      "point": [
+        0.468,
+        0.17249417249417248
+      ]
+    },
+    {
+      "id": 5642,
+      "label": "fish",
+      "student_name": "Alexandre Castro",
+      "student_id": 1682923794153,
+      "point": [
+        0.354,
+        0.10023310023310024
+      ]
+    },
+    {
+      "id": 5643,
+      "label": "house",
+      "student_name": "Alexandre Castro",
+      "student_id": 1682923794153,
+      "point": [
+        0.266,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 5644,
+      "label": "tree",
+      "student_name": "Alexandre Castro",
+      "student_id": 1682923794153,
+      "point": [
+        0.186,
+        0.4382284382284382
+      ]
+    },
+    {
+      "id": 5645,
+      "label": "bicycle",
+      "student_name": "Alexandre Castro",
+      "student_id": 1682923794153,
+      "point": [
+        0.276,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 5646,
+      "label": "guitar",
+      "student_name": "Alexandre Castro",
+      "student_id": 1682923794153,
+      "point": [
+        0.438,
+        0.3333333333333333
+      ]
+    },
+    {
+      "id": 5647,
+      "label": "pencil",
+      "student_name": "Alexandre Castro",
+      "student_id": 1682923794153,
+      "point": [
+        0.292,
+        0.40093240093240096
+      ]
+    },
+    {
+      "id": 5648,
+      "label": "clock",
+      "student_name": "Alexandre Castro",
+      "student_id": 1682923794153,
+      "point": [
+        0.24,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 5649,
+      "label": "car",
+      "student_name": "Aman",
+      "student_id": 1682948558352,
+      "point": [
+        0.426,
+        0.21212121212121213
+      ]
+    },
+    {
+      "id": 5650,
+      "label": "fish",
+      "student_name": "Aman",
+      "student_id": 1682948558352,
+      "point": [
+        0.322,
+        0.12354312354312354
+      ]
+    },
+    {
+      "id": 5651,
+      "label": "house",
+      "student_name": "Aman",
+      "student_id": 1682948558352,
+      "point": [
+        0.198,
+        0.2540792540792541
+      ]
+    },
+    {
+      "id": 5652,
+      "label": "tree",
+      "student_name": "Aman",
+      "student_id": 1682948558352,
+      "point": [
+        0.29,
+        0.358974358974359
+      ]
+    },
+    {
+      "id": 5653,
+      "label": "bicycle",
+      "student_name": "Aman",
+      "student_id": 1682948558352,
+      "point": [
+        0.438,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 5654,
+      "label": "guitar",
+      "student_name": "Aman",
+      "student_id": 1682948558352,
+      "point": [
+        0.254,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 5655,
+      "label": "pencil",
+      "student_name": "Aman",
+      "student_id": 1682948558352,
+      "point": [
+        0.158,
+        0.17016317016317017
+      ]
+    },
+    {
+      "id": 5656,
+      "label": "clock",
+      "student_name": "Aman",
+      "student_id": 1682948558352,
+      "point": [
+        0.26,
+        0.28438228438228436
+      ]
+    },
+    {
+      "id": 5657,
+      "label": "car",
+      "student_name": "jvh",
+      "student_id": 1682992078234,
+      "point": [
+        0.486,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 5658,
+      "label": "fish",
+      "student_name": "jvh",
+      "student_id": 1682992078234,
+      "point": [
+        0.364,
+        0.23543123543123542
+      ]
+    },
+    {
+      "id": 5659,
+      "label": "house",
+      "student_name": "jvh",
+      "student_id": 1682992078234,
+      "point": [
+        0.276,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 5660,
+      "label": "tree",
+      "student_name": "jvh",
+      "student_id": 1682992078234,
+      "point": [
+        0.328,
+        0.696969696969697
+      ]
+    },
+    {
+      "id": 5661,
+      "label": "bicycle",
+      "student_name": "jvh",
+      "student_id": 1682992078234,
+      "point": [
+        0.586,
+        0.5827505827505828
+      ]
+    },
+    {
+      "id": 5662,
+      "label": "guitar",
+      "student_name": "jvh",
+      "student_id": 1682992078234,
+      "point": [
+        0.476,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 5663,
+      "label": "pencil",
+      "student_name": "jvh",
+      "student_id": 1682992078234,
+      "point": [
+        0.1,
+        0.42657342657342656
+      ]
+    },
+    {
+      "id": 5664,
+      "label": "clock",
+      "student_name": "jvh",
+      "student_id": 1682992078234,
+      "point": [
+        0.252,
+        0.5081585081585082
+      ]
+    },
+    {
+      "id": 5665,
+      "label": "car",
+      "student_name": "Mustafa from Turkey",
+      "student_id": 1683030839209,
+      "point": [
+        0.492,
+        0.17249417249417248
+      ]
+    },
+    {
+      "id": 5666,
+      "label": "fish",
+      "student_name": "Mustafa from Turkey",
+      "student_id": 1683030839209,
+      "point": [
+        0.498,
+        0.2097902097902098
+      ]
+    },
+    {
+      "id": 5667,
+      "label": "house",
+      "student_name": "Mustafa from Turkey",
+      "student_id": 1683030839209,
+      "point": [
+        0.416,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 5668,
+      "label": "tree",
+      "student_name": "Mustafa from Turkey",
+      "student_id": 1683030839209,
+      "point": [
+        0.496,
+        0.6410256410256411
+      ]
+    },
+    {
+      "id": 5669,
+      "label": "bicycle",
+      "student_name": "Mustafa from Turkey",
+      "student_id": 1683030839209,
+      "point": [
+        0.48,
+        0.4382284382284382
+      ]
+    },
+    {
+      "id": 5670,
+      "label": "guitar",
+      "student_name": "Mustafa from Turkey",
+      "student_id": 1683030839209,
+      "point": [
+        0.49,
+        0.655011655011655
+      ]
+    },
+    {
+      "id": 5671,
+      "label": "pencil",
+      "student_name": "Mustafa from Turkey",
+      "student_id": 1683030839209,
+      "point": [
+        0.35,
+        0.002331002331002331
+      ]
+    },
+    {
+      "id": 5672,
+      "label": "clock",
+      "student_name": "Mustafa from Turkey",
+      "student_id": 1683030839209,
+      "point": [
+        0.44,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 5673,
+      "label": "car",
+      "student_name": "kubra",
+      "student_id": 1683107140964,
+      "point": [
+        0.494,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 5674,
+      "label": "fish",
+      "student_name": "kubra",
+      "student_id": 1683107140964,
+      "point": [
+        0.438,
+        0.3006993006993007
+      ]
+    },
+    {
+      "id": 5675,
+      "label": "house",
+      "student_name": "kubra",
+      "student_id": 1683107140964,
+      "point": [
+        0.57,
+        0.7016317016317016
+      ]
+    },
+    {
+      "id": 5676,
+      "label": "tree",
+      "student_name": "kubra",
+      "student_id": 1683107140964,
+      "point": [
+        0.28,
+        0.5431235431235432
+      ]
+    },
+    {
+      "id": 5677,
+      "label": "bicycle",
+      "student_name": "kubra",
+      "student_id": 1683107140964,
+      "point": [
+        0.492,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 5678,
+      "label": "guitar",
+      "student_name": "kubra",
+      "student_id": 1683107140964,
+      "point": [
+        0.546,
+        0.28205128205128205
+      ]
+    },
+    {
+      "id": 5679,
+      "label": "pencil",
+      "student_name": "kubra",
+      "student_id": 1683107140964,
+      "point": [
+        0.206,
+        0.4405594405594406
+      ]
+    },
+    {
+      "id": 5680,
+      "label": "clock",
+      "student_name": "kubra",
+      "student_id": 1683107140964,
+      "point": [
+        0.378,
+        0.43356643356643354
+      ]
+    },
+    {
+      "id": 5681,
+      "label": "car",
+      "student_name": "Viz",
+      "student_id": 1683142546551,
+      "point": [
+        0.354,
+        0.289044289044289
+      ]
+    },
+    {
+      "id": 5682,
+      "label": "fish",
+      "student_name": "Viz",
+      "student_id": 1683142546551,
+      "point": [
+        0.5,
+        0.14685314685314685
+      ]
+    },
+    {
+      "id": 5683,
+      "label": "house",
+      "student_name": "Viz",
+      "student_id": 1683142546551,
+      "point": [
+        0.288,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 5684,
+      "label": "tree",
+      "student_name": "Viz",
+      "student_id": 1683142546551,
+      "point": [
+        0.586,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 5685,
+      "label": "bicycle",
+      "student_name": "Viz",
+      "student_id": 1683142546551,
+      "point": [
+        0.582,
+        0.4195804195804196
+      ]
+    },
+    {
+      "id": 5686,
+      "label": "guitar",
+      "student_name": "Viz",
+      "student_id": 1683142546551,
+      "point": [
+        0.202,
+        0.5081585081585082
+      ]
+    },
+    {
+      "id": 5687,
+      "label": "pencil",
+      "student_name": "Viz",
+      "student_id": 1683142546551,
+      "point": [
+        0.398,
+        0.04195804195804196
+      ]
+    },
+    {
+      "id": 5688,
+      "label": "clock",
+      "student_name": "Viz",
+      "student_id": 1683142546551,
+      "point": [
+        0.482,
+        0.2261072261072261
+      ]
+    },
+    {
+      "id": 5689,
+      "label": "car",
+      "student_name": "Geni",
+      "student_id": 1683396875980,
+      "point": [
+        0.526,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 5690,
+      "label": "fish",
+      "student_name": "Geni",
+      "student_id": 1683396875980,
+      "point": [
+        0.24,
+        0.5384615384615384
+      ]
+    },
+    {
+      "id": 5691,
+      "label": "house",
+      "student_name": "Geni",
+      "student_id": 1683396875980,
+      "point": [
+        0.428,
+        0.717948717948718
+      ]
+    },
+    {
+      "id": 5692,
+      "label": "tree",
+      "student_name": "Geni",
+      "student_id": 1683396875980,
+      "point": [
+        0.482,
+        0.7272727272727273
+      ]
+    },
+    {
+      "id": 5693,
+      "label": "bicycle",
+      "student_name": "Geni",
+      "student_id": 1683396875980,
+      "point": [
+        0.462,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 5694,
+      "label": "guitar",
+      "student_name": "Geni",
+      "student_id": 1683396875980,
+      "point": [
+        0.314,
+        0.6060606060606061
+      ]
+    },
+    {
+      "id": 5695,
+      "label": "pencil",
+      "student_name": "Geni",
+      "student_id": 1683396875980,
+      "point": [
+        0.128,
+        0.5920745920745921
+      ]
+    },
+    {
+      "id": 5696,
+      "label": "clock",
+      "student_name": "Geni",
+      "student_id": 1683396875980,
+      "point": [
+        0.55,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 5697,
+      "label": "car",
+      "student_name": "Shifaz",
+      "student_id": 1683513404100,
+      "point": [
+        0.47,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 5698,
+      "label": "fish",
+      "student_name": "Shifaz",
+      "student_id": 1683513404100,
+      "point": [
+        0.392,
+        0.1888111888111888
+      ]
+    },
+    {
+      "id": 5699,
+      "label": "house",
+      "student_name": "Shifaz",
+      "student_id": 1683513404100,
+      "point": [
+        0.462,
+        0.36363636363636365
+      ]
+    },
+    {
+      "id": 5700,
+      "label": "tree",
+      "student_name": "Shifaz",
+      "student_id": 1683513404100,
+      "point": [
+        0.212,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 5701,
+      "label": "bicycle",
+      "student_name": "Shifaz",
+      "student_id": 1683513404100,
+      "point": [
+        0.364,
+        0.2937062937062937
+      ]
+    },
+    {
+      "id": 5702,
+      "label": "guitar",
+      "student_name": "Shifaz",
+      "student_id": 1683513404100,
+      "point": [
+        0.44,
+        0.5594405594405595
+      ]
+    },
+    {
+      "id": 5703,
+      "label": "pencil",
+      "student_name": "Shifaz",
+      "student_id": 1683513404100,
+      "point": [
+        0.326,
+        0.29836829836829837
+      ]
+    },
+    {
+      "id": 5704,
+      "label": "clock",
+      "student_name": "Shifaz",
+      "student_id": 1683513404100,
+      "point": [
+        0.198,
+        0.20046620046620048
+      ]
+    },
+    {
+      "id": 5705,
+      "label": "car",
+      "student_name": "Sulky",
+      "student_id": 1683706531975,
+      "point": [
+        0.652,
+        0.48484848484848486
+      ]
+    },
+    {
+      "id": 5706,
+      "label": "fish",
+      "student_name": "Sulky",
+      "student_id": 1683706531975,
+      "point": [
+        0.358,
+        0.1655011655011655
+      ]
+    },
+    {
+      "id": 5707,
+      "label": "house",
+      "student_name": "Sulky",
+      "student_id": 1683706531975,
+      "point": [
+        0.55,
+        0.6899766899766899
+      ]
+    },
+    {
+      "id": 5708,
+      "label": "tree",
+      "student_name": "Sulky",
+      "student_id": 1683706531975,
+      "point": [
+        0.758,
+        0.8065268065268065
+      ]
+    },
+    {
+      "id": 5709,
+      "label": "bicycle",
+      "student_name": "Sulky",
+      "student_id": 1683706531975,
+      "point": [
+        0.562,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 5710,
+      "label": "guitar",
+      "student_name": "Sulky",
+      "student_id": 1683706531975,
+      "point": [
+        0.544,
+        0.4825174825174825
+      ]
+    },
+    {
+      "id": 5711,
+      "label": "pencil",
+      "student_name": "Sulky",
+      "student_id": 1683706531975,
+      "point": [
+        0.266,
+        0.34265734265734266
+      ]
+    },
+    {
+      "id": 5712,
+      "label": "clock",
+      "student_name": "Sulky",
+      "student_id": 1683706531975,
+      "point": [
+        0.342,
+        0.3356643356643357
+      ]
+    },
+    {
+      "id": 5713,
+      "label": "car",
+      "student_name": "Ninja Coder Tech",
+      "student_id": 1683889229319,
+      "point": [
+        0.484,
+        0.17249417249417248
+      ]
+    },
+    {
+      "id": 5714,
+      "label": "fish",
+      "student_name": "Ninja Coder Tech",
+      "student_id": 1683889229319,
+      "point": [
+        0.63,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 5715,
+      "label": "house",
+      "student_name": "Ninja Coder Tech",
+      "student_id": 1683889229319,
+      "point": [
+        0.304,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 5716,
+      "label": "tree",
+      "student_name": "Ninja Coder Tech",
+      "student_id": 1683889229319,
+      "point": [
+        0.266,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 5717,
+      "label": "bicycle",
+      "student_name": "Ninja Coder Tech",
+      "student_id": 1683889229319,
+      "point": [
+        0.408,
+        0.358974358974359
+      ]
+    },
+    {
+      "id": 5718,
+      "label": "guitar",
+      "student_name": "Ninja Coder Tech",
+      "student_id": 1683889229319,
+      "point": [
+        0.224,
+        0.682983682983683
+      ]
+    },
+    {
+      "id": 5719,
+      "label": "pencil",
+      "student_name": "Ninja Coder Tech",
+      "student_id": 1683889229319,
+      "point": [
+        0.022,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 5720,
+      "label": "clock",
+      "student_name": "Ninja Coder Tech",
+      "student_id": 1683889229319,
+      "point": [
+        0.412,
+        0.47785547785547783
+      ]
+    },
+    {
+      "id": 5721,
+      "label": "car",
+      "student_name": "Colab",
+      "student_id": 1683989263130,
+      "point": [
+        0.544,
+        0.22144522144522144
+      ]
+    },
+    {
+      "id": 5722,
+      "label": "fish",
+      "student_name": "Colab",
+      "student_id": 1683989263130,
+      "point": [
+        0.532,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 5723,
+      "label": "house",
+      "student_name": "Colab",
+      "student_id": 1683989263130,
+      "point": [
+        0.386,
+        0.5687645687645687
+      ]
+    },
+    {
+      "id": 5724,
+      "label": "tree",
+      "student_name": "Colab",
+      "student_id": 1683989263130,
+      "point": [
+        0.406,
+        0.6806526806526807
+      ]
+    },
+    {
+      "id": 5725,
+      "label": "bicycle",
+      "student_name": "Colab",
+      "student_id": 1683989263130,
+      "point": [
+        0.496,
+        0.41025641025641024
+      ]
+    },
+    {
+      "id": 5726,
+      "label": "guitar",
+      "student_name": "Colab",
+      "student_id": 1683989263130,
+      "point": [
+        0.534,
+        0.5990675990675991
+      ]
+    },
+    {
+      "id": 5727,
+      "label": "pencil",
+      "student_name": "Colab",
+      "student_id": 1683989263130,
+      "point": [
+        0.584,
+        0.6153846153846154
+      ]
+    },
+    {
+      "id": 5728,
+      "label": "clock",
+      "student_name": "Colab",
+      "student_id": 1683989263130,
+      "point": [
+        0.352,
+        0.43356643356643354
       ]
     }
   ]

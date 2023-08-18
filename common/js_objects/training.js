@@ -11,7 +11,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.19114219114219114
       ]
     },
@@ -21,7 +21,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.11188811188811189
       ]
     },
@@ -31,7 +31,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        0.363013698630137,
+        0.318,
         0.3356643356643357
       ]
     },
@@ -41,7 +41,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        0.3378995433789954,
+        0.296,
         0.5827505827505828
       ]
     },
@@ -51,7 +51,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.27505827505827507
       ]
     },
@@ -61,7 +61,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.4568764568764569
       ]
     },
@@ -71,7 +71,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        0.18493150684931506,
+        0.162,
         0.5734265734265734
       ]
     },
@@ -81,7 +81,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663053145814,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.46153846153846156
       ]
     },
@@ -91,7 +91,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.21445221445221446
       ]
     },
@@ -101,7 +101,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        0.4360730593607306,
+        0.382,
         0.1258741258741259
       ]
     },
@@ -111,7 +111,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        0.410958904109589,
+        0.36,
         0.3613053613053613
       ]
     },
@@ -121,7 +121,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        0.5,
+        0.438,
         0.627039627039627
       ]
     },
@@ -131,7 +131,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        0.5273972602739726,
+        0.462,
         0.2867132867132867
       ]
     },
@@ -141,7 +141,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.49184149184149184
       ]
     },
@@ -151,7 +151,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        0.3698630136986301,
+        0.324,
         0.4662004662004662
       ]
     },
@@ -161,7 +161,7 @@ const training =
       "student_name": "Radu",
       "student_id": 1663307917621,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.4219114219114219
       ]
     },
@@ -171,7 +171,7 @@ const training =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        0.545662100456621,
+        0.478,
         0.26107226107226106
       ]
     },
@@ -181,7 +181,7 @@ const training =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        0.3287671232876712,
+        0.288,
         0.13053613053613053
       ]
     },
@@ -191,7 +191,7 @@ const training =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.3822843822843823
       ]
     },
@@ -201,7 +201,7 @@ const training =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.682983682983683
       ]
     },
@@ -211,7 +211,7 @@ const training =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        0.3287671232876712,
+        0.288,
         0.2727272727272727
       ]
     },
@@ -221,7 +221,7 @@ const training =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        0.17579908675799086,
+        0.154,
         0.4358974358974359
       ]
     },
@@ -231,7 +231,7 @@ const training =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        0.0410958904109589,
+        0.036,
         0.5058275058275058
       ]
     },
@@ -241,7 +241,7 @@ const training =
       "student_name": "Yasin",
       "student_id": 1663855255706,
       "point": [
-        0.2534246575342466,
+        0.222,
         0.2494172494172494
       ]
     },
@@ -251,7 +251,7 @@ const training =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.2867132867132867
       ]
     },
@@ -261,7 +261,7 @@ const training =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.17016317016317017
       ]
     },
@@ -271,7 +271,7 @@ const training =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.5524475524475524
       ]
     },
@@ -281,7 +281,7 @@ const training =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.5268065268065268
       ]
     },
@@ -291,7 +291,7 @@ const training =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        0.5,
+        0.438,
         0.35664335664335667
       ]
     },
@@ -301,7 +301,7 @@ const training =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.2400932400932401
       ]
     },
@@ -311,7 +311,7 @@ const training =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        0.0502283105022831,
+        0.044,
         0.26107226107226106
       ]
     },
@@ -321,7 +321,7 @@ const training =
       "student_name": "Biongar",
       "student_id": 1663855324959,
       "point": [
-        0.769406392694064,
+        0.674,
         0.752913752913753
       ]
     },
@@ -331,7 +331,7 @@ const training =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.35664335664335667
       ]
     },
@@ -341,7 +341,7 @@ const training =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        0.3881278538812785,
+        0.34,
         0.19347319347319347
       ]
     },
@@ -351,7 +351,7 @@ const training =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.5757575757575758
       ]
     },
@@ -361,7 +361,7 @@ const training =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        0.6689497716894978,
+        0.586,
         0.6503496503496503
       ]
     },
@@ -371,7 +371,7 @@ const training =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        0.3744292237442922,
+        0.328,
         0.22843822843822845
       ]
     },
@@ -381,7 +381,7 @@ const training =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        0.2328767123287671,
+        0.204,
         0.6643356643356644
       ]
     },
@@ -391,7 +391,7 @@ const training =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        0.0639269406392694,
+        0.056,
         0.6876456876456877
       ]
     },
@@ -401,7 +401,7 @@ const training =
       "student_name": "Jam Bandit",
       "student_id": 1663855328187,
       "point": [
-        0.7511415525114156,
+        0.658,
         0.682983682983683
       ]
     },
@@ -411,7 +411,7 @@ const training =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        0.3881278538812785,
+        0.34,
         0.13053613053613053
       ]
     },
@@ -421,7 +421,7 @@ const training =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.15151515151515152
       ]
     },
@@ -431,7 +431,7 @@ const training =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        0.723744292237443,
+        0.634,
         0.5757575757575758
       ]
     },
@@ -441,7 +441,7 @@ const training =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.7599067599067599
       ]
     },
@@ -451,7 +451,7 @@ const training =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        0.454337899543379,
+        0.398,
         0.289044289044289
       ]
     },
@@ -461,7 +461,7 @@ const training =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        0.3036529680365297,
+        0.266,
         0.8344988344988346
       ]
     },
@@ -471,7 +471,7 @@ const training =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        0.6438356164383562,
+        0.564,
         0.009324009324009324
       ]
     },
@@ -481,7 +481,7 @@ const training =
       "student_name": "Jackferson",
       "student_id": 1663855329877,
       "point": [
-        0.5844748858447488,
+        0.512,
         0.5710955710955711
       ]
     },
@@ -491,7 +491,7 @@ const training =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        0.6712328767123288,
+        0.588,
         0.29836829836829837
       ]
     },
@@ -501,7 +501,7 @@ const training =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.37995337995337997
       ]
     },
@@ -511,7 +511,7 @@ const training =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        0.6643835616438356,
+        0.582,
         0.7132867132867133
       ]
     },
@@ -521,7 +521,7 @@ const training =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        0.639269406392694,
+        0.56,
         0.8834498834498834
       ]
     },
@@ -531,7 +531,7 @@ const training =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.47086247086247085
       ]
     },
@@ -541,7 +541,7 @@ const training =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.5967365967365967
       ]
     },
@@ -551,7 +551,7 @@ const training =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.6713286713286714
       ]
     },
@@ -561,7 +561,7 @@ const training =
       "student_name": "Beau",
       "student_id": 1663855369903,
       "point": [
-        0.4885844748858447,
+        0.428,
         0.4965034965034965
       ]
     },
@@ -571,7 +571,7 @@ const training =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        0.7077625570776256,
+        0.62,
         0.3006993006993007
       ]
     },
@@ -581,7 +581,7 @@ const training =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        0.3767123287671233,
+        0.33,
         0.21678321678321677
       ]
     },
@@ -591,7 +591,7 @@ const training =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        0.2922374429223744,
+        0.256,
         0.5477855477855478
       ]
     },
@@ -601,7 +601,7 @@ const training =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        0.363013698630137,
+        0.318,
         0.5058275058275058
       ]
     },
@@ -611,7 +611,7 @@ const training =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        0.3447488584474886,
+        0.302,
         0.2517482517482518
       ]
     },
@@ -621,7 +621,7 @@ const training =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        0.3150684931506849,
+        0.276,
         0.6223776223776224
       ]
     },
@@ -631,7 +631,7 @@ const training =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        0.2694063926940639,
+        0.236,
         0.5990675990675991
       ]
     },
@@ -641,7 +641,7 @@ const training =
       "student_name": "Martin Ahumada",
       "student_id": 1663855398913,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.4289044289044289
       ]
     },
@@ -651,7 +651,7 @@ const training =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        0.7374429223744292,
+        0.646,
         0.4289044289044289
       ]
     },
@@ -661,7 +661,7 @@ const training =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        0.3264840182648402,
+        0.286,
         0.5384615384615384
       ]
     },
@@ -671,7 +671,7 @@ const training =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.5501165501165501
       ]
     },
@@ -681,7 +681,7 @@ const training =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.6107226107226107
       ]
     },
@@ -691,7 +691,7 @@ const training =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.16783216783216784
       ]
     },
@@ -701,7 +701,7 @@ const training =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        0.3378995433789954,
+        0.296,
         0.5990675990675991
       ]
     },
@@ -711,7 +711,7 @@ const training =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        0.1461187214611872,
+        0.128,
         0.5547785547785548
       ]
     },
@@ -721,7 +721,7 @@ const training =
       "student_name": "Dipesh ",
       "student_id": 1663855413275,
       "point": [
-        0.2899543378995434,
+        0.254,
         0.34965034965034963
       ]
     },
@@ -731,7 +731,7 @@ const training =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.17249417249417248
       ]
     },
@@ -741,7 +741,7 @@ const training =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        0.1780821917808219,
+        0.156,
         0.07226107226107226
       ]
     },
@@ -751,7 +751,7 @@ const training =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        0.2831050228310502,
+        0.248,
         0.27505827505827507
       ]
     },
@@ -761,7 +761,7 @@ const training =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        0.3036529680365297,
+        0.266,
         0.331002331002331
       ]
     },
@@ -771,7 +771,7 @@ const training =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        0.4269406392694064,
+        0.374,
         0.2703962703962704
       ]
     },
@@ -781,7 +781,7 @@ const training =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        0.2054794520547945,
+        0.18,
         0.14219114219114218
       ]
     },
@@ -791,7 +791,7 @@ const training =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.05128205128205128
       ]
     },
@@ -801,7 +801,7 @@ const training =
       "student_name": "Henrique Zucareli",
       "student_id": 1663855426831,
       "point": [
-        0.23059360730593606,
+        0.202,
         0.24708624708624707
       ]
     },
@@ -811,7 +811,7 @@ const training =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.45454545454545453
       ]
     },
@@ -821,7 +821,7 @@ const training =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.48484848484848486
       ]
     },
@@ -831,7 +831,7 @@ const training =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        0.5273972602739726,
+        0.462,
         0.5920745920745921
       ]
     },
@@ -841,7 +841,7 @@ const training =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        0.589041095890411,
+        0.516,
         0.7482517482517482
       ]
     },
@@ -851,7 +851,7 @@ const training =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.5081585081585082
       ]
     },
@@ -861,7 +861,7 @@ const training =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.675990675990676
       ]
     },
@@ -871,7 +871,7 @@ const training =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.6107226107226107
       ]
     },
@@ -881,7 +881,7 @@ const training =
       "student_name": "Azhar",
       "student_id": 1663855455207,
       "point": [
-        0.3812785388127854,
+        0.334,
         0.4405594405594406
       ]
     },
@@ -891,7 +891,7 @@ const training =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        0.5753424657534246,
+        0.504,
         0.22843822843822845
       ]
     },
@@ -901,7 +901,7 @@ const training =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        0.5799086757990868,
+        0.508,
         0.09557109557109557
       ]
     },
@@ -911,7 +911,7 @@ const training =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.6293706293706294
       ]
     },
@@ -921,7 +921,7 @@ const training =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.7132867132867133
       ]
     },
@@ -931,7 +931,7 @@ const training =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        0.4246575342465753,
+        0.372,
         0.2331002331002331
       ]
     },
@@ -941,7 +941,7 @@ const training =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        0.8059360730593608,
+        0.706,
         0.5967365967365967
       ]
     },
@@ -951,7 +951,7 @@ const training =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        0.4132420091324201,
+        0.362,
         0.40326340326340326
       ]
     },
@@ -961,7 +961,7 @@ const training =
       "student_name": "Radu :)",
       "student_id": 1663855508987,
       "point": [
-        0.4680365296803653,
+        0.41,
         0.5920745920745921
       ]
     },
@@ -971,7 +971,7 @@ const training =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        0.7374429223744292,
+        0.646,
         0.29836829836829837
       ]
     },
@@ -981,7 +981,7 @@ const training =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        0.636986301369863,
+        0.558,
         0.3006993006993007
       ]
     },
@@ -991,7 +991,7 @@ const training =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.49184149184149184
       ]
     },
@@ -1001,7 +1001,7 @@ const training =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.7599067599067599
       ]
     },
@@ -1011,7 +1011,7 @@ const training =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.5547785547785548
       ]
     },
@@ -1021,7 +1021,7 @@ const training =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.6503496503496503
       ]
     },
@@ -1031,7 +1031,7 @@ const training =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        0.821917808219178,
+        0.72,
         0.7832167832167832
       ]
     },
@@ -1041,7 +1041,7 @@ const training =
       "student_name": "mk",
       "student_id": 1663855616443,
       "point": [
-        0.632420091324201,
+        0.554,
         0.7785547785547785
       ]
     },
@@ -1051,7 +1051,7 @@ const training =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.20512820512820512
       ]
     },
@@ -1061,7 +1061,7 @@ const training =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.2937062937062937
       ]
     },
@@ -1071,7 +1071,7 @@ const training =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.3543123543123543
       ]
     },
@@ -1081,7 +1081,7 @@ const training =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.6643356643356644
       ]
     },
@@ -1091,7 +1091,7 @@ const training =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.37995337995337997
       ]
     },
@@ -1101,7 +1101,7 @@ const training =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        0.2237442922374429,
+        0.196,
         0.7296037296037297
       ]
     },
@@ -1111,7 +1111,7 @@ const training =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        0.0182648401826484,
+        0.016,
         0.4825174825174825
       ]
     },
@@ -1121,7 +1121,7 @@ const training =
       "student_name": "soul",
       "student_id": 1663855688370,
       "point": [
-        0.3036529680365297,
+        0.266,
         0.29603729603729606
       ]
     },
@@ -1131,7 +1131,7 @@ const training =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        0.6278538812785388,
+        0.55,
         0.2097902097902098
       ]
     },
@@ -1141,7 +1141,7 @@ const training =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        0.410958904109589,
+        0.36,
         0.20512820512820512
       ]
     },
@@ -1151,7 +1151,7 @@ const training =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        0.3515981735159817,
+        0.308,
         0.40559440559440557
       ]
     },
@@ -1161,7 +1161,7 @@ const training =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        0.4771689497716895,
+        0.418,
         0.5967365967365967
       ]
     },
@@ -1171,7 +1171,7 @@ const training =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.2494172494172494
       ]
     },
@@ -1181,7 +1181,7 @@ const training =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        0.678082191780822,
+        0.594,
         0.5617715617715617
       ]
     },
@@ -1191,7 +1191,7 @@ const training =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.331002331002331
       ]
     },
@@ -1201,7 +1201,7 @@ const training =
       "student_name": "Adrian",
       "student_id": 1663855739571,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.32634032634032634
       ]
     },
@@ -1211,7 +1211,7 @@ const training =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        0.3378995433789954,
+        0.296,
         0.11888111888111888
       ]
     },
@@ -1221,7 +1221,7 @@ const training =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        0.3264840182648402,
+        0.286,
         0.05827505827505827
       ]
     },
@@ -1231,7 +1231,7 @@ const training =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.40326340326340326
       ]
     },
@@ -1241,7 +1241,7 @@ const training =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        0.5,
+        0.438,
         0.5337995337995338
       ]
     },
@@ -1251,7 +1251,7 @@ const training =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.36596736596736595
       ]
     },
@@ -1261,7 +1261,7 @@ const training =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        0.1552511415525114,
+        0.136,
         0.47785547785547783
       ]
     },
@@ -1271,7 +1271,7 @@ const training =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        0.19863013698630136,
+        0.174,
         0.21212121212121213
       ]
     },
@@ -1281,7 +1281,7 @@ const training =
       "student_name": "Sanna Marin",
       "student_id": 1663855781706,
       "point": [
-        0.14383561643835616,
+        0.126,
         0.1958041958041958
       ]
     },
@@ -1291,7 +1291,7 @@ const training =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        0.776255707762557,
+        0.68,
         0.3123543123543124
       ]
     },
@@ -1301,7 +1301,7 @@ const training =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        0.865296803652968,
+        0.758,
         0.8438228438228438
       ]
     },
@@ -1311,7 +1311,7 @@ const training =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        0.867579908675799,
+        0.76,
         0.4965034965034965
       ]
     },
@@ -1321,7 +1321,7 @@ const training =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        0.7579908675799086,
+        0.664,
         0.8857808857808858
       ]
     },
@@ -1331,7 +1331,7 @@ const training =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        0.7671232876712328,
+        0.672,
         0.5501165501165501
       ]
     },
@@ -1341,7 +1341,7 @@ const training =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        0.7488584474885844,
+        0.656,
         0.8787878787878788
       ]
     },
@@ -1351,7 +1351,7 @@ const training =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        0.7465753424657534,
+        0.654,
         0.7016317016317016
       ]
     },
@@ -1361,7 +1361,7 @@ const training =
       "student_name": "Jayparth ",
       "student_id": 1663855815580,
       "point": [
-        0.3150684931506849,
+        0.276,
         0.6713286713286714
       ]
     },
@@ -1371,7 +1371,7 @@ const training =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.13752913752913754
       ]
     },
@@ -1381,7 +1381,7 @@ const training =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        0.5342465753424658,
+        0.468,
         0.14219114219114218
       ]
     },
@@ -1391,7 +1391,7 @@ const training =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        0.3287671232876712,
+        0.288,
         0.5594405594405595
       ]
     },
@@ -1401,7 +1401,7 @@ const training =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        0.6986301369863014,
+        0.612,
         0.717948717948718
       ]
     },
@@ -1411,7 +1411,7 @@ const training =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.337995337995338
       ]
     },
@@ -1421,7 +1421,7 @@ const training =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.6363636363636364
       ]
     },
@@ -1431,7 +1431,7 @@ const training =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        0.3447488584474886,
+        0.302,
         0.3822843822843823
       ]
     },
@@ -1441,7 +1441,7 @@ const training =
       "student_name": "Sam",
       "student_id": 1663855834348,
       "point": [
-        0.7077625570776256,
+        0.62,
         0.6923076923076923
       ]
     },
@@ -1451,7 +1451,7 @@ const training =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        0.6917808219178082,
+        0.606,
         0.32400932400932403
       ]
     },
@@ -1461,7 +1461,7 @@ const training =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        0.7579908675799086,
+        0.664,
         0.25874125874125875
       ]
     },
@@ -1471,7 +1471,7 @@ const training =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.6480186480186481
       ]
     },
@@ -1481,7 +1481,7 @@ const training =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        0.678082191780822,
+        0.594,
         0.8321678321678322
       ]
     },
@@ -1491,7 +1491,7 @@ const training =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.48951048951048953
       ]
     },
@@ -1501,7 +1501,7 @@ const training =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.6876456876456877
       ]
     },
@@ -1511,7 +1511,7 @@ const training =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.4825174825174825
       ]
     },
@@ -1521,7 +1521,7 @@ const training =
       "student_name": "salah",
       "student_id": 1663855877847,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.4382284382284382
       ]
     },
@@ -1531,7 +1531,7 @@ const training =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        0.7922374429223744,
+        0.694,
         0.4219114219114219
       ]
     },
@@ -1541,7 +1541,7 @@ const training =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.13053613053613053
       ]
     },
@@ -1551,7 +1551,7 @@ const training =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        0.545662100456621,
+        0.478,
         0.710955710955711
       ]
     },
@@ -1561,7 +1561,7 @@ const training =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        0.7328767123287672,
+        0.642,
         0.9324009324009324
       ]
     },
@@ -1571,7 +1571,7 @@ const training =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.4568764568764569
       ]
     },
@@ -1581,7 +1581,7 @@ const training =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        0.319634703196347,
+        0.28,
         0.8065268065268065
       ]
     },
@@ -1591,7 +1591,7 @@ const training =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        0.18036529680365296,
+        0.158,
         0.8251748251748252
       ]
     },
@@ -1601,7 +1601,7 @@ const training =
       "student_name": "Shankar",
       "student_id": 1663855915573,
       "point": [
-        0.6484018264840182,
+        0.568,
         0.7692307692307693
       ]
     },
@@ -1611,7 +1611,7 @@ const training =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.4149184149184149
       ]
     },
@@ -1621,7 +1621,7 @@ const training =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.3006993006993007
       ]
     },
@@ -1631,7 +1631,7 @@ const training =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.5198135198135199
       ]
     },
@@ -1641,7 +1641,7 @@ const training =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.8065268065268065
       ]
     },
@@ -1651,7 +1651,7 @@ const training =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        0.723744292237443,
+        0.634,
         0.4825174825174825
       ]
     },
@@ -1661,7 +1661,7 @@ const training =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        0.6917808219178082,
+        0.606,
         0.6037296037296037
       ]
     },
@@ -1671,7 +1671,7 @@ const training =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.5547785547785548
       ]
     },
@@ -1681,7 +1681,7 @@ const training =
       "student_name": "Bojana ",
       "student_id": 1663855952288,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.44988344988344986
       ]
     },
@@ -1691,7 +1691,7 @@ const training =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        0.7009132420091324,
+        0.614,
         0.23776223776223776
       ]
     },
@@ -1701,7 +1701,7 @@ const training =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        0.6872146118721462,
+        0.602,
         0.10023310023310024
       ]
     },
@@ -1711,7 +1711,7 @@ const training =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.7249417249417249
       ]
     },
@@ -1721,7 +1721,7 @@ const training =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        0.7625570776255708,
+        0.668,
         0.8368298368298368
       ]
     },
@@ -1731,7 +1731,7 @@ const training =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.32167832167832167
       ]
     },
@@ -1741,7 +1741,7 @@ const training =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        0.4885844748858447,
+        0.428,
         0.4405594405594406
       ]
     },
@@ -1751,7 +1751,7 @@ const training =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        0.2922374429223744,
+        0.256,
         0.4358974358974359
       ]
     },
@@ -1761,7 +1761,7 @@ const training =
       "student_name": "Santiago Ortiz",
       "student_id": 1663855953328,
       "point": [
-        0.410958904109589,
+        0.36,
         0.40559440559440557
       ]
     },
@@ -1771,7 +1771,7 @@ const training =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        0.684931506849315,
+        0.6,
         0.289044289044289
       ]
     },
@@ -1781,7 +1781,7 @@ const training =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.25874125874125875
       ]
     },
@@ -1791,7 +1791,7 @@ const training =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.6363636363636364
       ]
     },
@@ -1801,7 +1801,7 @@ const training =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.5617715617715617
       ]
     },
@@ -1811,7 +1811,7 @@ const training =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        0.58675799086758,
+        0.514,
         0.34965034965034963
       ]
     },
@@ -1821,7 +1821,7 @@ const training =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        0.2625570776255708,
+        0.23,
         0.5571095571095571
       ]
     },
@@ -1831,7 +1831,7 @@ const training =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.4219114219114219
       ]
     },
@@ -1841,7 +1841,7 @@ const training =
       "student_name": "Andy Beck",
       "student_id": 1663856044536,
       "point": [
-        0.4680365296803653,
+        0.41,
         0.38694638694638694
       ]
     },
@@ -1851,7 +1851,7 @@ const training =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        0.7397260273972602,
+        0.648,
         0.289044289044289
       ]
     },
@@ -1861,7 +1861,7 @@ const training =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.23076923076923078
       ]
     },
@@ -1871,7 +1871,7 @@ const training =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        0.3401826484018265,
+        0.298,
         0.5268065268065268
       ]
     },
@@ -1881,7 +1881,7 @@ const training =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        0.3767123287671233,
+        0.33,
         0.4965034965034965
       ]
     },
@@ -1891,7 +1891,7 @@ const training =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        0.3447488584474886,
+        0.302,
         0.2400932400932401
       ]
     },
@@ -1901,7 +1901,7 @@ const training =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.6923076923076923
       ]
     },
@@ -1911,7 +1911,7 @@ const training =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        0.593607305936073,
+        0.52,
         0.3986013986013986
       ]
     },
@@ -1921,7 +1921,7 @@ const training =
       "student_name": "Marc",
       "student_id": 1663856116753,
       "point": [
-        0.7031963470319634,
+        0.616,
         0.6433566433566433
       ]
     },
@@ -1931,7 +1931,7 @@ const training =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.16083916083916083
       ]
     },
@@ -1941,7 +1941,7 @@ const training =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.09324009324009325
       ]
     },
@@ -1951,7 +1951,7 @@ const training =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        0.2853881278538813,
+        0.25,
         0.38461538461538464
       ]
     },
@@ -1961,7 +1961,7 @@ const training =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        0.365296803652968,
+        0.32,
         0.6247086247086248
       ]
     },
@@ -1971,7 +1971,7 @@ const training =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        0.19863013698630136,
+        0.174,
         0.18414918414918416
       ]
     },
@@ -1981,7 +1981,7 @@ const training =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        0.2762557077625571,
+        0.242,
         0.6853146853146853
       ]
     },
@@ -1991,7 +1991,7 @@ const training =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        0.4474885844748858,
+        0.392,
         0.32167832167832167
       ]
     },
@@ -2001,7 +2001,7 @@ const training =
       "student_name": "Daniel",
       "student_id": 1663856148500,
       "point": [
-        0.2557077625570776,
+        0.224,
         0.2564102564102564
       ]
     },
@@ -2011,7 +2011,7 @@ const training =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        0.7146118721461188,
+        0.626,
         0.32634032634032634
       ]
     },
@@ -2021,7 +2021,7 @@ const training =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        0.4680365296803653,
+        0.41,
         0.2867132867132867
       ]
     },
@@ -2031,7 +2031,7 @@ const training =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.6247086247086248
       ]
     },
@@ -2041,7 +2041,7 @@ const training =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.6410256410256411
       ]
     },
@@ -2051,7 +2051,7 @@ const training =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.36596736596736595
       ]
     },
@@ -2061,7 +2061,7 @@ const training =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.7832167832167832
       ]
     },
@@ -2071,7 +2071,7 @@ const training =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.6013986013986014
       ]
     },
@@ -2081,7 +2081,7 @@ const training =
       "student_name": "Picasso 2.0",
       "student_id": 1663856219990,
       "point": [
-        0.6529680365296804,
+        0.572,
         0.6666666666666666
       ]
     },
@@ -2091,7 +2091,7 @@ const training =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        0.684931506849315,
+        0.6,
         0.1585081585081585
       ]
     },
@@ -2101,7 +2101,7 @@ const training =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        0.773972602739726,
+        0.678,
         0.25874125874125875
       ]
     },
@@ -2111,7 +2111,7 @@ const training =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        0.5,
+        0.438,
         0.4219114219114219
       ]
     },
@@ -2121,7 +2121,7 @@ const training =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.710955710955711
       ]
     },
@@ -2131,7 +2131,7 @@ const training =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        0.6872146118721462,
+        0.602,
         0.2937062937062937
       ]
     },
@@ -2141,7 +2141,7 @@ const training =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        0.728310502283105,
+        0.638,
         0.21445221445221446
       ]
     },
@@ -2151,7 +2151,7 @@ const training =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        0.0319634703196347,
+        0.028,
         0.6060606060606061
       ]
     },
@@ -2161,7 +2161,7 @@ const training =
       "student_name": "Dumitru",
       "student_id": 1663856287467,
       "point": [
-        0.6872146118721462,
+        0.602,
         0.5431235431235432
       ]
     },
@@ -2171,7 +2171,7 @@ const training =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        0.5776255707762558,
+        0.506,
         0.48717948717948717
       ]
     },
@@ -2181,7 +2181,7 @@ const training =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.2680652680652681
       ]
     },
@@ -2191,7 +2191,7 @@ const training =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        0.8767123287671232,
+        0.768,
         0.8927738927738927
       ]
     },
@@ -2201,7 +2201,7 @@ const training =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.7645687645687645
       ]
     },
@@ -2211,7 +2211,7 @@ const training =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.2517482517482518
       ]
     },
@@ -2221,7 +2221,7 @@ const training =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.6223776223776224
       ]
     },
@@ -2231,7 +2231,7 @@ const training =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        0.7579908675799086,
+        0.664,
         0.710955710955711
       ]
     },
@@ -2241,7 +2241,7 @@ const training =
       "student_name": "Dd",
       "student_id": 1663856289505,
       "point": [
-        0.7146118721461188,
+        0.626,
         0.6293706293706294
       ]
     },
@@ -2251,7 +2251,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        0.6278538812785388,
+        0.55,
         0.317016317016317
       ]
     },
@@ -2261,7 +2261,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.3962703962703963
       ]
     },
@@ -2271,7 +2271,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        0.4155251141552511,
+        0.364,
         0.3986013986013986
       ]
     },
@@ -2281,7 +2281,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.4825174825174825
       ]
     },
@@ -2291,7 +2291,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.3356643356643357
       ]
     },
@@ -2301,7 +2301,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.6037296037296037
       ]
     },
@@ -2311,7 +2311,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        0.3470319634703196,
+        0.304,
         0.4731934731934732
       ]
     },
@@ -2321,7 +2321,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663856398326,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.5011655011655012
       ]
     },
@@ -2331,7 +2331,7 @@ const training =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.2400932400932401
       ]
     },
@@ -2341,7 +2341,7 @@ const training =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.17715617715617715
       ]
     },
@@ -2351,7 +2351,7 @@ const training =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        0.3515981735159817,
+        0.308,
         0.4219114219114219
       ]
     },
@@ -2361,7 +2361,7 @@ const training =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.7575757575757576
       ]
     },
@@ -2371,7 +2371,7 @@ const training =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.3006993006993007
       ]
     },
@@ -2381,7 +2381,7 @@ const training =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.38927738927738925
       ]
     },
@@ -2391,7 +2391,7 @@ const training =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        0.1917808219178082,
+        0.168,
         0.1864801864801865
       ]
     },
@@ -2401,7 +2401,7 @@ const training =
       "student_name": "tetsusoiwashiro",
       "student_id": 1663856474373,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.42424242424242425
       ]
     },
@@ -2411,7 +2411,7 @@ const training =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.3939393939393939
       ]
     },
@@ -2421,7 +2421,7 @@ const training =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.18414918414918416
       ]
     },
@@ -2431,7 +2431,7 @@ const training =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        0.6004566210045662,
+        0.526,
         0.6876456876456877
       ]
     },
@@ -2441,7 +2441,7 @@ const training =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.5291375291375291
       ]
     },
@@ -2451,7 +2451,7 @@ const training =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        0.547945205479452,
+        0.48,
         0.5081585081585082
       ]
     },
@@ -2461,7 +2461,7 @@ const training =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.23076923076923078
       ]
     },
@@ -2471,7 +2471,7 @@ const training =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        0.02968036529680365,
+        0.026,
         0.5011655011655012
       ]
     },
@@ -2481,7 +2481,7 @@ const training =
       "student_name": "STEVE ALAIN",
       "student_id": 1663856539377,
       "point": [
-        0.408675799086758,
+        0.358,
         0.44755244755244755
       ]
     },
@@ -2491,7 +2491,7 @@ const training =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.21445221445221446
       ]
     },
@@ -2501,7 +2501,7 @@ const training =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        0.4452054794520548,
+        0.39,
         0.17249417249417248
       ]
     },
@@ -2511,7 +2511,7 @@ const training =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        0.45662100456621,
+        0.4,
         0.6410256410256411
       ]
     },
@@ -2521,7 +2521,7 @@ const training =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.7086247086247086
       ]
     },
@@ -2531,7 +2531,7 @@ const training =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.28205128205128205
       ]
     },
@@ -2541,7 +2541,7 @@ const training =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.2494172494172494
       ]
     },
@@ -2551,7 +2551,7 @@ const training =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        0.1506849315068493,
+        0.132,
         0.5291375291375291
       ]
     },
@@ -2561,7 +2561,7 @@ const training =
       "student_name": "Mechatronod",
       "student_id": 1663856609845,
       "point": [
-        0.3493150684931507,
+        0.306,
         0.3356643356643357
       ]
     },
@@ -2571,7 +2571,7 @@ const training =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.35664335664335667
       ]
     },
@@ -2581,7 +2581,7 @@ const training =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.37995337995337997
       ]
     },
@@ -2591,7 +2591,7 @@ const training =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.372960372960373
       ]
     },
@@ -2601,7 +2601,7 @@ const training =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        0.5,
+        0.438,
         0.5034965034965035
       ]
     },
@@ -2611,7 +2611,7 @@ const training =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.42424242424242425
       ]
     },
@@ -2621,7 +2621,7 @@ const training =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        0.2557077625570776,
+        0.224,
         0.7272727272727273
       ]
     },
@@ -2631,7 +2631,7 @@ const training =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.6643356643356644
       ]
     },
@@ -2641,7 +2641,7 @@ const training =
       "student_name": "Allan70",
       "student_id": 1663856635980,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.6666666666666666
       ]
     },
@@ -2651,7 +2651,7 @@ const training =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.20512820512820512
       ]
     },
@@ -2661,7 +2661,7 @@ const training =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.21445221445221446
       ]
     },
@@ -2671,7 +2671,7 @@ const training =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        0.545662100456621,
+        0.478,
         0.5967365967365967
       ]
     },
@@ -2681,7 +2681,7 @@ const training =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        0.682648401826484,
+        0.598,
         0.7132867132867133
       ]
     },
@@ -2691,7 +2691,7 @@ const training =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        0.4589041095890411,
+        0.402,
         0.3473193473193473
       ]
     },
@@ -2701,7 +2701,7 @@ const training =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        0.3721461187214612,
+        0.326,
         0.745920745920746
       ]
     },
@@ -2711,7 +2711,7 @@ const training =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        0.0776255707762557,
+        0.068,
         0.5664335664335665
       ]
     },
@@ -2721,7 +2721,7 @@ const training =
       "student_name": "Pipo",
       "student_id": 1663856802763,
       "point": [
-        0.45662100456621,
+        0.4,
         0.5011655011655012
       ]
     },
@@ -2731,7 +2731,7 @@ const training =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        0.8105022831050228,
+        0.71,
         0.2540792540792541
       ]
     },
@@ -2741,7 +2741,7 @@ const training =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        0.7397260273972602,
+        0.648,
         0.38927738927738925
       ]
     },
@@ -2751,7 +2751,7 @@ const training =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        0.819634703196347,
+        0.718,
         0.5804195804195804
       ]
     },
@@ -2761,7 +2761,7 @@ const training =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.8088578088578089
       ]
     },
@@ -2771,7 +2771,7 @@ const training =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.4219114219114219
       ]
     },
@@ -2781,7 +2781,7 @@ const training =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        0.819634703196347,
+        0.718,
         0.6153846153846154
       ]
     },
@@ -2791,7 +2791,7 @@ const training =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        0.5,
+        0.438,
         0.47785547785547783
       ]
     },
@@ -2801,7 +2801,7 @@ const training =
       "student_name": "D Connect Zone",
       "student_id": 1663856858534,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.4172494172494173
       ]
     },
@@ -2811,7 +2811,7 @@ const training =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.34498834498834496
       ]
     },
@@ -2821,7 +2821,7 @@ const training =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.289044289044289
       ]
     },
@@ -2831,7 +2831,7 @@ const training =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.46153846153846156
       ]
     },
@@ -2841,7 +2841,7 @@ const training =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        0.6118721461187214,
+        0.536,
         0.62004662004662
       ]
     },
@@ -2851,7 +2851,7 @@ const training =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        0.589041095890411,
+        0.516,
         0.27972027972027974
       ]
     },
@@ -2861,7 +2861,7 @@ const training =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.5687645687645687
       ]
     },
@@ -2871,7 +2871,7 @@ const training =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.6806526806526807
       ]
     },
@@ -2881,7 +2881,7 @@ const training =
       "student_name": "Natesol",
       "student_id": 1663857004594,
       "point": [
-        0.4246575342465753,
+        0.372,
         0.40326340326340326
       ]
     },
@@ -2891,7 +2891,7 @@ const training =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        0.6735159817351598,
+        0.59,
         0.3939393939393939
       ]
     },
@@ -2901,7 +2901,7 @@ const training =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        0.7214611872146118,
+        0.632,
         0.5384615384615384
       ]
     },
@@ -2911,7 +2911,7 @@ const training =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        0.636986301369863,
+        0.558,
         0.5011655011655012
       ]
     },
@@ -2921,7 +2921,7 @@ const training =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        0.817351598173516,
+        0.716,
         0.7552447552447552
       ]
     },
@@ -2931,7 +2931,7 @@ const training =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.5104895104895105
       ]
     },
@@ -2941,7 +2941,7 @@ const training =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        0.636986301369863,
+        0.558,
         0.7226107226107226
       ]
     },
@@ -2951,7 +2951,7 @@ const training =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        0.3333333333333333,
+        0.292,
         0.5058275058275058
       ]
     },
@@ -2961,7 +2961,7 @@ const training =
       "student_name": "Archi",
       "student_id": 1663857093551,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.6386946386946387
       ]
     },
@@ -2971,7 +2971,7 @@ const training =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.2937062937062937
       ]
     },
@@ -2981,7 +2981,7 @@ const training =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        0.6643835616438356,
+        0.582,
         0.2564102564102564
       ]
     },
@@ -2991,7 +2991,7 @@ const training =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.717948717948718
       ]
     },
@@ -3001,7 +3001,7 @@ const training =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.6130536130536131
       ]
     },
@@ -3011,7 +3011,7 @@ const training =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.358974358974359
       ]
     },
@@ -3021,7 +3021,7 @@ const training =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        0.728310502283105,
+        0.638,
         0.6223776223776224
       ]
     },
@@ -3031,7 +3031,7 @@ const training =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        0.3013698630136986,
+        0.264,
         0.19813519813519814
       ]
     },
@@ -3041,7 +3041,7 @@ const training =
       "student_name": "Erendir",
       "student_id": 1663857099116,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.43356643356643354
       ]
     },
@@ -3051,7 +3051,7 @@ const training =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        0.8767123287671232,
+        0.768,
         0.8158508158508159
       ]
     },
@@ -3061,7 +3061,7 @@ const training =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.4289044289044289
       ]
     },
@@ -3071,7 +3071,7 @@ const training =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        0.22602739726027396,
+        0.198,
         0.4755244755244755
       ]
     },
@@ -3081,7 +3081,7 @@ const training =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        0.3789954337899543,
+        0.332,
         0.5757575757575758
       ]
     },
@@ -3091,7 +3091,7 @@ const training =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.20512820512820512
       ]
     },
@@ -3101,7 +3101,7 @@ const training =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        0.182648401826484,
+        0.16,
         0.682983682983683
       ]
     },
@@ -3111,7 +3111,7 @@ const training =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        0.0593607305936073,
+        0.052,
         0.634032634032634
       ]
     },
@@ -3121,7 +3121,7 @@ const training =
       "student_name": "Anukrishnan",
       "student_id": 1663857420766,
       "point": [
-        0.5,
+        0.438,
         0.5734265734265734
       ]
     },
@@ -3131,7 +3131,7 @@ const training =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        0.730593607305936,
+        0.64,
         0.40093240093240096
       ]
     },
@@ -3141,7 +3141,7 @@ const training =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        0.7374429223744292,
+        0.646,
         0.2913752913752914
       ]
     },
@@ -3151,7 +3151,7 @@ const training =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.6410256410256411
       ]
     },
@@ -3161,7 +3161,7 @@ const training =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        0.5753424657534246,
+        0.504,
         0.7132867132867133
       ]
     },
@@ -3171,7 +3171,7 @@ const training =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        0.589041095890411,
+        0.516,
         0.5664335664335665
       ]
     },
@@ -3181,7 +3181,7 @@ const training =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.5757575757575758
       ]
     },
@@ -3191,7 +3191,7 @@ const training =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.46153846153846156
       ]
     },
@@ -3201,7 +3201,7 @@ const training =
       "student_name": "Abhi",
       "student_id": 1663857556678,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.5174825174825175
       ]
     },
@@ -3211,7 +3211,7 @@ const training =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        0.7214611872146118,
+        0.632,
         0.30303030303030304
       ]
     },
@@ -3221,7 +3221,7 @@ const training =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        0.45662100456621,
+        0.4,
         0.2494172494172494
       ]
     },
@@ -3231,7 +3231,7 @@ const training =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.6107226107226107
       ]
     },
@@ -3241,7 +3241,7 @@ const training =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.7062937062937062
       ]
     },
@@ -3251,7 +3251,7 @@ const training =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.4522144522144522
       ]
     },
@@ -3261,7 +3261,7 @@ const training =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        0.7922374429223744,
+        0.694,
         0.6573426573426573
       ]
     },
@@ -3271,7 +3271,7 @@ const training =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        0.1278538812785388,
+        0.112,
         0.7132867132867133
       ]
     },
@@ -3281,7 +3281,7 @@ const training =
       "student_name": "xjdeath",
       "student_id": 1663857628446,
       "point": [
-        0.545662100456621,
+        0.478,
         0.5501165501165501
       ]
     },
@@ -3291,7 +3291,7 @@ const training =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        0.8036529680365296,
+        0.704,
         0.4172494172494173
       ]
     },
@@ -3301,7 +3301,7 @@ const training =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.30536130536130535
       ]
     },
@@ -3311,7 +3311,7 @@ const training =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        0.3584474885844749,
+        0.314,
         0.5151515151515151
       ]
     },
@@ -3321,7 +3321,7 @@ const training =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.7668997668997669
       ]
     },
@@ -3331,7 +3331,7 @@ const training =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.5337995337995338
       ]
     },
@@ -3341,7 +3341,7 @@ const training =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        0.7328767123287672,
+        0.642,
         0.7575757575757576
       ]
     },
@@ -3351,7 +3351,7 @@ const training =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.34965034965034963
       ]
     },
@@ -3361,7 +3361,7 @@ const training =
       "student_name": "Prem",
       "student_id": 1663857682812,
       "point": [
-        0.3607305936073059,
+        0.316,
         0.3776223776223776
       ]
     },
@@ -3371,7 +3371,7 @@ const training =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        0.7785388127853882,
+        0.682,
         0.4592074592074592
       ]
     },
@@ -3381,7 +3381,7 @@ const training =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.2517482517482518
       ]
     },
@@ -3391,7 +3391,7 @@ const training =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        0.7511415525114156,
+        0.658,
         0.6643356643356644
       ]
     },
@@ -3401,7 +3401,7 @@ const training =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        0.23059360730593606,
+        0.202,
         0.7575757575757576
       ]
     },
@@ -3411,7 +3411,7 @@ const training =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        0.7853881278538812,
+        0.688,
         0.46386946386946387
       ]
     },
@@ -3421,7 +3421,7 @@ const training =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        0.6643835616438356,
+        0.582,
         0.2913752913752914
       ]
     },
@@ -3431,7 +3431,7 @@ const training =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        0.6278538812785388,
+        0.55,
         0.662004662004662
       ]
     },
@@ -3441,7 +3441,7 @@ const training =
       "student_name": "Duke",
       "student_id": 1663857712656,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.6363636363636364
       ]
     },
@@ -3451,7 +3451,7 @@ const training =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.32400932400932403
       ]
     },
@@ -3461,7 +3461,7 @@ const training =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.11888111888111888
       ]
     },
@@ -3471,7 +3471,7 @@ const training =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        0.3036529680365297,
+        0.266,
         0.3543123543123543
       ]
     },
@@ -3481,7 +3481,7 @@ const training =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.7972027972027972
       ]
     },
@@ -3491,7 +3491,7 @@ const training =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        0.4360730593607306,
+        0.382,
         0.2331002331002331
       ]
     },
@@ -3501,7 +3501,7 @@ const training =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.11655011655011654
       ]
     },
@@ -3511,7 +3511,7 @@ const training =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        0.03881278538812785,
+        0.034,
         0.4382284382284382
       ]
     },
@@ -3521,7 +3521,7 @@ const training =
       "student_name": "Miguel Fernandes",
       "student_id": 1663857819143,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.4289044289044289
       ]
     },
@@ -3531,7 +3531,7 @@ const training =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.2261072261072261
       ]
     },
@@ -3541,7 +3541,7 @@ const training =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        0.1278538812785388,
+        0.112,
         0.23543123543123542
       ]
     },
@@ -3551,7 +3551,7 @@ const training =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.49417249417249415
       ]
     },
@@ -3561,7 +3561,7 @@ const training =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        0.771689497716895,
+        0.676,
         0.7272727272727273
       ]
     },
@@ -3571,7 +3571,7 @@ const training =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.3776223776223776
       ]
     },
@@ -3581,7 +3581,7 @@ const training =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        0.18949771689497716,
+        0.166,
         0.6643356643356644
       ]
     },
@@ -3591,7 +3591,7 @@ const training =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.5011655011655012
       ]
     },
@@ -3601,7 +3601,7 @@ const training =
       "student_name": "iron",
       "student_id": 1663857965969,
       "point": [
-        0.2511415525114155,
+        0.22,
         0.2540792540792541
       ]
     },
@@ -3611,7 +3611,7 @@ const training =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.29603729603729606
       ]
     },
@@ -3621,7 +3621,7 @@ const training =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.2331002331002331
       ]
     },
@@ -3631,7 +3631,7 @@ const training =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        0.5342465753424658,
+        0.468,
         0.5268065268065268
       ]
     },
@@ -3641,7 +3641,7 @@ const training =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        0.7853881278538812,
+        0.688,
         0.7412587412587412
       ]
     },
@@ -3651,7 +3651,7 @@ const training =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.317016317016317
       ]
     },
@@ -3661,7 +3661,7 @@ const training =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        0.7146118721461188,
+        0.626,
         0.30536130536130535
       ]
     },
@@ -3671,7 +3671,7 @@ const training =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        0.15296803652968036,
+        0.134,
         0.6223776223776224
       ]
     },
@@ -3681,7 +3681,7 @@ const training =
       "student_name": "Dawood",
       "student_id": 1663858029955,
       "point": [
-        0.3219178082191781,
+        0.282,
         0.3682983682983683
       ]
     },
@@ -3691,7 +3691,7 @@ const training =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        0.678082191780822,
+        0.594,
         0.331002331002331
       ]
     },
@@ -3701,7 +3701,7 @@ const training =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.32167832167832167
       ]
     },
@@ -3711,7 +3711,7 @@ const training =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        0.6598173515981736,
+        0.578,
         0.40792540792540793
       ]
     },
@@ -3721,7 +3721,7 @@ const training =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        0.7009132420091324,
+        0.614,
         0.7645687645687645
       ]
     },
@@ -3731,7 +3731,7 @@ const training =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.4662004662004662
       ]
     },
@@ -3741,7 +3741,7 @@ const training =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        0.408675799086758,
+        0.358,
         0.7389277389277389
       ]
     },
@@ -3751,7 +3751,7 @@ const training =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        0.3036529680365297,
+        0.266,
         0.6643356643356644
       ]
     },
@@ -3761,7 +3761,7 @@ const training =
       "student_name": "Tharin Ransika ",
       "student_id": 1663858097314,
       "point": [
-        0.3287671232876712,
+        0.288,
         0.34965034965034963
       ]
     },
@@ -3771,7 +3771,7 @@ const training =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        0.3264840182648402,
+        0.286,
         0.2517482517482518
       ]
     },
@@ -3781,7 +3781,7 @@ const training =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        0.45662100456621,
+        0.4,
         0.1445221445221445
       ]
     },
@@ -3791,7 +3791,7 @@ const training =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        0.2602739726027397,
+        0.228,
         0.31934731934731936
       ]
     },
@@ -3801,7 +3801,7 @@ const training =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        0.2853881278538813,
+        0.25,
         0.4568764568764569
       ]
     },
@@ -3811,7 +3811,7 @@ const training =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        0.271689497716895,
+        0.238,
         0.24242424242424243
       ]
     },
@@ -3821,7 +3821,7 @@ const training =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        0.3470319634703196,
+        0.304,
         0.20512820512820512
       ]
     },
@@ -3831,7 +3831,7 @@ const training =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        0.454337899543379,
+        0.398,
         0.3006993006993007
       ]
     },
@@ -3841,7 +3841,7 @@ const training =
       "student_name": "Gurkirat ",
       "student_id": 1663858221250,
       "point": [
-        0.3744292237442922,
+        0.328,
         0.28205128205128205
       ]
     },
@@ -3851,7 +3851,7 @@ const training =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.337995337995338
       ]
     },
@@ -3861,7 +3861,7 @@ const training =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.4289044289044289
       ]
     },
@@ -3871,7 +3871,7 @@ const training =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.5734265734265734
       ]
     },
@@ -3881,7 +3881,7 @@ const training =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.6993006993006993
       ]
     },
@@ -3891,7 +3891,7 @@ const training =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.3613053613053613
       ]
     },
@@ -3901,7 +3901,7 @@ const training =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.2867132867132867
       ]
     },
@@ -3911,7 +3911,7 @@ const training =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.5664335664335665
       ]
     },
@@ -3921,7 +3921,7 @@ const training =
       "student_name": "lippo",
       "student_id": 1663858276975,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.4382284382284382
       ]
     },
@@ -3931,7 +3931,7 @@ const training =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        0.7009132420091324,
+        0.614,
         0.26573426573426573
       ]
     },
@@ -3941,7 +3941,7 @@ const training =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.22144522144522144
       ]
     },
@@ -3951,7 +3951,7 @@ const training =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        0.545662100456621,
+        0.478,
         0.35664335664335667
       ]
     },
@@ -3961,7 +3961,7 @@ const training =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        0.4520547945205479,
+        0.396,
         0.5151515151515151
       ]
     },
@@ -3971,7 +3971,7 @@ const training =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.37995337995337997
       ]
     },
@@ -3981,7 +3981,7 @@ const training =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.2331002331002331
       ]
     },
@@ -3991,7 +3991,7 @@ const training =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        0.3698630136986301,
+        0.324,
         0.3916083916083916
       ]
     },
@@ -4001,7 +4001,7 @@ const training =
       "student_name": "Andreas",
       "student_id": 1663858456664,
       "point": [
-        0.3401826484018265,
+        0.298,
         0.372960372960373
       ]
     },
@@ -4011,7 +4011,7 @@ const training =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        0.7397260273972602,
+        0.648,
         0.4592074592074592
       ]
     },
@@ -4021,7 +4021,7 @@ const training =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        0.593607305936073,
+        0.52,
         0.31934731934731936
       ]
     },
@@ -4031,7 +4031,7 @@ const training =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        0.6484018264840182,
+        0.568,
         0.5431235431235432
       ]
     },
@@ -4041,7 +4041,7 @@ const training =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        0.45662100456621,
+        0.4,
         0.5104895104895105
       ]
     },
@@ -4051,7 +4051,7 @@ const training =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        0.682648401826484,
+        0.598,
         0.337995337995338
       ]
     },
@@ -4061,7 +4061,7 @@ const training =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.6013986013986014
       ]
     },
@@ -4071,7 +4071,7 @@ const training =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        0.7054794520547946,
+        0.618,
         0.5664335664335665
       ]
     },
@@ -4081,7 +4081,7 @@ const training =
       "student_name": "Akash",
       "student_id": 1663858488796,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.34965034965034963
       ]
     },
@@ -4091,7 +4091,7 @@ const training =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.29836829836829837
       ]
     },
@@ -4101,7 +4101,7 @@ const training =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        0.4977168949771689,
+        0.436,
         0.3076923076923077
       ]
     },
@@ -4111,7 +4111,7 @@ const training =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.5058275058275058
       ]
     },
@@ -4121,7 +4121,7 @@ const training =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        0.3767123287671233,
+        0.33,
         0.34265734265734266
       ]
     },
@@ -4131,7 +4131,7 @@ const training =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        0.4840182648401826,
+        0.424,
         0.3613053613053613
       ]
     },
@@ -4141,7 +4141,7 @@ const training =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.3776223776223776
       ]
     },
@@ -4151,7 +4151,7 @@ const training =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        0.1141552511415525,
+        0.1,
         0.32400932400932403
       ]
     },
@@ -4161,7 +4161,7 @@ const training =
       "student_name": "prince",
       "student_id": 1663858489917,
       "point": [
-        0.2694063926940639,
+        0.236,
         0.24708624708624707
       ]
     },
@@ -4171,7 +4171,7 @@ const training =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        0.821917808219178,
+        0.72,
         0.3682983682983683
       ]
     },
@@ -4181,7 +4181,7 @@ const training =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        0.5844748858447488,
+        0.512,
         0.23776223776223776
       ]
     },
@@ -4191,7 +4191,7 @@ const training =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        0.6757990867579908,
+        0.592,
         0.4405594405594406
       ]
     },
@@ -4201,7 +4201,7 @@ const training =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.8438228438228438
       ]
     },
@@ -4211,7 +4211,7 @@ const training =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        0.410958904109589,
+        0.36,
         0.3146853146853147
       ]
     },
@@ -4221,7 +4221,7 @@ const training =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        0.3059360730593607,
+        0.268,
         0.6177156177156177
       ]
     },
@@ -4231,7 +4231,7 @@ const training =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        0.0958904109589041,
+        0.084,
         0.5221445221445221
       ]
     },
@@ -4241,7 +4241,7 @@ const training =
       "student_name": "Vijay",
       "student_id": 1663858829157,
       "point": [
-        0.4246575342465753,
+        0.372,
         0.289044289044289
       ]
     },
@@ -4251,7 +4251,7 @@ const training =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        0.7990867579908676,
+        0.7,
         0.34498834498834496
       ]
     },
@@ -4261,7 +4261,7 @@ const training =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.1561771561771562
       ]
     },
@@ -4271,7 +4271,7 @@ const training =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        0.7465753424657534,
+        0.654,
         0.5990675990675991
       ]
     },
@@ -4281,7 +4281,7 @@ const training =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        0.591324200913242,
+        0.518,
         0.6923076923076923
       ]
     },
@@ -4291,7 +4291,7 @@ const training =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.3682983682983683
       ]
     },
@@ -4301,7 +4301,7 @@ const training =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        0.317351598173516,
+        0.278,
         0.6433566433566433
       ]
     },
@@ -4311,7 +4311,7 @@ const training =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.5617715617715617
       ]
     },
@@ -4321,7 +4321,7 @@ const training =
       "student_name": "angelo_birrozza",
       "student_id": 1663858932880,
       "point": [
-        0.4132420091324201,
+        0.362,
         0.3333333333333333
       ]
     },
@@ -4331,7 +4331,7 @@ const training =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        0.3767123287671233,
+        0.33,
         0.11188811188811189
       ]
     },
@@ -4341,7 +4341,7 @@ const training =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        0.6872146118721462,
+        0.602,
         0.5664335664335665
       ]
     },
@@ -4351,7 +4351,7 @@ const training =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        0.815068493150685,
+        0.714,
         0.717948717948718
       ]
     },
@@ -4361,7 +4361,7 @@ const training =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.7668997668997669
       ]
     },
@@ -4371,7 +4371,7 @@ const training =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.578088578088578
       ]
     },
@@ -4381,7 +4381,7 @@ const training =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.7552447552447552
       ]
     },
@@ -4391,7 +4391,7 @@ const training =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        0.8493150684931506,
+        0.744,
         0.8391608391608392
       ]
     },
@@ -4401,7 +4401,7 @@ const training =
       "student_name": "carnage",
       "student_id": 1663859212298,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.8065268065268065
       ]
     },
@@ -4411,7 +4411,7 @@ const training =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        0.6278538812785388,
+        0.55,
         0.28205128205128205
       ]
     },
@@ -4421,7 +4421,7 @@ const training =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        0.408675799086758,
+        0.358,
         0.32400932400932403
       ]
     },
@@ -4431,7 +4431,7 @@ const training =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        0.6484018264840182,
+        0.568,
         0.28205128205128205
       ]
     },
@@ -4441,7 +4441,7 @@ const training =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.627039627039627
       ]
     },
@@ -4451,7 +4451,7 @@ const training =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.38694638694638694
       ]
     },
@@ -4461,7 +4461,7 @@ const training =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        0.5844748858447488,
+        0.512,
         0.3146853146853147
       ]
     },
@@ -4471,7 +4471,7 @@ const training =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        0.2922374429223744,
+        0.256,
         0.44988344988344986
       ]
     },
@@ -4481,7 +4481,7 @@ const training =
       "student_name": "Souhardya Dutta",
       "student_id": 1663859265004,
       "point": [
-        0.2420091324200913,
+        0.212,
         0.27972027972027974
       ]
     },
@@ -4491,7 +4491,7 @@ const training =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.2773892773892774
       ]
     },
@@ -4501,7 +4501,7 @@ const training =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.24475524475524477
       ]
     },
@@ -4511,7 +4511,7 @@ const training =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        0.682648401826484,
+        0.598,
         0.5128205128205128
       ]
     },
@@ -4521,7 +4521,7 @@ const training =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        0.634703196347032,
+        0.556,
         0.6480186480186481
       ]
     },
@@ -4531,7 +4531,7 @@ const training =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        0.541095890410959,
+        0.474,
         0.29603729603729606
       ]
     },
@@ -4541,7 +4541,7 @@ const training =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        0.2237442922374429,
+        0.196,
         0.6293706293706294
       ]
     },
@@ -4551,7 +4551,7 @@ const training =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        0.23515981735159816,
+        0.206,
         0.5361305361305362
       ]
     },
@@ -4561,7 +4561,7 @@ const training =
       "student_name": "Ansh",
       "student_id": 1663859340941,
       "point": [
-        0.4589041095890411,
+        0.402,
         0.5198135198135199
       ]
     },
@@ -4571,7 +4571,7 @@ const training =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        0.6278538812785388,
+        0.55,
         0.20745920745920746
       ]
     },
@@ -4581,7 +4581,7 @@ const training =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.07692307692307693
       ]
     },
@@ -4591,7 +4591,7 @@ const training =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.46386946386946387
       ]
     },
@@ -4601,7 +4601,7 @@ const training =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.5174825174825175
       ]
     },
@@ -4611,7 +4611,7 @@ const training =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.25874125874125875
       ]
     },
@@ -4621,7 +4621,7 @@ const training =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.8461538461538461
       ]
     },
@@ -4631,7 +4631,7 @@ const training =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        0.8242009132420092,
+        0.722,
         0.7435897435897436
       ]
     },
@@ -4641,7 +4641,7 @@ const training =
       "student_name": "Bartosz",
       "student_id": 1663859377825,
       "point": [
-        0.5342465753424658,
+        0.468,
         0.4801864801864802
       ]
     },
@@ -4651,7 +4651,7 @@ const training =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        0.6643835616438356,
+        0.582,
         0.29836829836829837
       ]
     },
@@ -4661,7 +4661,7 @@ const training =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.3473193473193473
       ]
     },
@@ -4671,7 +4671,7 @@ const training =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        0.2625570776255708,
+        0.23,
         0.5501165501165501
       ]
     },
@@ -4681,7 +4681,7 @@ const training =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.585081585081585
       ]
     },
@@ -4691,7 +4691,7 @@ const training =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.32867132867132864
       ]
     },
@@ -4701,7 +4701,7 @@ const training =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        0.6757990867579908,
+        0.592,
         0.2261072261072261
       ]
     },
@@ -4711,7 +4711,7 @@ const training =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        0.0410958904109589,
+        0.036,
         0.37995337995337997
       ]
     },
@@ -4721,7 +4721,7 @@ const training =
       "student_name": "woikaz",
       "student_id": 1663859379804,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.44988344988344986
       ]
     },
@@ -4731,7 +4731,7 @@ const training =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        0.7831050228310502,
+        0.686,
         0.2494172494172494
       ]
     },
@@ -4741,7 +4741,7 @@ const training =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        0.2876712328767123,
+        0.252,
         0.05827505827505827
       ]
     },
@@ -4751,7 +4751,7 @@ const training =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        0.4657534246575342,
+        0.408,
         0.32400932400932403
       ]
     },
@@ -4761,7 +4761,7 @@ const training =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        0.4200913242009132,
+        0.368,
         0.47785547785547783
       ]
     },
@@ -4771,7 +4771,7 @@ const training =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.30536130536130535
       ]
     },
@@ -4781,7 +4781,7 @@ const training =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        0.3721461187214612,
+        0.326,
         0.4755244755244755
       ]
     },
@@ -4791,7 +4791,7 @@ const training =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        0.2945205479452055,
+        0.258,
         0.27972027972027974
       ]
     },
@@ -4801,7 +4801,7 @@ const training =
       "student_name": "Rupesh Patel",
       "student_id": 1663859467405,
       "point": [
-        0.3493150684931507,
+        0.306,
         0.3682983682983683
       ]
     },
@@ -4811,7 +4811,7 @@ const training =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        0.771689497716895,
+        0.676,
         0.3613053613053613
       ]
     },
@@ -4821,7 +4821,7 @@ const training =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        0.8264840182648402,
+        0.724,
         0.5990675990675991
       ]
     },
@@ -4831,7 +4831,7 @@ const training =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        0.8744292237442922,
+        0.766,
         0.7296037296037297
       ]
     },
@@ -4841,7 +4841,7 @@ const training =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        0.4885844748858447,
+        0.428,
         0.7785547785547785
       ]
     },
@@ -4851,7 +4851,7 @@ const training =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        0.7808219178082192,
+        0.684,
         0.4568764568764569
       ]
     },
@@ -4861,7 +4861,7 @@ const training =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        0.728310502283105,
+        0.638,
         0.7948717948717948
       ]
     },
@@ -4871,7 +4871,7 @@ const training =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        0.7968036529680366,
+        0.698,
         0.6456876456876457
       ]
     },
@@ -4881,7 +4881,7 @@ const training =
       "student_name": "Ed.",
       "student_id": 1663859612486,
       "point": [
-        0.6529680365296804,
+        0.572,
         0.7692307692307693
       ]
     },
@@ -4891,7 +4891,7 @@ const training =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.2564102564102564
       ]
     },
@@ -4901,7 +4901,7 @@ const training =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.1561771561771562
       ]
     },
@@ -4911,7 +4911,7 @@ const training =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        0.3310502283105023,
+        0.29,
         0.46153846153846156
       ]
     },
@@ -4921,7 +4921,7 @@ const training =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.5710955710955711
       ]
     },
@@ -4931,7 +4931,7 @@ const training =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        0.3675799086757991,
+        0.322,
         0.30303030303030304
       ]
     },
@@ -4941,7 +4941,7 @@ const training =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.14918414918414918
       ]
     },
@@ -4951,7 +4951,7 @@ const training =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.49184149184149184
       ]
     },
@@ -4961,7 +4961,7 @@ const training =
       "student_name": "Onur",
       "student_id": 1663859649285,
       "point": [
-        0.3105022831050228,
+        0.272,
         0.32634032634032634
       ]
     },
@@ -4971,7 +4971,7 @@ const training =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.22144522144522144
       ]
     },
@@ -4981,7 +4981,7 @@ const training =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        0.5342465753424658,
+        0.468,
         0.34965034965034963
       ]
     },
@@ -4991,7 +4991,7 @@ const training =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        0.5273972602739726,
+        0.462,
         0.46853146853146854
       ]
     },
@@ -5001,7 +5001,7 @@ const training =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.5664335664335665
       ]
     },
@@ -5011,7 +5011,7 @@ const training =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        0.5,
+        0.438,
         0.34032634032634035
       ]
     },
@@ -5021,7 +5021,7 @@ const training =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        0.6735159817351598,
+        0.59,
         0.5734265734265734
       ]
     },
@@ -5031,7 +5031,7 @@ const training =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        0.4611872146118721,
+        0.404,
         0.43356643356643354
       ]
     },
@@ -5041,7 +5041,7 @@ const training =
       "student_name": "Dvrb",
       "student_id": 1663859650036,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.3752913752913753
       ]
     },
@@ -5051,7 +5051,7 @@ const training =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.11888111888111888
       ]
     },
@@ -5061,7 +5061,7 @@ const training =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.20745920745920746
       ]
     },
@@ -5071,7 +5071,7 @@ const training =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        0.3858447488584475,
+        0.338,
         0.4965034965034965
       ]
     },
@@ -5081,7 +5081,7 @@ const training =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        0.8789954337899544,
+        0.77,
         0.8205128205128205
       ]
     },
@@ -5091,7 +5091,7 @@ const training =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        0.5342465753424658,
+        0.468,
         0.32634032634032634
       ]
     },
@@ -5101,7 +5101,7 @@ const training =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        0.773972602739726,
+        0.678,
         0.703962703962704
       ]
     },
@@ -5111,7 +5111,7 @@ const training =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        0.3013698630136986,
+        0.264,
         0.5291375291375291
       ]
     },
@@ -5121,7 +5121,7 @@ const training =
       "student_name": "anienki",
       "student_id": 1663859666028,
       "point": [
-        0.3675799086757991,
+        0.322,
         0.3333333333333333
       ]
     },
@@ -5131,7 +5131,7 @@ const training =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.47086247086247085
       ]
     },
@@ -5141,7 +5141,7 @@ const training =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        0.4520547945205479,
+        0.396,
         0.14219114219114218
       ]
     },
@@ -5151,7 +5151,7 @@ const training =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.4428904428904429
       ]
     },
@@ -5161,7 +5161,7 @@ const training =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.4755244755244755
       ]
     },
@@ -5171,7 +5171,7 @@ const training =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        0.7579908675799086,
+        0.664,
         0.4755244755244755
       ]
     },
@@ -5181,7 +5181,7 @@ const training =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        0.726027397260274,
+        0.636,
         0.48484848484848486
       ]
     },
@@ -5191,7 +5191,7 @@ const training =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        0.3767123287671233,
+        0.33,
         0.27505827505827507
       ]
     },
@@ -5201,7 +5201,7 @@ const training =
       "student_name": "Rescian",
       "student_id": 1663859668459,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.4289044289044289
       ]
     },
@@ -5211,7 +5211,7 @@ const training =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        0.7465753424657534,
+        0.654,
         0.3822843822843823
       ]
     },
@@ -5221,7 +5221,7 @@ const training =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.34498834498834496
       ]
     },
@@ -5231,7 +5231,7 @@ const training =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        0.819634703196347,
+        0.718,
         0.7808857808857809
       ]
     },
@@ -5241,7 +5241,7 @@ const training =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        0.8059360730593608,
+        0.706,
         0.8624708624708625
       ]
     },
@@ -5251,7 +5251,7 @@ const training =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        0.8538812785388128,
+        0.748,
         0.7016317016317016
       ]
     },
@@ -5261,7 +5261,7 @@ const training =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.710955710955711
       ]
     },
@@ -5271,7 +5271,7 @@ const training =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.7202797202797203
       ]
     },
@@ -5281,7 +5281,7 @@ const training =
       "student_name": "Rishi",
       "student_id": 1663859847700,
       "point": [
-        0.5776255707762558,
+        0.506,
         0.5641025641025641
       ]
     },
@@ -5291,7 +5291,7 @@ const training =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.26107226107226106
       ]
     },
@@ -5301,7 +5301,7 @@ const training =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        0.454337899543379,
+        0.398,
         0.17715617715617715
       ]
     },
@@ -5311,7 +5311,7 @@ const training =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        0.3447488584474886,
+        0.302,
         0.578088578088578
       ]
     },
@@ -5321,7 +5321,7 @@ const training =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.6083916083916084
       ]
     },
@@ -5331,7 +5331,7 @@ const training =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        0.636986301369863,
+        0.558,
         0.4149184149184149
       ]
     },
@@ -5341,7 +5341,7 @@ const training =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        0.2671232876712329,
+        0.234,
         0.6573426573426573
       ]
     },
@@ -5351,7 +5351,7 @@ const training =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        0.1095890410958904,
+        0.096,
         0.5431235431235432
       ]
     },
@@ -5361,7 +5361,7 @@ const training =
       "student_name": "arifesat",
       "student_id": 1663859871742,
       "point": [
-        0.6598173515981736,
+        0.578,
         0.6573426573426573
       ]
     },
@@ -5371,7 +5371,7 @@ const training =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.3146853146853147
       ]
     },
@@ -5381,7 +5381,7 @@ const training =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        0.502283105022831,
+        0.44,
         0.22144522144522144
       ]
     },
@@ -5391,7 +5391,7 @@ const training =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.45454545454545453
       ]
     },
@@ -5401,7 +5401,7 @@ const training =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        0.728310502283105,
+        0.638,
         0.7482517482517482
       ]
     },
@@ -5411,7 +5411,7 @@ const training =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        0.7534246575342466,
+        0.66,
         0.38927738927738925
       ]
     },
@@ -5421,7 +5421,7 @@ const training =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        0.8059360730593608,
+        0.706,
         0.351981351981352
       ]
     },
@@ -5431,7 +5431,7 @@ const training =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        0.6438356164383562,
+        0.564,
         0.337995337995338
       ]
     },
@@ -5441,7 +5441,7 @@ const training =
       "student_name": "muhib",
       "student_id": 1663860019864,
       "point": [
-        0.4680365296803653,
+        0.41,
         0.47086247086247085
       ]
     },
@@ -5451,7 +5451,7 @@ const training =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.21678321678321677
       ]
     },
@@ -5461,7 +5461,7 @@ const training =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        0.454337899543379,
+        0.398,
         0.10023310023310024
       ]
     },
@@ -5471,7 +5471,7 @@ const training =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        0.545662100456621,
+        0.478,
         0.6783216783216783
       ]
     },
@@ -5481,7 +5481,7 @@ const training =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.7505827505827506
       ]
     },
@@ -5491,7 +5491,7 @@ const training =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.28438228438228436
       ]
     },
@@ -5501,7 +5501,7 @@ const training =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        0.7968036529680366,
+        0.698,
         0.7296037296037297
       ]
     },
@@ -5511,7 +5511,7 @@ const training =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.5454545454545454
       ]
     },
@@ -5521,7 +5521,7 @@ const training =
       "student_name": "Draig",
       "student_id": 1663860074454,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.6060606060606061
       ]
     },
@@ -5531,7 +5531,7 @@ const training =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        0.6689497716894978,
+        0.586,
         0.25874125874125875
       ]
     },
@@ -5541,7 +5541,7 @@ const training =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        0.593607305936073,
+        0.52,
         0.2097902097902098
       ]
     },
@@ -5551,7 +5551,7 @@ const training =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        0.541095890410959,
+        0.474,
         0.6456876456876457
       ]
     },
@@ -5561,7 +5561,7 @@ const training =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        0.4360730593607306,
+        0.382,
         0.7575757575757576
       ]
     },
@@ -5571,7 +5571,7 @@ const training =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.3123543123543124
       ]
     },
@@ -5581,7 +5581,7 @@ const training =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        0.3264840182648402,
+        0.286,
         0.5734265734265734
       ]
     },
@@ -5591,7 +5591,7 @@ const training =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        0.06164383561643835,
+        0.054,
         0.2540792540792541
       ]
     },
@@ -5601,7 +5601,7 @@ const training =
       "student_name": "Natan",
       "student_id": 1663860172117,
       "point": [
-        0.2671232876712329,
+        0.234,
         0.32634032634032634
       ]
     },
@@ -5611,7 +5611,7 @@ const training =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        0.4771689497716895,
+        0.418,
         0.4219114219114219
       ]
     },
@@ -5621,7 +5621,7 @@ const training =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.6946386946386947
       ]
     },
@@ -5631,7 +5631,7 @@ const training =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        0.7625570776255708,
+        0.668,
         0.675990675990676
       ]
     },
@@ -5641,7 +5641,7 @@ const training =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        0.8812785388127854,
+        0.772,
         0.8927738927738927
       ]
     },
@@ -5651,7 +5651,7 @@ const training =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        0.7876712328767124,
+        0.69,
         0.5524475524475524
       ]
     },
@@ -5661,7 +5661,7 @@ const training =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        0.7990867579908676,
+        0.7,
         0.8671328671328671
       ]
     },
@@ -5671,7 +5671,7 @@ const training =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        0.2328767123287671,
+        0.204,
         0.7995337995337995
       ]
     },
@@ -5681,7 +5681,7 @@ const training =
       "student_name": "Random_P",
       "student_id": 1663860275179,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.44988344988344986
       ]
     },
@@ -5691,7 +5691,7 @@ const training =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        0.8356164383561644,
+        0.732,
         0.358974358974359
       ]
     },
@@ -5701,7 +5701,7 @@ const training =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.18181818181818182
       ]
     },
@@ -5711,7 +5711,7 @@ const training =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        0.7077625570776256,
+        0.62,
         0.8391608391608392
       ]
     },
@@ -5721,7 +5721,7 @@ const training =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        0.678082191780822,
+        0.594,
         0.8205128205128205
       ]
     },
@@ -5731,7 +5731,7 @@ const training =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        0.6484018264840182,
+        0.568,
         0.34265734265734266
       ]
     },
@@ -5741,7 +5741,7 @@ const training =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.6806526806526807
       ]
     },
@@ -5751,7 +5751,7 @@ const training =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        0.2945205479452055,
+        0.258,
         0.2634032634032634
       ]
     },
@@ -5761,7 +5761,7 @@ const training =
       "student_name": "nitish",
       "student_id": 1663860413416,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.4289044289044289
       ]
     },
@@ -5771,7 +5771,7 @@ const training =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        0.6278538812785388,
+        0.55,
         0.32867132867132864
       ]
     },
@@ -5781,7 +5781,7 @@ const training =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.4382284382284382
       ]
     },
@@ -5791,7 +5791,7 @@ const training =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.47086247086247085
       ]
     },
@@ -5801,7 +5801,7 @@ const training =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.578088578088578
       ]
     },
@@ -5811,7 +5811,7 @@ const training =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        0.4885844748858447,
+        0.428,
         0.4522144522144522
       ]
     },
@@ -5821,7 +5821,7 @@ const training =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.5268065268065268
       ]
     },
@@ -5831,7 +5831,7 @@ const training =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        0.271689497716895,
+        0.238,
         0.5268065268065268
       ]
     },
@@ -5841,7 +5841,7 @@ const training =
       "student_name": "Riyan",
       "student_id": 1663860523187,
       "point": [
-        0.3333333333333333,
+        0.292,
         0.31934731934731936
       ]
     },
@@ -5851,7 +5851,7 @@ const training =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        0.6986301369863014,
+        0.612,
         0.29603729603729606
       ]
     },
@@ -5861,7 +5861,7 @@ const training =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.3333333333333333
       ]
     },
@@ -5871,7 +5871,7 @@ const training =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        0.6757990867579908,
+        0.592,
         0.48484848484848486
       ]
     },
@@ -5881,7 +5881,7 @@ const training =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        0.8561643835616438,
+        0.75,
         0.7878787878787878
       ]
     },
@@ -5891,7 +5891,7 @@ const training =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.351981351981352
       ]
     },
@@ -5901,7 +5901,7 @@ const training =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.7132867132867133
       ]
     },
@@ -5911,7 +5911,7 @@ const training =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        0.18493150684931506,
+        0.162,
         0.38461538461538464
       ]
     },
@@ -5921,7 +5921,7 @@ const training =
       "student_name": "Macedo",
       "student_id": 1663860681427,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.5361305361305362
       ]
     },
@@ -5931,7 +5931,7 @@ const training =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.2191142191142191
       ]
     },
@@ -5941,7 +5941,7 @@ const training =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.32400932400932403
       ]
     },
@@ -5951,7 +5951,7 @@ const training =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.6083916083916084
       ]
     },
@@ -5961,7 +5961,7 @@ const training =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        0.7374429223744292,
+        0.646,
         0.7995337995337995
       ]
     },
@@ -5971,7 +5971,7 @@ const training =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.5011655011655012
       ]
     },
@@ -5981,7 +5981,7 @@ const training =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        0.3013698630136986,
+        0.264,
         0.8251748251748252
       ]
     },
@@ -5991,7 +5991,7 @@ const training =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.08624708624708624
       ]
     },
@@ -6001,7 +6001,7 @@ const training =
       "student_name": "Suicide",
       "student_id": 1663860687592,
       "point": [
-        0.3904109589041096,
+        0.342,
         0.36596736596736595
       ]
     },
@@ -6011,7 +6011,7 @@ const training =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.2564102564102564
       ]
     },
@@ -6021,7 +6021,7 @@ const training =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.25874125874125875
       ]
     },
@@ -6031,7 +6031,7 @@ const training =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        0.3881278538812785,
+        0.34,
         0.37995337995337997
       ]
     },
@@ -6041,7 +6041,7 @@ const training =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.5664335664335665
       ]
     },
@@ -6051,7 +6051,7 @@ const training =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.34032634032634035
       ]
     },
@@ -6061,7 +6061,7 @@ const training =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.4592074592074592
       ]
     },
@@ -6071,7 +6071,7 @@ const training =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        0.2648401826484018,
+        0.232,
         0.1864801864801865
       ]
     },
@@ -6081,7 +6081,7 @@ const training =
       "student_name": "Shabir",
       "student_id": 1663860827761,
       "point": [
-        0.24885844748858446,
+        0.218,
         0.19813519813519814
       ]
     },
@@ -6091,7 +6091,7 @@ const training =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        0.4200913242009132,
+        0.368,
         0.1258741258741259
       ]
     },
@@ -6101,7 +6101,7 @@ const training =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        0.23515981735159816,
+        0.206,
         0.023310023310023312
       ]
     },
@@ -6111,7 +6111,7 @@ const training =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        0.3812785388127854,
+        0.334,
         0.2773892773892774
       ]
     },
@@ -6121,7 +6121,7 @@ const training =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.5058275058275058
       ]
     },
@@ -6131,7 +6131,7 @@ const training =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.21212121212121213
       ]
     },
@@ -6141,7 +6141,7 @@ const training =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        0.58675799086758,
+        0.514,
         0.25874125874125875
       ]
     },
@@ -6151,7 +6151,7 @@ const training =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.08624708624708624
       ]
     },
@@ -6161,7 +6161,7 @@ const training =
       "student_name": "Utsav",
       "student_id": 1663860887755,
       "point": [
-        0.2534246575342466,
+        0.222,
         0.24475524475524477
       ]
     },
@@ -6171,7 +6171,7 @@ const training =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.24475524475524477
       ]
     },
@@ -6181,7 +6181,7 @@ const training =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.11655011655011654
       ]
     },
@@ -6191,7 +6191,7 @@ const training =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        0.3904109589041096,
+        0.342,
         0.3006993006993007
       ]
     },
@@ -6201,7 +6201,7 @@ const training =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.696969696969697
       ]
     },
@@ -6211,7 +6211,7 @@ const training =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        0.408675799086758,
+        0.358,
         0.28205128205128205
       ]
     },
@@ -6221,7 +6221,7 @@ const training =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        0.23972602739726026,
+        0.21,
         0.44988344988344986
       ]
     },
@@ -6231,7 +6231,7 @@ const training =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.06293706293706294
       ]
     },
@@ -6241,7 +6241,7 @@ const training =
       "student_name": "saurav",
       "student_id": 1663860894748,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.5501165501165501
       ]
     },
@@ -6251,7 +6251,7 @@ const training =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        0.5273972602739726,
+        0.462,
         0.34032634032634035
       ]
     },
@@ -6261,7 +6261,7 @@ const training =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        0.408675799086758,
+        0.358,
         0.2540792540792541
       ]
     },
@@ -6271,7 +6271,7 @@ const training =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        0.6004566210045662,
+        0.526,
         0.5571095571095571
       ]
     },
@@ -6281,7 +6281,7 @@ const training =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.7249417249417249
       ]
     },
@@ -6291,7 +6291,7 @@ const training =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.3706293706293706
       ]
     },
@@ -6301,7 +6301,7 @@ const training =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        0.4063926940639269,
+        0.356,
         0.7226107226107226
       ]
     },
@@ -6311,7 +6311,7 @@ const training =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.5128205128205128
       ]
     },
@@ -6321,7 +6321,7 @@ const training =
       "student_name": "kubin",
       "student_id": 1663860917134,
       "point": [
-        0.4452054794520548,
+        0.39,
         0.46153846153846156
       ]
     },
@@ -6331,7 +6331,7 @@ const training =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.17482517482517482
       ]
     },
@@ -6341,7 +6341,7 @@ const training =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        0.4292237442922374,
+        0.376,
         0.10955710955710955
       ]
     },
@@ -6351,7 +6351,7 @@ const training =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.675990675990676
       ]
     },
@@ -6361,7 +6361,7 @@ const training =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.49417249417249415
       ]
     },
@@ -6371,7 +6371,7 @@ const training =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.4195804195804196
       ]
     },
@@ -6381,7 +6381,7 @@ const training =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.2331002331002331
       ]
     },
@@ -6391,7 +6391,7 @@ const training =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        0.454337899543379,
+        0.398,
         0.5104895104895105
       ]
     },
@@ -6401,7 +6401,7 @@ const training =
       "student_name": "piet",
       "student_id": 1663860941163,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.32867132867132864
       ]
     },
@@ -6411,7 +6411,7 @@ const training =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.3986013986013986
       ]
     },
@@ -6421,7 +6421,7 @@ const training =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        0.634703196347032,
+        0.556,
         0.3473193473193473
       ]
     },
@@ -6431,7 +6431,7 @@ const training =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.627039627039627
       ]
     },
@@ -6441,7 +6441,7 @@ const training =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.7552447552447552
       ]
     },
@@ -6451,7 +6451,7 @@ const training =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.4428904428904429
       ]
     },
@@ -6461,7 +6461,7 @@ const training =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.2867132867132867
       ]
     },
@@ -6471,7 +6471,7 @@ const training =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        0.5342465753424658,
+        0.468,
         0.6456876456876457
       ]
     },
@@ -6481,7 +6481,7 @@ const training =
       "student_name": "RaskolnickOFF",
       "student_id": 1663860950837,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.14219114219114218
       ]
     },
@@ -6491,7 +6491,7 @@ const training =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.4592074592074592
       ]
     },
@@ -6501,7 +6501,7 @@ const training =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        0.3904109589041096,
+        0.342,
         0.18181818181818182
       ]
     },
@@ -6511,7 +6511,7 @@ const training =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        0.45662100456621,
+        0.4,
         0.44988344988344986
       ]
     },
@@ -6521,7 +6521,7 @@ const training =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.5827505827505828
       ]
     },
@@ -6531,7 +6531,7 @@ const training =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        0.636986301369863,
+        0.558,
         0.37995337995337997
       ]
     },
@@ -6541,7 +6541,7 @@ const training =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        0.2876712328767123,
+        0.252,
         0.5944055944055944
       ]
     },
@@ -6551,7 +6551,7 @@ const training =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.27505827505827507
       ]
     },
@@ -6561,7 +6561,7 @@ const training =
       "student_name": "Sulaiman Mustapha",
       "student_id": 1663861108313,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.32634032634032634
       ]
     },
@@ -6571,7 +6571,7 @@ const training =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        0.5776255707762558,
+        0.506,
         0.5314685314685315
       ]
     },
@@ -6581,7 +6581,7 @@ const training =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        0.410958904109589,
+        0.36,
         0.5081585081585082
       ]
     },
@@ -6591,7 +6591,7 @@ const training =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        0.3744292237442922,
+        0.328,
         0.585081585081585
       ]
     },
@@ -6601,7 +6601,7 @@ const training =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        0.5639269406392694,
+        0.494,
         0.6573426573426573
       ]
     },
@@ -6611,7 +6611,7 @@ const training =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        0.3470319634703196,
+        0.304,
         0.62004662004662
       ]
     },
@@ -6621,7 +6621,7 @@ const training =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        0.4452054794520548,
+        0.39,
         0.5664335664335665
       ]
     },
@@ -6631,7 +6631,7 @@ const training =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        0.2990867579908676,
+        0.262,
         0.696969696969697
       ]
     },
@@ -6641,7 +6641,7 @@ const training =
       "student_name": "4am",
       "student_id": 1663861295079,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.4358974358974359
       ]
     },
@@ -6651,7 +6651,7 @@ const training =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        0.7465753424657534,
+        0.654,
         0.331002331002331
       ]
     },
@@ -6661,7 +6661,7 @@ const training =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.12354312354312354
       ]
     },
@@ -6671,7 +6671,7 @@ const training =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.47086247086247085
       ]
     },
@@ -6681,7 +6681,7 @@ const training =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        0.3150684931506849,
+        0.276,
         0.6386946386946387
       ]
     },
@@ -6691,7 +6691,7 @@ const training =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.3543123543123543
       ]
     },
@@ -6701,7 +6701,7 @@ const training =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        0.3584474885844749,
+        0.314,
         0.38927738927738925
       ]
     },
@@ -6711,7 +6711,7 @@ const training =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        0.18949771689497716,
+        0.166,
         0.4592074592074592
       ]
     },
@@ -6721,7 +6721,7 @@ const training =
       "student_name": "Kaz",
       "student_id": 1663861411627,
       "point": [
-        0.1780821917808219,
+        0.156,
         0.28438228438228436
       ]
     },
@@ -6731,7 +6731,7 @@ const training =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        0.728310502283105,
+        0.638,
         0.4382284382284382
       ]
     },
@@ -6741,7 +6741,7 @@ const training =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.1351981351981352
       ]
     },
@@ -6751,7 +6751,7 @@ const training =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.5198135198135199
       ]
     },
@@ -6761,7 +6761,7 @@ const training =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        0.589041095890411,
+        0.516,
         0.6713286713286714
       ]
     },
@@ -6771,7 +6771,7 @@ const training =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.4801864801864802
       ]
     },
@@ -6781,7 +6781,7 @@ const training =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        0.771689497716895,
+        0.676,
         0.7062937062937062
       ]
     },
@@ -6791,7 +6791,7 @@ const training =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        0.3127853881278539,
+        0.274,
         0.4662004662004662
       ]
     },
@@ -6801,7 +6801,7 @@ const training =
       "student_name": "ivan",
       "student_id": 1663861487181,
       "point": [
-        0.3447488584474886,
+        0.302,
         0.38927738927738925
       ]
     },
@@ -6811,7 +6811,7 @@ const training =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.2191142191142191
       ]
     },
@@ -6821,7 +6821,7 @@ const training =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.15384615384615385
       ]
     },
@@ -6831,7 +6831,7 @@ const training =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.2540792540792541
       ]
     },
@@ -6841,7 +6841,7 @@ const training =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        0.4611872146118721,
+        0.404,
         0.49184149184149184
       ]
     },
@@ -6851,7 +6851,7 @@ const training =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        0.4452054794520548,
+        0.39,
         0.22843822843822845
       ]
     },
@@ -6861,7 +6861,7 @@ const training =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        0.7511415525114156,
+        0.658,
         0.351981351981352
       ]
     },
@@ -6871,7 +6871,7 @@ const training =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        0.0776255707762557,
+        0.068,
         0.49417249417249415
       ]
     },
@@ -6881,7 +6881,7 @@ const training =
       "student_name": "summer_ddot",
       "student_id": 1663861521045,
       "point": [
-        0.3744292237442922,
+        0.328,
         0.317016317016317
       ]
     },
@@ -6891,7 +6891,7 @@ const training =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.1864801864801865
       ]
     },
@@ -6901,7 +6901,7 @@ const training =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.12121212121212122
       ]
     },
@@ -6911,7 +6911,7 @@ const training =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        0.5753424657534246,
+        0.504,
         0.43356643356643354
       ]
     },
@@ -6921,7 +6921,7 @@ const training =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        0.273972602739726,
+        0.24,
         0.578088578088578
       ]
     },
@@ -6931,7 +6931,7 @@ const training =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        0.3219178082191781,
+        0.282,
         0.17249417249417248
       ]
     },
@@ -6941,7 +6941,7 @@ const training =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        0.6301369863013698,
+        0.552,
         0.23076923076923078
       ]
     },
@@ -6951,7 +6951,7 @@ const training =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        0.5182648401826484,
+        0.454,
         0
       ]
     },
@@ -6961,7 +6961,7 @@ const training =
       "student_name": "john",
       "student_id": 1663861734828,
       "point": [
-        0.5342465753424658,
+        0.468,
         0.4195804195804196
       ]
     },
@@ -6971,7 +6971,7 @@ const training =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        0.769406392694064,
+        0.674,
         0.4382284382284382
       ]
     },
@@ -6981,7 +6981,7 @@ const training =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.351981351981352
       ]
     },
@@ -6991,7 +6991,7 @@ const training =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.655011655011655
       ]
     },
@@ -7001,7 +7001,7 @@ const training =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        0.6872146118721462,
+        0.602,
         0.7132867132867133
       ]
     },
@@ -7011,7 +7011,7 @@ const training =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        0.7968036529680366,
+        0.698,
         0.4801864801864802
       ]
     },
@@ -7021,7 +7021,7 @@ const training =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        0.771689497716895,
+        0.676,
         0.3123543123543124
       ]
     },
@@ -7031,7 +7031,7 @@ const training =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.43356643356643354
       ]
     },
@@ -7041,7 +7041,7 @@ const training =
       "student_name": "Ashutosh ",
       "student_id": 1663862181342,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.5477855477855478
       ]
     },
@@ -7051,7 +7051,7 @@ const training =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.745920745920746
       ]
     },
@@ -7061,7 +7061,7 @@ const training =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.24475524475524477
       ]
     },
@@ -7071,7 +7071,7 @@ const training =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.5501165501165501
       ]
     },
@@ -7081,7 +7081,7 @@ const training =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.6386946386946387
       ]
     },
@@ -7091,7 +7091,7 @@ const training =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        0.4200913242009132,
+        0.368,
         0.2727272727272727
       ]
     },
@@ -7101,7 +7101,7 @@ const training =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        0.541095890410959,
+        0.474,
         0.5174825174825175
       ]
     },
@@ -7111,7 +7111,7 @@ const training =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        0.06164383561643835,
+        0.054,
         0.3939393939393939
       ]
     },
@@ -7121,7 +7121,7 @@ const training =
       "student_name": "kholid",
       "student_id": 1663862290705,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.41025641025641024
       ]
     },
@@ -7131,7 +7131,7 @@ const training =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.5128205128205128
       ]
     },
@@ -7141,7 +7141,7 @@ const training =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.6806526806526807
       ]
     },
@@ -7151,7 +7151,7 @@ const training =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.5081585081585082
       ]
     },
@@ -7161,7 +7161,7 @@ const training =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.49184149184149184
       ]
     },
@@ -7171,7 +7171,7 @@ const training =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        0.4063926940639269,
+        0.356,
         0.27972027972027974
       ]
     },
@@ -7181,7 +7181,7 @@ const training =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        0.54337899543379,
+        0.476,
         0.47785547785547783
       ]
     },
@@ -7191,7 +7191,7 @@ const training =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        0.11643835616438356,
+        0.102,
         0.5244755244755245
       ]
     },
@@ -7201,7 +7201,7 @@ const training =
       "student_name": "Ricardo ",
       "student_id": 1663862423620,
       "point": [
-        0.317351598173516,
+        0.278,
         0.40792540792540793
       ]
     },
@@ -7211,7 +7211,7 @@ const training =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.2261072261072261
       ]
     },
@@ -7221,7 +7221,7 @@ const training =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        0.3127853881278539,
+        0.274,
         0.21678321678321677
       ]
     },
@@ -7231,7 +7231,7 @@ const training =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.36363636363636365
       ]
     },
@@ -7241,7 +7241,7 @@ const training =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        0.182648401826484,
+        0.16,
         0.634032634032634
       ]
     },
@@ -7251,7 +7251,7 @@ const training =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        0.3493150684931507,
+        0.306,
         0.40792540792540793
       ]
     },
@@ -7261,7 +7261,7 @@ const training =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        0.3242009132420091,
+        0.284,
         0.5944055944055944
       ]
     },
@@ -7271,7 +7271,7 @@ const training =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.5967365967365967
       ]
     },
@@ -7281,7 +7281,7 @@ const training =
       "student_name": "Dani",
       "student_id": 1663862517752,
       "point": [
-        0.2899543378995434,
+        0.254,
         0.34265734265734266
       ]
     },
@@ -7291,7 +7291,7 @@ const training =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.24708624708624707
       ]
     },
@@ -7301,7 +7301,7 @@ const training =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.26107226107226106
       ]
     },
@@ -7311,7 +7311,7 @@ const training =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.5431235431235432
       ]
     },
@@ -7321,7 +7321,7 @@ const training =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.6107226107226107
       ]
     },
@@ -7331,7 +7331,7 @@ const training =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.4825174825174825
       ]
     },
@@ -7341,7 +7341,7 @@ const training =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.3916083916083916
       ]
     },
@@ -7351,7 +7351,7 @@ const training =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        0.12100456621004566,
+        0.106,
         0.5244755244755245
       ]
     },
@@ -7361,7 +7361,7 @@ const training =
       "student_name": "Vaibhav Gupta",
       "student_id": 1663862856552,
       "point": [
-        0.634703196347032,
+        0.556,
         0.4522144522144522
       ]
     },
@@ -7371,7 +7371,7 @@ const training =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        0.7442922374429224,
+        0.652,
         0.2867132867132867
       ]
     },
@@ -7381,7 +7381,7 @@ const training =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.5710955710955711
       ]
     },
@@ -7391,7 +7391,7 @@ const training =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        0.502283105022831,
+        0.44,
         0.6643356643356644
       ]
     },
@@ -7401,7 +7401,7 @@ const training =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.7925407925407926
       ]
     },
@@ -7411,7 +7411,7 @@ const training =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        0.7031963470319634,
+        0.616,
         0.4522144522144522
       ]
     },
@@ -7421,7 +7421,7 @@ const training =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.6177156177156177
       ]
     },
@@ -7431,7 +7431,7 @@ const training =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        0.547945205479452,
+        0.48,
         0.585081585081585
       ]
     },
@@ -7441,7 +7441,7 @@ const training =
       "student_name": "mayank ",
       "student_id": 1663863265090,
       "point": [
-        0.5753424657534246,
+        0.504,
         0.5361305361305362
       ]
     },
@@ -7451,7 +7451,7 @@ const training =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        0.502283105022831,
+        0.44,
         0.13752913752913754
       ]
     },
@@ -7461,7 +7461,7 @@ const training =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.17715617715617715
       ]
     },
@@ -7471,7 +7471,7 @@ const training =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.3776223776223776
       ]
     },
@@ -7481,7 +7481,7 @@ const training =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        0.773972602739726,
+        0.678,
         0.7342657342657343
       ]
     },
@@ -7491,7 +7491,7 @@ const training =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.317016317016317
       ]
     },
@@ -7501,7 +7501,7 @@ const training =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        0.773972602739726,
+        0.678,
         0.22144522144522144
       ]
     },
@@ -7511,7 +7511,7 @@ const training =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.7785547785547785
       ]
     },
@@ -7521,7 +7521,7 @@ const training =
       "student_name": "az",
       "student_id": 1663863353755,
       "point": [
-        0.1872146118721461,
+        0.164,
         0.19813519813519814
       ]
     },
@@ -7531,7 +7531,7 @@ const training =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.2773892773892774
       ]
     },
@@ -7541,7 +7541,7 @@ const training =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.40093240093240096
       ]
     },
@@ -7551,7 +7551,7 @@ const training =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.5477855477855478
       ]
     },
@@ -7561,7 +7561,7 @@ const training =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.7296037296037297
       ]
     },
@@ -7571,7 +7571,7 @@ const training =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.317016317016317
       ]
     },
@@ -7581,7 +7581,7 @@ const training =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.5268065268065268
       ]
     },
@@ -7591,7 +7591,7 @@ const training =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.6130536130536131
       ]
     },
@@ -7601,7 +7601,7 @@ const training =
       "student_name": "Pesterenan",
       "student_id": 1663863425980,
       "point": [
-        0.2146118721461187,
+        0.188,
         0.20279720279720279
       ]
     },
@@ -7611,7 +7611,7 @@ const training =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.2400932400932401
       ]
     },
@@ -7621,7 +7621,7 @@ const training =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        0.7031963470319634,
+        0.616,
         0.4405594405594406
       ]
     },
@@ -7631,7 +7631,7 @@ const training =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        0.4474885844748858,
+        0.392,
         0.5314685314685315
       ]
     },
@@ -7641,7 +7641,7 @@ const training =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        0.7534246575342466,
+        0.66,
         0.8275058275058275
       ]
     },
@@ -7651,7 +7651,7 @@ const training =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        0.4977168949771689,
+        0.436,
         0.2634032634032634
       ]
     },
@@ -7661,7 +7661,7 @@ const training =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        0.545662100456621,
+        0.478,
         0.5804195804195804
       ]
     },
@@ -7671,7 +7671,7 @@ const training =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        0.410958904109589,
+        0.36,
         0.42424242424242425
       ]
     },
@@ -7681,7 +7681,7 @@ const training =
       "student_name": "alireza",
       "student_id": 1663863426940,
       "point": [
-        0.3789954337899543,
+        0.332,
         0.7086247086247086
       ]
     },
@@ -7691,7 +7691,7 @@ const training =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.12121212121212122
       ]
     },
@@ -7701,7 +7701,7 @@ const training =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        0.4292237442922374,
+        0.376,
         0.1351981351981352
       ]
     },
@@ -7711,7 +7711,7 @@ const training =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        0.2968036529680365,
+        0.26,
         0.49184149184149184
       ]
     },
@@ -7721,7 +7721,7 @@ const training =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        0.365296803652968,
+        0.32,
         0.7738927738927739
       ]
     },
@@ -7731,7 +7731,7 @@ const training =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        0.589041095890411,
+        0.516,
         0.3123543123543124
       ]
     },
@@ -7741,7 +7741,7 @@ const training =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        0.3036529680365297,
+        0.266,
         0.6713286713286714
       ]
     },
@@ -7751,7 +7751,7 @@ const training =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.5804195804195804
       ]
     },
@@ -7761,7 +7761,7 @@ const training =
       "student_name": "John D'Oeuf",
       "student_id": 1663863684612,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.34498834498834496
       ]
     },
@@ -7771,7 +7771,7 @@ const training =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        0.819634703196347,
+        0.718,
         0.2727272727272727
       ]
     },
@@ -7781,7 +7781,7 @@ const training =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        0.6917808219178082,
+        0.606,
         0.42424242424242425
       ]
     },
@@ -7791,7 +7791,7 @@ const training =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        0.8721461187214612,
+        0.764,
         0.7972027972027972
       ]
     },
@@ -7801,7 +7801,7 @@ const training =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        0.8721461187214612,
+        0.764,
         0.6456876456876457
       ]
     },
@@ -7811,7 +7811,7 @@ const training =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        0.7945205479452054,
+        0.696,
         0.4382284382284382
       ]
     },
@@ -7821,7 +7821,7 @@ const training =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        0.7534246575342466,
+        0.66,
         0.7272727272727273
       ]
     },
@@ -7831,7 +7831,7 @@ const training =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.6596736596736597
       ]
     },
@@ -7841,7 +7841,7 @@ const training =
       "student_name": "Bren",
       "student_id": 1663863699368,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.5687645687645687
       ]
     },
@@ -7851,7 +7851,7 @@ const training =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.19813519813519814
       ]
     },
@@ -7861,7 +7861,7 @@ const training =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        0.4840182648401826,
+        0.424,
         0.26107226107226106
       ]
     },
@@ -7871,7 +7871,7 @@ const training =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        0.6301369863013698,
+        0.552,
         0.7552447552447552
       ]
     },
@@ -7881,7 +7881,7 @@ const training =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        0.591324200913242,
+        0.518,
         0.6876456876456877
       ]
     },
@@ -7891,7 +7891,7 @@ const training =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        0.6278538812785388,
+        0.55,
         0.3682983682983683
       ]
     },
@@ -7901,7 +7901,7 @@ const training =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        0.319634703196347,
+        0.28,
         0.4592074592074592
       ]
     },
@@ -7911,7 +7911,7 @@ const training =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.48717948717948717
       ]
     },
@@ -7921,7 +7921,7 @@ const training =
       "student_name": "klk con klk",
       "student_id": 1663864161744,
       "point": [
-        0.3036529680365297,
+        0.266,
         0.36596736596736595
       ]
     },
@@ -7931,7 +7931,7 @@ const training =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        0.593607305936073,
+        0.52,
         0.1585081585081585
       ]
     },
@@ -7941,7 +7941,7 @@ const training =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.14219114219114218
       ]
     },
@@ -7951,7 +7951,7 @@ const training =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        0.723744292237443,
+        0.634,
         0.5990675990675991
       ]
     },
@@ -7961,7 +7961,7 @@ const training =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        0.5844748858447488,
+        0.512,
         0.6433566433566433
       ]
     },
@@ -7971,7 +7971,7 @@ const training =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.1561771561771562
       ]
     },
@@ -7981,7 +7981,7 @@ const training =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        0.634703196347032,
+        0.556,
         0.08158508158508158
       ]
     },
@@ -7991,7 +7991,7 @@ const training =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        0.02054794520547945,
+        0.018,
         0.4405594405594406
       ]
     },
@@ -8001,7 +8001,7 @@ const training =
       "student_name": "Volodymyr",
       "student_id": 1663864545890,
       "point": [
-        0.410958904109589,
+        0.36,
         0.3986013986013986
       ]
     },
@@ -8011,7 +8011,7 @@ const training =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.4289044289044289
       ]
     },
@@ -8021,7 +8021,7 @@ const training =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        0.4840182648401826,
+        0.424,
         0.5501165501165501
       ]
     },
@@ -8031,7 +8031,7 @@ const training =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.5967365967365967
       ]
     },
@@ -8041,7 +8041,7 @@ const training =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        0.2968036529680365,
+        0.26,
         0.5244755244755245
       ]
     },
@@ -8051,7 +8051,7 @@ const training =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        0.2899543378995434,
+        0.254,
         0.5920745920745921
       ]
     },
@@ -8061,7 +8061,7 @@ const training =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        0.593607305936073,
+        0.52,
         0.6899766899766899
       ]
     },
@@ -8071,7 +8071,7 @@ const training =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        0.545662100456621,
+        0.478,
         0.5384615384615384
       ]
     },
@@ -8081,7 +8081,7 @@ const training =
       "student_name": "Adarsh ",
       "student_id": 1663864583532,
       "point": [
-        0.5,
+        0.438,
         0.49417249417249415
       ]
     },
@@ -8091,7 +8091,7 @@ const training =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        0.7648401826484018,
+        0.67,
         0.4568764568764569
       ]
     },
@@ -8101,7 +8101,7 @@ const training =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        0.4132420091324201,
+        0.362,
         0.28438228438228436
       ]
     },
@@ -8111,7 +8111,7 @@ const training =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.5104895104895105
       ]
     },
@@ -8121,7 +8121,7 @@ const training =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        0.680365296803653,
+        0.596,
         0.6876456876456877
       ]
     },
@@ -8131,7 +8131,7 @@ const training =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.5291375291375291
       ]
     },
@@ -8141,7 +8141,7 @@ const training =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.5547785547785548
       ]
     },
@@ -8151,7 +8151,7 @@ const training =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        0.19863013698630136,
+        0.174,
         0.351981351981352
       ]
     },
@@ -8161,7 +8161,7 @@ const training =
       "student_name": "‍‍‍‍‍",
       "student_id": 1663864656131,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.682983682983683
       ]
     },
@@ -8171,7 +8171,7 @@ const training =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.3473193473193473
       ]
     },
@@ -8181,7 +8181,7 @@ const training =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        0.634703196347032,
+        0.556,
         0.3076923076923077
       ]
     },
@@ -8191,7 +8191,7 @@ const training =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        0.6301369863013698,
+        0.552,
         0.43356643356643354
       ]
     },
@@ -8201,7 +8201,7 @@ const training =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.7132867132867133
       ]
     },
@@ -8211,7 +8211,7 @@ const training =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.5058275058275058
       ]
     },
@@ -8221,7 +8221,7 @@ const training =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        0.8812785388127854,
+        0.772,
         0.745920745920746
       ]
     },
@@ -8231,7 +8231,7 @@ const training =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        0.7054794520547946,
+        0.618,
         0.62004662004662
       ]
     },
@@ -8241,7 +8241,7 @@ const training =
       "student_name": "Tintin",
       "student_id": 1663864778979,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.5757575757575758
       ]
     },
@@ -8251,7 +8251,7 @@ const training =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.2727272727272727
       ]
     },
@@ -8261,7 +8261,7 @@ const training =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.289044289044289
       ]
     },
@@ -8271,7 +8271,7 @@ const training =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        0.547945205479452,
+        0.48,
         0.5337995337995338
       ]
     },
@@ -8281,7 +8281,7 @@ const training =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        0.7397260273972602,
+        0.648,
         0.8111888111888111
       ]
     },
@@ -8291,7 +8291,7 @@ const training =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.48484848484848486
       ]
     },
@@ -8301,7 +8301,7 @@ const training =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        0.3493150684931507,
+        0.306,
         0.8368298368298368
       ]
     },
@@ -8311,7 +8311,7 @@ const training =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        0.0365296803652968,
+        0.032,
         0.7505827505827506
       ]
     },
@@ -8321,7 +8321,7 @@ const training =
       "student_name": "dragonreaper",
       "student_id": 1663864927843,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.6107226107226107
       ]
     },
@@ -8331,7 +8331,7 @@ const training =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.23776223776223776
       ]
     },
@@ -8341,7 +8341,7 @@ const training =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        0.6917808219178082,
+        0.606,
         0.289044289044289
       ]
     },
@@ -8351,7 +8351,7 @@ const training =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.6293706293706294
       ]
     },
@@ -8361,7 +8361,7 @@ const training =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.8205128205128205
       ]
     },
@@ -8371,7 +8371,7 @@ const training =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        0.632420091324201,
+        0.554,
         0.3356643356643357
       ]
     },
@@ -8381,7 +8381,7 @@ const training =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        0.8287671232876712,
+        0.726,
         0.745920745920746
       ]
     },
@@ -8391,7 +8391,7 @@ const training =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        0.2420091324200913,
+        0.212,
         0.6666666666666666
       ]
     },
@@ -8401,7 +8401,7 @@ const training =
       "student_name": "Thomas",
       "student_id": 1663865014073,
       "point": [
-        0.5776255707762558,
+        0.506,
         0.6573426573426573
       ]
     },
@@ -8411,7 +8411,7 @@ const training =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.17715617715617715
       ]
     },
@@ -8421,7 +8421,7 @@ const training =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        0.2968036529680365,
+        0.26,
         0.17482517482517482
       ]
     },
@@ -8431,7 +8431,7 @@ const training =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        0.3219178082191781,
+        0.282,
         0.3706293706293706
       ]
     },
@@ -8441,7 +8441,7 @@ const training =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.45454545454545453
       ]
     },
@@ -8451,7 +8451,7 @@ const training =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        0.1963470319634703,
+        0.172,
         0.1258741258741259
       ]
     },
@@ -8461,7 +8461,7 @@ const training =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        0.58675799086758,
+        0.514,
         0.4825174825174825
       ]
     },
@@ -8471,7 +8471,7 @@ const training =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        0.18949771689497716,
+        0.166,
         0.0979020979020979
       ]
     },
@@ -8481,7 +8481,7 @@ const training =
       "student_name": "Wiktor",
       "student_id": 1663865062757,
       "point": [
-        0.410958904109589,
+        0.36,
         0.3356643356643357
       ]
     },
@@ -8491,7 +8491,7 @@ const training =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        0.4200913242009132,
+        0.368,
         0.11421911421911422
       ]
     },
@@ -8501,7 +8501,7 @@ const training =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.23776223776223776
       ]
     },
@@ -8511,7 +8511,7 @@ const training =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.3962703962703963
       ]
     },
@@ -8521,7 +8521,7 @@ const training =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.5384615384615384
       ]
     },
@@ -8531,7 +8531,7 @@ const training =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.351981351981352
       ]
     },
@@ -8541,7 +8541,7 @@ const training =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.7925407925407926
       ]
     },
@@ -8551,7 +8551,7 @@ const training =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        0.07990867579908675,
+        0.07,
         0.5198135198135199
       ]
     },
@@ -8561,7 +8561,7 @@ const training =
       "student_name": "Jane",
       "student_id": 1663865448354,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.4755244755244755
       ]
     },
@@ -8571,7 +8571,7 @@ const training =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        0.2945205479452055,
+        0.258,
         0.16083916083916083
       ]
     },
@@ -8581,7 +8581,7 @@ const training =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        0.3082191780821918,
+        0.27,
         0.17249417249417248
       ]
     },
@@ -8591,7 +8591,7 @@ const training =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        0.273972602739726,
+        0.24,
         0.24475524475524477
       ]
     },
@@ -8601,7 +8601,7 @@ const training =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        0.2100456621004566,
+        0.184,
         0.2564102564102564
       ]
     },
@@ -8611,7 +8611,7 @@ const training =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        0.2762557077625571,
+        0.242,
         0.2634032634032634
       ]
     },
@@ -8621,7 +8621,7 @@ const training =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.13286713286713286
       ]
     },
@@ -8631,7 +8631,7 @@ const training =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        0.0593607305936073,
+        0.052,
         0.331002331002331
       ]
     },
@@ -8641,7 +8641,7 @@ const training =
       "student_name": "Bibek Gyawali",
       "student_id": 1663865642410,
       "point": [
-        0.2625570776255708,
+        0.23,
         0.22843822843822845
       ]
     },
@@ -8651,7 +8651,7 @@ const training =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.34498834498834496
       ]
     },
@@ -8661,7 +8661,7 @@ const training =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.21678321678321677
       ]
     },
@@ -8671,7 +8671,7 @@ const training =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        0.7853881278538812,
+        0.688,
         0.627039627039627
       ]
     },
@@ -8681,7 +8681,7 @@ const training =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.6107226107226107
       ]
     },
@@ -8691,7 +8691,7 @@ const training =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.3543123543123543
       ]
     },
@@ -8701,7 +8701,7 @@ const training =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        0.7876712328767124,
+        0.69,
         0.45454545454545453
       ]
     },
@@ -8711,7 +8711,7 @@ const training =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        0.3515981735159817,
+        0.308,
         0.4801864801864802
       ]
     },
@@ -8721,7 +8721,7 @@ const training =
       "student_name": "Mandy23",
       "student_id": 1663865681826,
       "point": [
-        0.408675799086758,
+        0.358,
         0.6899766899766899
       ]
     },
@@ -8731,7 +8731,7 @@ const training =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.26573426573426573
       ]
     },
@@ -8741,7 +8741,7 @@ const training =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        0.454337899543379,
+        0.398,
         0.2564102564102564
       ]
     },
@@ -8751,7 +8751,7 @@ const training =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        0.8447488584474886,
+        0.74,
         0.7762237762237763
       ]
     },
@@ -8761,7 +8761,7 @@ const training =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.5967365967365967
       ]
     },
@@ -8771,7 +8771,7 @@ const training =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        0.769406392694064,
+        0.674,
         0.62004662004662
       ]
     },
@@ -8781,7 +8781,7 @@ const training =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        0.5,
+        0.438,
         0.7086247086247086
       ]
     },
@@ -8791,7 +8791,7 @@ const training =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        0.0776255707762557,
+        0.068,
         0.46153846153846156
       ]
     },
@@ -8801,7 +8801,7 @@ const training =
       "student_name": "Kirru",
       "student_id": 1663865939140,
       "point": [
-        0.3721461187214612,
+        0.326,
         0.46853146853146854
       ]
     },
@@ -8811,7 +8811,7 @@ const training =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        0.7557077625570776,
+        0.662,
         0.6480186480186481
       ]
     },
@@ -8821,7 +8821,7 @@ const training =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.5081585081585082
       ]
     },
@@ -8831,7 +8831,7 @@ const training =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        0.3789954337899543,
+        0.332,
         0.5384615384615384
       ]
     },
@@ -8841,7 +8841,7 @@ const training =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.7365967365967366
       ]
     },
@@ -8851,7 +8851,7 @@ const training =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        0.6484018264840182,
+        0.568,
         0.5151515151515151
       ]
     },
@@ -8861,7 +8861,7 @@ const training =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        0.634703196347032,
+        0.556,
         0.7249417249417249
       ]
     },
@@ -8871,7 +8871,7 @@ const training =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        0.4771689497716895,
+        0.418,
         0.7226107226107226
       ]
     },
@@ -8881,7 +8881,7 @@ const training =
       "student_name": "Afaque",
       "student_id": 1663866111229,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.5944055944055944
       ]
     },
@@ -8891,7 +8891,7 @@ const training =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        0.634703196347032,
+        0.556,
         0.38461538461538464
       ]
     },
@@ -8901,7 +8901,7 @@ const training =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        0.4520547945205479,
+        0.396,
         0.337995337995338
       ]
     },
@@ -8911,7 +8911,7 @@ const training =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.6923076923076923
       ]
     },
@@ -8921,7 +8921,7 @@ const training =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.7365967365967366
       ]
     },
@@ -8931,7 +8931,7 @@ const training =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        0.3401826484018265,
+        0.298,
         0.13053613053613053
       ]
     },
@@ -8941,7 +8941,7 @@ const training =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        0.6278538812785388,
+        0.55,
         0.41025641025641024
       ]
     },
@@ -8951,7 +8951,7 @@ const training =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        0.00684931506849315,
+        0.006,
         0.4219114219114219
       ]
     },
@@ -8961,7 +8961,7 @@ const training =
       "student_name": "bahadır",
       "student_id": 1663866553884,
       "point": [
-        0.2831050228310502,
+        0.248,
         0.38461538461538464
       ]
     },
@@ -8971,7 +8971,7 @@ const training =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        0.7511415525114156,
+        0.658,
         0.31934731934731936
       ]
     },
@@ -8981,7 +8981,7 @@ const training =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        0.682648401826484,
+        0.598,
         0.2261072261072261
       ]
     },
@@ -8991,7 +8991,7 @@ const training =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.7552447552447552
       ]
     },
@@ -9001,7 +9001,7 @@ const training =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.668997668997669
       ]
     },
@@ -9011,7 +9011,7 @@ const training =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        0.3721461187214612,
+        0.326,
         0.1888111888111888
       ]
     },
@@ -9021,7 +9021,7 @@ const training =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.2191142191142191
       ]
     },
@@ -9031,7 +9031,7 @@ const training =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        0.589041095890411,
+        0.516,
         0.20046620046620048
       ]
     },
@@ -9041,7 +9041,7 @@ const training =
       "student_name": "datsi",
       "student_id": 1663867477715,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.3613053613053613
       ]
     },
@@ -9051,7 +9051,7 @@ const training =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        0.3447488584474886,
+        0.302,
         0.20512820512820512
       ]
     },
@@ -9061,7 +9061,7 @@ const training =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        0.2557077625570776,
+        0.224,
         0.08624708624708624
       ]
     },
@@ -9071,7 +9071,7 @@ const training =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        0.2237442922374429,
+        0.196,
         0.34265734265734266
       ]
     },
@@ -9081,7 +9081,7 @@ const training =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        0.4223744292237443,
+        0.37,
         0.44522144522144524
       ]
     },
@@ -9091,7 +9091,7 @@ const training =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.351981351981352
       ]
     },
@@ -9101,7 +9101,7 @@ const training =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        0.20776255707762556,
+        0.182,
         0.5710955710955711
       ]
     },
@@ -9111,7 +9111,7 @@ const training =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        0.1004566210045662,
+        0.088,
         0.48484848484848486
       ]
     },
@@ -9121,7 +9121,7 @@ const training =
       "student_name": "Jimmy",
       "student_id": 1663867990664,
       "point": [
-        0.632420091324201,
+        0.554,
         0.6410256410256411
       ]
     },
@@ -9131,7 +9131,7 @@ const training =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        0.7853881278538812,
+        0.688,
         0.4219114219114219
       ]
     },
@@ -9141,7 +9141,7 @@ const training =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        0.54337899543379,
+        0.476,
         0.16317016317016317
       ]
     },
@@ -9151,7 +9151,7 @@ const training =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        0.3082191780821918,
+        0.27,
         0.5058275058275058
       ]
     },
@@ -9161,7 +9161,7 @@ const training =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        0.8538812785388128,
+        0.748,
         0.6247086247086248
       ]
     },
@@ -9171,7 +9171,7 @@ const training =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        0.6917808219178082,
+        0.606,
         0.45454545454545453
       ]
     },
@@ -9181,7 +9181,7 @@ const training =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        0.7785388127853882,
+        0.682,
         0.2540792540792541
       ]
     },
@@ -9191,7 +9191,7 @@ const training =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.3076923076923077
       ]
     },
@@ -9201,7 +9201,7 @@ const training =
       "student_name": "maraim",
       "student_id": 1663868222431,
       "point": [
-        0.4223744292237443,
+        0.37,
         0.44522144522144524
       ]
     },
@@ -9211,7 +9211,7 @@ const training =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        0.4155251141552511,
+        0.364,
         0.1048951048951049
       ]
     },
@@ -9221,7 +9221,7 @@ const training =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        0.2990867579908676,
+        0.262,
         0.08857808857808858
       ]
     },
@@ -9231,7 +9231,7 @@ const training =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        0.3744292237442922,
+        0.328,
         0.34265734265734266
       ]
     },
@@ -9241,7 +9241,7 @@ const training =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.49417249417249415
       ]
     },
@@ -9251,7 +9251,7 @@ const training =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.1794871794871795
       ]
     },
@@ -9261,7 +9261,7 @@ const training =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        0.16210045662100456,
+        0.142,
         0.5314685314685315
       ]
     },
@@ -9271,7 +9271,7 @@ const training =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        0.18036529680365296,
+        0.158,
         0.1258741258741259
       ]
     },
@@ -9281,7 +9281,7 @@ const training =
       "student_name": "Olamide",
       "student_id": 1663868418931,
       "point": [
-        0.2899543378995434,
+        0.254,
         0.2867132867132867
       ]
     },
@@ -9291,7 +9291,7 @@ const training =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.22377622377622378
       ]
     },
@@ -9301,7 +9301,7 @@ const training =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        0.5753424657534246,
+        0.504,
         0.24242424242424243
       ]
     },
@@ -9311,7 +9311,7 @@ const training =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.46853146853146854
       ]
     },
@@ -9321,7 +9321,7 @@ const training =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        0.3538812785388128,
+        0.31,
         0.4149184149184149
       ]
     },
@@ -9331,7 +9331,7 @@ const training =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.1655011655011655
       ]
     },
@@ -9341,7 +9341,7 @@ const training =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        0.3310502283105023,
+        0.29,
         0.12121212121212122
       ]
     },
@@ -9351,7 +9351,7 @@ const training =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        0.00684931506849315,
+        0.006,
         0.31002331002331
       ]
     },
@@ -9361,7 +9361,7 @@ const training =
       "student_name": "aydin",
       "student_id": 1663868573721,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.3473193473193473
       ]
     },
@@ -9371,7 +9371,7 @@ const training =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        0.773972602739726,
+        0.678,
         0.4289044289044289
       ]
     },
@@ -9381,7 +9381,7 @@ const training =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.4568764568764569
       ]
     },
@@ -9391,7 +9391,7 @@ const training =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.331002331002331
       ]
     },
@@ -9401,7 +9401,7 @@ const training =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        0.632420091324201,
+        0.554,
         0.7226107226107226
       ]
     },
@@ -9411,7 +9411,7 @@ const training =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.40326340326340326
       ]
     },
@@ -9421,7 +9421,7 @@ const training =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.5874125874125874
       ]
     },
@@ -9431,7 +9431,7 @@ const training =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.5967365967365967
       ]
     },
@@ -9441,7 +9441,7 @@ const training =
       "student_name": "Satya",
       "student_id": 1663868859750,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.6247086247086248
       ]
     },
@@ -9451,7 +9451,7 @@ const training =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        0.8127853881278538,
+        0.712,
         0.4662004662004662
       ]
     },
@@ -9461,7 +9461,7 @@ const training =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.36363636363636365
       ]
     },
@@ -9471,7 +9471,7 @@ const training =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.717948717948718
       ]
     },
@@ -9481,7 +9481,7 @@ const training =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        0.6301369863013698,
+        0.552,
         0.7062937062937062
       ]
     },
@@ -9491,7 +9491,7 @@ const training =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.5174825174825175
       ]
     },
@@ -9501,7 +9501,7 @@ const training =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        0.6872146118721462,
+        0.602,
         0.6177156177156177
       ]
     },
@@ -9511,7 +9511,7 @@ const training =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        0.4840182648401826,
+        0.424,
         0.6456876456876457
       ]
     },
@@ -9521,7 +9521,7 @@ const training =
       "student_name": "sudoCss",
       "student_id": 1663868937015,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.5151515151515151
       ]
     },
@@ -9531,7 +9531,7 @@ const training =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        0.728310502283105,
+        0.638,
         0.4592074592074592
       ]
     },
@@ -9541,7 +9541,7 @@ const training =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.4382284382284382
       ]
     },
@@ -9551,7 +9551,7 @@ const training =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        0.6529680365296804,
+        0.572,
         0.585081585081585
       ]
     },
@@ -9561,7 +9561,7 @@ const training =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        0.4977168949771689,
+        0.436,
         0.8694638694638694
       ]
     },
@@ -9571,7 +9571,7 @@ const training =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        0.682648401826484,
+        0.598,
         0.5710955710955711
       ]
     },
@@ -9581,7 +9581,7 @@ const training =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        0.7442922374429224,
+        0.652,
         0.5944055944055944
       ]
     },
@@ -9591,7 +9591,7 @@ const training =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        0.6050228310502284,
+        0.53,
         0.6480186480186481
       ]
     },
@@ -9601,7 +9601,7 @@ const training =
       "student_name": "Anush",
       "student_id": 1663869030101,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.6293706293706294
       ]
     },
@@ -9611,7 +9611,7 @@ const training =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.27505827505827507
       ]
     },
@@ -9621,7 +9621,7 @@ const training =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.2261072261072261
       ]
     },
@@ -9631,7 +9631,7 @@ const training =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        0.3584474885844749,
+        0.314,
         0.44522144522144524
       ]
     },
@@ -9641,7 +9641,7 @@ const training =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        0.8493150684931506,
+        0.744,
         0.6736596736596736
       ]
     },
@@ -9651,7 +9651,7 @@ const training =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.2634032634032634
       ]
     },
@@ -9661,7 +9661,7 @@ const training =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.5547785547785548
       ]
     },
@@ -9671,7 +9671,7 @@ const training =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.5710955710955711
       ]
     },
@@ -9681,7 +9681,7 @@ const training =
       "student_name": "alvesmarcio",
       "student_id": 1663869301352,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.5151515151515151
       ]
     },
@@ -9691,7 +9691,7 @@ const training =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        0.6917808219178082,
+        0.606,
         0.31934731934731936
       ]
     },
@@ -9701,7 +9701,7 @@ const training =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        0.5776255707762558,
+        0.506,
         0.2634032634032634
       ]
     },
@@ -9711,7 +9711,7 @@ const training =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.4195804195804196
       ]
     },
@@ -9721,7 +9721,7 @@ const training =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        0.636986301369863,
+        0.558,
         0.7365967365967366
       ]
     },
@@ -9731,7 +9731,7 @@ const training =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.3776223776223776
       ]
     },
@@ -9741,7 +9741,7 @@ const training =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.7505827505827506
       ]
     },
@@ -9751,7 +9751,7 @@ const training =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.5897435897435898
       ]
     },
@@ -9761,7 +9761,7 @@ const training =
       "student_name": "Youness",
       "student_id": 1663869477435,
       "point": [
-        0.363013698630137,
+        0.318,
         0.337995337995338
       ]
     },
@@ -9771,7 +9771,7 @@ const training =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        0.23972602739726026,
+        0.21,
         0.22843822843822845
       ]
     },
@@ -9781,7 +9781,7 @@ const training =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        0.1735159817351598,
+        0.152,
         0.04895104895104895
       ]
     },
@@ -9791,7 +9791,7 @@ const training =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        0.2534246575342466,
+        0.222,
         0.32167832167832167
       ]
     },
@@ -9801,7 +9801,7 @@ const training =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        0.7511415525114156,
+        0.658,
         0.5641025641025641
       ]
     },
@@ -9811,7 +9811,7 @@ const training =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        0.2899543378995434,
+        0.254,
         0.2400932400932401
       ]
     },
@@ -9821,7 +9821,7 @@ const training =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        0.182648401826484,
+        0.16,
         0.634032634032634
       ]
     },
@@ -9831,7 +9831,7 @@ const training =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        0.04337899543378995,
+        0.038,
         0.32167832167832167
       ]
     },
@@ -9841,7 +9841,7 @@ const training =
       "student_name": "hakim",
       "student_id": 1663869634218,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.3776223776223776
       ]
     },
@@ -9851,7 +9851,7 @@ const training =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.317016317016317
       ]
     },
@@ -9861,7 +9861,7 @@ const training =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        0.3812785388127854,
+        0.334,
         0.17249417249417248
       ]
     },
@@ -9871,7 +9871,7 @@ const training =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        0.3378995433789954,
+        0.296,
         0.4965034965034965
       ]
     },
@@ -9881,7 +9881,7 @@ const training =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.7412587412587412
       ]
     },
@@ -9891,7 +9891,7 @@ const training =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.36596736596736595
       ]
     },
@@ -9901,7 +9901,7 @@ const training =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        0.2648401826484018,
+        0.232,
         0.7086247086247086
       ]
     },
@@ -9911,7 +9911,7 @@ const training =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        0.19863013698630136,
+        0.174,
         0.4125874125874126
       ]
     },
@@ -9921,7 +9921,7 @@ const training =
       "student_name": "Miniontoby",
       "student_id": 1663869893024,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.5431235431235432
       ]
     },
@@ -9931,7 +9931,7 @@ const training =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        0.4840182648401826,
+        0.424,
         0.21445221445221446
       ]
     },
@@ -9941,7 +9941,7 @@ const training =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        0.3744292237442922,
+        0.328,
         0.21678321678321677
       ]
     },
@@ -9951,7 +9951,7 @@ const training =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        0.3858447488584475,
+        0.338,
         0.317016317016317
       ]
     },
@@ -9961,7 +9961,7 @@ const training =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        0.4292237442922374,
+        0.376,
         0.5244755244755245
       ]
     },
@@ -9971,7 +9971,7 @@ const training =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        0.3515981735159817,
+        0.308,
         0.24475524475524477
       ]
     },
@@ -9981,7 +9981,7 @@ const training =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.6526806526806527
       ]
     },
@@ -9991,7 +9991,7 @@ const training =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.3986013986013986
       ]
     },
@@ -10001,7 +10001,7 @@ const training =
       "student_name": "Ringa Tech",
       "student_id": 1663869908664,
       "point": [
-        0.3447488584474886,
+        0.302,
         0.31934731934731936
       ]
     },
@@ -10011,7 +10011,7 @@ const training =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.2540792540792541
       ]
     },
@@ -10021,7 +10021,7 @@ const training =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        0.3287671232876712,
+        0.288,
         0.14219114219114218
       ]
     },
@@ -10031,7 +10031,7 @@ const training =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        0.365296803652968,
+        0.32,
         0.5454545454545454
       ]
     },
@@ -10041,7 +10041,7 @@ const training =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        0.45662100456621,
+        0.4,
         0.46853146853146854
       ]
     },
@@ -10051,7 +10051,7 @@ const training =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.17482517482517482
       ]
     },
@@ -10061,7 +10061,7 @@ const training =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        0.1689497716894977,
+        0.148,
         0.4988344988344988
       ]
     },
@@ -10071,7 +10071,7 @@ const training =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        0.00684931506849315,
+        0.006,
         0.19114219114219114
       ]
     },
@@ -10081,7 +10081,7 @@ const training =
       "student_name": "kernelist",
       "student_id": 1663869988034,
       "point": [
-        0.2945205479452055,
+        0.258,
         0.32867132867132864
       ]
     },
@@ -10091,7 +10091,7 @@ const training =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.351981351981352
       ]
     },
@@ -10101,7 +10101,7 @@ const training =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        0.7214611872146118,
+        0.632,
         0.22377622377622378
       ]
     },
@@ -10111,7 +10111,7 @@ const training =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.48484848484848486
       ]
     },
@@ -10121,7 +10121,7 @@ const training =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.7365967365967366
       ]
     },
@@ -10131,7 +10131,7 @@ const training =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        0.860730593607306,
+        0.754,
         0.5734265734265734
       ]
     },
@@ -10141,7 +10141,7 @@ const training =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        0.821917808219178,
+        0.72,
         0.7948717948717948
       ]
     },
@@ -10151,7 +10151,7 @@ const training =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        0.3447488584474886,
+        0.302,
         0.4405594405594406
       ]
     },
@@ -10161,7 +10161,7 @@ const training =
       "student_name": "NeonTuts",
       "student_id": 1663870050553,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.40326340326340326
       ]
     },
@@ -10171,7 +10171,7 @@ const training =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        0.7625570776255708,
+        0.668,
         0.38927738927738925
       ]
     },
@@ -10181,7 +10181,7 @@ const training =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.4382284382284382
       ]
     },
@@ -10191,7 +10191,7 @@ const training =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        0.7831050228310502,
+        0.686,
         0.7692307692307693
       ]
     },
@@ -10201,7 +10201,7 @@ const training =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.8414918414918415
       ]
     },
@@ -10211,7 +10211,7 @@ const training =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        0.684931506849315,
+        0.6,
         0.4382284382284382
       ]
     },
@@ -10221,7 +10221,7 @@ const training =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        0.6232876712328768,
+        0.546,
         0.6666666666666666
       ]
     },
@@ -10231,7 +10231,7 @@ const training =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        0.4885844748858447,
+        0.428,
         0.7342657342657343
       ]
     },
@@ -10241,7 +10241,7 @@ const training =
       "student_name": "EvDev",
       "student_id": 1663870164588,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.5361305361305362
       ]
     },
@@ -10251,7 +10251,7 @@ const training =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        0.6301369863013698,
+        0.552,
         0.22843822843822845
       ]
     },
@@ -10261,7 +10261,7 @@ const training =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        0.7374429223744292,
+        0.646,
         0.3356643356643357
       ]
     },
@@ -10271,7 +10271,7 @@ const training =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        0.3904109589041096,
+        0.342,
         0.6223776223776224
       ]
     },
@@ -10281,7 +10281,7 @@ const training =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        0.58675799086758,
+        0.514,
         0.752913752913753
       ]
     },
@@ -10291,7 +10291,7 @@ const training =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        0.6872146118721462,
+        0.602,
         0.36596736596736595
       ]
     },
@@ -10301,7 +10301,7 @@ const training =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        0.7808219178082192,
+        0.684,
         0.24708624708624707
       ]
     },
@@ -10311,7 +10311,7 @@ const training =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.48951048951048953
       ]
     },
@@ -10321,7 +10321,7 @@ const training =
       "student_name": "martin",
       "student_id": 1663870509604,
       "point": [
-        0.6917808219178082,
+        0.606,
         0.6317016317016317
       ]
     },
@@ -10331,7 +10331,7 @@ const training =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.2331002331002331
       ]
     },
@@ -10341,7 +10341,7 @@ const training =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        0.2534246575342466,
+        0.222,
         0.372960372960373
       ]
     },
@@ -10351,7 +10351,7 @@ const training =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        0.2374429223744292,
+        0.208,
         0.38927738927738925
       ]
     },
@@ -10361,7 +10361,7 @@ const training =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        0.3378995433789954,
+        0.296,
         0.5314685314685315
       ]
     },
@@ -10371,7 +10371,7 @@ const training =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.19114219114219114
       ]
     },
@@ -10381,7 +10381,7 @@ const training =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        0.5844748858447488,
+        0.512,
         0.1864801864801865
       ]
     },
@@ -10391,7 +10391,7 @@ const training =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        0.03424657534246575,
+        0.03,
         0.32167832167832167
       ]
     },
@@ -10401,7 +10401,7 @@ const training =
       "student_name": "Mantas",
       "student_id": 1663871511852,
       "point": [
-        0.24885844748858446,
+        0.218,
         0.22144522144522144
       ]
     },
@@ -10411,7 +10411,7 @@ const training =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        0.7876712328767124,
+        0.69,
         0.21212121212121213
       ]
     },
@@ -10421,7 +10421,7 @@ const training =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.30303030303030304
       ]
     },
@@ -10431,7 +10431,7 @@ const training =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.48951048951048953
       ]
     },
@@ -10441,7 +10441,7 @@ const training =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        0.7442922374429224,
+        0.652,
         0.8205128205128205
       ]
     },
@@ -10451,7 +10451,7 @@ const training =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        0.593607305936073,
+        0.52,
         0.29603729603729606
       ]
     },
@@ -10461,7 +10461,7 @@ const training =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.7715617715617715
       ]
     },
@@ -10471,7 +10471,7 @@ const training =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        0.4840182648401826,
+        0.424,
         0.4755244755244755
       ]
     },
@@ -10481,7 +10481,7 @@ const training =
       "student_name": "GuiS",
       "student_id": 1663872113106,
       "point": [
-        0.3721461187214612,
+        0.326,
         0.358974358974359
       ]
     },
@@ -10491,7 +10491,7 @@ const training =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        0.7465753424657534,
+        0.654,
         0.25874125874125875
       ]
     },
@@ -10501,7 +10501,7 @@ const training =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.22843822843822845
       ]
     },
@@ -10511,7 +10511,7 @@ const training =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.6247086247086248
       ]
     },
@@ -10521,7 +10521,7 @@ const training =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        0.7054794520547946,
+        0.618,
         0.682983682983683
       ]
     },
@@ -10531,7 +10531,7 @@ const training =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        0.7054794520547946,
+        0.618,
         0.3682983682983683
       ]
     },
@@ -10541,7 +10541,7 @@ const training =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        0.7442922374429224,
+        0.652,
         0.4568764568764569
       ]
     },
@@ -10551,7 +10551,7 @@ const training =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        0.6529680365296804,
+        0.572,
         0.2727272727272727
       ]
     },
@@ -10561,7 +10561,7 @@ const training =
       "student_name": "Soumyadeep",
       "student_id": 1663872866213,
       "point": [
-        0.4200913242009132,
+        0.368,
         0.3822843822843823
       ]
     },
@@ -10571,7 +10571,7 @@ const training =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        0.54337899543379,
+        0.476,
         0.20279720279720279
       ]
     },
@@ -10581,7 +10581,7 @@ const training =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.14219114219114218
       ]
     },
@@ -10591,7 +10591,7 @@ const training =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        0.589041095890411,
+        0.516,
         0.5104895104895105
       ]
     },
@@ -10601,7 +10601,7 @@ const training =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        0.182648401826484,
+        0.16,
         0.3006993006993007
       ]
     },
@@ -10611,7 +10611,7 @@ const training =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.16783216783216784
       ]
     },
@@ -10621,7 +10621,7 @@ const training =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.5641025641025641
       ]
     },
@@ -10631,7 +10631,7 @@ const training =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        0.3470319634703196,
+        0.304,
         0.42424242424242425
       ]
     },
@@ -10641,7 +10641,7 @@ const training =
       "student_name": "HuldaCZ",
       "student_id": 1663873256999,
       "point": [
-        0.541095890410959,
+        0.474,
         0.48951048951048953
       ]
     },
@@ -10651,7 +10651,7 @@ const training =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.3706293706293706
       ]
     },
@@ -10661,7 +10661,7 @@ const training =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.2400932400932401
       ]
     },
@@ -10671,7 +10671,7 @@ const training =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.4358974358974359
       ]
     },
@@ -10681,7 +10681,7 @@ const training =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.6433566433566433
       ]
     },
@@ -10691,7 +10691,7 @@ const training =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        0.541095890410959,
+        0.474,
         0.3776223776223776
       ]
     },
@@ -10701,7 +10701,7 @@ const training =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.4801864801864802
       ]
     },
@@ -10711,7 +10711,7 @@ const training =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        0.589041095890411,
+        0.516,
         0.7412587412587412
       ]
     },
@@ -10721,7 +10721,7 @@ const training =
       "student_name": "Sağray Lezgiyar ",
       "student_id": 1663874433099,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.5454545454545454
       ]
     },
@@ -10731,7 +10731,7 @@ const training =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        0.7465753424657534,
+        0.654,
         0.372960372960373
       ]
     },
@@ -10741,7 +10741,7 @@ const training =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        0.4360730593607306,
+        0.382,
         0.28438228438228436
       ]
     },
@@ -10751,7 +10751,7 @@ const training =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.3916083916083916
       ]
     },
@@ -10761,7 +10761,7 @@ const training =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        0.12100456621004566,
+        0.106,
         0.7599067599067599
       ]
     },
@@ -10771,7 +10771,7 @@ const training =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        0.363013698630137,
+        0.318,
         0.20512820512820512
       ]
     },
@@ -10781,7 +10781,7 @@ const training =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.8018648018648019
       ]
     },
@@ -10791,7 +10791,7 @@ const training =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        0.11187214611872145,
+        0.098,
         0.7016317016317016
       ]
     },
@@ -10801,7 +10801,7 @@ const training =
       "student_name": "montana57",
       "student_id": 1663875502287,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.47785547785547783
       ]
     },
@@ -10811,7 +10811,7 @@ const training =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        0.7123287671232876,
+        0.624,
         0.331002331002331
       ]
     },
@@ -10821,7 +10821,7 @@ const training =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.46853146853146854
       ]
     },
@@ -10831,7 +10831,7 @@ const training =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.5244755244755245
       ]
     },
@@ -10841,7 +10841,7 @@ const training =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.5314685314685315
       ]
     },
@@ -10851,7 +10851,7 @@ const training =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.29836829836829837
       ]
     },
@@ -10861,7 +10861,7 @@ const training =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        0.6004566210045662,
+        0.526,
         0.38461538461538464
       ]
     },
@@ -10871,7 +10871,7 @@ const training =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.3706293706293706
       ]
     },
@@ -10881,7 +10881,7 @@ const training =
       "student_name": "Eugenio G",
       "student_id": 1663876415836,
       "point": [
-        0.4155251141552511,
+        0.364,
         0.3333333333333333
       ]
     },
@@ -10891,7 +10891,7 @@ const training =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        0.863013698630137,
+        0.756,
         0.4522144522144522
       ]
     },
@@ -10901,7 +10901,7 @@ const training =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.1445221445221445
       ]
     },
@@ -10911,7 +10911,7 @@ const training =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.8298368298368298
       ]
     },
@@ -10921,7 +10921,7 @@ const training =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.8484848484848485
       ]
     },
@@ -10931,7 +10931,7 @@ const training =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.5524475524475524
       ]
     },
@@ -10941,7 +10941,7 @@ const training =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.19813519813519814
       ]
     },
@@ -10951,7 +10951,7 @@ const training =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        0.3447488584474886,
+        0.302,
         0.030303030303030304
       ]
     },
@@ -10961,7 +10961,7 @@ const training =
       "student_name": "Denis",
       "student_id": 1663876422595,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.42424242424242425
       ]
     },
@@ -10971,7 +10971,7 @@ const training =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        0.3584474885844749,
+        0.314,
         0.14685314685314685
       ]
     },
@@ -10981,7 +10981,7 @@ const training =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.21212121212121213
       ]
     },
@@ -10991,7 +10991,7 @@ const training =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        0.3470319634703196,
+        0.304,
         0.358974358974359
       ]
     },
@@ -11001,7 +11001,7 @@ const training =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        0.589041095890411,
+        0.516,
         0.62004662004662
       ]
     },
@@ -11011,7 +11011,7 @@ const training =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        0.4223744292237443,
+        0.37,
         0.2517482517482518
       ]
     },
@@ -11021,7 +11021,7 @@ const training =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.5431235431235432
       ]
     },
@@ -11031,7 +11031,7 @@ const training =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        0.22146118721461186,
+        0.194,
         0.4358974358974359
       ]
     },
@@ -11041,7 +11041,7 @@ const training =
       "student_name": "bisht",
       "student_id": 1663876491392,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.36363636363636365
       ]
     },
@@ -11051,7 +11051,7 @@ const training =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        0.8264840182648402,
+        0.724,
         0.5547785547785548
       ]
     },
@@ -11061,7 +11061,7 @@ const training =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.2097902097902098
       ]
     },
@@ -11071,7 +11071,7 @@ const training =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.62004662004662
       ]
     },
@@ -11081,7 +11081,7 @@ const training =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.8344988344988346
       ]
     },
@@ -11091,7 +11091,7 @@ const training =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        0.6643835616438356,
+        0.582,
         0.5128205128205128
       ]
     },
@@ -11101,7 +11101,7 @@ const training =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        0.3127853881278539,
+        0.274,
         0.6899766899766899
       ]
     },
@@ -11111,7 +11111,7 @@ const training =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        0.5776255707762558,
+        0.506,
         0.5874125874125874
       ]
     },
@@ -11121,7 +11121,7 @@ const training =
       "student_name": "jorge",
       "student_id": 1663876496984,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.5571095571095571
       ]
     },
@@ -11131,7 +11131,7 @@ const training =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.24708624708624707
       ]
     },
@@ -11141,7 +11141,7 @@ const training =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        0.410958904109589,
+        0.36,
         0.3006993006993007
       ]
     },
@@ -11151,7 +11151,7 @@ const training =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.4568764568764569
       ]
     },
@@ -11161,7 +11161,7 @@ const training =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        0.632420091324201,
+        0.554,
         0.634032634032634
       ]
     },
@@ -11171,7 +11171,7 @@ const training =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        0.678082191780822,
+        0.594,
         0.31934731934731936
       ]
     },
@@ -11181,7 +11181,7 @@ const training =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        0.2922374429223744,
+        0.256,
         0.6130536130536131
       ]
     },
@@ -11191,7 +11191,7 @@ const training =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        0.3356164383561644,
+        0.294,
         0.5151515151515151
       ]
     },
@@ -11201,7 +11201,7 @@ const training =
       "student_name": "VICMAN",
       "student_id": 1663876904792,
       "point": [
-        0.5,
+        0.438,
         0.4289044289044289
       ]
     },
@@ -11211,7 +11211,7 @@ const training =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.19813519813519814
       ]
     },
@@ -11221,7 +11221,7 @@ const training =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.22144522144522144
       ]
     },
@@ -11231,7 +11231,7 @@ const training =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.26573426573426573
       ]
     },
@@ -11241,7 +11241,7 @@ const training =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        0.545662100456621,
+        0.478,
         0.7249417249417249
       ]
     },
@@ -11251,7 +11251,7 @@ const training =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        0.6712328767123288,
+        0.588,
         0.40559440559440557
       ]
     },
@@ -11261,7 +11261,7 @@ const training =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        0.769406392694064,
+        0.674,
         0.3146853146853147
       ]
     },
@@ -11271,7 +11271,7 @@ const training =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.4219114219114219
       ]
     },
@@ -11281,7 +11281,7 @@ const training =
       "student_name": "vanne_solo",
       "student_id": 1663876964929,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.46386946386946387
       ]
     },
@@ -11291,7 +11291,7 @@ const training =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.27505827505827507
       ]
     },
@@ -11301,7 +11301,7 @@ const training =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        0.4246575342465753,
+        0.372,
         0.3822843822843823
       ]
     },
@@ -11311,7 +11311,7 @@ const training =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.4965034965034965
       ]
     },
@@ -11321,7 +11321,7 @@ const training =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        0.3812785388127854,
+        0.334,
         0.6433566433566433
       ]
     },
@@ -11331,7 +11331,7 @@ const training =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.34498834498834496
       ]
     },
@@ -11341,7 +11341,7 @@ const training =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.22377622377622378
       ]
     },
@@ -11351,7 +11351,7 @@ const training =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        0.547945205479452,
+        0.48,
         0.09090909090909091
       ]
     },
@@ -11361,7 +11361,7 @@ const training =
       "student_name": "Goutam ",
       "student_id": 1663877044173,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.36596736596736595
       ]
     },
@@ -11371,7 +11371,7 @@ const training =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        0.726027397260274,
+        0.636,
         0.32400932400932403
       ]
     },
@@ -11381,7 +11381,7 @@ const training =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        0.7123287671232876,
+        0.624,
         0.21678321678321677
       ]
     },
@@ -11391,7 +11391,7 @@ const training =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.5244755244755245
       ]
     },
@@ -11401,7 +11401,7 @@ const training =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.6083916083916084
       ]
     },
@@ -11411,7 +11411,7 @@ const training =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.3822843822843823
       ]
     },
@@ -11421,7 +11421,7 @@ const training =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        0.7054794520547946,
+        0.618,
         0.5710955710955711
       ]
     },
@@ -11431,7 +11431,7 @@ const training =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.40093240093240096
       ]
     },
@@ -11441,7 +11441,7 @@ const training =
       "student_name": "Sergey",
       "student_id": 1663877094155,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.4988344988344988
       ]
     },
@@ -11451,7 +11451,7 @@ const training =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.1888111888111888
       ]
     },
@@ -11461,7 +11461,7 @@ const training =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.19347319347319347
       ]
     },
@@ -11471,7 +11471,7 @@ const training =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.4801864801864802
       ]
     },
@@ -11481,7 +11481,7 @@ const training =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.6526806526806527
       ]
     },
@@ -11491,7 +11491,7 @@ const training =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        0.3242009132420091,
+        0.284,
         0.2494172494172494
       ]
     },
@@ -11501,7 +11501,7 @@ const training =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        0.6735159817351598,
+        0.59,
         0.5104895104895105
       ]
     },
@@ -11511,7 +11511,7 @@ const training =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        0.3789954337899543,
+        0.332,
         0.4731934731934732
       ]
     },
@@ -11521,7 +11521,7 @@ const training =
       "student_name": "Kyrylych",
       "student_id": 1663877515039,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.5221445221445221
       ]
     },
@@ -11531,7 +11531,7 @@ const training =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.18181818181818182
       ]
     },
@@ -11541,7 +11541,7 @@ const training =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.2913752913752914
       ]
     },
@@ -11551,7 +11551,7 @@ const training =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.5874125874125874
       ]
     },
@@ -11561,7 +11561,7 @@ const training =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        0.8561643835616438,
+        0.75,
         0.7762237762237763
       ]
     },
@@ -11571,7 +11571,7 @@ const training =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        0.7602739726027398,
+        0.666,
         0.358974358974359
       ]
     },
@@ -11581,7 +11581,7 @@ const training =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        0.8470319634703196,
+        0.742,
         0.27505827505827507
       ]
     },
@@ -11591,7 +11591,7 @@ const training =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        0.18949771689497716,
+        0.166,
         0.5501165501165501
       ]
     },
@@ -11601,7 +11601,7 @@ const training =
       "student_name": "Umal Jayawardhana",
       "student_id": 1663877605162,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.44522144522144524
       ]
     },
@@ -11611,7 +11611,7 @@ const training =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        0.5799086757990868,
+        0.508,
         0.3543123543123543
       ]
     },
@@ -11621,7 +11621,7 @@ const training =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.10256410256410256
       ]
     },
@@ -11631,7 +11631,7 @@ const training =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        0.541095890410959,
+        0.474,
         0.18181818181818182
       ]
     },
@@ -11641,7 +11641,7 @@ const training =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.47785547785547783
       ]
     },
@@ -11651,7 +11651,7 @@ const training =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.30303030303030304
       ]
     },
@@ -11661,7 +11661,7 @@ const training =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.3962703962703963
       ]
     },
@@ -11671,7 +11671,7 @@ const training =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        0.2191780821917808,
+        0.192,
         0.3356643356643357
       ]
     },
@@ -11681,7 +11681,7 @@ const training =
       "student_name": "Sebastian",
       "student_id": 1663878139333,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.34498834498834496
       ]
     },
@@ -11691,7 +11691,7 @@ const training =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        0.7054794520547946,
+        0.618,
         0.358974358974359
       ]
     },
@@ -11701,7 +11701,7 @@ const training =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.23076923076923078
       ]
     },
@@ -11711,7 +11711,7 @@ const training =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        0.589041095890411,
+        0.516,
         0.6923076923076923
       ]
     },
@@ -11721,7 +11721,7 @@ const training =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.6083916083916084
       ]
     },
@@ -11731,7 +11731,7 @@ const training =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.337995337995338
       ]
     },
@@ -11741,7 +11741,7 @@ const training =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.5524475524475524
       ]
     },
@@ -11751,7 +11751,7 @@ const training =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.18181818181818182
       ]
     },
@@ -11761,7 +11761,7 @@ const training =
       "student_name": "Mica",
       "student_id": 1663878238978,
       "point": [
-        0.730593607305936,
+        0.64,
         0.6643356643356644
       ]
     },
@@ -11771,7 +11771,7 @@ const training =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        0.589041095890411,
+        0.516,
         0.3682983682983683
       ]
     },
@@ -11781,7 +11781,7 @@ const training =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.22144522144522144
       ]
     },
@@ -11791,7 +11791,7 @@ const training =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        0.634703196347032,
+        0.556,
         0.8018648018648019
       ]
     },
@@ -11801,7 +11801,7 @@ const training =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.6503496503496503
       ]
     },
@@ -11811,7 +11811,7 @@ const training =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        0.6529680365296804,
+        0.572,
         0.3543123543123543
       ]
     },
@@ -11821,7 +11821,7 @@ const training =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        0.6484018264840182,
+        0.568,
         0.668997668997669
       ]
     },
@@ -11831,7 +11831,7 @@ const training =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        0.54337899543379,
+        0.476,
         0.6013986013986014
       ]
     },
@@ -11841,7 +11841,7 @@ const training =
       "student_name": "vivek",
       "student_id": 1663878404744,
       "point": [
-        0.4771689497716895,
+        0.418,
         0.46386946386946387
       ]
     },
@@ -11851,7 +11851,7 @@ const training =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        0.6438356164383562,
+        0.564,
         0.2494172494172494
       ]
     },
@@ -11861,7 +11861,7 @@ const training =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.2540792540792541
       ]
     },
@@ -11871,7 +11871,7 @@ const training =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.662004662004662
       ]
     },
@@ -11881,7 +11881,7 @@ const training =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.6363636363636364
       ]
     },
@@ -11891,7 +11891,7 @@ const training =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        0.6004566210045662,
+        0.526,
         0.3006993006993007
       ]
     },
@@ -11901,7 +11901,7 @@ const training =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.5524475524475524
       ]
     },
@@ -11911,7 +11911,7 @@ const training =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        0.09360730593607305,
+        0.082,
         0.6713286713286714
       ]
     },
@@ -11921,7 +11921,7 @@ const training =
       "student_name": "Alejandro Ferrer",
       "student_id": 1663878599679,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.5874125874125874
       ]
     },
@@ -11931,7 +11931,7 @@ const training =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        0.684931506849315,
+        0.6,
         0.46386946386946387
       ]
     },
@@ -11941,7 +11941,7 @@ const training =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        0.6735159817351598,
+        0.59,
         0.31934731934731936
       ]
     },
@@ -11951,7 +11951,7 @@ const training =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.5571095571095571
       ]
     },
@@ -11961,7 +11961,7 @@ const training =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.7435897435897436
       ]
     },
@@ -11971,7 +11971,7 @@ const training =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.40326340326340326
       ]
     },
@@ -11981,7 +11981,7 @@ const training =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        0.6598173515981736,
+        0.578,
         0.32167832167832167
       ]
     },
@@ -11991,7 +11991,7 @@ const training =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        0.1872146118721461,
+        0.164,
         0.662004662004662
       ]
     },
@@ -12001,7 +12001,7 @@ const training =
       "student_name": "depichess",
       "student_id": 1663879610247,
       "point": [
-        0.8242009132420092,
+        0.722,
         0.8648018648018648
       ]
     },
@@ -12011,7 +12011,7 @@ const training =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.17016317016317017
       ]
     },
@@ -12021,7 +12021,7 @@ const training =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.3076923076923077
       ]
     },
@@ -12031,7 +12031,7 @@ const training =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.4662004662004662
       ]
     },
@@ -12041,7 +12041,7 @@ const training =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.5268065268065268
       ]
     },
@@ -12051,7 +12051,7 @@ const training =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.358974358974359
       ]
     },
@@ -12061,7 +12061,7 @@ const training =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        0.2945205479452055,
+        0.258,
         0.6783216783216783
       ]
     },
@@ -12071,7 +12071,7 @@ const training =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        0.7191780821917808,
+        0.63,
         0.675990675990676
       ]
     },
@@ -12081,7 +12081,7 @@ const training =
       "student_name": "Josher",
       "student_id": 1663879634062,
       "point": [
-        0.502283105022831,
+        0.44,
         0.5757575757575758
       ]
     },
@@ -12091,7 +12091,7 @@ const training =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.2540792540792541
       ]
     },
@@ -12101,7 +12101,7 @@ const training =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.27972027972027974
       ]
     },
@@ -12111,7 +12111,7 @@ const training =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        0.2899543378995434,
+        0.254,
         0.44755244755244755
       ]
     },
@@ -12121,7 +12121,7 @@ const training =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.8041958041958042
       ]
     },
@@ -12131,7 +12131,7 @@ const training =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.36363636363636365
       ]
     },
@@ -12141,7 +12141,7 @@ const training =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        0.21689497716894976,
+        0.19,
         0.752913752913753
       ]
     },
@@ -12151,7 +12151,7 @@ const training =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        0.091324200913242,
+        0.08,
         0.6107226107226107
       ]
     },
@@ -12161,7 +12161,7 @@ const training =
       "student_name": "Kiremode",
       "student_id": 1663880840915,
       "point": [
-        0.2648401826484018,
+        0.232,
         0.34032634032634035
       ]
     },
@@ -12171,7 +12171,7 @@ const training =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.5104895104895105
       ]
     },
@@ -12181,7 +12181,7 @@ const training =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        0.4200913242009132,
+        0.368,
         0.20279720279720279
       ]
     },
@@ -12191,7 +12191,7 @@ const training =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        0.2602739726027397,
+        0.228,
         0.5431235431235432
       ]
     },
@@ -12201,7 +12201,7 @@ const training =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.5617715617715617
       ]
     },
@@ -12211,7 +12211,7 @@ const training =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        0.6278538812785388,
+        0.55,
         0.4125874125874126
       ]
     },
@@ -12221,7 +12221,7 @@ const training =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.7482517482517482
       ]
     },
@@ -12231,7 +12231,7 @@ const training =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        0.17123287671232876,
+        0.15,
         0.6363636363636364
       ]
     },
@@ -12241,7 +12241,7 @@ const training =
       "student_name": "Komanc",
       "student_id": 1663881083644,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.5128205128205128
       ]
     },
@@ -12251,7 +12251,7 @@ const training =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        0.819634703196347,
+        0.718,
         0.3146853146853147
       ]
     },
@@ -12261,7 +12261,7 @@ const training =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        0.7488584474885844,
+        0.656,
         0.1794871794871795
       ]
     },
@@ -12271,7 +12271,7 @@ const training =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        0.7602739726027398,
+        0.666,
         0.655011655011655
       ]
     },
@@ -12281,7 +12281,7 @@ const training =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        0.6484018264840182,
+        0.568,
         0.6876456876456877
       ]
     },
@@ -12291,7 +12291,7 @@ const training =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.3076923076923077
       ]
     },
@@ -12301,7 +12301,7 @@ const training =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        0.2146118721461187,
+        0.188,
         0.6993006993006993
       ]
     },
@@ -12311,7 +12311,7 @@ const training =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        0.5776255707762558,
+        0.506,
         0.5641025641025641
       ]
     },
@@ -12321,7 +12321,7 @@ const training =
       "student_name": "Yotro",
       "student_id": 1663881135966,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.2517482517482518
       ]
     },
@@ -12331,7 +12331,7 @@ const training =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.20745920745920746
       ]
     },
@@ -12341,7 +12341,7 @@ const training =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.1445221445221445
       ]
     },
@@ -12351,7 +12351,7 @@ const training =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.7808857808857809
       ]
     },
@@ -12361,7 +12361,7 @@ const training =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        0.8333333333333334,
+        0.73,
         0.8811188811188811
       ]
     },
@@ -12371,7 +12371,7 @@ const training =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        0.3287671232876712,
+        0.288,
         0.16083916083916083
       ]
     },
@@ -12381,7 +12381,7 @@ const training =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        0.3013698630136986,
+        0.264,
         0.7972027972027972
       ]
     },
@@ -12391,7 +12391,7 @@ const training =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        0.05707762557077625,
+        0.05,
         0.5967365967365967
       ]
     },
@@ -12401,7 +12401,7 @@ const training =
       "student_name": "Shir Ben Yosef",
       "student_id": 1663881403384,
       "point": [
-        0.45662100456621,
+        0.4,
         0.5944055944055944
       ]
     },
@@ -12411,7 +12411,7 @@ const training =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.3076923076923077
       ]
     },
@@ -12421,7 +12421,7 @@ const training =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        0.3150684931506849,
+        0.276,
         0.0979020979020979
       ]
     },
@@ -12431,7 +12431,7 @@ const training =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        0.3150684931506849,
+        0.276,
         0.26107226107226106
       ]
     },
@@ -12441,7 +12441,7 @@ const training =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.45454545454545453
       ]
     },
@@ -12451,7 +12451,7 @@ const training =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        0.3881278538812785,
+        0.34,
         0.1958041958041958
       ]
     },
@@ -12461,7 +12461,7 @@ const training =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.23543123543123542
       ]
     },
@@ -12471,7 +12471,7 @@ const training =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        0.02511415525114155,
+        0.022,
         0.28438228438228436
       ]
     },
@@ -12481,7 +12481,7 @@ const training =
       "student_name": "Max",
       "student_id": 1663881435064,
       "point": [
-        0.20776255707762556,
+        0.182,
         0.10722610722610723
       ]
     },
@@ -12491,7 +12491,7 @@ const training =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.1351981351981352
       ]
     },
@@ -12501,7 +12501,7 @@ const training =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        0.5,
+        0.438,
         0.4382284382284382
       ]
     },
@@ -12511,7 +12511,7 @@ const training =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        0.3378995433789954,
+        0.296,
         0.4289044289044289
       ]
     },
@@ -12521,7 +12521,7 @@ const training =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        0.821917808219178,
+        0.72,
         0.745920745920746
       ]
     },
@@ -12531,7 +12531,7 @@ const training =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.2680652680652681
       ]
     },
@@ -12541,7 +12541,7 @@ const training =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        0.7671232876712328,
+        0.672,
         0.5034965034965035
       ]
     },
@@ -12551,7 +12551,7 @@ const training =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.2773892773892774
       ]
     },
@@ -12561,7 +12561,7 @@ const training =
       "student_name": "Alfredo Oviedo",
       "student_id": 1663881873050,
       "point": [
-        0.3401826484018265,
+        0.298,
         0.28438228438228436
       ]
     },
@@ -12571,7 +12571,7 @@ const training =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        0.3675799086757991,
+        0.322,
         0.20279720279720279
       ]
     },
@@ -12581,7 +12581,7 @@ const training =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        0.3333333333333333,
+        0.292,
         0.1258741258741259
       ]
     },
@@ -12591,7 +12591,7 @@ const training =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        0.547945205479452,
+        0.48,
         0.34265734265734266
       ]
     },
@@ -12601,7 +12601,7 @@ const training =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        0.7054794520547946,
+        0.618,
         0.4988344988344988
       ]
     },
@@ -12611,7 +12611,7 @@ const training =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        0.2579908675799087,
+        0.226,
         0.2517482517482518
       ]
     },
@@ -12621,7 +12621,7 @@ const training =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.5967365967365967
       ]
     },
@@ -12631,7 +12631,7 @@ const training =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        0.09817351598173515,
+        0.086,
         0.3356643356643357
       ]
     },
@@ -12641,7 +12641,7 @@ const training =
       "student_name": "c",
       "student_id": 1663882102141,
       "point": [
-        0.3219178082191781,
+        0.282,
         0.4428904428904429
       ]
     },
@@ -12651,7 +12651,7 @@ const training =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        0.819634703196347,
+        0.718,
         0.46386946386946387
       ]
     },
@@ -12661,7 +12661,7 @@ const training =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        0.6438356164383562,
+        0.564,
         0.3916083916083916
       ]
     },
@@ -12671,7 +12671,7 @@ const training =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        0.5844748858447488,
+        0.512,
         0.4662004662004662
       ]
     },
@@ -12681,7 +12681,7 @@ const training =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.745920745920746
       ]
     },
@@ -12691,7 +12691,7 @@ const training =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.4219114219114219
       ]
     },
@@ -12701,7 +12701,7 @@ const training =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        0.6689497716894978,
+        0.586,
         0.7435897435897436
       ]
     },
@@ -12711,7 +12711,7 @@ const training =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        0.634703196347032,
+        0.556,
         0.7202797202797203
       ]
     },
@@ -12721,7 +12721,7 @@ const training =
       "student_name": "Andrei",
       "student_id": 1663883061674,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.4801864801864802
       ]
     },
@@ -12731,7 +12731,7 @@ const training =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        0.6484018264840182,
+        0.568,
         0.43123543123543123
       ]
     },
@@ -12741,7 +12741,7 @@ const training =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        0.4223744292237443,
+        0.37,
         0.43356643356643354
       ]
     },
@@ -12751,7 +12751,7 @@ const training =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.43356643356643354
       ]
     },
@@ -12761,7 +12761,7 @@ const training =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        0.776255707762557,
+        0.68,
         0.5641025641025641
       ]
     },
@@ -12771,7 +12771,7 @@ const training =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        0.6027397260273972,
+        0.528,
         0.3776223776223776
       ]
     },
@@ -12781,7 +12781,7 @@ const training =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        0.5273972602739726,
+        0.462,
         0.6456876456876457
       ]
     },
@@ -12791,7 +12791,7 @@ const training =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        0.3264840182648402,
+        0.286,
         0.41025641025641024
       ]
     },
@@ -12801,7 +12801,7 @@ const training =
       "student_name": "Qori",
       "student_id": 1663883148598,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.37995337995337997
       ]
     },
@@ -12811,7 +12811,7 @@ const training =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.2400932400932401
       ]
     },
@@ -12821,7 +12821,7 @@ const training =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.6223776223776224
       ]
     },
@@ -12831,7 +12831,7 @@ const training =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.7062937062937062
       ]
     },
@@ -12841,7 +12841,7 @@ const training =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        0.6598173515981736,
+        0.578,
         0.7342657342657343
       ]
     },
@@ -12851,7 +12851,7 @@ const training =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.4662004662004662
       ]
     },
@@ -12861,7 +12861,7 @@ const training =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.4172494172494173
       ]
     },
@@ -12871,7 +12871,7 @@ const training =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        0.3607305936073059,
+        0.316,
         0.4755244755244755
       ]
     },
@@ -12881,7 +12881,7 @@ const training =
       "student_name": "mert",
       "student_id": 1663884210138,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.5058275058275058
       ]
     },
@@ -12891,7 +12891,7 @@ const training =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.42424242424242425
       ]
     },
@@ -12901,7 +12901,7 @@ const training =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.3006993006993007
       ]
     },
@@ -12911,7 +12911,7 @@ const training =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.5104895104895105
       ]
     },
@@ -12921,7 +12921,7 @@ const training =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.7902097902097902
       ]
     },
@@ -12931,7 +12931,7 @@ const training =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.6060606060606061
       ]
     },
@@ -12941,7 +12941,7 @@ const training =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.6060606060606061
       ]
     },
@@ -12951,7 +12951,7 @@ const training =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        0.02054794520547945,
+        0.018,
         0.46153846153846156
       ]
     },
@@ -12961,7 +12961,7 @@ const training =
       "student_name": "Chris 👍",
       "student_id": 1663884766543,
       "point": [
-        0.13013698630136986,
+        0.114,
         0.3916083916083916
       ]
     },
@@ -12971,7 +12971,7 @@ const training =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.16083916083916083
       ]
     },
@@ -12981,7 +12981,7 @@ const training =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        0.502283105022831,
+        0.44,
         0.12121212121212122
       ]
     },
@@ -12991,7 +12991,7 @@ const training =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        0.365296803652968,
+        0.32,
         0.44522144522144524
       ]
     },
@@ -13001,7 +13001,7 @@ const training =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.6223776223776224
       ]
     },
@@ -13011,7 +13011,7 @@ const training =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        0.7442922374429224,
+        0.652,
         0.4731934731934732
       ]
     },
@@ -13021,7 +13021,7 @@ const training =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        0.4063926940639269,
+        0.356,
         0.7342657342657343
       ]
     },
@@ -13031,7 +13031,7 @@ const training =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.43356643356643354
       ]
     },
@@ -13041,7 +13041,7 @@ const training =
       "student_name": "Epherum",
       "student_id": 1663885202509,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.5571095571095571
       ]
     },
@@ -13051,7 +13051,7 @@ const training =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        0.817351598173516,
+        0.716,
         0.42424242424242425
       ]
     },
@@ -13061,7 +13061,7 @@ const training =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.26107226107226106
       ]
     },
@@ -13071,7 +13071,7 @@ const training =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        0.8721461187214612,
+        0.764,
         0.6899766899766899
       ]
     },
@@ -13081,7 +13081,7 @@ const training =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        0.8767123287671232,
+        0.768,
         0.8181818181818182
       ]
     },
@@ -13091,7 +13091,7 @@ const training =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        0.6484018264840182,
+        0.568,
         0.36363636363636365
       ]
     },
@@ -13101,7 +13101,7 @@ const training =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        0.7785388127853882,
+        0.682,
         0.2191142191142191
       ]
     },
@@ -13111,7 +13111,7 @@ const training =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        0.4269406392694064,
+        0.374,
         0.013986013986013986
       ]
     },
@@ -13121,7 +13121,7 @@ const training =
       "student_name": "Sjaak Lauwers",
       "student_id": 1663885510634,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.43356643356643354
       ]
     },
@@ -13131,7 +13131,7 @@ const training =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.26107226107226106
       ]
     },
@@ -13141,7 +13141,7 @@ const training =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        0.4680365296803653,
+        0.41,
         0.2331002331002331
       ]
     },
@@ -13151,7 +13151,7 @@ const training =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        0.684931506849315,
+        0.6,
         0.4405594405594406
       ]
     },
@@ -13161,7 +13161,7 @@ const training =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        0.3515981735159817,
+        0.308,
         0.44988344988344986
       ]
     },
@@ -13171,7 +13171,7 @@ const training =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        0.3904109589041096,
+        0.342,
         0.22843822843822845
       ]
     },
@@ -13181,7 +13181,7 @@ const training =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        0.3287671232876712,
+        0.288,
         0.34032634032634035
       ]
     },
@@ -13191,7 +13191,7 @@ const training =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        0.3333333333333333,
+        0.292,
         0.2727272727272727
       ]
     },
@@ -13201,7 +13201,7 @@ const training =
       "student_name": "Maciek W",
       "student_id": 1663887128481,
       "point": [
-        0.3538812785388128,
+        0.31,
         0.20046620046620048
       ]
     },
@@ -13211,7 +13211,7 @@ const training =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.1794871794871795
       ]
     },
@@ -13221,7 +13221,7 @@ const training =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        0.4520547945205479,
+        0.396,
         0.11188811188811189
       ]
     },
@@ -13231,7 +13231,7 @@ const training =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.32167832167832167
       ]
     },
@@ -13241,7 +13241,7 @@ const training =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        0.317351598173516,
+        0.278,
         0.46153846153846156
       ]
     },
@@ -13251,7 +13251,7 @@ const training =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        0.6278538812785388,
+        0.55,
         0.2867132867132867
       ]
     },
@@ -13261,7 +13261,7 @@ const training =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        0.13926940639269406,
+        0.122,
         0.4731934731934732
       ]
     },
@@ -13271,7 +13271,7 @@ const training =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        0.2831050228310502,
+        0.248,
         0.27972027972027974
       ]
     },
@@ -13281,7 +13281,7 @@ const training =
       "student_name": "benci",
       "student_id": 1663887556228,
       "point": [
-        0.271689497716895,
+        0.238,
         0.26573426573426573
       ]
     },
@@ -13291,7 +13291,7 @@ const training =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        0.454337899543379,
+        0.398,
         0.1585081585081585
       ]
     },
@@ -13301,7 +13301,7 @@ const training =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        0.408675799086758,
+        0.358,
         0.44755244755244755
       ]
     },
@@ -13311,7 +13311,7 @@ const training =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        1,
+        0.876,
         0.9627039627039627
       ]
     },
@@ -13321,7 +13321,7 @@ const training =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        0.8767123287671232,
+        0.768,
         0.9627039627039627
       ]
     },
@@ -13331,7 +13331,7 @@ const training =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        0.9383561643835616,
+        0.822,
         0.8624708624708625
       ]
     },
@@ -13341,7 +13341,7 @@ const training =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        0.3607305936073059,
+        0.316,
         0.8181818181818182
       ]
     },
@@ -13351,7 +13351,7 @@ const training =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        0.2602739726027397,
+        0.228,
         0.3146853146853147
       ]
     },
@@ -13361,7 +13361,7 @@ const training =
       "student_name": "niconi",
       "student_id": 1663888782997,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.5944055944055944
       ]
     },
@@ -13371,7 +13371,7 @@ const training =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        0.6712328767123288,
+        0.588,
         0.46853146853146854
       ]
     },
@@ -13381,7 +13381,7 @@ const training =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        0.4977168949771689,
+        0.436,
         0.24475524475524477
       ]
     },
@@ -13391,7 +13391,7 @@ const training =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.6573426573426573
       ]
     },
@@ -13401,7 +13401,7 @@ const training =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        0.3881278538812785,
+        0.34,
         0.6363636363636364
       ]
     },
@@ -13411,7 +13411,7 @@ const training =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        0.591324200913242,
+        0.518,
         0.4428904428904429
       ]
     },
@@ -13421,7 +13421,7 @@ const training =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.6317016317016317
       ]
     },
@@ -13431,7 +13431,7 @@ const training =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.38461538461538464
       ]
     },
@@ -13441,7 +13441,7 @@ const training =
       "student_name": "许叶健",
       "student_id": 1663888951460,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.627039627039627
       ]
     },
@@ -13451,7 +13451,7 @@ const training =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        0.4611872146118721,
+        0.404,
         0.16083916083916083
       ]
     },
@@ -13461,7 +13461,7 @@ const training =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        0.502283105022831,
+        0.44,
         0.18181818181818182
       ]
     },
@@ -13471,7 +13471,7 @@ const training =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.4801864801864802
       ]
     },
@@ -13481,7 +13481,7 @@ const training =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        0.4611872146118721,
+        0.404,
         0.5944055944055944
       ]
     },
@@ -13491,7 +13491,7 @@ const training =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        0.5273972602739726,
+        0.462,
         0.372960372960373
       ]
     },
@@ -13501,7 +13501,7 @@ const training =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.6060606060606061
       ]
     },
@@ -13511,7 +13511,7 @@ const training =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        0.3538812785388128,
+        0.31,
         0.3916083916083916
       ]
     },
@@ -13521,7 +13521,7 @@ const training =
       "student_name": "thiago",
       "student_id": 1663889385482,
       "point": [
-        0.1141552511415525,
+        0.1,
         0.09090909090909091
       ]
     },
@@ -13531,7 +13531,7 @@ const training =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.48484848484848486
       ]
     },
@@ -13541,7 +13541,7 @@ const training =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.21678321678321677
       ]
     },
@@ -13551,7 +13551,7 @@ const training =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.6503496503496503
       ]
     },
@@ -13561,7 +13561,7 @@ const training =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        0.4771689497716895,
+        0.418,
         0.6876456876456877
       ]
     },
@@ -13571,7 +13571,7 @@ const training =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.4801864801864802
       ]
     },
@@ -13581,7 +13581,7 @@ const training =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.6923076923076923
       ]
     },
@@ -13591,7 +13591,7 @@ const training =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.5337995337995338
       ]
     },
@@ -13601,7 +13601,7 @@ const training =
       "student_name": "Maria",
       "student_id": 1663889417446,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.42657342657342656
       ]
     },
@@ -13611,7 +13611,7 @@ const training =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        0.21232876712328766,
+        0.186,
         0.3076923076923077
       ]
     },
@@ -13621,7 +13621,7 @@ const training =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        0.2625570776255708,
+        0.23,
         0.21212121212121213
       ]
     },
@@ -13631,7 +13631,7 @@ const training =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        0.20319634703196346,
+        0.178,
         0.2400932400932401
       ]
     },
@@ -13641,7 +13641,7 @@ const training =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        0.319634703196347,
+        0.28,
         0.34965034965034963
       ]
     },
@@ -13651,7 +13651,7 @@ const training =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        0.17123287671232876,
+        0.15,
         0.2097902097902098
       ]
     },
@@ -13661,7 +13661,7 @@ const training =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        0.4771689497716895,
+        0.418,
         0.19114219114219114
       ]
     },
@@ -13671,7 +13671,7 @@ const training =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        0.3607305936073059,
+        0.316,
         0.4592074592074592
       ]
     },
@@ -13681,7 +13681,7 @@ const training =
       "student_name": "IdrissD",
       "student_id": 1663890315980,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.41025641025641024
       ]
     },
@@ -13691,7 +13691,7 @@ const training =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.28438228438228436
       ]
     },
@@ -13701,7 +13701,7 @@ const training =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.20745920745920746
       ]
     },
@@ -13711,7 +13711,7 @@ const training =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        0.4840182648401826,
+        0.424,
         0.5547785547785548
       ]
     },
@@ -13721,7 +13721,7 @@ const training =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        0.726027397260274,
+        0.636,
         0.710955710955711
       ]
     },
@@ -13731,7 +13731,7 @@ const training =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        0.4292237442922374,
+        0.376,
         0.2703962703962704
       ]
     },
@@ -13741,7 +13741,7 @@ const training =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        0.45662100456621,
+        0.4,
         0.5081585081585082
       ]
     },
@@ -13751,7 +13751,7 @@ const training =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        0.0730593607305936,
+        0.064,
         0.5944055944055944
       ]
     },
@@ -13761,7 +13761,7 @@ const training =
       "student_name": "eduliqui",
       "student_id": 1663890496112,
       "point": [
-        0.5,
+        0.438,
         0.5128205128205128
       ]
     },
@@ -13771,7 +13771,7 @@ const training =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.3356643356643357
       ]
     },
@@ -13781,7 +13781,7 @@ const training =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.21445221445221446
       ]
     },
@@ -13791,7 +13791,7 @@ const training =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        0.4885844748858447,
+        0.428,
         0.5034965034965035
       ]
     },
@@ -13801,7 +13801,7 @@ const training =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.5477855477855478
       ]
     },
@@ -13811,7 +13811,7 @@ const training =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        0.5,
+        0.438,
         0.2913752913752914
       ]
     },
@@ -13821,7 +13821,7 @@ const training =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.3962703962703963
       ]
     },
@@ -13831,7 +13831,7 @@ const training =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        0.3082191780821918,
+        0.27,
         0.4289044289044289
       ]
     },
@@ -13841,7 +13841,7 @@ const training =
       "student_name": "Don juan",
       "student_id": 1663891327231,
       "point": [
-        0.4246575342465753,
+        0.372,
         0.43356643356643354
       ]
     },
@@ -13851,7 +13851,7 @@ const training =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.38694638694638694
       ]
     },
@@ -13861,7 +13861,7 @@ const training =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.27972027972027974
       ]
     },
@@ -13871,7 +13871,7 @@ const training =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.42424242424242425
       ]
     },
@@ -13881,7 +13881,7 @@ const training =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.6247086247086248
       ]
     },
@@ -13891,7 +13891,7 @@ const training =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.38694638694638694
       ]
     },
@@ -13901,7 +13901,7 @@ const training =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        0.5639269406392694,
+        0.494,
         0.4755244755244755
       ]
     },
@@ -13911,7 +13911,7 @@ const training =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        0.17123287671232876,
+        0.15,
         0.5058275058275058
       ]
     },
@@ -13921,7 +13921,7 @@ const training =
       "student_name": "adityackr",
       "student_id": 1663891714649,
       "point": [
-        0.3378995433789954,
+        0.296,
         0.3986013986013986
       ]
     },
@@ -13931,7 +13931,7 @@ const training =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        0.7511415525114156,
+        0.658,
         0.32167832167832167
       ]
     },
@@ -13941,7 +13941,7 @@ const training =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        0.6735159817351598,
+        0.59,
         0.668997668997669
       ]
     },
@@ -13951,7 +13951,7 @@ const training =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.5874125874125874
       ]
     },
@@ -13961,7 +13961,7 @@ const training =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.5664335664335665
       ]
     },
@@ -13971,7 +13971,7 @@ const training =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.2773892773892774
       ]
     },
@@ -13981,7 +13981,7 @@ const training =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        0.7442922374429224,
+        0.652,
         0.7575757575757576
       ]
     },
@@ -13991,7 +13991,7 @@ const training =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.6666666666666666
       ]
     },
@@ -14001,7 +14001,7 @@ const training =
       "student_name": "Xounds Master",
       "student_id": 1663895306574,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.5011655011655012
       ]
     },
@@ -14011,7 +14011,7 @@ const training =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.2703962703962704
       ]
     },
@@ -14021,7 +14021,7 @@ const training =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.40792540792540793
       ]
     },
@@ -14031,7 +14031,7 @@ const training =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.5454545454545454
       ]
     },
@@ -14041,7 +14041,7 @@ const training =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        0.7420091324200914,
+        0.65,
         0.6573426573426573
       ]
     },
@@ -14051,7 +14051,7 @@ const training =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.30536130536130535
       ]
     },
@@ -14061,7 +14061,7 @@ const training =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.6223776223776224
       ]
     },
@@ -14071,7 +14071,7 @@ const training =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.4755244755244755
       ]
     },
@@ -14081,7 +14081,7 @@ const training =
       "student_name": "JohnSShepard",
       "student_id": 1663896450565,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.3986013986013986
       ]
     },
@@ -14091,7 +14091,7 @@ const training =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        0.7990867579908676,
+        0.7,
         0.32634032634032634
       ]
     },
@@ -14101,7 +14101,7 @@ const training =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.2097902097902098
       ]
     },
@@ -14111,7 +14111,7 @@ const training =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.4825174825174825
       ]
     },
@@ -14121,7 +14121,7 @@ const training =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        0.9041095890410958,
+        0.792,
         0.662004662004662
       ]
     },
@@ -14131,7 +14131,7 @@ const training =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.4149184149184149
       ]
     },
@@ -14141,7 +14141,7 @@ const training =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        0.8310502283105022,
+        0.728,
         0.2937062937062937
       ]
     },
@@ -14151,7 +14151,7 @@ const training =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        0.7511415525114156,
+        0.658,
         0.3986013986013986
       ]
     },
@@ -14161,7 +14161,7 @@ const training =
       "student_name": "Zakaria",
       "student_id": 1663896499713,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.3123543123543124
       ]
     },
@@ -14171,7 +14171,7 @@ const training =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.21445221445221446
       ]
     },
@@ -14181,7 +14181,7 @@ const training =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.16783216783216784
       ]
     },
@@ -14191,7 +14191,7 @@ const training =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        0.5799086757990868,
+        0.508,
         0.47785547785547783
       ]
     },
@@ -14201,7 +14201,7 @@ const training =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.5734265734265734
       ]
     },
@@ -14211,7 +14211,7 @@ const training =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        0.5639269406392694,
+        0.494,
         0.32867132867132864
       ]
     },
@@ -14221,7 +14221,7 @@ const training =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        0.7214611872146118,
+        0.632,
         0.22144522144522144
       ]
     },
@@ -14231,7 +14231,7 @@ const training =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.40559440559440557
       ]
     },
@@ -14241,7 +14241,7 @@ const training =
       "student_name": "Jaime",
       "student_id": 1663896749362,
       "point": [
-        0.3584474885844749,
+        0.314,
         0.30303030303030304
       ]
     },
@@ -14251,7 +14251,7 @@ const training =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.21445221445221446
       ]
     },
@@ -14261,7 +14261,7 @@ const training =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.24708624708624707
       ]
     },
@@ -14271,7 +14271,7 @@ const training =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.44988344988344986
       ]
     },
@@ -14281,7 +14281,7 @@ const training =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        0.3150684931506849,
+        0.276,
         0.4801864801864802
       ]
     },
@@ -14291,7 +14291,7 @@ const training =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.5384615384615384
       ]
     },
@@ -14301,7 +14301,7 @@ const training =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        0.2237442922374429,
+        0.196,
         0.4965034965034965
       ]
     },
@@ -14311,7 +14311,7 @@ const training =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        0.0593607305936073,
+        0.052,
         0.3146853146853147
       ]
     },
@@ -14321,7 +14321,7 @@ const training =
       "student_name": "Sandeep",
       "student_id": 1663897054216,
       "point": [
-        0.2968036529680365,
+        0.26,
         0.32867132867132864
       ]
     },
@@ -14331,7 +14331,7 @@ const training =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.2540792540792541
       ]
     },
@@ -14341,7 +14341,7 @@ const training =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        0.24885844748858446,
+        0.218,
         0.14918414918414918
       ]
     },
@@ -14351,7 +14351,7 @@ const training =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        0.22602739726027396,
+        0.198,
         0.30303030303030304
       ]
     },
@@ -14361,7 +14361,7 @@ const training =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        0.7146118721461188,
+        0.626,
         0.6107226107226107
       ]
     },
@@ -14371,7 +14371,7 @@ const training =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        0.4589041095890411,
+        0.402,
         0.28205128205128205
       ]
     },
@@ -14381,7 +14381,7 @@ const training =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        0.3264840182648402,
+        0.286,
         0.24475524475524477
       ]
     },
@@ -14391,7 +14391,7 @@ const training =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        0.182648401826484,
+        0.16,
         0.13053613053613053
       ]
     },
@@ -14401,7 +14401,7 @@ const training =
       "student_name": "garyTwoTimes",
       "student_id": 1663897253677,
       "point": [
-        0.3127853881278539,
+        0.274,
         0.3006993006993007
       ]
     },
@@ -14411,7 +14411,7 @@ const training =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.36363636363636365
       ]
     },
@@ -14421,7 +14421,7 @@ const training =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        0.3789954337899543,
+        0.332,
         0.19813519813519814
       ]
     },
@@ -14431,7 +14431,7 @@ const training =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        0.7579908675799086,
+        0.664,
         0.6503496503496503
       ]
     },
@@ -14441,7 +14441,7 @@ const training =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.5897435897435898
       ]
     },
@@ -14451,7 +14451,7 @@ const training =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.34265734265734266
       ]
     },
@@ -14461,7 +14461,7 @@ const training =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.4755244755244755
       ]
     },
@@ -14471,7 +14471,7 @@ const training =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        0.363013698630137,
+        0.318,
         0.3962703962703963
       ]
     },
@@ -14481,7 +14481,7 @@ const training =
       "student_name": "arman saha",
       "student_id": 1663897512318,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.47785547785547783
       ]
     },
@@ -14491,7 +14491,7 @@ const training =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.2261072261072261
       ]
     },
@@ -14501,7 +14501,7 @@ const training =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        0.2374429223744292,
+        0.208,
         0.08391608391608392
       ]
     },
@@ -14511,7 +14511,7 @@ const training =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.38694638694638694
       ]
     },
@@ -14521,7 +14521,7 @@ const training =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.703962703962704
       ]
     },
@@ -14531,7 +14531,7 @@ const training =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        0.3721461187214612,
+        0.326,
         0.1655011655011655
       ]
     },
@@ -14541,7 +14541,7 @@ const training =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.1655011655011655
       ]
     },
@@ -14551,7 +14551,7 @@ const training =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        0.1780821917808219,
+        0.156,
         0.14219114219114218
       ]
     },
@@ -14561,7 +14561,7 @@ const training =
       "student_name": "Cris",
       "student_id": 1663899214207,
       "point": [
-        0.4155251141552511,
+        0.364,
         0.36363636363636365
       ]
     },
@@ -14571,7 +14571,7 @@ const training =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        0.2990867579908676,
+        0.262,
         0.5011655011655012
       ]
     },
@@ -14581,7 +14581,7 @@ const training =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.23076923076923078
       ]
     },
@@ -14591,7 +14591,7 @@ const training =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        0.5,
+        0.438,
         0.289044289044289
       ]
     },
@@ -14601,7 +14601,7 @@ const training =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        0.639269406392694,
+        0.56,
         0.6130536130536131
       ]
     },
@@ -14611,7 +14611,7 @@ const training =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        0.4452054794520548,
+        0.39,
         0.24475524475524477
       ]
     },
@@ -14621,7 +14621,7 @@ const training =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        0.723744292237443,
+        0.634,
         0.2517482517482518
       ]
     },
@@ -14631,7 +14631,7 @@ const training =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        0.2557077625570776,
+        0.224,
         0.40326340326340326
       ]
     },
@@ -14641,7 +14641,7 @@ const training =
       "student_name": "Fauzan Radji",
       "student_id": 1663899380120,
       "point": [
-        0.3561643835616438,
+        0.312,
         0.358974358974359
       ]
     },
@@ -14651,7 +14651,7 @@ const training =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.25874125874125875
       ]
     },
@@ -14661,7 +14661,7 @@ const training =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.43356643356643354
       ]
     },
@@ -14671,7 +14671,7 @@ const training =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.5314685314685315
       ]
     },
@@ -14681,7 +14681,7 @@ const training =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        0.591324200913242,
+        0.518,
         0.7972027972027972
       ]
     },
@@ -14691,7 +14691,7 @@ const training =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.47086247086247085
       ]
     },
@@ -14701,7 +14701,7 @@ const training =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        0.815068493150685,
+        0.714,
         0.7599067599067599
       ]
     },
@@ -14711,7 +14711,7 @@ const training =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        0.4520547945205479,
+        0.396,
         0.41025641025641024
       ]
     },
@@ -14721,7 +14721,7 @@ const training =
       "student_name": "asmit",
       "student_id": 1663899679695,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.5268065268065268
       ]
     },
@@ -14731,7 +14731,7 @@ const training =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        0.6118721461187214,
+        0.536,
         0.23776223776223776
       ]
     },
@@ -14741,7 +14741,7 @@ const training =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.20512820512820512
       ]
     },
@@ -14751,7 +14751,7 @@ const training =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.5641025641025641
       ]
     },
@@ -14761,7 +14761,7 @@ const training =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        0.5799086757990868,
+        0.508,
         0.6783216783216783
       ]
     },
@@ -14771,7 +14771,7 @@ const training =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        0.3904109589041096,
+        0.342,
         0.32634032634032634
       ]
     },
@@ -14781,7 +14781,7 @@ const training =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        0.6118721461187214,
+        0.536,
         0.5664335664335665
       ]
     },
@@ -14791,7 +14791,7 @@ const training =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        0.591324200913242,
+        0.518,
         0.46853146853146854
       ]
     },
@@ -14801,7 +14801,7 @@ const training =
       "student_name": "Manish",
       "student_id": 1663899808367,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.3986013986013986
       ]
     },
@@ -14811,7 +14811,7 @@ const training =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.3333333333333333
       ]
     },
@@ -14821,7 +14821,7 @@ const training =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        0.5753424657534246,
+        0.504,
         0.6456876456876457
       ]
     },
@@ -14831,7 +14831,7 @@ const training =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        0.4520547945205479,
+        0.396,
         0.717948717948718
       ]
     },
@@ -14841,7 +14841,7 @@ const training =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        0.5365296803652968,
+        0.47,
         1
       ]
     },
@@ -14851,7 +14851,7 @@ const training =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.44755244755244755
       ]
     },
@@ -14861,7 +14861,7 @@ const training =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        0.7123287671232876,
+        0.624,
         0.7062937062937062
       ]
     },
@@ -14871,7 +14871,7 @@ const training =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        0.730593607305936,
+        0.64,
         0.6223776223776224
       ]
     },
@@ -14881,7 +14881,7 @@ const training =
       "student_name": "Jacob",
       "student_id": 1663900040545,
       "point": [
-        0.589041095890411,
+        0.516,
         0.5454545454545454
       ]
     },
@@ -14891,7 +14891,7 @@ const training =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.20512820512820512
       ]
     },
@@ -14901,7 +14901,7 @@ const training =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.19347319347319347
       ]
     },
@@ -14911,7 +14911,7 @@ const training =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        0.3333333333333333,
+        0.292,
         0.337995337995338
       ]
     },
@@ -14921,7 +14921,7 @@ const training =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        0.2534246575342466,
+        0.222,
         0.46853146853146854
       ]
     },
@@ -14931,7 +14931,7 @@ const training =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.2867132867132867
       ]
     },
@@ -14941,7 +14941,7 @@ const training =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        0.4840182648401826,
+        0.424,
         0.4382284382284382
       ]
     },
@@ -14951,7 +14951,7 @@ const training =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        0.4657534246575342,
+        0.408,
         0.38694638694638694
       ]
     },
@@ -14961,7 +14961,7 @@ const training =
       "student_name": "Tanz",
       "student_id": 1663902135182,
       "point": [
-        0.3036529680365297,
+        0.266,
         0.3006993006993007
       ]
     },
@@ -14971,7 +14971,7 @@ const training =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        0.5228310502283106,
+        0.458,
         0.48717948717948717
       ]
     },
@@ -14981,7 +14981,7 @@ const training =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.5361305361305362
       ]
     },
@@ -14991,7 +14991,7 @@ const training =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.7319347319347319
       ]
     },
@@ -15001,7 +15001,7 @@ const training =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        0.7420091324200914,
+        0.65,
         0.8391608391608392
       ]
     },
@@ -15011,7 +15011,7 @@ const training =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.6363636363636364
       ]
     },
@@ -15021,7 +15021,7 @@ const training =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        0.817351598173516,
+        0.716,
         0.8578088578088578
       ]
     },
@@ -15031,7 +15031,7 @@ const training =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        0.726027397260274,
+        0.636,
         0.7389277389277389
       ]
     },
@@ -15041,7 +15041,7 @@ const training =
       "student_name": "JamesCalvin",
       "student_id": 1663902799563,
       "point": [
-        0.684931506849315,
+        0.6,
         0.7482517482517482
       ]
     },
@@ -15051,7 +15051,7 @@ const training =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        0.7602739726027398,
+        0.666,
         0.44522144522144524
       ]
     },
@@ -15061,7 +15061,7 @@ const training =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        0.4383561643835616,
+        0.384,
         0.2400932400932401
       ]
     },
@@ -15071,7 +15071,7 @@ const training =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.5944055944055944
       ]
     },
@@ -15081,7 +15081,7 @@ const training =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        0.545662100456621,
+        0.478,
         0.5920745920745921
       ]
     },
@@ -15091,7 +15091,7 @@ const training =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.40326340326340326
       ]
     },
@@ -15101,7 +15101,7 @@ const training =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.5384615384615384
       ]
     },
@@ -15111,7 +15111,7 @@ const training =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.19347319347319347
       ]
     },
@@ -15121,7 +15121,7 @@ const training =
       "student_name": "lunux",
       "student_id": 1663903353419,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.3962703962703963
       ]
     },
@@ -15131,7 +15131,7 @@ const training =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.17482517482517482
       ]
     },
@@ -15141,7 +15141,7 @@ const training =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.14918414918414918
       ]
     },
@@ -15151,7 +15151,7 @@ const training =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        0.3515981735159817,
+        0.308,
         0.3916083916083916
       ]
     },
@@ -15161,7 +15161,7 @@ const training =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        0.7420091324200914,
+        0.65,
         0.6130536130536131
       ]
     },
@@ -15171,7 +15171,7 @@ const training =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        0.4155251141552511,
+        0.364,
         0.1958041958041958
       ]
     },
@@ -15181,7 +15181,7 @@ const training =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        0.13926940639269406,
+        0.122,
         0.5034965034965035
       ]
     },
@@ -15191,7 +15191,7 @@ const training =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        0.0502283105022831,
+        0.044,
         0.6223776223776224
       ]
     },
@@ -15201,7 +15201,7 @@ const training =
       "student_name": "Juanse",
       "student_id": 1663903403679,
       "point": [
-        0.4611872146118721,
+        0.404,
         0.4358974358974359
       ]
     },
@@ -15211,7 +15211,7 @@ const training =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        0.8242009132420092,
+        0.722,
         0.48951048951048953
       ]
     },
@@ -15221,7 +15221,7 @@ const training =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        0.591324200913242,
+        0.518,
         0.2680652680652681
       ]
     },
@@ -15231,7 +15231,7 @@ const training =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        0.7077625570776256,
+        0.62,
         0.46853146853146854
       ]
     },
@@ -15241,7 +15241,7 @@ const training =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        0.363013698630137,
+        0.318,
         0.6736596736596736
       ]
     },
@@ -15251,7 +15251,7 @@ const training =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        0.771689497716895,
+        0.676,
         0.7435897435897436
       ]
     },
@@ -15261,7 +15261,7 @@ const training =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        0.3538812785388128,
+        0.31,
         0.48951048951048953
       ]
     },
@@ -15271,7 +15271,7 @@ const training =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        0.3698630136986301,
+        0.324,
         0.358974358974359
       ]
     },
@@ -15281,7 +15281,7 @@ const training =
       "student_name": "Adela",
       "student_id": 1663904902026,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.6923076923076923
       ]
     },
@@ -15291,7 +15291,7 @@ const training =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.4428904428904429
       ]
     },
@@ -15301,7 +15301,7 @@ const training =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        0.684931506849315,
+        0.6,
         0.16083916083916083
       ]
     },
@@ -15311,7 +15311,7 @@ const training =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        0.6986301369863014,
+        0.612,
         0.6037296037296037
       ]
     },
@@ -15321,7 +15321,7 @@ const training =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.7132867132867133
       ]
     },
@@ -15331,7 +15331,7 @@ const training =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        0.5639269406392694,
+        0.494,
         0.40326340326340326
       ]
     },
@@ -15341,7 +15341,7 @@ const training =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        0.2853881278538813,
+        0.25,
         0.7902097902097902
       ]
     },
@@ -15351,7 +15351,7 @@ const training =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        0.0410958904109589,
+        0.036,
         0.6806526806526807
       ]
     },
@@ -15361,7 +15361,7 @@ const training =
       "student_name": "Me",
       "student_id": 1663907060130,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.5757575757575758
       ]
     },
@@ -15371,7 +15371,7 @@ const training =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        0.8287671232876712,
+        0.726,
         0.38461538461538464
       ]
     },
@@ -15381,7 +15381,7 @@ const training =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.31002331002331
       ]
     },
@@ -15391,7 +15391,7 @@ const training =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.5617715617715617
       ]
     },
@@ -15401,7 +15401,7 @@ const training =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.6177156177156177
       ]
     },
@@ -15411,7 +15411,7 @@ const training =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        0.3470319634703196,
+        0.304,
         0.2937062937062937
       ]
     },
@@ -15421,7 +15421,7 @@ const training =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        0.2968036529680365,
+        0.26,
         0.682983682983683
       ]
     },
@@ -15431,7 +15431,7 @@ const training =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        0.0776255707762557,
+        0.068,
         0.4172494172494173
       ]
     },
@@ -15441,7 +15441,7 @@ const training =
       "student_name": "DevElbowgrease",
       "student_id": 1663907872218,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.5337995337995338
       ]
     },
@@ -15451,7 +15451,7 @@ const training =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        0.7899543378995434,
+        0.692,
         0.5034965034965035
       ]
     },
@@ -15461,7 +15461,7 @@ const training =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.317016317016317
       ]
     },
@@ -15471,7 +15471,7 @@ const training =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.4662004662004662
       ]
     },
@@ -15481,7 +15481,7 @@ const training =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        0.7579908675799086,
+        0.664,
         0.6363636363636364
       ]
     },
@@ -15491,7 +15491,7 @@ const training =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        0.5639269406392694,
+        0.494,
         0.32400932400932403
       ]
     },
@@ -15501,7 +15501,7 @@ const training =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.675990675990676
       ]
     },
@@ -15511,7 +15511,7 @@ const training =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        0.4474885844748858,
+        0.392,
         0.40792540792540793
       ]
     },
@@ -15521,7 +15521,7 @@ const training =
       "student_name": "Ron",
       "student_id": 1663908009370,
       "point": [
-        0.2990867579908676,
+        0.262,
         0.2400932400932401
       ]
     },
@@ -15531,7 +15531,7 @@ const training =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        0.7625570776255708,
+        0.668,
         0.20512820512820512
       ]
     },
@@ -15541,7 +15541,7 @@ const training =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.3123543123543124
       ]
     },
@@ -15551,7 +15551,7 @@ const training =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        0.8447488584474886,
+        0.74,
         0.32634032634032634
       ]
     },
@@ -15561,7 +15561,7 @@ const training =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        0.7374429223744292,
+        0.646,
         0.48717948717948717
       ]
     },
@@ -15571,7 +15571,7 @@ const training =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        0.6735159817351598,
+        0.59,
         0.47785547785547783
       ]
     },
@@ -15581,7 +15581,7 @@ const training =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        0.3242009132420091,
+        0.284,
         0.8041958041958042
       ]
     },
@@ -15591,7 +15591,7 @@ const training =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        0.6917808219178082,
+        0.606,
         0.7156177156177156
       ]
     },
@@ -15601,7 +15601,7 @@ const training =
       "student_name": "taylor",
       "student_id": 1663910436710,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.5477855477855478
       ]
     },
@@ -15611,7 +15611,7 @@ const training =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.26573426573426573
       ]
     },
@@ -15621,7 +15621,7 @@ const training =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        0.58675799086758,
+        0.514,
         0.41025641025641024
       ]
     },
@@ -15631,7 +15631,7 @@ const training =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        0.4223744292237443,
+        0.37,
         0.5174825174825175
       ]
     },
@@ -15641,7 +15641,7 @@ const training =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        0.4337899543378995,
+        0.38,
         0.5594405594405595
       ]
     },
@@ -15651,7 +15651,7 @@ const training =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.289044289044289
       ]
     },
@@ -15661,7 +15661,7 @@ const training =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        0.6872146118721462,
+        0.602,
         0.4755244755244755
       ]
     },
@@ -15671,7 +15671,7 @@ const training =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.5384615384615384
       ]
     },
@@ -15681,7 +15681,7 @@ const training =
       "student_name": "x",
       "student_id": 1663911041042,
       "point": [
-        0.4292237442922374,
+        0.376,
         0.4755244755244755
       ]
     },
@@ -15691,7 +15691,7 @@ const training =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.14219114219114218
       ]
     },
@@ -15701,7 +15701,7 @@ const training =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        0.410958904109589,
+        0.36,
         0.27972027972027974
       ]
     },
@@ -15711,7 +15711,7 @@ const training =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        0.6438356164383562,
+        0.564,
         0.5221445221445221
       ]
     },
@@ -15721,7 +15721,7 @@ const training =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        0.23972602739726026,
+        0.21,
         0.4731934731934732
       ]
     },
@@ -15731,7 +15731,7 @@ const training =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.31002331002331
       ]
     },
@@ -15741,7 +15741,7 @@ const training =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        0.58675799086758,
+        0.514,
         0.6153846153846154
       ]
     },
@@ -15751,7 +15751,7 @@ const training =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.1351981351981352
       ]
     },
@@ -15761,7 +15761,7 @@ const training =
       "student_name": "himanshu",
       "student_id": 1663911264945,
       "point": [
-        0.3607305936073059,
+        0.316,
         0.3962703962703963
       ]
     },
@@ -15771,7 +15771,7 @@ const training =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        0.5844748858447488,
+        0.512,
         0.358974358974359
       ]
     },
@@ -15781,7 +15781,7 @@ const training =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        0.4452054794520548,
+        0.39,
         0.20512820512820512
       ]
     },
@@ -15791,7 +15791,7 @@ const training =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        0.4246575342465753,
+        0.372,
         0.30303030303030304
       ]
     },
@@ -15801,7 +15801,7 @@ const training =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.6456876456876457
       ]
     },
@@ -15811,7 +15811,7 @@ const training =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        0.2831050228310502,
+        0.248,
         0.2540792540792541
       ]
     },
@@ -15821,7 +15821,7 @@ const training =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.5757575757575758
       ]
     },
@@ -15831,7 +15831,7 @@ const training =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        0.07990867579908675,
+        0.07,
         0.585081585081585
       ]
     },
@@ -15841,7 +15841,7 @@ const training =
       "student_name": "baburao",
       "student_id": 1663911439989,
       "point": [
-        0.545662100456621,
+        0.478,
         0.4988344988344988
       ]
     },
@@ -15851,7 +15851,7 @@ const training =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        0.680365296803653,
+        0.596,
         0.35664335664335667
       ]
     },
@@ -15861,7 +15861,7 @@ const training =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.26573426573426573
       ]
     },
@@ -15871,7 +15871,7 @@ const training =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        0.6872146118721462,
+        0.602,
         0.48484848484848486
       ]
     },
@@ -15881,7 +15881,7 @@ const training =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.6480186480186481
       ]
     },
@@ -15891,7 +15891,7 @@ const training =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        0.5205479452054794,
+        0.456,
         0.41025641025641024
       ]
     },
@@ -15901,7 +15901,7 @@ const training =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.7272727272727273
       ]
     },
@@ -15911,7 +15911,7 @@ const training =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        0.45662100456621,
+        0.4,
         0.5174825174825175
       ]
     },
@@ -15921,7 +15921,7 @@ const training =
       "student_name": "Mrinmoy Mondal",
       "student_id": 1663912575737,
       "point": [
-        0.5342465753424658,
+        0.468,
         0.5967365967365967
       ]
     },
@@ -15931,7 +15931,7 @@ const training =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        0.6255707762557078,
+        0.548,
         0.1864801864801865
       ]
     },
@@ -15941,7 +15941,7 @@ const training =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        0.636986301369863,
+        0.558,
         0.3123543123543124
       ]
     },
@@ -15951,7 +15951,7 @@ const training =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.43123543123543123
       ]
     },
@@ -15961,7 +15961,7 @@ const training =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        0.6712328767123288,
+        0.588,
         0.696969696969697
       ]
     },
@@ -15971,7 +15971,7 @@ const training =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.3776223776223776
       ]
     },
@@ -15981,7 +15981,7 @@ const training =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        0.8447488584474886,
+        0.74,
         0.29836829836829837
       ]
     },
@@ -15991,7 +15991,7 @@ const training =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.44522144522144524
       ]
     },
@@ -16001,7 +16001,7 @@ const training =
       "student_name": "ansero",
       "student_id": 1663913049467,
       "point": [
-        0.3082191780821918,
+        0.27,
         0.30536130536130535
       ]
     },
@@ -16011,7 +16011,7 @@ const training =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        0.6050228310502284,
+        0.53,
         0.4219114219114219
       ]
     },
@@ -16021,7 +16021,7 @@ const training =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.3986013986013986
       ]
     },
@@ -16031,7 +16031,7 @@ const training =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.5710955710955711
       ]
     },
@@ -16041,7 +16041,7 @@ const training =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.6013986013986014
       ]
     },
@@ -16051,7 +16051,7 @@ const training =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        0.6027397260273972,
+        0.528,
         0.6060606060606061
       ]
     },
@@ -16061,7 +16061,7 @@ const training =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.6456876456876457
       ]
     },
@@ -16071,7 +16071,7 @@ const training =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        0.408675799086758,
+        0.358,
         0.44755244755244755
       ]
     },
@@ -16081,7 +16081,7 @@ const training =
       "student_name": "Walkexperience",
       "student_id": 1663914110330,
       "point": [
-        0.3675799086757991,
+        0.322,
         0.37995337995337997
       ]
     },
@@ -16091,7 +16091,7 @@ const training =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        0.273972602739726,
+        0.24,
         0.4219114219114219
       ]
     },
@@ -16101,7 +16101,7 @@ const training =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.5454545454545454
       ]
     },
@@ -16111,7 +16111,7 @@ const training =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        0.271689497716895,
+        0.238,
         0.32400932400932403
       ]
     },
@@ -16121,7 +16121,7 @@ const training =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.5058275058275058
       ]
     },
@@ -16131,7 +16131,7 @@ const training =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.34032634032634035
       ]
     },
@@ -16141,7 +16141,7 @@ const training =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.5081585081585082
       ]
     },
@@ -16151,7 +16151,7 @@ const training =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        0.0776255707762557,
+        0.068,
         0.4125874125874126
       ]
     },
@@ -16161,7 +16161,7 @@ const training =
       "student_name": "rubin",
       "student_id": 1663914386004,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.38694638694638694
       ]
     },
@@ -16171,7 +16171,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.2564102564102564
       ]
     },
@@ -16181,7 +16181,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.3076923076923077
       ]
     },
@@ -16191,7 +16191,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        0.6187214611872146,
+        0.542,
         0.696969696969697
       ]
     },
@@ -16201,7 +16201,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.6899766899766899
       ]
     },
@@ -16211,7 +16211,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        0.410958904109589,
+        0.36,
         0.2703962703962704
       ]
     },
@@ -16221,7 +16221,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        0.591324200913242,
+        0.518,
         0.5710955710955711
       ]
     },
@@ -16231,7 +16231,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.668997668997669
       ]
     },
@@ -16241,7 +16241,7 @@ const training =
       "student_name": "Rahul",
       "student_id": 1663914419835,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.5594405594405595
       ]
     },
@@ -16251,7 +16251,7 @@ const training =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        0.7602739726027398,
+        0.666,
         0.30303030303030304
       ]
     },
@@ -16261,7 +16261,7 @@ const training =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        0.3858447488584475,
+        0.338,
         0.30303030303030304
       ]
     },
@@ -16271,7 +16271,7 @@ const training =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.5221445221445221
       ]
     },
@@ -16281,7 +16281,7 @@ const training =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.6853146853146853
       ]
     },
@@ -16291,7 +16291,7 @@ const training =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.5268065268065268
       ]
     },
@@ -16301,7 +16301,7 @@ const training =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        0.6141552511415526,
+        0.538,
         0.5827505827505828
       ]
     },
@@ -16311,7 +16311,7 @@ const training =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        0.21232876712328766,
+        0.186,
         0.30303030303030304
       ]
     },
@@ -16321,7 +16321,7 @@ const training =
       "student_name": "Abderahman.ht",
       "student_id": 1663914606815,
       "point": [
-        0.4771689497716895,
+        0.418,
         0.28438228438228436
       ]
     },
@@ -16331,7 +16331,7 @@ const training =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        0.7442922374429224,
+        0.652,
         0.3123543123543124
       ]
     },
@@ -16341,7 +16341,7 @@ const training =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.3776223776223776
       ]
     },
@@ -16351,7 +16351,7 @@ const training =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.6177156177156177
       ]
     },
@@ -16361,7 +16361,7 @@ const training =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        0.6643835616438356,
+        0.582,
         0.7365967365967366
       ]
     },
@@ -16371,7 +16371,7 @@ const training =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.331002331002331
       ]
     },
@@ -16381,7 +16381,7 @@ const training =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.7482517482517482
       ]
     },
@@ -16391,7 +16391,7 @@ const training =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        0.3493150684931507,
+        0.306,
         0.4405594405594406
       ]
     },
@@ -16401,7 +16401,7 @@ const training =
       "student_name": "tung",
       "student_id": 1663915068376,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.3752913752913753
       ]
     },
@@ -16411,7 +16411,7 @@ const training =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        0.2762557077625571,
+        0.242,
         0.1655011655011655
       ]
     },
@@ -16421,7 +16421,7 @@ const training =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        0.3949771689497717,
+        0.346,
         0.20512820512820512
       ]
     },
@@ -16431,7 +16431,7 @@ const training =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        0.6050228310502284,
+        0.53,
         0.6293706293706294
       ]
     },
@@ -16441,7 +16441,7 @@ const training =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        0.7397260273972602,
+        0.648,
         0.745920745920746
       ]
     },
@@ -16451,7 +16451,7 @@ const training =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.30303030303030304
       ]
     },
@@ -16461,7 +16461,7 @@ const training =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.4172494172494173
       ]
     },
@@ -16471,7 +16471,7 @@ const training =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.5198135198135199
       ]
     },
@@ -16481,7 +16481,7 @@ const training =
       "student_name": "Daniel J",
       "student_id": 1663916048045,
       "point": [
-        0.3835616438356164,
+        0.336,
         0.3473193473193473
       ]
     },
@@ -16491,7 +16491,7 @@ const training =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        0.8287671232876712,
+        0.726,
         0.2517482517482518
       ]
     },
@@ -16501,7 +16501,7 @@ const training =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.2261072261072261
       ]
     },
@@ -16511,7 +16511,7 @@ const training =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.7762237762237763
       ]
     },
@@ -16521,7 +16521,7 @@ const training =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        0.589041095890411,
+        0.516,
         0.7668997668997669
       ]
     },
@@ -16531,7 +16531,7 @@ const training =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        0.682648401826484,
+        0.598,
         0.4289044289044289
       ]
     },
@@ -16541,7 +16541,7 @@ const training =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.16083916083916083
       ]
     },
@@ -16551,7 +16551,7 @@ const training =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        0.17123287671232876,
+        0.15,
         0.6853146853146853
       ]
     },
@@ -16561,7 +16561,7 @@ const training =
       "student_name": "doum",
       "student_id": 1663916819605,
       "point": [
-        0.5273972602739726,
+        0.462,
         0.4172494172494173
       ]
     },
@@ -16571,7 +16571,7 @@ const training =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        0.4680365296803653,
+        0.41,
         0.578088578088578
       ]
     },
@@ -16581,7 +16581,7 @@ const training =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.627039627039627
       ]
     },
@@ -16591,7 +16591,7 @@ const training =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        0.4748858447488584,
+        0.416,
         0.5734265734265734
       ]
     },
@@ -16601,7 +16601,7 @@ const training =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.6293706293706294
       ]
     },
@@ -16611,7 +16611,7 @@ const training =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        0.54337899543379,
+        0.476,
         0.31002331002331
       ]
     },
@@ -16621,7 +16621,7 @@ const training =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        0.4041095890410959,
+        0.354,
         0.1958041958041958
       ]
     },
@@ -16631,7 +16631,7 @@ const training =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        0.5136986301369864,
+        0.45,
         0.34498834498834496
       ]
     },
@@ -16641,7 +16641,7 @@ const training =
       "student_name": "Sayani",
       "student_id": 1663916880551,
       "point": [
-        0.3858447488584475,
+        0.338,
         0.4801864801864802
       ]
     },
@@ -16651,7 +16651,7 @@ const training =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.16783216783216784
       ]
     },
@@ -16661,7 +16661,7 @@ const training =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        0.6712328767123288,
+        0.588,
         0.1258741258741259
       ]
     },
@@ -16671,7 +16671,7 @@ const training =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.6480186480186481
       ]
     },
@@ -16681,7 +16681,7 @@ const training =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        0.5502283105022832,
+        0.482,
         0.6410256410256411
       ]
     },
@@ -16691,7 +16691,7 @@ const training =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.44522144522144524
       ]
     },
@@ -16701,7 +16701,7 @@ const training =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        0.365296803652968,
+        0.32,
         0.6083916083916084
       ]
     },
@@ -16711,7 +16711,7 @@ const training =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        0.06621004566210045,
+        0.058,
         0.7319347319347319
       ]
     },
@@ -16721,7 +16721,7 @@ const training =
       "student_name": "Liu Yang",
       "student_id": 1663916960730,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.4731934731934732
       ]
     },
@@ -16731,7 +16731,7 @@ const training =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        0.682648401826484,
+        0.598,
         0.2634032634032634
       ]
     },
@@ -16741,7 +16741,7 @@ const training =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.10256410256410256
       ]
     },
@@ -16751,7 +16751,7 @@ const training =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        0.8082191780821918,
+        0.708,
         0.8344988344988346
       ]
     },
@@ -16761,7 +16761,7 @@ const training =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        0.7785388127853882,
+        0.682,
         0.7599067599067599
       ]
     },
@@ -16771,7 +16771,7 @@ const training =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        0.4680365296803653,
+        0.41,
         0.3473193473193473
       ]
     },
@@ -16781,7 +16781,7 @@ const training =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        0.3264840182648402,
+        0.286,
         0.5757575757575758
       ]
     },
@@ -16791,7 +16791,7 @@ const training =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        0.4520547945205479,
+        0.396,
         0.5501165501165501
       ]
     },
@@ -16801,7 +16801,7 @@ const training =
       "student_name": "dsf",
       "student_id": 1663917515018,
       "point": [
-        0.4429223744292237,
+        0.388,
         0.3776223776223776
       ]
     },
@@ -16811,7 +16811,7 @@ const training =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        0.7625570776255708,
+        0.668,
         0.20512820512820512
       ]
     },
@@ -16821,7 +16821,7 @@ const training =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        0.6004566210045662,
+        0.526,
         0.22144522144522144
       ]
     },
@@ -16831,7 +16831,7 @@ const training =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.6153846153846154
       ]
     },
@@ -16841,7 +16841,7 @@ const training =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        0.4954337899543379,
+        0.434,
         0.578088578088578
       ]
     },
@@ -16851,7 +16851,7 @@ const training =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.4592074592074592
       ]
     },
@@ -16861,7 +16861,7 @@ const training =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        0.317351598173516,
+        0.278,
         0.5874125874125874
       ]
     },
@@ -16871,7 +16871,7 @@ const training =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        0.2237442922374429,
+        0.196,
         0.5710955710955711
       ]
     },
@@ -16881,7 +16881,7 @@ const training =
       "student_name": "Scott O'Nanski",
       "student_id": 1663918658353,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.6783216783216783
       ]
     },
@@ -16891,7 +16891,7 @@ const training =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        0.4246575342465753,
+        0.372,
         0.27972027972027974
       ]
     },
@@ -16901,7 +16901,7 @@ const training =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        0.3287671232876712,
+        0.288,
         0.08158508158508158
       ]
     },
@@ -16911,7 +16911,7 @@ const training =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        0.21232876712328766,
+        0.186,
         0.2867132867132867
       ]
     },
@@ -16921,7 +16921,7 @@ const training =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        0.863013698630137,
+        0.756,
         0.44522144522144524
       ]
     },
@@ -16931,7 +16931,7 @@ const training =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        0.454337899543379,
+        0.398,
         0.36596736596736595
       ]
     },
@@ -16941,7 +16941,7 @@ const training =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        0.19406392694063926,
+        0.17,
         0.5081585081585082
       ]
     },
@@ -16951,7 +16951,7 @@ const training =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        0.1050228310502283,
+        0.092,
         0.35664335664335667
       ]
     },
@@ -16961,7 +16961,7 @@ const training =
       "student_name": "Pepíček",
       "student_id": 1663920270321,
       "point": [
-        0.24429223744292236,
+        0.214,
         0.23076923076923078
       ]
     },
@@ -16971,7 +16971,7 @@ const training =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        0.2990867579908676,
+        0.262,
         0.22144522144522144
       ]
     },
@@ -16981,7 +16981,7 @@ const training =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        0.3584474885844749,
+        0.314,
         0.07459207459207459
       ]
     },
@@ -16991,7 +16991,7 @@ const training =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.3613053613053613
       ]
     },
@@ -17001,7 +17001,7 @@ const training =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        0.2579908675799087,
+        0.226,
         0.331002331002331
       ]
     },
@@ -17011,7 +17011,7 @@ const training =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        0.3310502283105023,
+        0.29,
         0.21212121212121213
       ]
     },
@@ -17021,7 +17021,7 @@ const training =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.12354312354312354
       ]
     },
@@ -17031,7 +17031,7 @@ const training =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        0.1552511415525114,
+        0.136,
         0.31002331002331
       ]
     },
@@ -17041,7 +17041,7 @@ const training =
       "student_name": "g",
       "student_id": 1663920964274,
       "point": [
-        0.3401826484018265,
+        0.298,
         0.28205128205128205
       ]
     },
@@ -17051,7 +17051,7 @@ const training =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        0.7488584474885844,
+        0.656,
         0.27972027972027974
       ]
     },
@@ -17061,7 +17061,7 @@ const training =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        0.6529680365296804,
+        0.572,
         0.4172494172494173
       ]
     },
@@ -17071,7 +17071,7 @@ const training =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        0.7054794520547946,
+        0.618,
         0.585081585081585
       ]
     },
@@ -17081,7 +17081,7 @@ const training =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        0.634703196347032,
+        0.556,
         0.7086247086247086
       ]
     },
@@ -17091,7 +17091,7 @@ const training =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        0.726027397260274,
+        0.636,
         0.47086247086247085
       ]
     },
@@ -17101,7 +17101,7 @@ const training =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        0.5251141552511416,
+        0.46,
         0.5314685314685315
       ]
     },
@@ -17111,7 +17111,7 @@ const training =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        0.4657534246575342,
+        0.408,
         0.48717948717948717
       ]
     },
@@ -17121,7 +17121,7 @@ const training =
       "student_name": "Gagan Rastogi",
       "student_id": 1663921916489,
       "point": [
-        0.541095890410959,
+        0.474,
         0.4289044289044289
       ]
     },
@@ -17131,7 +17131,7 @@ const training =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.24242424242424243
       ]
     },
@@ -17141,7 +17141,7 @@ const training =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        0.5045662100456622,
+        0.442,
         0.1655011655011655
       ]
     },
@@ -17151,7 +17151,7 @@ const training =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        0.7671232876712328,
+        0.672,
         0.7808857808857809
       ]
     },
@@ -17161,7 +17161,7 @@ const training =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        0.4063926940639269,
+        0.356,
         0.3776223776223776
       ]
     },
@@ -17171,7 +17171,7 @@ const training =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        0.541095890410959,
+        0.474,
         0.36363636363636365
       ]
     },
@@ -17181,7 +17181,7 @@ const training =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.6433566433566433
       ]
     },
@@ -17191,7 +17191,7 @@ const training =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        0.1141552511415525,
+        0.1,
         0.5081585081585082
       ]
     },
@@ -17201,7 +17201,7 @@ const training =
       "student_name": "david",
       "student_id": 1663922745142,
       "point": [
-        0.3287671232876712,
+        0.288,
         0.2703962703962704
       ]
     },
@@ -17211,7 +17211,7 @@ const training =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        0.365296803652968,
+        0.32,
         0.16783216783216784
       ]
     },
@@ -17221,7 +17221,7 @@ const training =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.6130536130536131
       ]
     },
@@ -17231,7 +17231,7 @@ const training =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        0.7123287671232876,
+        0.624,
         0.29603729603729606
       ]
     },
@@ -17241,7 +17241,7 @@ const training =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        0.7671232876712328,
+        0.672,
         0.7482517482517482
       ]
     },
@@ -17251,7 +17251,7 @@ const training =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.4568764568764569
       ]
     },
@@ -17261,7 +17261,7 @@ const training =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        0.7831050228310502,
+        0.686,
         0.7552447552447552
       ]
     },
@@ -17271,7 +17271,7 @@ const training =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.7272727272727273
       ]
     },
@@ -17281,7 +17281,7 @@ const training =
       "student_name": "Rajat Kumar",
       "student_id": 1663923739319,
       "point": [
-        0.545662100456621,
+        0.478,
         0.5384615384615384
       ]
     },
@@ -17291,7 +17291,7 @@ const training =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        0.7009132420091324,
+        0.614,
         0.35664335664335667
       ]
     },
@@ -17301,7 +17301,7 @@ const training =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.20279720279720279
       ]
     },
@@ -17311,7 +17311,7 @@ const training =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        0.3904109589041096,
+        0.342,
         0.3776223776223776
       ]
     },
@@ -17321,7 +17321,7 @@ const training =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        0.5570776255707762,
+        0.488,
         0.6853146853146853
       ]
     },
@@ -17331,7 +17331,7 @@ const training =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.32867132867132864
       ]
     },
@@ -17341,7 +17341,7 @@ const training =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        0.6689497716894978,
+        0.586,
         0.5641025641025641
       ]
     },
@@ -17351,7 +17351,7 @@ const training =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        0.17579908675799086,
+        0.154,
         0.2703962703962704
       ]
     },
@@ -17361,7 +17361,7 @@ const training =
       "student_name": "mohammed_rasheed ",
       "student_id": 1663926995417,
       "point": [
-        0.7534246575342466,
+        0.66,
         0.7808857808857809
       ]
     },
@@ -17371,7 +17371,7 @@ const training =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.2261072261072261
       ]
     },
@@ -17381,7 +17381,7 @@ const training =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        0.271689497716895,
+        0.238,
         0.11888111888111888
       ]
     },
@@ -17391,7 +17391,7 @@ const training =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        0.15753424657534246,
+        0.138,
         0.32400932400932403
       ]
     },
@@ -17401,7 +17401,7 @@ const training =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        0.4178082191780822,
+        0.366,
         0.43123543123543123
       ]
     },
@@ -17411,7 +17411,7 @@ const training =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        0.3538812785388128,
+        0.31,
         0.2494172494172494
       ]
     },
@@ -17421,7 +17421,7 @@ const training =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.20279720279720279
       ]
     },
@@ -17431,7 +17431,7 @@ const training =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        0.5114155251141552,
+        0.448,
         0.1888111888111888
       ]
     },
@@ -17441,7 +17441,7 @@ const training =
       "student_name": "drtyrtuyr6",
       "student_id": 1663927006938,
       "point": [
-        0.5753424657534246,
+        0.504,
         0.7086247086247086
       ]
     },
@@ -17451,7 +17451,7 @@ const training =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        0.7945205479452054,
+        0.696,
         0.19347319347319347
       ]
     },
@@ -17461,7 +17461,7 @@ const training =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        0.4817351598173516,
+        0.422,
         0.21445221445221446
       ]
     },
@@ -17471,7 +17471,7 @@ const training =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.5221445221445221
       ]
     },
@@ -17481,7 +17481,7 @@ const training =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        0.6689497716894978,
+        0.586,
         0.8158508158508159
       ]
     },
@@ -17491,7 +17491,7 @@ const training =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        0.726027397260274,
+        0.636,
         0.4289044289044289
       ]
     },
@@ -17501,7 +17501,7 @@ const training =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        0.817351598173516,
+        0.716,
         0.32400932400932403
       ]
     },
@@ -17511,7 +17511,7 @@ const training =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        0.06164383561643835,
+        0.054,
         0.3333333333333333
       ]
     },
@@ -17521,7 +17521,7 @@ const training =
       "student_name": "Raghavan",
       "student_id": 1663927272584,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.6107226107226107
       ]
     },
@@ -17531,7 +17531,7 @@ const training =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        0.7420091324200914,
+        0.65,
         0.3473193473193473
       ]
     },
@@ -17541,7 +17541,7 @@ const training =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        0.5799086757990868,
+        0.508,
         0.2400932400932401
       ]
     },
@@ -17551,7 +17551,7 @@ const training =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        0.6735159817351598,
+        0.59,
         0.578088578088578
       ]
     },
@@ -17561,7 +17561,7 @@ const training =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        0.6118721461187214,
+        0.536,
         0.7016317016317016
       ]
     },
@@ -17571,7 +17571,7 @@ const training =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.4662004662004662
       ]
     },
@@ -17581,7 +17581,7 @@ const training =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.32867132867132864
       ]
     },
@@ -17591,7 +17591,7 @@ const training =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        0.4977168949771689,
+        0.436,
         0.40559440559440557
       ]
     },
@@ -17601,7 +17601,7 @@ const training =
       "student_name": "chaki",
       "student_id": 1663927559200,
       "point": [
-        0.6986301369863014,
+        0.612,
         0.5920745920745921
       ]
     },
@@ -17611,7 +17611,7 @@ const training =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        0.6757990867579908,
+        0.592,
         0.4382284382284382
       ]
     },
@@ -17621,7 +17621,7 @@ const training =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.13986013986013987
       ]
     },
@@ -17631,7 +17631,7 @@ const training =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        0.6735159817351598,
+        0.59,
         0.4755244755244755
       ]
     },
@@ -17641,7 +17641,7 @@ const training =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        0.3858447488584475,
+        0.338,
         0.578088578088578
       ]
     },
@@ -17651,7 +17651,7 @@ const training =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.24475524475524477
       ]
     },
@@ -17661,7 +17661,7 @@ const training =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        0.593607305936073,
+        0.52,
         0.5268065268065268
       ]
     },
@@ -17671,7 +17671,7 @@ const training =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        0.15753424657534246,
+        0.138,
         0.5571095571095571
       ]
     },
@@ -17681,7 +17681,7 @@ const training =
       "student_name": "Shubham panchal",
       "student_id": 1663927871773,
       "point": [
-        0.3698630136986301,
+        0.324,
         0.3146853146853147
       ]
     },
@@ -17691,7 +17691,7 @@ const training =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        0.7534246575342466,
+        0.66,
         0.21212121212121213
       ]
     },
@@ -17701,7 +17701,7 @@ const training =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.09557109557109557
       ]
     },
@@ -17711,7 +17711,7 @@ const training =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        0.5753424657534246,
+        0.504,
         0.5990675990675991
       ]
     },
@@ -17721,7 +17721,7 @@ const training =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        0.3150684931506849,
+        0.276,
         0.49184149184149184
       ]
     },
@@ -17731,7 +17731,7 @@ const training =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        0.4726027397260274,
+        0.414,
         0.3123543123543124
       ]
     },
@@ -17741,7 +17741,7 @@ const training =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        0.7602739726027398,
+        0.666,
         0.17482517482517482
       ]
     },
@@ -17751,7 +17751,7 @@ const training =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        0.03881278538812785,
+        0.034,
         0.5641025641025641
       ]
     },
@@ -17761,7 +17761,7 @@ const training =
       "student_name": "Malioukis",
       "student_id": 1663928399794,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.5384615384615384
       ]
     },
@@ -17771,7 +17771,7 @@ const training =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        0.7351598173515982,
+        0.644,
         0.1888111888111888
       ]
     },
@@ -17781,7 +17781,7 @@ const training =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        0.6735159817351598,
+        0.59,
         0.3962703962703963
       ]
     },
@@ -17791,7 +17791,7 @@ const training =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        0.7853881278538812,
+        0.688,
         0.5477855477855478
       ]
     },
@@ -17801,7 +17801,7 @@ const training =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.7272727272727273
       ]
     },
@@ -17811,7 +17811,7 @@ const training =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        0.6415525114155252,
+        0.562,
         0.4125874125874126
       ]
     },
@@ -17821,7 +17821,7 @@ const training =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        0.8013698630136986,
+        0.702,
         0.20512820512820512
       ]
     },
@@ -17831,7 +17831,7 @@ const training =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        0.24885844748858446,
+        0.218,
         0.6666666666666666
       ]
     },
@@ -17841,7 +17841,7 @@ const training =
       "student_name": "Tomato",
       "student_id": 1663928454985,
       "point": [
-        0.6598173515981736,
+        0.578,
         0.6480186480186481
       ]
     },
@@ -17851,7 +17851,7 @@ const training =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.17715617715617715
       ]
     },
@@ -17861,7 +17861,7 @@ const training =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        0.547945205479452,
+        0.48,
         0.2191142191142191
       ]
     },
@@ -17871,7 +17871,7 @@ const training =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        0.3995433789954338,
+        0.35,
         0.49184149184149184
       ]
     },
@@ -17881,7 +17881,7 @@ const training =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        0.3493150684931507,
+        0.306,
         0.4825174825174825
       ]
     },
@@ -17891,7 +17891,7 @@ const training =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        0.3493150684931507,
+        0.306,
         0.24242424242424243
       ]
     },
@@ -17901,7 +17901,7 @@ const training =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.5547785547785548
       ]
     },
@@ -17911,7 +17911,7 @@ const training =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        0.3219178082191781,
+        0.282,
         0.44755244755244755
       ]
     },
@@ -17921,7 +17921,7 @@ const training =
       "student_name": "David Murphy",
       "student_id": 1663928780421,
       "point": [
-        0.3858447488584475,
+        0.338,
         0.3776223776223776
       ]
     },
@@ -17931,7 +17931,7 @@ const training =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        0.3789954337899543,
+        0.332,
         0.21445221445221446
       ]
     },
@@ -17941,7 +17941,7 @@ const training =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.16083916083916083
       ]
     },
@@ -17951,7 +17951,7 @@ const training =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        0.5342465753424658,
+        0.468,
         0.662004662004662
       ]
     },
@@ -17961,7 +17961,7 @@ const training =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        0.5958904109589042,
+        0.522,
         0.6899766899766899
       ]
     },
@@ -17971,7 +17971,7 @@ const training =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        0.3105022831050228,
+        0.272,
         0.23776223776223776
       ]
     },
@@ -17981,7 +17981,7 @@ const training =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        0.5365296803652968,
+        0.47,
         0.5827505827505828
       ]
     },
@@ -17991,7 +17991,7 @@ const training =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        0.4977168949771689,
+        0.436,
         0.49184149184149184
       ]
     },
@@ -18001,7 +18001,7 @@ const training =
       "student_name": "TMMplay",
       "student_id": 1663929970389,
       "point": [
-        0.7328767123287672,
+        0.642,
         0.26573426573426573
       ]
     },
@@ -18011,7 +18011,7 @@ const training =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        0.4589041095890411,
+        0.402,
         0.32167832167832167
       ]
     },
@@ -18021,7 +18021,7 @@ const training =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        0.7054794520547946,
+        0.618,
         0.13286713286713286
       ]
     },
@@ -18031,7 +18031,7 @@ const training =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        0.7374429223744292,
+        0.646,
         0.5314685314685315
       ]
     },
@@ -18041,7 +18041,7 @@ const training =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        0.3926940639269406,
+        0.344,
         0.43356643356643354
       ]
     },
@@ -18051,7 +18051,7 @@ const training =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        0.2374429223744292,
+        0.208,
         0.07692307692307693
       ]
     },
@@ -18061,7 +18061,7 @@ const training =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        0.6210045662100456,
+        0.544,
         0.5384615384615384
       ]
     },
@@ -18071,7 +18071,7 @@ const training =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        0.0365296803652968,
+        0.032,
         0.43123543123543123
       ]
     },
@@ -18081,7 +18081,7 @@ const training =
       "student_name": "vijay",
       "student_id": 1663930813754,
       "point": [
-        0.3812785388127854,
+        0.334,
         0.31002331002331
       ]
     },
@@ -18091,7 +18091,7 @@ const training =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        0.6529680365296804,
+        0.572,
         0.4289044289044289
       ]
     },
@@ -18101,7 +18101,7 @@ const training =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        0.5182648401826484,
+        0.454,
         0.3123543123543124
       ]
     },
@@ -18111,7 +18111,7 @@ const training =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        0.3767123287671233,
+        0.33,
         0.4755244755244755
       ]
     },
@@ -18121,7 +18121,7 @@ const training =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.6247086247086248
       ]
     },
@@ -18131,7 +18131,7 @@ const training =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.3939393939393939
       ]
     },
@@ -18141,7 +18141,7 @@ const training =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        0.3333333333333333,
+        0.292,
         0.627039627039627
       ]
     },
@@ -18151,7 +18151,7 @@ const training =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        0.545662100456621,
+        0.478,
         0.3473193473193473
       ]
     },
@@ -18161,7 +18161,7 @@ const training =
       "student_name": "Anthony B",
       "student_id": 1663932550364,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.45454545454545453
       ]
     },
@@ -18171,7 +18171,7 @@ const training =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        0.6735159817351598,
+        0.59,
         0.2867132867132867
       ]
     },
@@ -18181,7 +18181,7 @@ const training =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        0.23059360730593606,
+        0.202,
         0.11188811188811189
       ]
     },
@@ -18191,7 +18191,7 @@ const training =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        0.547945205479452,
+        0.48,
         0.35664335664335667
       ]
     },
@@ -18201,7 +18201,7 @@ const training =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.5641025641025641
       ]
     },
@@ -18211,7 +18211,7 @@ const training =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        0.634703196347032,
+        0.556,
         0.36596736596736595
       ]
     },
@@ -18221,7 +18221,7 @@ const training =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        0.7214611872146118,
+        0.632,
         0.7505827505827506
       ]
     },
@@ -18231,7 +18231,7 @@ const training =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        0.2557077625570776,
+        0.224,
         0.27972027972027974
       ]
     },
@@ -18241,7 +18241,7 @@ const training =
       "student_name": "Loronde",
       "student_id": 1663932630401,
       "point": [
-        0.3812785388127854,
+        0.334,
         0.4125874125874126
       ]
     },
@@ -18251,7 +18251,7 @@ const training =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        0.680365296803653,
+        0.596,
         0.20745920745920746
       ]
     },
@@ -18261,7 +18261,7 @@ const training =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.1888111888111888
       ]
     },
@@ -18271,7 +18271,7 @@ const training =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.3822843822843823
       ]
     },
@@ -18281,7 +18281,7 @@ const training =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.7132867132867133
       ]
     },
@@ -18291,7 +18291,7 @@ const training =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        0.5662100456621004,
+        0.496,
         0.32167832167832167
       ]
     },
@@ -18301,7 +18301,7 @@ const training =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        0.3812785388127854,
+        0.334,
         0.5128205128205128
       ]
     },
@@ -18311,7 +18311,7 @@ const training =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        0.2968036529680365,
+        0.26,
         0.25874125874125875
       ]
     },
@@ -18321,7 +18321,7 @@ const training =
       "student_name": "Alin B",
       "student_id": 1663933116572,
       "point": [
-        0.3789954337899543,
+        0.332,
         0.6363636363636364
       ]
     },
@@ -18331,7 +18331,7 @@ const training =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        0.5593607305936074,
+        0.49,
         0.1958041958041958
       ]
     },
@@ -18341,7 +18341,7 @@ const training =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        0.3744292237442922,
+        0.328,
         0.1794871794871795
       ]
     },
@@ -18351,7 +18351,7 @@ const training =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        0.3150684931506849,
+        0.276,
         0.34965034965034963
       ]
     },
@@ -18361,7 +18361,7 @@ const training =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        0.4269406392694064,
+        0.374,
         0.5757575757575758
       ]
     },
@@ -18371,7 +18371,7 @@ const training =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        0.3150684931506849,
+        0.276,
         0.25874125874125875
       ]
     },
@@ -18381,7 +18381,7 @@ const training =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.3006993006993007
       ]
     },
@@ -18391,7 +18391,7 @@ const training =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        0.3013698630136986,
+        0.264,
         0.26107226107226106
       ]
     },
@@ -18401,7 +18401,7 @@ const training =
       "student_name": "Julen",
       "student_id": 1663933676457,
       "point": [
-        0.4018264840182648,
+        0.352,
         0.40326340326340326
       ]
     },
@@ -18411,7 +18411,7 @@ const training =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        0.7009132420091324,
+        0.614,
         0.30303030303030304
       ]
     },
@@ -18421,7 +18421,7 @@ const training =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        0.6643835616438356,
+        0.582,
         0.27972027972027974
       ]
     },
@@ -18431,7 +18431,7 @@ const training =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        0.5273972602739726,
+        0.462,
         0.5641025641025641
       ]
     },
@@ -18441,7 +18441,7 @@ const training =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        0.6095890410958904,
+        0.534,
         0.7342657342657343
       ]
     },
@@ -18451,7 +18451,7 @@ const training =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        0.7420091324200914,
+        0.65,
         0.40093240093240096
       ]
     },
@@ -18461,7 +18461,7 @@ const training =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        0.3470319634703196,
+        0.304,
         0.752913752913753
       ]
     },
@@ -18471,7 +18471,7 @@ const training =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        0.4474885844748858,
+        0.392,
         0.06293706293706294
       ]
     },
@@ -18481,7 +18481,7 @@ const training =
       "student_name": "oldbea",
       "student_id": 1663934131579,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.4825174825174825
       ]
     },
@@ -18491,7 +18491,7 @@ const training =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        0.6004566210045662,
+        0.526,
         0.1888111888111888
       ]
     },
@@ -18501,7 +18501,7 @@ const training =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        0.3424657534246575,
+        0.3,
         0.20512820512820512
       ]
     },
@@ -18511,7 +18511,7 @@ const training =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.3822843822843823
       ]
     },
@@ -18521,7 +18521,7 @@ const training =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        0.593607305936073,
+        0.52,
         0.5407925407925408
       ]
     },
@@ -18531,7 +18531,7 @@ const training =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.32867132867132864
       ]
     },
@@ -18541,7 +18541,7 @@ const training =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        0.3721461187214612,
+        0.326,
         0.5524475524475524
       ]
     },
@@ -18551,7 +18551,7 @@ const training =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        0.7077625570776256,
+        0.62,
         0.5244755244755245
       ]
     },
@@ -18561,7 +18561,7 @@ const training =
       "student_name": "thlias",
       "student_id": 1663934427659,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.42657342657342656
       ]
     },
@@ -18571,7 +18571,7 @@ const training =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.2261072261072261
       ]
     },
@@ -18581,7 +18581,7 @@ const training =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        0.2762557077625571,
+        0.242,
         0.06993006993006994
       ]
     },
@@ -18591,7 +18591,7 @@ const training =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        0.3333333333333333,
+        0.292,
         0.32634032634032634
       ]
     },
@@ -18601,7 +18601,7 @@ const training =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        0.2602739726027397,
+        0.228,
         0.4801864801864802
       ]
     },
@@ -18611,7 +18611,7 @@ const training =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        0.4931506849315068,
+        0.432,
         0.2494172494172494
       ]
     },
@@ -18621,7 +18621,7 @@ const training =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        0.182648401826484,
+        0.16,
         0.5337995337995338
       ]
     },
@@ -18641,7 +18641,7 @@ const training =
       "student_name": "naked",
       "student_id": 1663935015509,
       "point": [
-        0.317351598173516,
+        0.278,
         0.28205128205128205
       ]
     },
@@ -18651,7 +18651,7 @@ const training =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        0.6529680365296804,
+        0.572,
         0.20046620046620048
       ]
     },
@@ -18661,7 +18661,7 @@ const training =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        0.636986301369863,
+        0.558,
         0.331002331002331
       ]
     },
@@ -18671,7 +18671,7 @@ const training =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        0.5616438356164384,
+        0.492,
         0.5034965034965035
       ]
     },
@@ -18681,7 +18681,7 @@ const training =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.7482517482517482
       ]
     },
@@ -18691,7 +18691,7 @@ const training =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        0.7465753424657534,
+        0.654,
         0.43356643356643354
       ]
     },
@@ -18701,7 +18701,7 @@ const training =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        0.3515981735159817,
+        0.308,
         0.7738927738927739
       ]
     },
@@ -18711,7 +18711,7 @@ const training =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        0.2009132420091324,
+        0.176,
         0.24242424242424243
       ]
     },
@@ -18721,7 +18721,7 @@ const training =
       "student_name": "Hasan",
       "student_id": 1663936883452,
       "point": [
-        0.5821917808219178,
+        0.51,
         0.34965034965034963
       ]
     },
@@ -18731,7 +18731,7 @@ const training =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        0.7579908675799086,
+        0.664,
         0.46386946386946387
       ]
     },
@@ -18741,7 +18741,7 @@ const training =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        0.5684931506849316,
+        0.498,
         0.3333333333333333
       ]
     },
@@ -18751,7 +18751,7 @@ const training =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        0.591324200913242,
+        0.518,
         0.44755244755244755
       ]
     },
@@ -18761,7 +18761,7 @@ const training =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.7132867132867133
       ]
     },
@@ -18771,7 +18771,7 @@ const training =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        0.6301369863013698,
+        0.552,
         0.5058275058275058
       ]
     },
@@ -18781,7 +18781,7 @@ const training =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.6853146853146853
       ]
     },
@@ -18791,7 +18791,7 @@ const training =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        0.6301369863013698,
+        0.552,
         0.6736596736596736
       ]
     },
@@ -18801,7 +18801,7 @@ const training =
       "student_name": "Sayeed",
       "student_id": 1663937040690,
       "point": [
-        0.4908675799086758,
+        0.43,
         0.4731934731934732
       ]
     },
@@ -18811,7 +18811,7 @@ const training =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        0.4611872146118721,
+        0.404,
         0.12354312354312354
       ]
     },
@@ -18821,7 +18821,7 @@ const training =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        0.723744292237443,
+        0.634,
         0.2494172494172494
       ]
     },
@@ -18831,7 +18831,7 @@ const training =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        0.6552511415525114,
+        0.574,
         0.3916083916083916
       ]
     },
@@ -18841,7 +18841,7 @@ const training =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.6946386946386947
       ]
     },
@@ -18851,7 +18851,7 @@ const training =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        0.4703196347031963,
+        0.412,
         0.1864801864801865
       ]
     },
@@ -18861,7 +18861,7 @@ const training =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        0.7876712328767124,
+        0.69,
         0.2540792540792541
       ]
     },
@@ -18871,7 +18871,7 @@ const training =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        0.2876712328767123,
+        0.252,
         0.23076923076923078
       ]
     },
@@ -18881,7 +18881,7 @@ const training =
       "student_name": "Yaroslav",
       "student_id": 1663938406467,
       "point": [
-        0.4406392694063927,
+        0.386,
         0.3916083916083916
       ]
     },
@@ -18891,7 +18891,7 @@ const training =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.41025641025641024
       ]
     },
@@ -18901,7 +18901,7 @@ const training =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        0.726027397260274,
+        0.636,
         0.3006993006993007
       ]
     },
@@ -18911,7 +18911,7 @@ const training =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        0.6438356164383562,
+        0.564,
         0.703962703962704
       ]
     },
@@ -18921,7 +18921,7 @@ const training =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        0.5159817351598174,
+        0.452,
         0.7575757575757576
       ]
     },
@@ -18931,7 +18931,7 @@ const training =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        0.6506849315068494,
+        0.57,
         0.41025641025641024
       ]
     },
@@ -18941,7 +18941,7 @@ const training =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        0.541095890410959,
+        0.474,
         0.4172494172494173
       ]
     },
@@ -18951,7 +18951,7 @@ const training =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        0.4634703196347032,
+        0.406,
         0.4125874125874126
       ]
     },
@@ -18961,7 +18961,7 @@ const training =
       "student_name": "Ved",
       "student_id": 1663938678628,
       "point": [
-        0.4315068493150685,
+        0.378,
         0.34498834498834496
       ]
     },
@@ -18971,7 +18971,7 @@ const training =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        0.7420091324200914,
+        0.65,
         0.6853146853146853
       ]
     },
@@ -18981,7 +18981,7 @@ const training =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        0.7077625570776256,
+        0.62,
         0.7715617715617715
       ]
     },
@@ -18991,7 +18991,7 @@ const training =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        0.7579908675799086,
+        0.664,
         0.7972027972027972
       ]
     },
@@ -19001,7 +19001,7 @@ const training =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        0.7100456621004566,
+        0.622,
         0.7948717948717948
       ]
     },
@@ -19011,7 +19011,7 @@ const training =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        0.6073059360730594,
+        0.532,
         0.710955710955711
       ]
     },
@@ -19021,7 +19021,7 @@ const training =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        0.7579908675799086,
+        0.664,
         0.8484848484848485
       ]
     },
@@ -19031,7 +19031,7 @@ const training =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        0.7442922374429224,
+        0.652,
         0.8251748251748252
       ]
     },
@@ -19041,7 +19041,7 @@ const training =
       "student_name": "Xounds Master1",
       "student_id": 1663939293769,
       "point": [
-        0.7579908675799086,
+        0.664,
         0.8018648018648019
       ]
     },
@@ -19051,7 +19051,7 @@ const training =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        0.7808219178082192,
+        0.684,
         0.5081585081585082
       ]
     },
@@ -19061,7 +19061,7 @@ const training =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        0.7557077625570776,
+        0.662,
         0.40792540792540793
       ]
     },
@@ -19071,7 +19071,7 @@ const training =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        0.8310502283105022,
+        0.728,
         0.5081585081585082
       ]
     },
@@ -19081,7 +19081,7 @@ const training =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        0.6164383561643836,
+        0.54,
         0.6876456876456877
       ]
     },
@@ -19091,7 +19091,7 @@ const training =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        0.58675799086758,
+        0.514,
         0.2400932400932401
       ]
     },
@@ -19101,7 +19101,7 @@ const training =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        0.7899543378995434,
+        0.692,
         0.3613053613053613
       ]
     },
@@ -19111,7 +19111,7 @@ const training =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        0.5981735159817352,
+        0.524,
         0.3776223776223776
       ]
     },
@@ -19121,7 +19121,7 @@ const training =
       "student_name": "bvbsis",
       "student_id": 1663939757009,
       "point": [
-        0.7168949771689498,
+        0.628,
         0.5501165501165501
       ]
     },
@@ -19131,7 +19131,7 @@ const training =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        0.7374429223744292,
+        0.646,
         0.7272727272727273
       ]
     },
@@ -19141,7 +19141,7 @@ const training =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        0.363013698630137,
+        0.318,
         0.710955710955711
       ]
     },
@@ -19151,7 +19151,7 @@ const training =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        0.860730593607306,
+        0.754,
         0.8438228438228438
       ]
     },
@@ -19161,7 +19161,7 @@ const training =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        0.8401826484018264,
+        0.736,
         0.7715617715617715
       ]
     },
@@ -19171,7 +19171,7 @@ const training =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.43356643356643354
       ]
     },
@@ -19181,7 +19181,7 @@ const training =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        0.6643835616438356,
+        0.582,
         0.8041958041958042
       ]
     },
@@ -19191,7 +19191,7 @@ const training =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        0.632420091324201,
+        0.554,
         0.5944055944055944
       ]
     },
@@ -19201,7 +19201,7 @@ const training =
       "student_name": "Em",
       "student_id": 1663940366069,
       "point": [
-        0.4863013698630137,
+        0.426,
         0.5128205128205128
       ]
     },
@@ -19211,7 +19211,7 @@ const training =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        0.6666666666666666,
+        0.584,
         0.26573426573426573
       ]
     },
@@ -19221,7 +19221,7 @@ const training =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        0.5707762557077626,
+        0.5,
         0.19114219114219114
       ]
     },
@@ -19231,7 +19231,7 @@ const training =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        0.5388127853881278,
+        0.472,
         0.5547785547785548
       ]
     },
@@ -19241,7 +19241,7 @@ const training =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        0.6575342465753424,
+        0.576,
         0.745920745920746
       ]
     },
@@ -19251,7 +19251,7 @@ const training =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        0.6963470319634704,
+        0.61,
         0.3706293706293706
       ]
     },
@@ -19261,7 +19261,7 @@ const training =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        0.7465753424657534,
+        0.654,
         0.696969696969697
       ]
     },
@@ -19271,7 +19271,7 @@ const training =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        0.23972602739726026,
+        0.21,
         0.5524475524475524
       ]
     },
@@ -19281,7 +19281,7 @@ const training =
       "student_name": "Kishor Paudel",
       "student_id": 1663941302031,
       "point": [
-        0.5547945205479452,
+        0.486,
         0.48484848484848486
       ]
     },
@@ -19291,7 +19291,7 @@ const training =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        0.5319634703196348,
+        0.466,
         0.32867132867132864
       ]
     },
@@ -19301,7 +19301,7 @@ const training =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        0.271689497716895,
+        0.238,
         0.13986013986013987
       ]
     },
@@ -19311,7 +19311,7 @@ const training =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        0.2990867579908676,
+        0.262,
         0.4405594405594406
       ]
     },
@@ -19321,7 +19321,7 @@ const training =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        0.2808219178082192,
+        0.246,
         0.5547785547785548
       ]
     },
@@ -19331,7 +19331,7 @@ const training =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        0.3607305936073059,
+        0.316,
         0.20046620046620048
       ]
     },
@@ -19341,7 +19341,7 @@ const training =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        0.182648401826484,
+        0.16,
         0.4755244755244755
       ]
     },
@@ -19351,7 +19351,7 @@ const training =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        0.0410958904109589,
+        0.036,
         0.5314685314685315
       ]
     },
@@ -19361,7 +19361,7 @@ const training =
       "student_name": "Domique 623",
       "student_id": 1663944210711,
       "point": [
-        0.3310502283105023,
+        0.29,
         0.46386946386946387
       ]
     },
@@ -19371,7 +19371,7 @@ const training =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        0.4497716894977169,
+        0.394,
         0.3962703962703963
       ]
     },
@@ -19381,7 +19381,7 @@ const training =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        0.5730593607305936,
+        0.502,
         0.3543123543123543
       ]
     },
@@ -19391,7 +19391,7 @@ const training =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        0.636986301369863,
+        0.558,
         0.5477855477855478
       ]
     },
@@ -19401,7 +19401,7 @@ const training =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        0.7990867579908676,
+        0.7,
         0.8275058275058275
       ]
     },
@@ -19411,7 +19411,7 @@ const training =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        0.6461187214611872,
+        0.566,
         0.46386946386946387
       ]
     },
@@ -19421,7 +19421,7 @@ const training =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        0.4223744292237443,
+        0.37,
         0.7808857808857809
       ]
     },
@@ -19431,7 +19431,7 @@ const training =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        0.547945205479452,
+        0.48,
         0.40326340326340326
       ]
     },
@@ -19441,7 +19441,7 @@ const training =
       "student_name": "Ikkismith",
       "student_id": 1663946416612,
       "point": [
-        0.5091324200913242,
+        0.446,
         0.5011655011655012
       ]
     },
@@ -19451,7 +19451,7 @@ const training =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        0.5525114155251142,
+        0.484,
         0.2564102564102564
       ]
     },
@@ -19461,7 +19461,7 @@ const training =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        0.6301369863013698,
+        0.552,
         0.31934731934731936
       ]
     },
@@ -19471,7 +19471,7 @@ const training =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        0.726027397260274,
+        0.636,
         0.38694638694638694
       ]
     },
@@ -19481,7 +19481,7 @@ const training =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        0.6940639269406392,
+        0.608,
         0.6013986013986014
       ]
     },
@@ -19491,7 +19491,7 @@ const training =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        0.730593607305936,
+        0.64,
         0.38694638694638694
       ]
     },
@@ -19501,7 +19501,7 @@ const training =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.7762237762237763
       ]
     },
@@ -19511,7 +19511,7 @@ const training =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        0.4977168949771689,
+        0.436,
         0.6503496503496503
       ]
     },
@@ -19521,7 +19521,7 @@ const training =
       "student_name": "kubis",
       "student_id": 1663947853206,
       "point": [
-        0.22146118721461186,
+        0.194,
         0.5151515151515151
       ]
     },
@@ -19531,7 +19531,7 @@ const training =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.2634032634032634
       ]
     },
@@ -19541,7 +19541,7 @@ const training =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        0.4360730593607306,
+        0.382,
         0.19114219114219114
       ]
     },
@@ -19551,7 +19551,7 @@ const training =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        0.1689497716894977,
+        0.148,
         0.4358974358974359
       ]
     },
@@ -19561,7 +19561,7 @@ const training =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        0.3744292237442922,
+        0.328,
         0.6130536130536131
       ]
     },
@@ -19571,7 +19571,7 @@ const training =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        0.4771689497716895,
+        0.418,
         0.32867132867132864
       ]
     },
@@ -19581,7 +19581,7 @@ const training =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.27505827505827507
       ]
     },
@@ -19591,7 +19591,7 @@ const training =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        0.0821917808219178,
+        0.072,
         0.42657342657342656
       ]
     },
@@ -19601,7 +19601,7 @@ const training =
       "student_name": "olcay",
       "student_id": 1663948677208,
       "point": [
-        0.2694063926940639,
+        0.236,
         0.23776223776223776
       ]
     },
@@ -19611,7 +19611,7 @@ const training =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        0.5068493150684932,
+        0.444,
         0.25874125874125875
       ]
     },
@@ -19621,7 +19621,7 @@ const training =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        0.634703196347032,
+        0.556,
         0.15384615384615385
       ]
     },
@@ -19631,7 +19631,7 @@ const training =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        0.3789954337899543,
+        0.332,
         0.6083916083916084
       ]
     },
@@ -19641,7 +19641,7 @@ const training =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        0.4794520547945205,
+        0.42,
         0.634032634032634
       ]
     },
@@ -19651,7 +19651,7 @@ const training =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        0.5,
+        0.438,
         0.20279720279720279
       ]
     },
@@ -19661,7 +19661,7 @@ const training =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        0.23972602739726026,
+        0.21,
         0.20745920745920746
       ]
     },
@@ -19671,7 +19671,7 @@ const training =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        0.07990867579908675,
+        0.07,
         0.40093240093240096
       ]
     },
@@ -19681,7 +19681,7 @@ const training =
       "student_name": "farid",
       "student_id": 1663949940679,
       "point": [
-        0.3972602739726027,
+        0.348,
         0.31002331002331
       ]
     },
@@ -19691,7 +19691,7 @@ const training =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        0.3675799086757991,
+        0.322,
         0.14918414918414918
       ]
     },
@@ -19701,7 +19701,7 @@ const training =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        0.2328767123287671,
+        0.204,
         0.12121212121212122
       ]
     },
@@ -19711,7 +19711,7 @@ const training =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        0.6894977168949772,
+        0.604,
         0.4428904428904429
       ]
     },
@@ -19721,7 +19721,7 @@ const training =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        0.3721461187214612,
+        0.326,
         0.6480186480186481
       ]
     },
@@ -19731,7 +19731,7 @@ const training =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        0.5296803652968036,
+        0.464,
         0.34265734265734266
       ]
     },
@@ -19741,7 +19741,7 @@ const training =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        0.12557077625570776,
+        0.11,
         0.351981351981352
       ]
     },
@@ -19751,7 +19751,7 @@ const training =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        0.04794520547945205,
+        0.042,
         0.3776223776223776
       ]
     },
@@ -19761,7 +19761,7 @@ const training =
       "student_name": "meshack",
       "student_id": 1663950160682,
       "point": [
-        0.3127853881278539,
+        0.274,
         0.29836829836829837
       ]
     },
@@ -19771,7 +19771,7 @@ const training =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        0.7442922374429224,
+        0.652,
         0.34265734265734266
       ]
     },
@@ -19781,7 +19781,7 @@ const training =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        0.5,
+        0.438,
         0.2494172494172494
       ]
     },
@@ -19791,7 +19791,7 @@ const training =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        0.639269406392694,
+        0.56,
         0.6037296037296037
       ]
     },
@@ -19801,7 +19801,7 @@ const training =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        0.6118721461187214,
+        0.536,
         0.7622377622377622
       ]
     },
@@ -19811,7 +19811,7 @@ const training =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        0.730593607305936,
+        0.64,
         0.48717948717948717
       ]
     },
@@ -19821,7 +19821,7 @@ const training =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        0.6621004566210046,
+        0.58,
         0.5827505827505828
       ]
     },
@@ -19831,7 +19831,7 @@ const training =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        0.54337899543379,
+        0.476,
         0.4568764568764569
       ]
     },
@@ -19841,8 +19841,8808 @@ const training =
       "student_name": "MK",
       "student_id": 1663951776144,
       "point": [
-        0.4292237442922374,
+        0.376,
         0.289044289044289
+      ]
+    },
+    {
+      "id": 1985,
+      "label": "car",
+      "student_name": "Jagadeesh kumar",
+      "student_id": 1663953392594,
+      "point": [
+        0.646,
+        0.34965034965034963
+      ]
+    },
+    {
+      "id": 1986,
+      "label": "fish",
+      "student_name": "Jagadeesh kumar",
+      "student_id": 1663953392594,
+      "point": [
+        0.604,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 1987,
+      "label": "house",
+      "student_name": "Jagadeesh kumar",
+      "student_id": 1663953392594,
+      "point": [
+        0.52,
+        0.7668997668997669
+      ]
+    },
+    {
+      "id": 1988,
+      "label": "tree",
+      "student_name": "Jagadeesh kumar",
+      "student_id": 1663953392594,
+      "point": [
+        0.662,
+        0.7272727272727273
+      ]
+    },
+    {
+      "id": 1989,
+      "label": "bicycle",
+      "student_name": "Jagadeesh kumar",
+      "student_id": 1663953392594,
+      "point": [
+        0.562,
+        0.585081585081585
+      ]
+    },
+    {
+      "id": 1990,
+      "label": "guitar",
+      "student_name": "Jagadeesh kumar",
+      "student_id": 1663953392594,
+      "point": [
+        0.502,
+        0.5268065268065268
+      ]
+    },
+    {
+      "id": 1991,
+      "label": "pencil",
+      "student_name": "Jagadeesh kumar",
+      "student_id": 1663953392594,
+      "point": [
+        0.598,
+        0.5268065268065268
+      ]
+    },
+    {
+      "id": 1992,
+      "label": "clock",
+      "student_name": "Jagadeesh kumar",
+      "student_id": 1663953392594,
+      "point": [
+        0.524,
+        0.6037296037296037
+      ]
+    },
+    {
+      "id": 1993,
+      "label": "car",
+      "student_name": "ahmed",
+      "student_id": 1663955839692,
+      "point": [
+        0.522,
+        0.19347319347319347
+      ]
+    },
+    {
+      "id": 1994,
+      "label": "fish",
+      "student_name": "ahmed",
+      "student_id": 1663955839692,
+      "point": [
+        0.47,
+        0.19813519813519814
+      ]
+    },
+    {
+      "id": 1995,
+      "label": "house",
+      "student_name": "ahmed",
+      "student_id": 1663955839692,
+      "point": [
+        0.242,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 1996,
+      "label": "tree",
+      "student_name": "ahmed",
+      "student_id": 1663955839692,
+      "point": [
+        0.28,
+        0.43123543123543123
+      ]
+    },
+    {
+      "id": 1997,
+      "label": "bicycle",
+      "student_name": "ahmed",
+      "student_id": 1663955839692,
+      "point": [
+        0.29,
+        0.23543123543123542
+      ]
+    },
+    {
+      "id": 1998,
+      "label": "guitar",
+      "student_name": "ahmed",
+      "student_id": 1663955839692,
+      "point": [
+        0.432,
+        0.23543123543123542
+      ]
+    },
+    {
+      "id": 1999,
+      "label": "pencil",
+      "student_name": "ahmed",
+      "student_id": 1663955839692,
+      "point": [
+        0.482,
+        0.13752913752913754
+      ]
+    },
+    {
+      "id": 2000,
+      "label": "clock",
+      "student_name": "ahmed",
+      "student_id": 1663955839692,
+      "point": [
+        0.454,
+        0.3333333333333333
+      ]
+    },
+    {
+      "id": 2001,
+      "label": "car",
+      "student_name": "airbass",
+      "student_id": 1663959669044,
+      "point": [
+        0.684,
+        0.337995337995338
+      ]
+    },
+    {
+      "id": 2002,
+      "label": "fish",
+      "student_name": "airbass",
+      "student_id": 1663959669044,
+      "point": [
+        0.566,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 2003,
+      "label": "house",
+      "student_name": "airbass",
+      "student_id": 1663959669044,
+      "point": [
+        0.53,
+        0.8578088578088578
+      ]
+    },
+    {
+      "id": 2004,
+      "label": "tree",
+      "student_name": "airbass",
+      "student_id": 1663959669044,
+      "point": [
+        0.624,
+        0.8531468531468531
+      ]
+    },
+    {
+      "id": 2005,
+      "label": "bicycle",
+      "student_name": "airbass",
+      "student_id": 1663959669044,
+      "point": [
+        0.53,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 2006,
+      "label": "guitar",
+      "student_name": "airbass",
+      "student_id": 1663959669044,
+      "point": [
+        0.618,
+        0.2191142191142191
+      ]
+    },
+    {
+      "id": 2007,
+      "label": "pencil",
+      "student_name": "airbass",
+      "student_id": 1663959669044,
+      "point": [
+        0.138,
+        0.7086247086247086
+      ]
+    },
+    {
+      "id": 2008,
+      "label": "clock",
+      "student_name": "airbass",
+      "student_id": 1663959669044,
+      "point": [
+        0.414,
+        0.38461538461538464
+      ]
+    },
+    {
+      "id": 2009,
+      "label": "car",
+      "student_name": "Ruzgar",
+      "student_id": 1663959723890,
+      "point": [
+        0.572,
+        0.5244755244755245
+      ]
+    },
+    {
+      "id": 2010,
+      "label": "fish",
+      "student_name": "Ruzgar",
+      "student_id": 1663959723890,
+      "point": [
+        0.426,
+        0.23543123543123542
+      ]
+    },
+    {
+      "id": 2011,
+      "label": "house",
+      "student_name": "Ruzgar",
+      "student_id": 1663959723890,
+      "point": [
+        0.448,
+        0.6223776223776224
+      ]
+    },
+    {
+      "id": 2012,
+      "label": "tree",
+      "student_name": "Ruzgar",
+      "student_id": 1663959723890,
+      "point": [
+        0.336,
+        0.7622377622377622
+      ]
+    },
+    {
+      "id": 2013,
+      "label": "bicycle",
+      "student_name": "Ruzgar",
+      "student_id": 1663959723890,
+      "point": [
+        0.514,
+        0.29603729603729606
+      ]
+    },
+    {
+      "id": 2014,
+      "label": "guitar",
+      "student_name": "Ruzgar",
+      "student_id": 1663959723890,
+      "point": [
+        0.344,
+        0.4801864801864802
+      ]
+    },
+    {
+      "id": 2015,
+      "label": "pencil",
+      "student_name": "Ruzgar",
+      "student_id": 1663959723890,
+      "point": [
+        0.306,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 2016,
+      "label": "clock",
+      "student_name": "Ruzgar",
+      "student_id": 1663959723890,
+      "point": [
+        0.374,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 2017,
+      "label": "car",
+      "student_name": "Erick",
+      "student_id": 1663959787784,
+      "point": [
+        0.42,
+        0.48951048951048953
+      ]
+    },
+    {
+      "id": 2018,
+      "label": "fish",
+      "student_name": "Erick",
+      "student_id": 1663959787784,
+      "point": [
+        0.24,
+        0.1864801864801865
+      ]
+    },
+    {
+      "id": 2019,
+      "label": "house",
+      "student_name": "Erick",
+      "student_id": 1663959787784,
+      "point": [
+        0.408,
+        0.5477855477855478
+      ]
+    },
+    {
+      "id": 2020,
+      "label": "tree",
+      "student_name": "Erick",
+      "student_id": 1663959787784,
+      "point": [
+        0.618,
+        0.42657342657342656
+      ]
+    },
+    {
+      "id": 2021,
+      "label": "bicycle",
+      "student_name": "Erick",
+      "student_id": 1663959787784,
+      "point": [
+        0.318,
+        0.351981351981352
+      ]
+    },
+    {
+      "id": 2022,
+      "label": "guitar",
+      "student_name": "Erick",
+      "student_id": 1663959787784,
+      "point": [
+        0.53,
+        0.8601398601398601
+      ]
+    },
+    {
+      "id": 2023,
+      "label": "pencil",
+      "student_name": "Erick",
+      "student_id": 1663959787784,
+      "point": [
+        0.522,
+        0.6526806526806527
+      ]
+    },
+    {
+      "id": 2024,
+      "label": "clock",
+      "student_name": "Erick",
+      "student_id": 1663959787784,
+      "point": [
+        0.468,
+        0.6596736596736597
+      ]
+    },
+    {
+      "id": 2025,
+      "label": "car",
+      "student_name": "Ketan",
+      "student_id": 1663961253145,
+      "point": [
+        0.71,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 2026,
+      "label": "fish",
+      "student_name": "Ketan",
+      "student_id": 1663961253145,
+      "point": [
+        0.556,
+        0.2540792540792541
+      ]
+    },
+    {
+      "id": 2027,
+      "label": "house",
+      "student_name": "Ketan",
+      "student_id": 1663961253145,
+      "point": [
+        0.57,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 2028,
+      "label": "tree",
+      "student_name": "Ketan",
+      "student_id": 1663961253145,
+      "point": [
+        0.42,
+        0.5594405594405595
+      ]
+    },
+    {
+      "id": 2029,
+      "label": "bicycle",
+      "student_name": "Ketan",
+      "student_id": 1663961253145,
+      "point": [
+        0.586,
+        0.3939393939393939
+      ]
+    },
+    {
+      "id": 2030,
+      "label": "guitar",
+      "student_name": "Ketan",
+      "student_id": 1663961253145,
+      "point": [
+        0.56,
+        0.40792540792540793
+      ]
+    },
+    {
+      "id": 2031,
+      "label": "pencil",
+      "student_name": "Ketan",
+      "student_id": 1663961253145,
+      "point": [
+        0.056,
+        0.08624708624708624
+      ]
+    },
+    {
+      "id": 2032,
+      "label": "clock",
+      "student_name": "Ketan",
+      "student_id": 1663961253145,
+      "point": [
+        0.318,
+        0.3939393939393939
+      ]
+    },
+    {
+      "id": 2033,
+      "label": "car",
+      "student_name": "Radu",
+      "student_id": 1663963863766,
+      "point": [
+        0.604,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 2034,
+      "label": "fish",
+      "student_name": "Radu",
+      "student_id": 1663963863766,
+      "point": [
+        0.486,
+        0.1958041958041958
+      ]
+    },
+    {
+      "id": 2035,
+      "label": "house",
+      "student_name": "Radu",
+      "student_id": 1663963863766,
+      "point": [
+        0.496,
+        0.5151515151515151
+      ]
+    },
+    {
+      "id": 2036,
+      "label": "tree",
+      "student_name": "Radu",
+      "student_id": 1663963863766,
+      "point": [
+        0.418,
+        0.5920745920745921
+      ]
+    },
+    {
+      "id": 2037,
+      "label": "bicycle",
+      "student_name": "Radu",
+      "student_id": 1663963863766,
+      "point": [
+        0.36,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 2038,
+      "label": "guitar",
+      "student_name": "Radu",
+      "student_id": 1663963863766,
+      "point": [
+        0.624,
+        0.5641025641025641
+      ]
+    },
+    {
+      "id": 2039,
+      "label": "pencil",
+      "student_name": "Radu",
+      "student_id": 1663963863766,
+      "point": [
+        0.598,
+        0.4731934731934732
+      ]
+    },
+    {
+      "id": 2040,
+      "label": "clock",
+      "student_name": "Radu",
+      "student_id": 1663963863766,
+      "point": [
+        0.3,
+        0.29603729603729606
+      ]
+    },
+    {
+      "id": 2041,
+      "label": "car",
+      "student_name": "rh",
+      "student_id": 1663965910630,
+      "point": [
+        0.466,
+        0.20512820512820512
+      ]
+    },
+    {
+      "id": 2042,
+      "label": "fish",
+      "student_name": "rh",
+      "student_id": 1663965910630,
+      "point": [
+        0.316,
+        0.1561771561771562
+      ]
+    },
+    {
+      "id": 2043,
+      "label": "house",
+      "student_name": "rh",
+      "student_id": 1663965910630,
+      "point": [
+        0.31,
+        0.4289044289044289
+      ]
+    },
+    {
+      "id": 2044,
+      "label": "tree",
+      "student_name": "rh",
+      "student_id": 1663965910630,
+      "point": [
+        0.402,
+        0.5361305361305362
+      ]
+    },
+    {
+      "id": 2045,
+      "label": "bicycle",
+      "student_name": "rh",
+      "student_id": 1663965910630,
+      "point": [
+        0.402,
+        0.24475524475524477
+      ]
+    },
+    {
+      "id": 2046,
+      "label": "guitar",
+      "student_name": "rh",
+      "student_id": 1663965910630,
+      "point": [
+        0.342,
+        0.10256410256410256
+      ]
+    },
+    {
+      "id": 2047,
+      "label": "pencil",
+      "student_name": "rh",
+      "student_id": 1663965910630,
+      "point": [
+        0.212,
+        0.317016317016317
+      ]
+    },
+    {
+      "id": 2048,
+      "label": "clock",
+      "student_name": "rh",
+      "student_id": 1663965910630,
+      "point": [
+        0.254,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 2049,
+      "label": "car",
+      "student_name": "NtotheG",
+      "student_id": 1663966133916,
+      "point": [
+        0.518,
+        0.22144522144522144
+      ]
+    },
+    {
+      "id": 2050,
+      "label": "fish",
+      "student_name": "NtotheG",
+      "student_id": 1663966133916,
+      "point": [
+        0.312,
+        0.16783216783216784
+      ]
+    },
+    {
+      "id": 2051,
+      "label": "house",
+      "student_name": "NtotheG",
+      "student_id": 1663966133916,
+      "point": [
+        0.412,
+        0.5477855477855478
+      ]
+    },
+    {
+      "id": 2052,
+      "label": "tree",
+      "student_name": "NtotheG",
+      "student_id": 1663966133916,
+      "point": [
+        0.394,
+        0.5990675990675991
+      ]
+    },
+    {
+      "id": 2053,
+      "label": "bicycle",
+      "student_name": "NtotheG",
+      "student_id": 1663966133916,
+      "point": [
+        0.536,
+        0.3356643356643357
+      ]
+    },
+    {
+      "id": 2054,
+      "label": "guitar",
+      "student_name": "NtotheG",
+      "student_id": 1663966133916,
+      "point": [
+        0.23,
+        0.627039627039627
+      ]
+    },
+    {
+      "id": 2055,
+      "label": "pencil",
+      "student_name": "NtotheG",
+      "student_id": 1663966133916,
+      "point": [
+        0.392,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 2056,
+      "label": "clock",
+      "student_name": "NtotheG",
+      "student_id": 1663966133916,
+      "point": [
+        0.136,
+        0.6503496503496503
+      ]
+    },
+    {
+      "id": 2057,
+      "label": "car",
+      "student_name": "NathanBenelli",
+      "student_id": 1663967177767,
+      "point": [
+        0.46,
+        0.26573426573426573
+      ]
+    },
+    {
+      "id": 2058,
+      "label": "fish",
+      "student_name": "NathanBenelli",
+      "student_id": 1663967177767,
+      "point": [
+        0.414,
+        0.2703962703962704
+      ]
+    },
+    {
+      "id": 2059,
+      "label": "house",
+      "student_name": "NathanBenelli",
+      "student_id": 1663967177767,
+      "point": [
+        0.504,
+        0.5944055944055944
+      ]
+    },
+    {
+      "id": 2060,
+      "label": "tree",
+      "student_name": "NathanBenelli",
+      "student_id": 1663967177767,
+      "point": [
+        0.386,
+        0.5920745920745921
+      ]
+    },
+    {
+      "id": 2061,
+      "label": "bicycle",
+      "student_name": "NathanBenelli",
+      "student_id": 1663967177767,
+      "point": [
+        0.39,
+        0.32400932400932403
+      ]
+    },
+    {
+      "id": 2062,
+      "label": "guitar",
+      "student_name": "NathanBenelli",
+      "student_id": 1663967177767,
+      "point": [
+        0.568,
+        0.29603729603729606
+      ]
+    },
+    {
+      "id": 2063,
+      "label": "pencil",
+      "student_name": "NathanBenelli",
+      "student_id": 1663967177767,
+      "point": [
+        0.044,
+        0.5897435897435898
+      ]
+    },
+    {
+      "id": 2064,
+      "label": "clock",
+      "student_name": "NathanBenelli",
+      "student_id": 1663967177767,
+      "point": [
+        0.322,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 2065,
+      "label": "car",
+      "student_name": "alireza hekmati 2 💥",
+      "student_id": 1663968488419,
+      "point": [
+        0.324,
+        0.2937062937062937
+      ]
+    },
+    {
+      "id": 2066,
+      "label": "fish",
+      "student_name": "alireza hekmati 2 💥",
+      "student_id": 1663968488419,
+      "point": [
+        0.434,
+        0.3333333333333333
+      ]
+    },
+    {
+      "id": 2067,
+      "label": "house",
+      "student_name": "alireza hekmati 2 💥",
+      "student_id": 1663968488419,
+      "point": [
+        0.138,
+        0.2703962703962704
+      ]
+    },
+    {
+      "id": 2068,
+      "label": "tree",
+      "student_name": "alireza hekmati 2 💥",
+      "student_id": 1663968488419,
+      "point": [
+        0.288,
+        0.4428904428904429
+      ]
+    },
+    {
+      "id": 2069,
+      "label": "bicycle",
+      "student_name": "alireza hekmati 2 💥",
+      "student_id": 1663968488419,
+      "point": [
+        0.182,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 2070,
+      "label": "guitar",
+      "student_name": "alireza hekmati 2 💥",
+      "student_id": 1663968488419,
+      "point": [
+        0.462,
+        0.5641025641025641
+      ]
+    },
+    {
+      "id": 2071,
+      "label": "pencil",
+      "student_name": "alireza hekmati 2 💥",
+      "student_id": 1663968488419,
+      "point": [
+        0.37,
+        0.023310023310023312
+      ]
+    },
+    {
+      "id": 2072,
+      "label": "clock",
+      "student_name": "alireza hekmati 2 💥",
+      "student_id": 1663968488419,
+      "point": [
+        0.126,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 2073,
+      "label": "car",
+      "student_name": "Akshay ",
+      "student_id": 1663971195546,
+      "point": [
+        0.638,
+        0.5431235431235432
+      ]
+    },
+    {
+      "id": 2074,
+      "label": "fish",
+      "student_name": "Akshay ",
+      "student_id": 1663971195546,
+      "point": [
+        0.672,
+        0.5221445221445221
+      ]
+    },
+    {
+      "id": 2075,
+      "label": "house",
+      "student_name": "Akshay ",
+      "student_id": 1663971195546,
+      "point": [
+        0.752,
+        0.5524475524475524
+      ]
+    },
+    {
+      "id": 2076,
+      "label": "tree",
+      "student_name": "Akshay ",
+      "student_id": 1663971195546,
+      "point": [
+        0.768,
+        0.717948717948718
+      ]
+    },
+    {
+      "id": 2077,
+      "label": "bicycle",
+      "student_name": "Akshay ",
+      "student_id": 1663971195546,
+      "point": [
+        0.68,
+        0.5174825174825175
+      ]
+    },
+    {
+      "id": 2078,
+      "label": "guitar",
+      "student_name": "Akshay ",
+      "student_id": 1663971195546,
+      "point": [
+        0.71,
+        0.7668997668997669
+      ]
+    },
+    {
+      "id": 2079,
+      "label": "pencil",
+      "student_name": "Akshay ",
+      "student_id": 1663971195546,
+      "point": [
+        0.226,
+        0.7062937062937062
+      ]
+    },
+    {
+      "id": 2080,
+      "label": "clock",
+      "student_name": "Akshay ",
+      "student_id": 1663971195546,
+      "point": [
+        0.486,
+        0.5944055944055944
+      ]
+    },
+    {
+      "id": 2081,
+      "label": "car",
+      "student_name": "Armando",
+      "student_id": 1663971277771,
+      "point": [
+        0.306,
+        0.19347319347319347
+      ]
+    },
+    {
+      "id": 2082,
+      "label": "fish",
+      "student_name": "Armando",
+      "student_id": 1663971277771,
+      "point": [
+        0.484,
+        0.3613053613053613
+      ]
+    },
+    {
+      "id": 2083,
+      "label": "house",
+      "student_name": "Armando",
+      "student_id": 1663971277771,
+      "point": [
+        0.466,
+        0.5920745920745921
+      ]
+    },
+    {
+      "id": 2084,
+      "label": "tree",
+      "student_name": "Armando",
+      "student_id": 1663971277771,
+      "point": [
+        0.436,
+        0.6456876456876457
+      ]
+    },
+    {
+      "id": 2085,
+      "label": "bicycle",
+      "student_name": "Armando",
+      "student_id": 1663971277771,
+      "point": [
+        0.466,
+        0.4149184149184149
+      ]
+    },
+    {
+      "id": 2086,
+      "label": "guitar",
+      "student_name": "Armando",
+      "student_id": 1663971277771,
+      "point": [
+        0.578,
+        0.7319347319347319
+      ]
+    },
+    {
+      "id": 2087,
+      "label": "pencil",
+      "student_name": "Armando",
+      "student_id": 1663971277771,
+      "point": [
+        0.464,
+        0.5058275058275058
+      ]
+    },
+    {
+      "id": 2088,
+      "label": "clock",
+      "student_name": "Armando",
+      "student_id": 1663971277771,
+      "point": [
+        0.438,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 2089,
+      "label": "car",
+      "student_name": "Trubu",
+      "student_id": 1663974914822,
+      "point": [
+        0.734,
+        0.34265734265734266
+      ]
+    },
+    {
+      "id": 2090,
+      "label": "fish",
+      "student_name": "Trubu",
+      "student_id": 1663974914822,
+      "point": [
+        0.594,
+        0.28205128205128205
+      ]
+    },
+    {
+      "id": 2091,
+      "label": "house",
+      "student_name": "Trubu",
+      "student_id": 1663974914822,
+      "point": [
+        0.59,
+        0.6899766899766899
+      ]
+    },
+    {
+      "id": 2092,
+      "label": "tree",
+      "student_name": "Trubu",
+      "student_id": 1663974914822,
+      "point": [
+        0.578,
+        0.7645687645687645
+      ]
+    },
+    {
+      "id": 2093,
+      "label": "bicycle",
+      "student_name": "Trubu",
+      "student_id": 1663974914822,
+      "point": [
+        0.628,
+        0.4289044289044289
+      ]
+    },
+    {
+      "id": 2094,
+      "label": "guitar",
+      "student_name": "Trubu",
+      "student_id": 1663974914822,
+      "point": [
+        0.546,
+        0.62004662004662
+      ]
+    },
+    {
+      "id": 2095,
+      "label": "pencil",
+      "student_name": "Trubu",
+      "student_id": 1663974914822,
+      "point": [
+        0.07,
+        0.7389277389277389
+      ]
+    },
+    {
+      "id": 2096,
+      "label": "clock",
+      "student_name": "Trubu",
+      "student_id": 1663974914822,
+      "point": [
+        0.64,
+        0.7249417249417249
+      ]
+    },
+    {
+      "id": 2097,
+      "label": "car",
+      "student_name": "basic coder",
+      "student_id": 1663986437795,
+      "point": [
+        0.492,
+        0.26107226107226106
+      ]
+    },
+    {
+      "id": 2098,
+      "label": "fish",
+      "student_name": "basic coder",
+      "student_id": 1663986437795,
+      "point": [
+        0.622,
+        0.5641025641025641
+      ]
+    },
+    {
+      "id": 2099,
+      "label": "house",
+      "student_name": "basic coder",
+      "student_id": 1663986437795,
+      "point": [
+        0.57,
+        0.4522144522144522
+      ]
+    },
+    {
+      "id": 2100,
+      "label": "tree",
+      "student_name": "basic coder",
+      "student_id": 1663986437795,
+      "point": [
+        0.654,
+        0.8018648018648019
+      ]
+    },
+    {
+      "id": 2101,
+      "label": "bicycle",
+      "student_name": "basic coder",
+      "student_id": 1663986437795,
+      "point": [
+        0.46,
+        0.34965034965034963
+      ]
+    },
+    {
+      "id": 2102,
+      "label": "guitar",
+      "student_name": "basic coder",
+      "student_id": 1663986437795,
+      "point": [
+        0.58,
+        0.6247086247086248
+      ]
+    },
+    {
+      "id": 2103,
+      "label": "pencil",
+      "student_name": "basic coder",
+      "student_id": 1663986437795,
+      "point": [
+        0.034,
+        0.48484848484848486
+      ]
+    },
+    {
+      "id": 2104,
+      "label": "clock",
+      "student_name": "basic coder",
+      "student_id": 1663986437795,
+      "point": [
+        0.572,
+        0.6060606060606061
+      ]
+    },
+    {
+      "id": 2105,
+      "label": "car",
+      "student_name": "Jay",
+      "student_id": 1663990872471,
+      "point": [
+        0.614,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 2106,
+      "label": "fish",
+      "student_name": "Jay",
+      "student_id": 1663990872471,
+      "point": [
+        0.514,
+        0.28438228438228436
+      ]
+    },
+    {
+      "id": 2107,
+      "label": "house",
+      "student_name": "Jay",
+      "student_id": 1663990872471,
+      "point": [
+        0.454,
+        0.28205128205128205
+      ]
+    },
+    {
+      "id": 2108,
+      "label": "tree",
+      "student_name": "Jay",
+      "student_id": 1663990872471,
+      "point": [
+        0.358,
+        0.5710955710955711
+      ]
+    },
+    {
+      "id": 2109,
+      "label": "bicycle",
+      "student_name": "Jay",
+      "student_id": 1663990872471,
+      "point": [
+        0.486,
+        0.32867132867132864
+      ]
+    },
+    {
+      "id": 2110,
+      "label": "guitar",
+      "student_name": "Jay",
+      "student_id": 1663990872471,
+      "point": [
+        0.558,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 2111,
+      "label": "pencil",
+      "student_name": "Jay",
+      "student_id": 1663990872471,
+      "point": [
+        0.5,
+        0.34032634032634035
+      ]
+    },
+    {
+      "id": 2112,
+      "label": "clock",
+      "student_name": "Jay",
+      "student_id": 1663990872471,
+      "point": [
+        0.316,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 2113,
+      "label": "car",
+      "student_name": "Bilguun",
+      "student_id": 1663998669646,
+      "point": [
+        0.524,
+        0.2937062937062937
+      ]
+    },
+    {
+      "id": 2114,
+      "label": "fish",
+      "student_name": "Bilguun",
+      "student_id": 1663998669646,
+      "point": [
+        0.31,
+        0.26107226107226106
+      ]
+    },
+    {
+      "id": 2115,
+      "label": "house",
+      "student_name": "Bilguun",
+      "student_id": 1663998669646,
+      "point": [
+        0.236,
+        0.32400932400932403
+      ]
+    },
+    {
+      "id": 2116,
+      "label": "tree",
+      "student_name": "Bilguun",
+      "student_id": 1663998669646,
+      "point": [
+        0.26,
+        0.3822843822843823
+      ]
+    },
+    {
+      "id": 2117,
+      "label": "bicycle",
+      "student_name": "Bilguun",
+      "student_id": 1663998669646,
+      "point": [
+        0.43,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 2118,
+      "label": "guitar",
+      "student_name": "Bilguun",
+      "student_id": 1663998669646,
+      "point": [
+        0.54,
+        0.3006993006993007
+      ]
+    },
+    {
+      "id": 2119,
+      "label": "pencil",
+      "student_name": "Bilguun",
+      "student_id": 1663998669646,
+      "point": [
+        0.384,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 2120,
+      "label": "clock",
+      "student_name": "Bilguun",
+      "student_id": 1663998669646,
+      "point": [
+        0.324,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 2121,
+      "label": "car",
+      "student_name": "Mukul",
+      "student_id": 1664000294175,
+      "point": [
+        0.684,
+        0.43123543123543123
+      ]
+    },
+    {
+      "id": 2122,
+      "label": "fish",
+      "student_name": "Mukul",
+      "student_id": 1664000294175,
+      "point": [
+        0.358,
+        0.23543123543123542
+      ]
+    },
+    {
+      "id": 2123,
+      "label": "house",
+      "student_name": "Mukul",
+      "student_id": 1664000294175,
+      "point": [
+        0.446,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 2124,
+      "label": "tree",
+      "student_name": "Mukul",
+      "student_id": 1664000294175,
+      "point": [
+        0.46,
+        0.5244755244755245
+      ]
+    },
+    {
+      "id": 2125,
+      "label": "bicycle",
+      "student_name": "Mukul",
+      "student_id": 1664000294175,
+      "point": [
+        0.368,
+        0.24475524475524477
+      ]
+    },
+    {
+      "id": 2126,
+      "label": "guitar",
+      "student_name": "Mukul",
+      "student_id": 1664000294175,
+      "point": [
+        0.618,
+        0.5990675990675991
+      ]
+    },
+    {
+      "id": 2127,
+      "label": "pencil",
+      "student_name": "Mukul",
+      "student_id": 1664000294175,
+      "point": [
+        0.262,
+        0.337995337995338
+      ]
+    },
+    {
+      "id": 2128,
+      "label": "clock",
+      "student_name": "Mukul",
+      "student_id": 1664000294175,
+      "point": [
+        0.41,
+        0.41025641025641024
+      ]
+    },
+    {
+      "id": 2129,
+      "label": "car",
+      "student_name": "Ryan",
+      "student_id": 1664002141533,
+      "point": [
+        0.752,
+        0.35664335664335667
+      ]
+    },
+    {
+      "id": 2130,
+      "label": "fish",
+      "student_name": "Ryan",
+      "student_id": 1664002141533,
+      "point": [
+        0.472,
+        0.29603729603729606
+      ]
+    },
+    {
+      "id": 2131,
+      "label": "house",
+      "student_name": "Ryan",
+      "student_id": 1664002141533,
+      "point": [
+        0.71,
+        0.703962703962704
+      ]
+    },
+    {
+      "id": 2132,
+      "label": "tree",
+      "student_name": "Ryan",
+      "student_id": 1664002141533,
+      "point": [
+        0.71,
+        0.8321678321678322
+      ]
+    },
+    {
+      "id": 2133,
+      "label": "bicycle",
+      "student_name": "Ryan",
+      "student_id": 1664002141533,
+      "point": [
+        0.548,
+        0.317016317016317
+      ]
+    },
+    {
+      "id": 2134,
+      "label": "guitar",
+      "student_name": "Ryan",
+      "student_id": 1664002141533,
+      "point": [
+        0.686,
+        0.7925407925407926
+      ]
+    },
+    {
+      "id": 2135,
+      "label": "pencil",
+      "student_name": "Ryan",
+      "student_id": 1664002141533,
+      "point": [
+        0.054,
+        0.7412587412587412
+      ]
+    },
+    {
+      "id": 2136,
+      "label": "clock",
+      "student_name": "Ryan",
+      "student_id": 1664002141533,
+      "point": [
+        0.664,
+        0.8181818181818182
+      ]
+    },
+    {
+      "id": 2137,
+      "label": "car",
+      "student_name": "Larry",
+      "student_id": 1664003542649,
+      "point": [
+        0.688,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 2138,
+      "label": "fish",
+      "student_name": "Larry",
+      "student_id": 1664003542649,
+      "point": [
+        0.686,
+        0.31002331002331
+      ]
+    },
+    {
+      "id": 2139,
+      "label": "house",
+      "student_name": "Larry",
+      "student_id": 1664003542649,
+      "point": [
+        0.326,
+        0.682983682983683
+      ]
+    },
+    {
+      "id": 2140,
+      "label": "tree",
+      "student_name": "Larry",
+      "student_id": 1664003542649,
+      "point": [
+        0.744,
+        0.8787878787878788
+      ]
+    },
+    {
+      "id": 2141,
+      "label": "bicycle",
+      "student_name": "Larry",
+      "student_id": 1664003542649,
+      "point": [
+        0.438,
+        0.47086247086247085
+      ]
+    },
+    {
+      "id": 2142,
+      "label": "guitar",
+      "student_name": "Larry",
+      "student_id": 1664003542649,
+      "point": [
+        0.718,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 2143,
+      "label": "pencil",
+      "student_name": "Larry",
+      "student_id": 1664003542649,
+      "point": [
+        0.518,
+        0.6853146853146853
+      ]
+    },
+    {
+      "id": 2144,
+      "label": "clock",
+      "student_name": "Larry",
+      "student_id": 1664003542649,
+      "point": [
+        0.328,
+        0.3333333333333333
+      ]
+    },
+    {
+      "id": 2145,
+      "label": "car",
+      "student_name": "Samer",
+      "student_id": 1664008759414,
+      "point": [
+        0.61,
+        0.23543123543123542
+      ]
+    },
+    {
+      "id": 2146,
+      "label": "fish",
+      "student_name": "Samer",
+      "student_id": 1664008759414,
+      "point": [
+        0.476,
+        0.18181818181818182
+      ]
+    },
+    {
+      "id": 2147,
+      "label": "house",
+      "student_name": "Samer",
+      "student_id": 1664008759414,
+      "point": [
+        0.528,
+        0.6666666666666666
+      ]
+    },
+    {
+      "id": 2148,
+      "label": "tree",
+      "student_name": "Samer",
+      "student_id": 1664008759414,
+      "point": [
+        0.436,
+        0.6037296037296037
+      ]
+    },
+    {
+      "id": 2149,
+      "label": "bicycle",
+      "student_name": "Samer",
+      "student_id": 1664008759414,
+      "point": [
+        0.446,
+        0.358974358974359
+      ]
+    },
+    {
+      "id": 2150,
+      "label": "guitar",
+      "student_name": "Samer",
+      "student_id": 1664008759414,
+      "point": [
+        0.258,
+        0.6177156177156177
+      ]
+    },
+    {
+      "id": 2151,
+      "label": "pencil",
+      "student_name": "Samer",
+      "student_id": 1664008759414,
+      "point": [
+        0.024,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 2152,
+      "label": "clock",
+      "student_name": "Samer",
+      "student_id": 1664008759414,
+      "point": [
+        0.228,
+        0.2540792540792541
+      ]
+    },
+    {
+      "id": 2153,
+      "label": "car",
+      "student_name": "Harald",
+      "student_id": 1664008963491,
+      "point": [
+        0.468,
+        0.48717948717948717
+      ]
+    },
+    {
+      "id": 2154,
+      "label": "fish",
+      "student_name": "Harald",
+      "student_id": 1664008963491,
+      "point": [
+        0.326,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 2155,
+      "label": "house",
+      "student_name": "Harald",
+      "student_id": 1664008963491,
+      "point": [
+        0.462,
+        0.5547785547785548
+      ]
+    },
+    {
+      "id": 2156,
+      "label": "tree",
+      "student_name": "Harald",
+      "student_id": 1664008963491,
+      "point": [
+        0.604,
+        0.696969696969697
+      ]
+    },
+    {
+      "id": 2157,
+      "label": "bicycle",
+      "student_name": "Harald",
+      "student_id": 1664008963491,
+      "point": [
+        0.514,
+        0.3939393939393939
+      ]
+    },
+    {
+      "id": 2158,
+      "label": "guitar",
+      "student_name": "Harald",
+      "student_id": 1664008963491,
+      "point": [
+        0.196,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 2159,
+      "label": "pencil",
+      "student_name": "Harald",
+      "student_id": 1664008963491,
+      "point": [
+        0.366,
+        0.43356643356643354
+      ]
+    },
+    {
+      "id": 2160,
+      "label": "clock",
+      "student_name": "Harald",
+      "student_id": 1664008963491,
+      "point": [
+        0.274,
+        0.6130536130536131
+      ]
+    },
+    {
+      "id": 2161,
+      "label": "car",
+      "student_name": "Kaan",
+      "student_id": 1664011946194,
+      "point": [
+        0.698,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 2162,
+      "label": "fish",
+      "student_name": "Kaan",
+      "student_id": 1664011946194,
+      "point": [
+        0.474,
+        0.3986013986013986
+      ]
+    },
+    {
+      "id": 2163,
+      "label": "house",
+      "student_name": "Kaan",
+      "student_id": 1664011946194,
+      "point": [
+        0.448,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 2164,
+      "label": "tree",
+      "student_name": "Kaan",
+      "student_id": 1664011946194,
+      "point": [
+        0.55,
+        0.7505827505827506
+      ]
+    },
+    {
+      "id": 2165,
+      "label": "bicycle",
+      "student_name": "Kaan",
+      "student_id": 1664011946194,
+      "point": [
+        0.464,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 2166,
+      "label": "guitar",
+      "student_name": "Kaan",
+      "student_id": 1664011946194,
+      "point": [
+        0.482,
+        0.6083916083916084
+      ]
+    },
+    {
+      "id": 2167,
+      "label": "pencil",
+      "student_name": "Kaan",
+      "student_id": 1664011946194,
+      "point": [
+        0.322,
+        0.5664335664335665
+      ]
+    },
+    {
+      "id": 2168,
+      "label": "clock",
+      "student_name": "Kaan",
+      "student_id": 1664011946194,
+      "point": [
+        0.502,
+        0.5734265734265734
+      ]
+    },
+    {
+      "id": 2169,
+      "label": "car",
+      "student_name": "Ritesh",
+      "student_id": 1664012766983,
+      "point": [
+        0.634,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 2170,
+      "label": "fish",
+      "student_name": "Ritesh",
+      "student_id": 1664012766983,
+      "point": [
+        0.306,
+        0.07226107226107226
+      ]
+    },
+    {
+      "id": 2171,
+      "label": "house",
+      "student_name": "Ritesh",
+      "student_id": 1664012766983,
+      "point": [
+        0.34,
+        0.1958041958041958
+      ]
+    },
+    {
+      "id": 2172,
+      "label": "tree",
+      "student_name": "Ritesh",
+      "student_id": 1664012766983,
+      "point": [
+        0.29,
+        0.2331002331002331
+      ]
+    },
+    {
+      "id": 2173,
+      "label": "bicycle",
+      "student_name": "Ritesh",
+      "student_id": 1664012766983,
+      "point": [
+        0.392,
+        0.2097902097902098
+      ]
+    },
+    {
+      "id": 2174,
+      "label": "guitar",
+      "student_name": "Ritesh",
+      "student_id": 1664012766983,
+      "point": [
+        0.292,
+        0.6596736596736597
+      ]
+    },
+    {
+      "id": 2175,
+      "label": "pencil",
+      "student_name": "Ritesh",
+      "student_id": 1664012766983,
+      "point": [
+        0.422,
+        0.023310023310023312
+      ]
+    },
+    {
+      "id": 2176,
+      "label": "clock",
+      "student_name": "Ritesh",
+      "student_id": 1664012766983,
+      "point": [
+        0.316,
+        0.29836829836829837
+      ]
+    },
+    {
+      "id": 2177,
+      "label": "car",
+      "student_name": "Ruthvik ",
+      "student_id": 1664014111576,
+      "point": [
+        0.418,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 2178,
+      "label": "fish",
+      "student_name": "Ruthvik ",
+      "student_id": 1664014111576,
+      "point": [
+        0.392,
+        0.17016317016317017
+      ]
+    },
+    {
+      "id": 2179,
+      "label": "house",
+      "student_name": "Ruthvik ",
+      "student_id": 1664014111576,
+      "point": [
+        0.378,
+        0.6666666666666666
+      ]
+    },
+    {
+      "id": 2180,
+      "label": "tree",
+      "student_name": "Ruthvik ",
+      "student_id": 1664014111576,
+      "point": [
+        0.506,
+        0.7762237762237763
+      ]
+    },
+    {
+      "id": 2181,
+      "label": "bicycle",
+      "student_name": "Ruthvik ",
+      "student_id": 1664014111576,
+      "point": [
+        0.492,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 2182,
+      "label": "guitar",
+      "student_name": "Ruthvik ",
+      "student_id": 1664014111576,
+      "point": [
+        0.572,
+        0.4662004662004662
+      ]
+    },
+    {
+      "id": 2183,
+      "label": "pencil",
+      "student_name": "Ruthvik ",
+      "student_id": 1664014111576,
+      "point": [
+        0.554,
+        0.4592074592074592
+      ]
+    },
+    {
+      "id": 2184,
+      "label": "clock",
+      "student_name": "Ruthvik ",
+      "student_id": 1664014111576,
+      "point": [
+        0.444,
+        0.5314685314685315
+      ]
+    },
+    {
+      "id": 2185,
+      "label": "car",
+      "student_name": "Roberto",
+      "student_id": 1664017048215,
+      "point": [
+        0.494,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 2186,
+      "label": "fish",
+      "student_name": "Roberto",
+      "student_id": 1664017048215,
+      "point": [
+        0.34,
+        0.1445221445221445
+      ]
+    },
+    {
+      "id": 2187,
+      "label": "house",
+      "student_name": "Roberto",
+      "student_id": 1664017048215,
+      "point": [
+        0.41,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 2188,
+      "label": "tree",
+      "student_name": "Roberto",
+      "student_id": 1664017048215,
+      "point": [
+        0.368,
+        0.5407925407925408
+      ]
+    },
+    {
+      "id": 2189,
+      "label": "bicycle",
+      "student_name": "Roberto",
+      "student_id": 1664017048215,
+      "point": [
+        0.518,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 2190,
+      "label": "guitar",
+      "student_name": "Roberto",
+      "student_id": 1664017048215,
+      "point": [
+        0.678,
+        0.7132867132867133
+      ]
+    },
+    {
+      "id": 2191,
+      "label": "pencil",
+      "student_name": "Roberto",
+      "student_id": 1664017048215,
+      "point": [
+        0.266,
+        0.2494172494172494
+      ]
+    },
+    {
+      "id": 2192,
+      "label": "clock",
+      "student_name": "Roberto",
+      "student_id": 1664017048215,
+      "point": [
+        0.332,
+        0.28438228438228436
+      ]
+    },
+    {
+      "id": 2193,
+      "label": "car",
+      "student_name": "Mateus Rossi",
+      "student_id": 1664018214844,
+      "point": [
+        0.584,
+        0.18181818181818182
+      ]
+    },
+    {
+      "id": 2194,
+      "label": "fish",
+      "student_name": "Mateus Rossi",
+      "student_id": 1664018214844,
+      "point": [
+        0.616,
+        0.46853146853146854
+      ]
+    },
+    {
+      "id": 2195,
+      "label": "house",
+      "student_name": "Mateus Rossi",
+      "student_id": 1664018214844,
+      "point": [
+        0.582,
+        0.682983682983683
+      ]
+    },
+    {
+      "id": 2196,
+      "label": "tree",
+      "student_name": "Mateus Rossi",
+      "student_id": 1664018214844,
+      "point": [
+        0.592,
+        0.8111888111888111
+      ]
+    },
+    {
+      "id": 2197,
+      "label": "bicycle",
+      "student_name": "Mateus Rossi",
+      "student_id": 1664018214844,
+      "point": [
+        0.478,
+        0.48484848484848486
+      ]
+    },
+    {
+      "id": 2198,
+      "label": "guitar",
+      "student_name": "Mateus Rossi",
+      "student_id": 1664018214844,
+      "point": [
+        0.508,
+        0.7342657342657343
+      ]
+    },
+    {
+      "id": 2199,
+      "label": "pencil",
+      "student_name": "Mateus Rossi",
+      "student_id": 1664018214844,
+      "point": [
+        0.284,
+        0.5291375291375291
+      ]
+    },
+    {
+      "id": 2200,
+      "label": "clock",
+      "student_name": "Mateus Rossi",
+      "student_id": 1664018214844,
+      "point": [
+        0.306,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 2201,
+      "label": "car",
+      "student_name": "Robert romanu",
+      "student_id": 1664018361293,
+      "point": [
+        0.57,
+        0.17482517482517482
+      ]
+    },
+    {
+      "id": 2202,
+      "label": "fish",
+      "student_name": "Robert romanu",
+      "student_id": 1664018361293,
+      "point": [
+        0.506,
+        0.337995337995338
+      ]
+    },
+    {
+      "id": 2203,
+      "label": "house",
+      "student_name": "Robert romanu",
+      "student_id": 1664018361293,
+      "point": [
+        0.482,
+        0.4428904428904429
+      ]
+    },
+    {
+      "id": 2204,
+      "label": "tree",
+      "student_name": "Robert romanu",
+      "student_id": 1664018361293,
+      "point": [
+        0.682,
+        0.7365967365967366
+      ]
+    },
+    {
+      "id": 2205,
+      "label": "bicycle",
+      "student_name": "Robert romanu",
+      "student_id": 1664018361293,
+      "point": [
+        0.368,
+        0.28205128205128205
+      ]
+    },
+    {
+      "id": 2206,
+      "label": "guitar",
+      "student_name": "Robert romanu",
+      "student_id": 1664018361293,
+      "point": [
+        0.514,
+        0.6130536130536131
+      ]
+    },
+    {
+      "id": 2207,
+      "label": "pencil",
+      "student_name": "Robert romanu",
+      "student_id": 1664018361293,
+      "point": [
+        0.012,
+        0.48717948717948717
+      ]
+    },
+    {
+      "id": 2208,
+      "label": "clock",
+      "student_name": "Robert romanu",
+      "student_id": 1664018361293,
+      "point": [
+        0.344,
+        0.36596736596736595
+      ]
+    },
+    {
+      "id": 2209,
+      "label": "car",
+      "student_name": "Ledkoca",
+      "student_id": 1664019777674,
+      "point": [
+        0.692,
+        0.4662004662004662
+      ]
+    },
+    {
+      "id": 2210,
+      "label": "fish",
+      "student_name": "Ledkoca",
+      "student_id": 1664019777674,
+      "point": [
+        0.5,
+        0.40093240093240096
+      ]
+    },
+    {
+      "id": 2211,
+      "label": "house",
+      "student_name": "Ledkoca",
+      "student_id": 1664019777674,
+      "point": [
+        0.59,
+        0.6386946386946387
+      ]
+    },
+    {
+      "id": 2212,
+      "label": "tree",
+      "student_name": "Ledkoca",
+      "student_id": 1664019777674,
+      "point": [
+        0.526,
+        0.7575757575757576
+      ]
+    },
+    {
+      "id": 2213,
+      "label": "bicycle",
+      "student_name": "Ledkoca",
+      "student_id": 1664019777674,
+      "point": [
+        0.546,
+        0.3939393939393939
+      ]
+    },
+    {
+      "id": 2214,
+      "label": "guitar",
+      "student_name": "Ledkoca",
+      "student_id": 1664019777674,
+      "point": [
+        0.602,
+        0.6433566433566433
+      ]
+    },
+    {
+      "id": 2215,
+      "label": "pencil",
+      "student_name": "Ledkoca",
+      "student_id": 1664019777674,
+      "point": [
+        0.59,
+        0.7319347319347319
+      ]
+    },
+    {
+      "id": 2216,
+      "label": "clock",
+      "student_name": "Ledkoca",
+      "student_id": 1664019777674,
+      "point": [
+        0.526,
+        0.5477855477855478
+      ]
+    },
+    {
+      "id": 2217,
+      "label": "car",
+      "student_name": "Gorav",
+      "student_id": 1664021130166,
+      "point": [
+        0.564,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 2218,
+      "label": "fish",
+      "student_name": "Gorav",
+      "student_id": 1664021130166,
+      "point": [
+        0.428,
+        0.21212121212121213
+      ]
+    },
+    {
+      "id": 2219,
+      "label": "house",
+      "student_name": "Gorav",
+      "student_id": 1664021130166,
+      "point": [
+        0.476,
+        0.4965034965034965
+      ]
+    },
+    {
+      "id": 2220,
+      "label": "tree",
+      "student_name": "Gorav",
+      "student_id": 1664021130166,
+      "point": [
+        0.562,
+        0.7692307692307693
+      ]
+    },
+    {
+      "id": 2221,
+      "label": "bicycle",
+      "student_name": "Gorav",
+      "student_id": 1664021130166,
+      "point": [
+        0.478,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 2222,
+      "label": "guitar",
+      "student_name": "Gorav",
+      "student_id": 1664021130166,
+      "point": [
+        0.58,
+        0.5804195804195804
+      ]
+    },
+    {
+      "id": 2223,
+      "label": "pencil",
+      "student_name": "Gorav",
+      "student_id": 1664021130166,
+      "point": [
+        0.444,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 2224,
+      "label": "clock",
+      "student_name": "Gorav",
+      "student_id": 1664021130166,
+      "point": [
+        0.49,
+        0.717948717948718
+      ]
+    },
+    {
+      "id": 2225,
+      "label": "car",
+      "student_name": "Hocine",
+      "student_id": 1664023001703,
+      "point": [
+        0.182,
+        0.08391608391608392
+      ]
+    },
+    {
+      "id": 2226,
+      "label": "fish",
+      "student_name": "Hocine",
+      "student_id": 1664023001703,
+      "point": [
+        0.48,
+        0.20512820512820512
+      ]
+    },
+    {
+      "id": 2227,
+      "label": "house",
+      "student_name": "Hocine",
+      "student_id": 1664023001703,
+      "point": [
+        0.21,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 2228,
+      "label": "tree",
+      "student_name": "Hocine",
+      "student_id": 1664023001703,
+      "point": [
+        0.574,
+        0.5337995337995338
+      ]
+    },
+    {
+      "id": 2229,
+      "label": "bicycle",
+      "student_name": "Hocine",
+      "student_id": 1664023001703,
+      "point": [
+        0.438,
+        0.20745920745920746
+      ]
+    },
+    {
+      "id": 2230,
+      "label": "guitar",
+      "student_name": "Hocine",
+      "student_id": 1664023001703,
+      "point": [
+        0.518,
+        0.1794871794871795
+      ]
+    },
+    {
+      "id": 2231,
+      "label": "pencil",
+      "student_name": "Hocine",
+      "student_id": 1664023001703,
+      "point": [
+        0.01,
+        0.20279720279720279
+      ]
+    },
+    {
+      "id": 2232,
+      "label": "clock",
+      "student_name": "Hocine",
+      "student_id": 1664023001703,
+      "point": [
+        0.294,
+        0.29603729603729606
+      ]
+    },
+    {
+      "id": 2233,
+      "label": "car",
+      "student_name": "Vlad Cimpean",
+      "student_id": 1664024964253,
+      "point": [
+        0.452,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 2234,
+      "label": "fish",
+      "student_name": "Vlad Cimpean",
+      "student_id": 1664024964253,
+      "point": [
+        0.25,
+        0.17715617715617715
+      ]
+    },
+    {
+      "id": 2235,
+      "label": "house",
+      "student_name": "Vlad Cimpean",
+      "student_id": 1664024964253,
+      "point": [
+        0.552,
+        0.5407925407925408
+      ]
+    },
+    {
+      "id": 2236,
+      "label": "tree",
+      "student_name": "Vlad Cimpean",
+      "student_id": 1664024964253,
+      "point": [
+        0.622,
+        0.8205128205128205
+      ]
+    },
+    {
+      "id": 2237,
+      "label": "bicycle",
+      "student_name": "Vlad Cimpean",
+      "student_id": 1664024964253,
+      "point": [
+        0.52,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 2238,
+      "label": "guitar",
+      "student_name": "Vlad Cimpean",
+      "student_id": 1664024964253,
+      "point": [
+        0.528,
+        0.62004662004662
+      ]
+    },
+    {
+      "id": 2239,
+      "label": "pencil",
+      "student_name": "Vlad Cimpean",
+      "student_id": 1664024964253,
+      "point": [
+        0.35,
+        0.3333333333333333
+      ]
+    },
+    {
+      "id": 2240,
+      "label": "clock",
+      "student_name": "Vlad Cimpean",
+      "student_id": 1664024964253,
+      "point": [
+        0.456,
+        0.5174825174825175
+      ]
+    },
+    {
+      "id": 2241,
+      "label": "car",
+      "student_name": "ekmbcd",
+      "student_id": 1664025068528,
+      "point": [
+        0.548,
+        0.31002331002331
+      ]
+    },
+    {
+      "id": 2242,
+      "label": "fish",
+      "student_name": "ekmbcd",
+      "student_id": 1664025068528,
+      "point": [
+        0.512,
+        0.3006993006993007
+      ]
+    },
+    {
+      "id": 2243,
+      "label": "house",
+      "student_name": "ekmbcd",
+      "student_id": 1664025068528,
+      "point": [
+        0.698,
+        0.5967365967365967
+      ]
+    },
+    {
+      "id": 2244,
+      "label": "tree",
+      "student_name": "ekmbcd",
+      "student_id": 1664025068528,
+      "point": [
+        0.444,
+        0.6643356643356644
+      ]
+    },
+    {
+      "id": 2245,
+      "label": "bicycle",
+      "student_name": "ekmbcd",
+      "student_id": 1664025068528,
+      "point": [
+        0.512,
+        0.43123543123543123
+      ]
+    },
+    {
+      "id": 2246,
+      "label": "guitar",
+      "student_name": "ekmbcd",
+      "student_id": 1664025068528,
+      "point": [
+        0.49,
+        0.6410256410256411
+      ]
+    },
+    {
+      "id": 2247,
+      "label": "pencil",
+      "student_name": "ekmbcd",
+      "student_id": 1664025068528,
+      "point": [
+        0.442,
+        0.6410256410256411
+      ]
+    },
+    {
+      "id": 2248,
+      "label": "clock",
+      "student_name": "ekmbcd",
+      "student_id": 1664025068528,
+      "point": [
+        0.42,
+        0.4289044289044289
+      ]
+    },
+    {
+      "id": 2249,
+      "label": "car",
+      "student_name": "Android_17",
+      "student_id": 1664025646737,
+      "point": [
+        0.654,
+        0.4568764568764569
+      ]
+    },
+    {
+      "id": 2250,
+      "label": "fish",
+      "student_name": "Android_17",
+      "student_id": 1664025646737,
+      "point": [
+        0.722,
+        0.3986013986013986
+      ]
+    },
+    {
+      "id": 2251,
+      "label": "house",
+      "student_name": "Android_17",
+      "student_id": 1664025646737,
+      "point": [
+        0.766,
+        0.578088578088578
+      ]
+    },
+    {
+      "id": 2252,
+      "label": "tree",
+      "student_name": "Android_17",
+      "student_id": 1664025646737,
+      "point": [
+        0.736,
+        0.7715617715617715
+      ]
+    },
+    {
+      "id": 2253,
+      "label": "bicycle",
+      "student_name": "Android_17",
+      "student_id": 1664025646737,
+      "point": [
+        0.74,
+        0.5244755244755245
+      ]
+    },
+    {
+      "id": 2254,
+      "label": "guitar",
+      "student_name": "Android_17",
+      "student_id": 1664025646737,
+      "point": [
+        0.74,
+        0.7552447552447552
+      ]
+    },
+    {
+      "id": 2255,
+      "label": "pencil",
+      "student_name": "Android_17",
+      "student_id": 1664025646737,
+      "point": [
+        0.448,
+        0.7762237762237763
+      ]
+    },
+    {
+      "id": 2256,
+      "label": "clock",
+      "student_name": "Android_17",
+      "student_id": 1664025646737,
+      "point": [
+        0.478,
+        0.5314685314685315
+      ]
+    },
+    {
+      "id": 2257,
+      "label": "car",
+      "student_name": "sayanii",
+      "student_id": 1664027417955,
+      "point": [
+        0.496,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 2258,
+      "label": "fish",
+      "student_name": "sayanii",
+      "student_id": 1664027417955,
+      "point": [
+        0.53,
+        0.36596736596736595
+      ]
+    },
+    {
+      "id": 2259,
+      "label": "house",
+      "student_name": "sayanii",
+      "student_id": 1664027417955,
+      "point": [
+        0.576,
+        0.3939393939393939
+      ]
+    },
+    {
+      "id": 2260,
+      "label": "tree",
+      "student_name": "sayanii",
+      "student_id": 1664027417955,
+      "point": [
+        0.462,
+        0.6060606060606061
+      ]
+    },
+    {
+      "id": 2261,
+      "label": "bicycle",
+      "student_name": "sayanii",
+      "student_id": 1664027417955,
+      "point": [
+        0.434,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 2262,
+      "label": "guitar",
+      "student_name": "sayanii",
+      "student_id": 1664027417955,
+      "point": [
+        0.414,
+        0.16783216783216784
+      ]
+    },
+    {
+      "id": 2263,
+      "label": "pencil",
+      "student_name": "sayanii",
+      "student_id": 1664027417955,
+      "point": [
+        0.326,
+        0.34265734265734266
+      ]
+    },
+    {
+      "id": 2264,
+      "label": "clock",
+      "student_name": "sayanii",
+      "student_id": 1664027417955,
+      "point": [
+        0.48,
+        0.578088578088578
+      ]
+    },
+    {
+      "id": 2265,
+      "label": "car",
+      "student_name": "MZK",
+      "student_id": 1664028885004,
+      "point": [
+        0.398,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 2266,
+      "label": "fish",
+      "student_name": "MZK",
+      "student_id": 1664028885004,
+      "point": [
+        0.242,
+        0.1888111888111888
+      ]
+    },
+    {
+      "id": 2267,
+      "label": "house",
+      "student_name": "MZK",
+      "student_id": 1664028885004,
+      "point": [
+        0.36,
+        0.5757575757575758
+      ]
+    },
+    {
+      "id": 2268,
+      "label": "tree",
+      "student_name": "MZK",
+      "student_id": 1664028885004,
+      "point": [
+        0.766,
+        0.5571095571095571
+      ]
+    },
+    {
+      "id": 2269,
+      "label": "bicycle",
+      "student_name": "MZK",
+      "student_id": 1664028885004,
+      "point": [
+        0.494,
+        0.4149184149184149
+      ]
+    },
+    {
+      "id": 2270,
+      "label": "guitar",
+      "student_name": "MZK",
+      "student_id": 1664028885004,
+      "point": [
+        0.484,
+        0.28205128205128205
+      ]
+    },
+    {
+      "id": 2271,
+      "label": "pencil",
+      "student_name": "MZK",
+      "student_id": 1664028885004,
+      "point": [
+        0.032,
+        0.4522144522144522
+      ]
+    },
+    {
+      "id": 2272,
+      "label": "clock",
+      "student_name": "MZK",
+      "student_id": 1664028885004,
+      "point": [
+        0.344,
+        0.3939393939393939
+      ]
+    },
+    {
+      "id": 2273,
+      "label": "car",
+      "student_name": "rcx",
+      "student_id": 1664030049840,
+      "point": [
+        0.734,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 2274,
+      "label": "fish",
+      "student_name": "rcx",
+      "student_id": 1664030049840,
+      "point": [
+        0.56,
+        0.5151515151515151
+      ]
+    },
+    {
+      "id": 2275,
+      "label": "house",
+      "student_name": "rcx",
+      "student_id": 1664030049840,
+      "point": [
+        0.478,
+        0.5337995337995338
+      ]
+    },
+    {
+      "id": 2276,
+      "label": "tree",
+      "student_name": "rcx",
+      "student_id": 1664030049840,
+      "point": [
+        0.492,
+        0.627039627039627
+      ]
+    },
+    {
+      "id": 2277,
+      "label": "bicycle",
+      "student_name": "rcx",
+      "student_id": 1664030049840,
+      "point": [
+        0.58,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 2278,
+      "label": "guitar",
+      "student_name": "rcx",
+      "student_id": 1664030049840,
+      "point": [
+        0.592,
+        0.7925407925407926
+      ]
+    },
+    {
+      "id": 2279,
+      "label": "pencil",
+      "student_name": "rcx",
+      "student_id": 1664030049840,
+      "point": [
+        0.322,
+        0.7272727272727273
+      ]
+    },
+    {
+      "id": 2280,
+      "label": "clock",
+      "student_name": "rcx",
+      "student_id": 1664030049840,
+      "point": [
+        0.554,
+        0.5547785547785548
+      ]
+    },
+    {
+      "id": 2281,
+      "label": "car",
+      "student_name": "bpilakkat",
+      "student_id": 1664030556516,
+      "point": [
+        0.496,
+        0.17249417249417248
+      ]
+    },
+    {
+      "id": 2282,
+      "label": "fish",
+      "student_name": "bpilakkat",
+      "student_id": 1664030556516,
+      "point": [
+        0.494,
+        0.2191142191142191
+      ]
+    },
+    {
+      "id": 2283,
+      "label": "house",
+      "student_name": "bpilakkat",
+      "student_id": 1664030556516,
+      "point": [
+        0.472,
+        0.4592074592074592
+      ]
+    },
+    {
+      "id": 2284,
+      "label": "tree",
+      "student_name": "bpilakkat",
+      "student_id": 1664030556516,
+      "point": [
+        0.432,
+        0.5617715617715617
+      ]
+    },
+    {
+      "id": 2285,
+      "label": "bicycle",
+      "student_name": "bpilakkat",
+      "student_id": 1664030556516,
+      "point": [
+        0.466,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 2286,
+      "label": "guitar",
+      "student_name": "bpilakkat",
+      "student_id": 1664030556516,
+      "point": [
+        0.486,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 2287,
+      "label": "pencil",
+      "student_name": "bpilakkat",
+      "student_id": 1664030556516,
+      "point": [
+        0.02,
+        0.40093240093240096
+      ]
+    },
+    {
+      "id": 2288,
+      "label": "clock",
+      "student_name": "bpilakkat",
+      "student_id": 1664030556516,
+      "point": [
+        0.298,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 2289,
+      "label": "car",
+      "student_name": "Vishal Kumar",
+      "student_id": 1664030729647,
+      "point": [
+        0.552,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 2290,
+      "label": "fish",
+      "student_name": "Vishal Kumar",
+      "student_id": 1664030729647,
+      "point": [
+        0.622,
+        0.47086247086247085
+      ]
+    },
+    {
+      "id": 2291,
+      "label": "house",
+      "student_name": "Vishal Kumar",
+      "student_id": 1664030729647,
+      "point": [
+        0.568,
+        0.6643356643356644
+      ]
+    },
+    {
+      "id": 2292,
+      "label": "tree",
+      "student_name": "Vishal Kumar",
+      "student_id": 1664030729647,
+      "point": [
+        0.63,
+        0.8368298368298368
+      ]
+    },
+    {
+      "id": 2293,
+      "label": "bicycle",
+      "student_name": "Vishal Kumar",
+      "student_id": 1664030729647,
+      "point": [
+        0.634,
+        0.5174825174825175
+      ]
+    },
+    {
+      "id": 2294,
+      "label": "guitar",
+      "student_name": "Vishal Kumar",
+      "student_id": 1664030729647,
+      "point": [
+        0.642,
+        0.5221445221445221
+      ]
+    },
+    {
+      "id": 2295,
+      "label": "pencil",
+      "student_name": "Vishal Kumar",
+      "student_id": 1664030729647,
+      "point": [
+        0.43,
+        0.5034965034965035
+      ]
+    },
+    {
+      "id": 2296,
+      "label": "clock",
+      "student_name": "Vishal Kumar",
+      "student_id": 1664030729647,
+      "point": [
+        0.354,
+        0.3822843822843823
+      ]
+    },
+    {
+      "id": 2297,
+      "label": "car",
+      "student_name": "Avinash",
+      "student_id": 1664030751310,
+      "point": [
+        0.456,
+        0.13986013986013987
+      ]
+    },
+    {
+      "id": 2298,
+      "label": "fish",
+      "student_name": "Avinash",
+      "student_id": 1664030751310,
+      "point": [
+        0.262,
+        0.1585081585081585
+      ]
+    },
+    {
+      "id": 2299,
+      "label": "house",
+      "student_name": "Avinash",
+      "student_id": 1664030751310,
+      "point": [
+        0.582,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 2300,
+      "label": "tree",
+      "student_name": "Avinash",
+      "student_id": 1664030751310,
+      "point": [
+        0.522,
+        0.6876456876456877
+      ]
+    },
+    {
+      "id": 2301,
+      "label": "bicycle",
+      "student_name": "Avinash",
+      "student_id": 1664030751310,
+      "point": [
+        0.5,
+        0.35664335664335667
+      ]
+    },
+    {
+      "id": 2302,
+      "label": "guitar",
+      "student_name": "Avinash",
+      "student_id": 1664030751310,
+      "point": [
+        0.502,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 2303,
+      "label": "pencil",
+      "student_name": "Avinash",
+      "student_id": 1664030751310,
+      "point": [
+        0.514,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 2304,
+      "label": "clock",
+      "student_name": "Avinash",
+      "student_id": 1664030751310,
+      "point": [
+        0.332,
+        0.337995337995338
+      ]
+    },
+    {
+      "id": 2305,
+      "label": "car",
+      "student_name": "Jules",
+      "student_id": 1664031598093,
+      "point": [
+        0.386,
+        0.2097902097902098
+      ]
+    },
+    {
+      "id": 2306,
+      "label": "fish",
+      "student_name": "Jules",
+      "student_id": 1664031598093,
+      "point": [
+        0.344,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 2307,
+      "label": "house",
+      "student_name": "Jules",
+      "student_id": 1664031598093,
+      "point": [
+        0.294,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 2308,
+      "label": "tree",
+      "student_name": "Jules",
+      "student_id": 1664031598093,
+      "point": [
+        0.396,
+        0.6037296037296037
+      ]
+    },
+    {
+      "id": 2309,
+      "label": "bicycle",
+      "student_name": "Jules",
+      "student_id": 1664031598093,
+      "point": [
+        0.346,
+        0.26107226107226106
+      ]
+    },
+    {
+      "id": 2310,
+      "label": "guitar",
+      "student_name": "Jules",
+      "student_id": 1664031598093,
+      "point": [
+        0.44,
+        0.11188811188811189
+      ]
+    },
+    {
+      "id": 2311,
+      "label": "pencil",
+      "student_name": "Jules",
+      "student_id": 1664031598093,
+      "point": [
+        0.052,
+        0.44988344988344986
+      ]
+    },
+    {
+      "id": 2312,
+      "label": "clock",
+      "student_name": "Jules",
+      "student_id": 1664031598093,
+      "point": [
+        0.194,
+        0.32867132867132864
+      ]
+    },
+    {
+      "id": 2313,
+      "label": "car",
+      "student_name": "Alex Mercer",
+      "student_id": 1664032325240,
+      "point": [
+        0.62,
+        0.289044289044289
+      ]
+    },
+    {
+      "id": 2314,
+      "label": "fish",
+      "student_name": "Alex Mercer",
+      "student_id": 1664032325240,
+      "point": [
+        0.656,
+        0.6293706293706294
+      ]
+    },
+    {
+      "id": 2315,
+      "label": "house",
+      "student_name": "Alex Mercer",
+      "student_id": 1664032325240,
+      "point": [
+        0.768,
+        0.745920745920746
+      ]
+    },
+    {
+      "id": 2316,
+      "label": "tree",
+      "student_name": "Alex Mercer",
+      "student_id": 1664032325240,
+      "point": [
+        0.702,
+        0.8764568764568764
+      ]
+    },
+    {
+      "id": 2317,
+      "label": "bicycle",
+      "student_name": "Alex Mercer",
+      "student_id": 1664032325240,
+      "point": [
+        0.684,
+        0.5687645687645687
+      ]
+    },
+    {
+      "id": 2318,
+      "label": "guitar",
+      "student_name": "Alex Mercer",
+      "student_id": 1664032325240,
+      "point": [
+        0.706,
+        0.7435897435897436
+      ]
+    },
+    {
+      "id": 2319,
+      "label": "pencil",
+      "student_name": "Alex Mercer",
+      "student_id": 1664032325240,
+      "point": [
+        0.034,
+        0.49417249417249415
+      ]
+    },
+    {
+      "id": 2320,
+      "label": "clock",
+      "student_name": "Alex Mercer",
+      "student_id": 1664032325240,
+      "point": [
+        0.376,
+        0.1655011655011655
+      ]
+    },
+    {
+      "id": 2321,
+      "label": "car",
+      "student_name": "arj",
+      "student_id": 1664033311552,
+      "point": [
+        0.692,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 2322,
+      "label": "fish",
+      "student_name": "arj",
+      "student_id": 1664033311552,
+      "point": [
+        0.494,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 2323,
+      "label": "house",
+      "student_name": "arj",
+      "student_id": 1664033311552,
+      "point": [
+        0.54,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 2324,
+      "label": "tree",
+      "student_name": "arj",
+      "student_id": 1664033311552,
+      "point": [
+        0.616,
+        0.6433566433566433
+      ]
+    },
+    {
+      "id": 2325,
+      "label": "bicycle",
+      "student_name": "arj",
+      "student_id": 1664033311552,
+      "point": [
+        0.638,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 2326,
+      "label": "guitar",
+      "student_name": "arj",
+      "student_id": 1664033311552,
+      "point": [
+        0.486,
+        0.6410256410256411
+      ]
+    },
+    {
+      "id": 2327,
+      "label": "pencil",
+      "student_name": "arj",
+      "student_id": 1664033311552,
+      "point": [
+        0.424,
+        0.6177156177156177
+      ]
+    },
+    {
+      "id": 2328,
+      "label": "clock",
+      "student_name": "arj",
+      "student_id": 1664033311552,
+      "point": [
+        0.326,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 2329,
+      "label": "car",
+      "student_name": "Adi",
+      "student_id": 1664034269872,
+      "point": [
+        0.678,
+        0.2703962703962704
+      ]
+    },
+    {
+      "id": 2330,
+      "label": "fish",
+      "student_name": "Adi",
+      "student_id": 1664034269872,
+      "point": [
+        0.564,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 2331,
+      "label": "house",
+      "student_name": "Adi",
+      "student_id": 1664034269872,
+      "point": [
+        0.476,
+        0.38694638694638694
+      ]
+    },
+    {
+      "id": 2332,
+      "label": "tree",
+      "student_name": "Adi",
+      "student_id": 1664034269872,
+      "point": [
+        0.508,
+        0.6107226107226107
+      ]
+    },
+    {
+      "id": 2333,
+      "label": "bicycle",
+      "student_name": "Adi",
+      "student_id": 1664034269872,
+      "point": [
+        0.536,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 2334,
+      "label": "guitar",
+      "student_name": "Adi",
+      "student_id": 1664034269872,
+      "point": [
+        0.498,
+        0.6899766899766899
+      ]
+    },
+    {
+      "id": 2335,
+      "label": "pencil",
+      "student_name": "Adi",
+      "student_id": 1664034269872,
+      "point": [
+        0.28,
+        0.351981351981352
+      ]
+    },
+    {
+      "id": 2336,
+      "label": "clock",
+      "student_name": "Adi",
+      "student_id": 1664034269872,
+      "point": [
+        0.334,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 2337,
+      "label": "car",
+      "student_name": "kasim",
+      "student_id": 1664036551916,
+      "point": [
+        0.568,
+        0.1794871794871795
+      ]
+    },
+    {
+      "id": 2338,
+      "label": "fish",
+      "student_name": "kasim",
+      "student_id": 1664036551916,
+      "point": [
+        0.376,
+        0.1864801864801865
+      ]
+    },
+    {
+      "id": 2339,
+      "label": "house",
+      "student_name": "kasim",
+      "student_id": 1664036551916,
+      "point": [
+        0.476,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 2340,
+      "label": "tree",
+      "student_name": "kasim",
+      "student_id": 1664036551916,
+      "point": [
+        0.516,
+        0.5547785547785548
+      ]
+    },
+    {
+      "id": 2341,
+      "label": "bicycle",
+      "student_name": "kasim",
+      "student_id": 1664036551916,
+      "point": [
+        0.624,
+        0.43123543123543123
+      ]
+    },
+    {
+      "id": 2342,
+      "label": "guitar",
+      "student_name": "kasim",
+      "student_id": 1664036551916,
+      "point": [
+        0.584,
+        0.5734265734265734
+      ]
+    },
+    {
+      "id": 2343,
+      "label": "pencil",
+      "student_name": "kasim",
+      "student_id": 1664036551916,
+      "point": [
+        0.49,
+        0.1445221445221445
+      ]
+    },
+    {
+      "id": 2344,
+      "label": "clock",
+      "student_name": "kasim",
+      "student_id": 1664036551916,
+      "point": [
+        0.318,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 2345,
+      "label": "car",
+      "student_name": "mazlum",
+      "student_id": 1664038907275,
+      "point": [
+        0.354,
+        0.1888111888111888
+      ]
+    },
+    {
+      "id": 2346,
+      "label": "fish",
+      "student_name": "mazlum",
+      "student_id": 1664038907275,
+      "point": [
+        0.458,
+        0.2191142191142191
+      ]
+    },
+    {
+      "id": 2347,
+      "label": "house",
+      "student_name": "mazlum",
+      "student_id": 1664038907275,
+      "point": [
+        0.232,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 2348,
+      "label": "tree",
+      "student_name": "mazlum",
+      "student_id": 1664038907275,
+      "point": [
+        0.414,
+        0.5361305361305362
+      ]
+    },
+    {
+      "id": 2349,
+      "label": "bicycle",
+      "student_name": "mazlum",
+      "student_id": 1664038907275,
+      "point": [
+        0.494,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 2350,
+      "label": "guitar",
+      "student_name": "mazlum",
+      "student_id": 1664038907275,
+      "point": [
+        0.676,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 2351,
+      "label": "pencil",
+      "student_name": "mazlum",
+      "student_id": 1664038907275,
+      "point": [
+        0.644,
+        0.10722610722610723
+      ]
+    },
+    {
+      "id": 2352,
+      "label": "clock",
+      "student_name": "mazlum",
+      "student_id": 1664038907275,
+      "point": [
+        0.432,
+        0.4149184149184149
+      ]
+    },
+    {
+      "id": 2353,
+      "label": "car",
+      "student_name": "someguy",
+      "student_id": 1664042183409,
+      "point": [
+        0.586,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 2354,
+      "label": "fish",
+      "student_name": "someguy",
+      "student_id": 1664042183409,
+      "point": [
+        0.35,
+        0.1258741258741259
+      ]
+    },
+    {
+      "id": 2355,
+      "label": "house",
+      "student_name": "someguy",
+      "student_id": 1664042183409,
+      "point": [
+        0.214,
+        0.47086247086247085
+      ]
+    },
+    {
+      "id": 2356,
+      "label": "tree",
+      "student_name": "someguy",
+      "student_id": 1664042183409,
+      "point": [
+        0.376,
+        0.627039627039627
+      ]
+    },
+    {
+      "id": 2357,
+      "label": "bicycle",
+      "student_name": "someguy",
+      "student_id": 1664042183409,
+      "point": [
+        0.234,
+        0.2261072261072261
+      ]
+    },
+    {
+      "id": 2358,
+      "label": "guitar",
+      "student_name": "someguy",
+      "student_id": 1664042183409,
+      "point": [
+        0.392,
+        0.317016317016317
+      ]
+    },
+    {
+      "id": 2359,
+      "label": "pencil",
+      "student_name": "someguy",
+      "student_id": 1664042183409,
+      "point": [
+        0.506,
+        0.07925407925407925
+      ]
+    },
+    {
+      "id": 2360,
+      "label": "clock",
+      "student_name": "someguy",
+      "student_id": 1664042183409,
+      "point": [
+        0.402,
+        0.4801864801864802
+      ]
+    },
+    {
+      "id": 2361,
+      "label": "car",
+      "student_name": "nigger",
+      "student_id": 1664042454725,
+      "point": [
+        0.592,
+        0.2680652680652681
+      ]
+    },
+    {
+      "id": 2362,
+      "label": "fish",
+      "student_name": "nigger",
+      "student_id": 1664042454725,
+      "point": [
+        0.404,
+        0.1864801864801865
+      ]
+    },
+    {
+      "id": 2363,
+      "label": "house",
+      "student_name": "nigger",
+      "student_id": 1664042454725,
+      "point": [
+        0.296,
+        0.6107226107226107
+      ]
+    },
+    {
+      "id": 2364,
+      "label": "tree",
+      "student_name": "nigger",
+      "student_id": 1664042454725,
+      "point": [
+        0.354,
+        0.5920745920745921
+      ]
+    },
+    {
+      "id": 2365,
+      "label": "bicycle",
+      "student_name": "nigger",
+      "student_id": 1664042454725,
+      "point": [
+        0.668,
+        0.6526806526806527
+      ]
+    },
+    {
+      "id": 2366,
+      "label": "guitar",
+      "student_name": "nigger",
+      "student_id": 1664042454725,
+      "point": [
+        0.222,
+        0.5268065268065268
+      ]
+    },
+    {
+      "id": 2367,
+      "label": "pencil",
+      "student_name": "nigger",
+      "student_id": 1664042454725,
+      "point": [
+        0.076,
+        0.5337995337995338
+      ]
+    },
+    {
+      "id": 2368,
+      "label": "clock",
+      "student_name": "nigger",
+      "student_id": 1664042454725,
+      "point": [
+        0.326,
+        0.34032634032634035
+      ]
+    },
+    {
+      "id": 2369,
+      "label": "car",
+      "student_name": "Albin",
+      "student_id": 1664048574826,
+      "point": [
+        0.598,
+        0.32400932400932403
+      ]
+    },
+    {
+      "id": 2370,
+      "label": "fish",
+      "student_name": "Albin",
+      "student_id": 1664048574826,
+      "point": [
+        0.45,
+        0.19114219114219114
+      ]
+    },
+    {
+      "id": 2371,
+      "label": "house",
+      "student_name": "Albin",
+      "student_id": 1664048574826,
+      "point": [
+        0.336,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 2372,
+      "label": "tree",
+      "student_name": "Albin",
+      "student_id": 1664048574826,
+      "point": [
+        0.402,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 2373,
+      "label": "bicycle",
+      "student_name": "Albin",
+      "student_id": 1664048574826,
+      "point": [
+        0.422,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 2374,
+      "label": "guitar",
+      "student_name": "Albin",
+      "student_id": 1664048574826,
+      "point": [
+        0.232,
+        0.6130536130536131
+      ]
+    },
+    {
+      "id": 2375,
+      "label": "pencil",
+      "student_name": "Albin",
+      "student_id": 1664048574826,
+      "point": [
+        0.532,
+        0.08391608391608392
+      ]
+    },
+    {
+      "id": 2376,
+      "label": "clock",
+      "student_name": "Albin",
+      "student_id": 1664048574826,
+      "point": [
+        0.54,
+        0.4825174825174825
+      ]
+    },
+    {
+      "id": 2377,
+      "label": "car",
+      "student_name": "brasil",
+      "student_id": 1664048756422,
+      "point": [
+        0.69,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 2378,
+      "label": "fish",
+      "student_name": "brasil",
+      "student_id": 1664048756422,
+      "point": [
+        0.436,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 2379,
+      "label": "house",
+      "student_name": "brasil",
+      "student_id": 1664048756422,
+      "point": [
+        0.522,
+        0.48717948717948717
+      ]
+    },
+    {
+      "id": 2380,
+      "label": "tree",
+      "student_name": "brasil",
+      "student_id": 1664048756422,
+      "point": [
+        0.532,
+        0.5058275058275058
+      ]
+    },
+    {
+      "id": 2381,
+      "label": "bicycle",
+      "student_name": "brasil",
+      "student_id": 1664048756422,
+      "point": [
+        0.494,
+        0.3123543123543124
+      ]
+    },
+    {
+      "id": 2382,
+      "label": "guitar",
+      "student_name": "brasil",
+      "student_id": 1664048756422,
+      "point": [
+        0.518,
+        0.4289044289044289
+      ]
+    },
+    {
+      "id": 2383,
+      "label": "pencil",
+      "student_name": "brasil",
+      "student_id": 1664048756422,
+      "point": [
+        0.42,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 2384,
+      "label": "clock",
+      "student_name": "brasil",
+      "student_id": 1664048756422,
+      "point": [
+        0.416,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 2385,
+      "label": "car",
+      "student_name": "Alexander",
+      "student_id": 1664050297044,
+      "point": [
+        0.432,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 2386,
+      "label": "fish",
+      "student_name": "Alexander",
+      "student_id": 1664050297044,
+      "point": [
+        0.478,
+        0.21212121212121213
+      ]
+    },
+    {
+      "id": 2387,
+      "label": "house",
+      "student_name": "Alexander",
+      "student_id": 1664050297044,
+      "point": [
+        0.44,
+        0.7389277389277389
+      ]
+    },
+    {
+      "id": 2388,
+      "label": "tree",
+      "student_name": "Alexander",
+      "student_id": 1664050297044,
+      "point": [
+        0.61,
+        0.7132867132867133
+      ]
+    },
+    {
+      "id": 2389,
+      "label": "bicycle",
+      "student_name": "Alexander",
+      "student_id": 1664050297044,
+      "point": [
+        0.544,
+        0.34032634032634035
+      ]
+    },
+    {
+      "id": 2390,
+      "label": "guitar",
+      "student_name": "Alexander",
+      "student_id": 1664050297044,
+      "point": [
+        0.556,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 2391,
+      "label": "pencil",
+      "student_name": "Alexander",
+      "student_id": 1664050297044,
+      "point": [
+        0.064,
+        0.5337995337995338
+      ]
+    },
+    {
+      "id": 2392,
+      "label": "clock",
+      "student_name": "Alexander",
+      "student_id": 1664050297044,
+      "point": [
+        0.292,
+        0.32634032634032634
+      ]
+    },
+    {
+      "id": 2393,
+      "label": "car",
+      "student_name": "Shahadh",
+      "student_id": 1664052232607,
+      "point": [
+        0.496,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 2394,
+      "label": "fish",
+      "student_name": "Shahadh",
+      "student_id": 1664052232607,
+      "point": [
+        0.394,
+        0.22144522144522144
+      ]
+    },
+    {
+      "id": 2395,
+      "label": "house",
+      "student_name": "Shahadh",
+      "student_id": 1664052232607,
+      "point": [
+        0.468,
+        0.3939393939393939
+      ]
+    },
+    {
+      "id": 2396,
+      "label": "tree",
+      "student_name": "Shahadh",
+      "student_id": 1664052232607,
+      "point": [
+        0.478,
+        0.7249417249417249
+      ]
+    },
+    {
+      "id": 2397,
+      "label": "bicycle",
+      "student_name": "Shahadh",
+      "student_id": 1664052232607,
+      "point": [
+        0.4,
+        0.40792540792540793
+      ]
+    },
+    {
+      "id": 2398,
+      "label": "guitar",
+      "student_name": "Shahadh",
+      "student_id": 1664052232607,
+      "point": [
+        0.252,
+        0.7156177156177156
+      ]
+    },
+    {
+      "id": 2399,
+      "label": "pencil",
+      "student_name": "Shahadh",
+      "student_id": 1664052232607,
+      "point": [
+        0.386,
+        0.4195804195804196
+      ]
+    },
+    {
+      "id": 2400,
+      "label": "clock",
+      "student_name": "Shahadh",
+      "student_id": 1664052232607,
+      "point": [
+        0.332,
+        0.34965034965034963
+      ]
+    },
+    {
+      "id": 2401,
+      "label": "car",
+      "student_name": "Ricardo Aleixo",
+      "student_id": 1664057034710,
+      "point": [
+        0.544,
+        0.2191142191142191
+      ]
+    },
+    {
+      "id": 2402,
+      "label": "fish",
+      "student_name": "Ricardo Aleixo",
+      "student_id": 1664057034710,
+      "point": [
+        0.63,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 2403,
+      "label": "house",
+      "student_name": "Ricardo Aleixo",
+      "student_id": 1664057034710,
+      "point": [
+        0.614,
+        0.745920745920746
+      ]
+    },
+    {
+      "id": 2404,
+      "label": "tree",
+      "student_name": "Ricardo Aleixo",
+      "student_id": 1664057034710,
+      "point": [
+        0.476,
+        0.7202797202797203
+      ]
+    },
+    {
+      "id": 2405,
+      "label": "bicycle",
+      "student_name": "Ricardo Aleixo",
+      "student_id": 1664057034710,
+      "point": [
+        0.606,
+        0.46853146853146854
+      ]
+    },
+    {
+      "id": 2406,
+      "label": "guitar",
+      "student_name": "Ricardo Aleixo",
+      "student_id": 1664057034710,
+      "point": [
+        0.562,
+        0.5687645687645687
+      ]
+    },
+    {
+      "id": 2407,
+      "label": "pencil",
+      "student_name": "Ricardo Aleixo",
+      "student_id": 1664057034710,
+      "point": [
+        0.354,
+        0.5827505827505828
+      ]
+    },
+    {
+      "id": 2408,
+      "label": "clock",
+      "student_name": "Ricardo Aleixo",
+      "student_id": 1664057034710,
+      "point": [
+        0.438,
+        0.8344988344988346
+      ]
+    },
+    {
+      "id": 2409,
+      "label": "car",
+      "student_name": "Tiina",
+      "student_id": 1664057072596,
+      "point": [
+        0.748,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 2410,
+      "label": "fish",
+      "student_name": "Tiina",
+      "student_id": 1664057072596,
+      "point": [
+        0.54,
+        0.15151515151515152
+      ]
+    },
+    {
+      "id": 2411,
+      "label": "house",
+      "student_name": "Tiina",
+      "student_id": 1664057072596,
+      "point": [
+        0.634,
+        0.5174825174825175
+      ]
+    },
+    {
+      "id": 2412,
+      "label": "tree",
+      "student_name": "Tiina",
+      "student_id": 1664057072596,
+      "point": [
+        0.442,
+        0.62004662004662
+      ]
+    },
+    {
+      "id": 2413,
+      "label": "bicycle",
+      "student_name": "Tiina",
+      "student_id": 1664057072596,
+      "point": [
+        0.552,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 2414,
+      "label": "guitar",
+      "student_name": "Tiina",
+      "student_id": 1664057072596,
+      "point": [
+        0.558,
+        0.1794871794871795
+      ]
+    },
+    {
+      "id": 2415,
+      "label": "pencil",
+      "student_name": "Tiina",
+      "student_id": 1664057072596,
+      "point": [
+        0.038,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 2416,
+      "label": "clock",
+      "student_name": "Tiina",
+      "student_id": 1664057072596,
+      "point": [
+        0.348,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 2417,
+      "label": "car",
+      "student_name": "Ragg",
+      "student_id": 1664069291503,
+      "point": [
+        0.57,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 2418,
+      "label": "fish",
+      "student_name": "Ragg",
+      "student_id": 1664069291503,
+      "point": [
+        0.34,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 2419,
+      "label": "house",
+      "student_name": "Ragg",
+      "student_id": 1664069291503,
+      "point": [
+        0.512,
+        0.7132867132867133
+      ]
+    },
+    {
+      "id": 2420,
+      "label": "tree",
+      "student_name": "Ragg",
+      "student_id": 1664069291503,
+      "point": [
+        0.5,
+        0.627039627039627
+      ]
+    },
+    {
+      "id": 2421,
+      "label": "bicycle",
+      "student_name": "Ragg",
+      "student_id": 1664069291503,
+      "point": [
+        0.508,
+        0.578088578088578
+      ]
+    },
+    {
+      "id": 2422,
+      "label": "guitar",
+      "student_name": "Ragg",
+      "student_id": 1664069291503,
+      "point": [
+        0.322,
+        0.8508158508158508
+      ]
+    },
+    {
+      "id": 2423,
+      "label": "pencil",
+      "student_name": "Ragg",
+      "student_id": 1664069291503,
+      "point": [
+        0.194,
+        0.7575757575757576
+      ]
+    },
+    {
+      "id": 2424,
+      "label": "clock",
+      "student_name": "Ragg",
+      "student_id": 1664069291503,
+      "point": [
+        0.516,
+        0.5221445221445221
+      ]
+    },
+    {
+      "id": 2425,
+      "label": "car",
+      "student_name": "Aime",
+      "student_id": 1664070678115,
+      "point": [
+        0.648,
+        0.6060606060606061
+      ]
+    },
+    {
+      "id": 2426,
+      "label": "fish",
+      "student_name": "Aime",
+      "student_id": 1664070678115,
+      "point": [
+        0.626,
+        0.5897435897435898
+      ]
+    },
+    {
+      "id": 2427,
+      "label": "house",
+      "student_name": "Aime",
+      "student_id": 1664070678115,
+      "point": [
+        0.768,
+        0.7622377622377622
+      ]
+    },
+    {
+      "id": 2428,
+      "label": "tree",
+      "student_name": "Aime",
+      "student_id": 1664070678115,
+      "point": [
+        0.768,
+        0.6713286713286714
+      ]
+    },
+    {
+      "id": 2429,
+      "label": "bicycle",
+      "student_name": "Aime",
+      "student_id": 1664070678115,
+      "point": [
+        0.666,
+        0.5407925407925408
+      ]
+    },
+    {
+      "id": 2430,
+      "label": "guitar",
+      "student_name": "Aime",
+      "student_id": 1664070678115,
+      "point": [
+        0.5,
+        0.6060606060606061
+      ]
+    },
+    {
+      "id": 2431,
+      "label": "pencil",
+      "student_name": "Aime",
+      "student_id": 1664070678115,
+      "point": [
+        0.058,
+        0.7482517482517482
+      ]
+    },
+    {
+      "id": 2432,
+      "label": "clock",
+      "student_name": "Aime",
+      "student_id": 1664070678115,
+      "point": [
+        0.528,
+        0.5291375291375291
+      ]
+    },
+    {
+      "id": 2433,
+      "label": "car",
+      "student_name": "Kuba",
+      "student_id": 1664071180078,
+      "point": [
+        0.59,
+        0.2517482517482518
+      ]
+    },
+    {
+      "id": 2434,
+      "label": "fish",
+      "student_name": "Kuba",
+      "student_id": 1664071180078,
+      "point": [
+        0.532,
+        0.3986013986013986
+      ]
+    },
+    {
+      "id": 2435,
+      "label": "house",
+      "student_name": "Kuba",
+      "student_id": 1664071180078,
+      "point": [
+        0.714,
+        0.4825174825174825
+      ]
+    },
+    {
+      "id": 2436,
+      "label": "tree",
+      "student_name": "Kuba",
+      "student_id": 1664071180078,
+      "point": [
+        0.548,
+        0.8018648018648019
+      ]
+    },
+    {
+      "id": 2437,
+      "label": "bicycle",
+      "student_name": "Kuba",
+      "student_id": 1664071180078,
+      "point": [
+        0.74,
+        0.47785547785547783
+      ]
+    },
+    {
+      "id": 2438,
+      "label": "guitar",
+      "student_name": "Kuba",
+      "student_id": 1664071180078,
+      "point": [
+        0.568,
+        0.8414918414918415
+      ]
+    },
+    {
+      "id": 2439,
+      "label": "pencil",
+      "student_name": "Kuba",
+      "student_id": 1664071180078,
+      "point": [
+        0.452,
+        0.8321678321678322
+      ]
+    },
+    {
+      "id": 2440,
+      "label": "clock",
+      "student_name": "Kuba",
+      "student_id": 1664071180078,
+      "point": [
+        0.616,
+        0.6503496503496503
+      ]
+    },
+    {
+      "id": 2441,
+      "label": "car",
+      "student_name": "Carlos",
+      "student_id": 1664080802484,
+      "point": [
+        0.306,
+        0.1561771561771562
+      ]
+    },
+    {
+      "id": 2442,
+      "label": "fish",
+      "student_name": "Carlos",
+      "student_id": 1664080802484,
+      "point": [
+        0.28,
+        0.17016317016317017
+      ]
+    },
+    {
+      "id": 2443,
+      "label": "house",
+      "student_name": "Carlos",
+      "student_id": 1664080802484,
+      "point": [
+        0.642,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 2444,
+      "label": "tree",
+      "student_name": "Carlos",
+      "student_id": 1664080802484,
+      "point": [
+        0.584,
+        0.7249417249417249
+      ]
+    },
+    {
+      "id": 2445,
+      "label": "bicycle",
+      "student_name": "Carlos",
+      "student_id": 1664080802484,
+      "point": [
+        0.576,
+        0.44522144522144524
+      ]
+    },
+    {
+      "id": 2446,
+      "label": "guitar",
+      "student_name": "Carlos",
+      "student_id": 1664080802484,
+      "point": [
+        0.594,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 2447,
+      "label": "pencil",
+      "student_name": "Carlos",
+      "student_id": 1664080802484,
+      "point": [
+        0.528,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 2448,
+      "label": "clock",
+      "student_name": "Carlos",
+      "student_id": 1664080802484,
+      "point": [
+        0.326,
+        0.32867132867132864
+      ]
+    },
+    {
+      "id": 2449,
+      "label": "car",
+      "student_name": "sakthi",
+      "student_id": 1664081698954,
+      "point": [
+        0.4,
+        0.20745920745920746
+      ]
+    },
+    {
+      "id": 2450,
+      "label": "fish",
+      "student_name": "sakthi",
+      "student_id": 1664081698954,
+      "point": [
+        0.28,
+        0.20745920745920746
+      ]
+    },
+    {
+      "id": 2451,
+      "label": "house",
+      "student_name": "sakthi",
+      "student_id": 1664081698954,
+      "point": [
+        0.238,
+        0.16783216783216784
+      ]
+    },
+    {
+      "id": 2452,
+      "label": "tree",
+      "student_name": "sakthi",
+      "student_id": 1664081698954,
+      "point": [
+        0.412,
+        0.5897435897435898
+      ]
+    },
+    {
+      "id": 2453,
+      "label": "bicycle",
+      "student_name": "sakthi",
+      "student_id": 1664081698954,
+      "point": [
+        0.418,
+        0.38694638694638694
+      ]
+    },
+    {
+      "id": 2454,
+      "label": "guitar",
+      "student_name": "sakthi",
+      "student_id": 1664081698954,
+      "point": [
+        0.38,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 2455,
+      "label": "pencil",
+      "student_name": "sakthi",
+      "student_id": 1664081698954,
+      "point": [
+        0.142,
+        0.2517482517482518
+      ]
+    },
+    {
+      "id": 2456,
+      "label": "clock",
+      "student_name": "sakthi",
+      "student_id": 1664081698954,
+      "point": [
+        0.188,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 2457,
+      "label": "car",
+      "student_name": "mcaamano",
+      "student_id": 1664085303517,
+      "point": [
+        0.582,
+        0.16083916083916083
+      ]
+    },
+    {
+      "id": 2458,
+      "label": "fish",
+      "student_name": "mcaamano",
+      "student_id": 1664085303517,
+      "point": [
+        0.57,
+        0.25874125874125875
+      ]
+    },
+    {
+      "id": 2459,
+      "label": "house",
+      "student_name": "mcaamano",
+      "student_id": 1664085303517,
+      "point": [
+        0.45,
+        0.45454545454545453
+      ]
+    },
+    {
+      "id": 2460,
+      "label": "tree",
+      "student_name": "mcaamano",
+      "student_id": 1664085303517,
+      "point": [
+        0.358,
+        0.6037296037296037
+      ]
+    },
+    {
+      "id": 2461,
+      "label": "bicycle",
+      "student_name": "mcaamano",
+      "student_id": 1664085303517,
+      "point": [
+        0.372,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 2462,
+      "label": "guitar",
+      "student_name": "mcaamano",
+      "student_id": 1664085303517,
+      "point": [
+        0.682,
+        0.6363636363636364
+      ]
+    },
+    {
+      "id": 2463,
+      "label": "pencil",
+      "student_name": "mcaamano",
+      "student_id": 1664085303517,
+      "point": [
+        0.564,
+        0.5081585081585082
+      ]
+    },
+    {
+      "id": 2464,
+      "label": "clock",
+      "student_name": "mcaamano",
+      "student_id": 1664085303517,
+      "point": [
+        0.536,
+        0.6083916083916084
+      ]
+    },
+    {
+      "id": 2465,
+      "label": "car",
+      "student_name": "Jani",
+      "student_id": 1664089433449,
+      "point": [
+        0.632,
+        0.6247086247086248
+      ]
+    },
+    {
+      "id": 2466,
+      "label": "fish",
+      "student_name": "Jani",
+      "student_id": 1664089433449,
+      "point": [
+        0.586,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 2467,
+      "label": "house",
+      "student_name": "Jani",
+      "student_id": 1664089433449,
+      "point": [
+        0.638,
+        0.662004662004662
+      ]
+    },
+    {
+      "id": 2468,
+      "label": "tree",
+      "student_name": "Jani",
+      "student_id": 1664089433449,
+      "point": [
+        0.61,
+        0.8414918414918415
+      ]
+    },
+    {
+      "id": 2469,
+      "label": "bicycle",
+      "student_name": "Jani",
+      "student_id": 1664089433449,
+      "point": [
+        0.504,
+        0.41025641025641024
+      ]
+    },
+    {
+      "id": 2470,
+      "label": "guitar",
+      "student_name": "Jani",
+      "student_id": 1664089433449,
+      "point": [
+        0.518,
+        0.7249417249417249
+      ]
+    },
+    {
+      "id": 2471,
+      "label": "pencil",
+      "student_name": "Jani",
+      "student_id": 1664089433449,
+      "point": [
+        0.126,
+        0.6806526806526807
+      ]
+    },
+    {
+      "id": 2472,
+      "label": "clock",
+      "student_name": "Jani",
+      "student_id": 1664089433449,
+      "point": [
+        0.348,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 2473,
+      "label": "car",
+      "student_name": "Daban",
+      "student_id": 1664090710974,
+      "point": [
+        0.56,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 2474,
+      "label": "fish",
+      "student_name": "Daban",
+      "student_id": 1664090710974,
+      "point": [
+        0.52,
+        0.1864801864801865
+      ]
+    },
+    {
+      "id": 2475,
+      "label": "house",
+      "student_name": "Daban",
+      "student_id": 1664090710974,
+      "point": [
+        0.494,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 2476,
+      "label": "tree",
+      "student_name": "Daban",
+      "student_id": 1664090710974,
+      "point": [
+        0.412,
+        0.8624708624708625
+      ]
+    },
+    {
+      "id": 2477,
+      "label": "bicycle",
+      "student_name": "Daban",
+      "student_id": 1664090710974,
+      "point": [
+        0.55,
+        0.5058275058275058
+      ]
+    },
+    {
+      "id": 2478,
+      "label": "guitar",
+      "student_name": "Daban",
+      "student_id": 1664090710974,
+      "point": [
+        0.548,
+        0.28205128205128205
+      ]
+    },
+    {
+      "id": 2479,
+      "label": "pencil",
+      "student_name": "Daban",
+      "student_id": 1664090710974,
+      "point": [
+        0.574,
+        0.12121212121212122
+      ]
+    },
+    {
+      "id": 2480,
+      "label": "clock",
+      "student_name": "Daban",
+      "student_id": 1664090710974,
+      "point": [
+        0.776,
+        0.289044289044289
+      ]
+    },
+    {
+      "id": 2481,
+      "label": "car",
+      "student_name": "hayes",
+      "student_id": 1664091721008,
+      "point": [
+        0.724,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 2482,
+      "label": "fish",
+      "student_name": "hayes",
+      "student_id": 1664091721008,
+      "point": [
+        0.604,
+        0.3986013986013986
+      ]
+    },
+    {
+      "id": 2483,
+      "label": "house",
+      "student_name": "hayes",
+      "student_id": 1664091721008,
+      "point": [
+        0.382,
+        0.6317016317016317
+      ]
+    },
+    {
+      "id": 2484,
+      "label": "tree",
+      "student_name": "hayes",
+      "student_id": 1664091721008,
+      "point": [
+        0.638,
+        0.6993006993006993
+      ]
+    },
+    {
+      "id": 2485,
+      "label": "bicycle",
+      "student_name": "hayes",
+      "student_id": 1664091721008,
+      "point": [
+        0.534,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 2486,
+      "label": "guitar",
+      "student_name": "hayes",
+      "student_id": 1664091721008,
+      "point": [
+        0.622,
+        0.15384615384615385
+      ]
+    },
+    {
+      "id": 2487,
+      "label": "pencil",
+      "student_name": "hayes",
+      "student_id": 1664091721008,
+      "point": [
+        0.094,
+        0.7272727272727273
+      ]
+    },
+    {
+      "id": 2488,
+      "label": "clock",
+      "student_name": "hayes",
+      "student_id": 1664091721008,
+      "point": [
+        0.734,
+        0.7692307692307693
+      ]
+    },
+    {
+      "id": 2489,
+      "label": "car",
+      "student_name": "mta",
+      "student_id": 1664091847458,
+      "point": [
+        0.446,
+        0.20046620046620048
+      ]
+    },
+    {
+      "id": 2490,
+      "label": "fish",
+      "student_name": "mta",
+      "student_id": 1664091847458,
+      "point": [
+        0.186,
+        0.16317016317016317
+      ]
+    },
+    {
+      "id": 2491,
+      "label": "house",
+      "student_name": "mta",
+      "student_id": 1664091847458,
+      "point": [
+        0.31,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 2492,
+      "label": "tree",
+      "student_name": "mta",
+      "student_id": 1664091847458,
+      "point": [
+        0.396,
+        0.627039627039627
+      ]
+    },
+    {
+      "id": 2493,
+      "label": "bicycle",
+      "student_name": "mta",
+      "student_id": 1664091847458,
+      "point": [
+        0.252,
+        0.16317016317016317
+      ]
+    },
+    {
+      "id": 2494,
+      "label": "guitar",
+      "student_name": "mta",
+      "student_id": 1664091847458,
+      "point": [
+        0.216,
+        0.703962703962704
+      ]
+    },
+    {
+      "id": 2495,
+      "label": "pencil",
+      "student_name": "mta",
+      "student_id": 1664091847458,
+      "point": [
+        0.29,
+        0.2913752913752914
+      ]
+    },
+    {
+      "id": 2496,
+      "label": "clock",
+      "student_name": "mta",
+      "student_id": 1664091847458,
+      "point": [
+        0.288,
+        0.48951048951048953
+      ]
+    },
+    {
+      "id": 2497,
+      "label": "car",
+      "student_name": "aitor",
+      "student_id": 1664092225145,
+      "point": [
+        0.41,
+        0.2727272727272727
+      ]
+    },
+    {
+      "id": 2498,
+      "label": "fish",
+      "student_name": "aitor",
+      "student_id": 1664092225145,
+      "point": [
+        0.446,
+        0.07226107226107226
+      ]
+    },
+    {
+      "id": 2499,
+      "label": "house",
+      "student_name": "aitor",
+      "student_id": 1664092225145,
+      "point": [
+        0.444,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 2500,
+      "label": "tree",
+      "student_name": "aitor",
+      "student_id": 1664092225145,
+      "point": [
+        0.3,
+        0.5128205128205128
+      ]
+    },
+    {
+      "id": 2501,
+      "label": "bicycle",
+      "student_name": "aitor",
+      "student_id": 1664092225145,
+      "point": [
+        0.436,
+        0.16083916083916083
+      ]
+    },
+    {
+      "id": 2502,
+      "label": "guitar",
+      "student_name": "aitor",
+      "student_id": 1664092225145,
+      "point": [
+        0.724,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 2503,
+      "label": "pencil",
+      "student_name": "aitor",
+      "student_id": 1664092225145,
+      "point": [
+        0.514,
+        0.5594405594405595
+      ]
+    },
+    {
+      "id": 2504,
+      "label": "clock",
+      "student_name": "aitor",
+      "student_id": 1664092225145,
+      "point": [
+        0.23,
+        0.29836829836829837
+      ]
+    },
+    {
+      "id": 2505,
+      "label": "car",
+      "student_name": "nanda",
+      "student_id": 1664094261972,
+      "point": [
+        0.626,
+        0.31002331002331
+      ]
+    },
+    {
+      "id": 2506,
+      "label": "fish",
+      "student_name": "nanda",
+      "student_id": 1664094261972,
+      "point": [
+        0.36,
+        0.1351981351981352
+      ]
+    },
+    {
+      "id": 2507,
+      "label": "house",
+      "student_name": "nanda",
+      "student_id": 1664094261972,
+      "point": [
+        0.474,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 2508,
+      "label": "tree",
+      "student_name": "nanda",
+      "student_id": 1664094261972,
+      "point": [
+        0.572,
+        0.7902097902097902
+      ]
+    },
+    {
+      "id": 2509,
+      "label": "bicycle",
+      "student_name": "nanda",
+      "student_id": 1664094261972,
+      "point": [
+        0.414,
+        0.3682983682983683
+      ]
+    },
+    {
+      "id": 2510,
+      "label": "guitar",
+      "student_name": "nanda",
+      "student_id": 1664094261972,
+      "point": [
+        0.522,
+        0.5897435897435898
+      ]
+    },
+    {
+      "id": 2511,
+      "label": "pencil",
+      "student_name": "nanda",
+      "student_id": 1664094261972,
+      "point": [
+        0.268,
+        0.05128205128205128
+      ]
+    },
+    {
+      "id": 2512,
+      "label": "clock",
+      "student_name": "nanda",
+      "student_id": 1664094261972,
+      "point": [
+        0.36,
+        0.37995337995337997
+      ]
+    },
+    {
+      "id": 2513,
+      "label": "car",
+      "student_name": "taner",
+      "student_id": 1664094971846,
+      "point": [
+        0.654,
+        0.2191142191142191
+      ]
+    },
+    {
+      "id": 2514,
+      "label": "fish",
+      "student_name": "taner",
+      "student_id": 1664094971846,
+      "point": [
+        0.586,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 2515,
+      "label": "house",
+      "student_name": "taner",
+      "student_id": 1664094971846,
+      "point": [
+        0.554,
+        0.42657342657342656
+      ]
+    },
+    {
+      "id": 2516,
+      "label": "tree",
+      "student_name": "taner",
+      "student_id": 1664094971846,
+      "point": [
+        0.476,
+        0.7715617715617715
+      ]
+    },
+    {
+      "id": 2517,
+      "label": "bicycle",
+      "student_name": "taner",
+      "student_id": 1664094971846,
+      "point": [
+        0.504,
+        0.38927738927738925
+      ]
+    },
+    {
+      "id": 2518,
+      "label": "guitar",
+      "student_name": "taner",
+      "student_id": 1664094971846,
+      "point": [
+        0.522,
+        0.17016317016317017
+      ]
+    },
+    {
+      "id": 2519,
+      "label": "pencil",
+      "student_name": "taner",
+      "student_id": 1664094971846,
+      "point": [
+        0.292,
+        0.4382284382284382
+      ]
+    },
+    {
+      "id": 2520,
+      "label": "clock",
+      "student_name": "taner",
+      "student_id": 1664094971846,
+      "point": [
+        0.39,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 2521,
+      "label": "car",
+      "student_name": "Lukson",
+      "student_id": 1664095689168,
+      "point": [
+        0.548,
+        0.3333333333333333
+      ]
+    },
+    {
+      "id": 2522,
+      "label": "fish",
+      "student_name": "Lukson",
+      "student_id": 1664095689168,
+      "point": [
+        0.222,
+        0.11655011655011654
+      ]
+    },
+    {
+      "id": 2523,
+      "label": "house",
+      "student_name": "Lukson",
+      "student_id": 1664095689168,
+      "point": [
+        0.528,
+        0.5990675990675991
+      ]
+    },
+    {
+      "id": 2524,
+      "label": "tree",
+      "student_name": "Lukson",
+      "student_id": 1664095689168,
+      "point": [
+        0.482,
+        0.662004662004662
+      ]
+    },
+    {
+      "id": 2525,
+      "label": "bicycle",
+      "student_name": "Lukson",
+      "student_id": 1664095689168,
+      "point": [
+        0.414,
+        0.32867132867132864
+      ]
+    },
+    {
+      "id": 2526,
+      "label": "guitar",
+      "student_name": "Lukson",
+      "student_id": 1664095689168,
+      "point": [
+        0.548,
+        0.26573426573426573
+      ]
+    },
+    {
+      "id": 2527,
+      "label": "pencil",
+      "student_name": "Lukson",
+      "student_id": 1664095689168,
+      "point": [
+        0.02,
+        0.5268065268065268
+      ]
+    },
+    {
+      "id": 2528,
+      "label": "clock",
+      "student_name": "Lukson",
+      "student_id": 1664095689168,
+      "point": [
+        0.28,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 2529,
+      "label": "car",
+      "student_name": "Meruem",
+      "student_id": 1664098362339,
+      "point": [
+        0.538,
+        0.1864801864801865
+      ]
+    },
+    {
+      "id": 2530,
+      "label": "fish",
+      "student_name": "Meruem",
+      "student_id": 1664098362339,
+      "point": [
+        0.564,
+        0.24475524475524477
+      ]
+    },
+    {
+      "id": 2531,
+      "label": "house",
+      "student_name": "Meruem",
+      "student_id": 1664098362339,
+      "point": [
+        0.508,
+        0.7016317016317016
+      ]
+    },
+    {
+      "id": 2532,
+      "label": "tree",
+      "student_name": "Meruem",
+      "student_id": 1664098362339,
+      "point": [
+        0.336,
+        0.8764568764568764
+      ]
+    },
+    {
+      "id": 2533,
+      "label": "bicycle",
+      "student_name": "Meruem",
+      "student_id": 1664098362339,
+      "point": [
+        0.496,
+        0.2727272727272727
+      ]
+    },
+    {
+      "id": 2534,
+      "label": "guitar",
+      "student_name": "Meruem",
+      "student_id": 1664098362339,
+      "point": [
+        0.484,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 2535,
+      "label": "pencil",
+      "student_name": "Meruem",
+      "student_id": 1664098362339,
+      "point": [
+        0.486,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 2536,
+      "label": "clock",
+      "student_name": "Meruem",
+      "student_id": 1664098362339,
+      "point": [
+        0.434,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 2537,
+      "label": "car",
+      "student_name": "DracoWhitefire",
+      "student_id": 1664098393909,
+      "point": [
+        0.684,
+        0.3613053613053613
+      ]
+    },
+    {
+      "id": 2538,
+      "label": "fish",
+      "student_name": "DracoWhitefire",
+      "student_id": 1664098393909,
+      "point": [
+        0.704,
+        0.6596736596736597
+      ]
+    },
+    {
+      "id": 2539,
+      "label": "house",
+      "student_name": "DracoWhitefire",
+      "student_id": 1664098393909,
+      "point": [
+        0.65,
+        0.5454545454545454
+      ]
+    },
+    {
+      "id": 2540,
+      "label": "tree",
+      "student_name": "DracoWhitefire",
+      "student_id": 1664098393909,
+      "point": [
+        0.53,
+        0.8251748251748252
+      ]
+    },
+    {
+      "id": 2541,
+      "label": "bicycle",
+      "student_name": "DracoWhitefire",
+      "student_id": 1664098393909,
+      "point": [
+        0.55,
+        0.4195804195804196
+      ]
+    },
+    {
+      "id": 2542,
+      "label": "guitar",
+      "student_name": "DracoWhitefire",
+      "student_id": 1664098393909,
+      "point": [
+        0.66,
+        0.7902097902097902
+      ]
+    },
+    {
+      "id": 2543,
+      "label": "pencil",
+      "student_name": "DracoWhitefire",
+      "student_id": 1664098393909,
+      "point": [
+        0.552,
+        0.7645687645687645
+      ]
+    },
+    {
+      "id": 2544,
+      "label": "clock",
+      "student_name": "DracoWhitefire",
+      "student_id": 1664098393909,
+      "point": [
+        0.368,
+        0.8438228438228438
+      ]
+    },
+    {
+      "id": 2545,
+      "label": "car",
+      "student_name": "Yuvraj",
+      "student_id": 1664101766713,
+      "point": [
+        0.398,
+        0.3822843822843823
+      ]
+    },
+    {
+      "id": 2546,
+      "label": "fish",
+      "student_name": "Yuvraj",
+      "student_id": 1664101766713,
+      "point": [
+        0.404,
+        0.13053613053613053
+      ]
+    },
+    {
+      "id": 2547,
+      "label": "house",
+      "student_name": "Yuvraj",
+      "student_id": 1664101766713,
+      "point": [
+        0.448,
+        0.46853146853146854
+      ]
+    },
+    {
+      "id": 2548,
+      "label": "tree",
+      "student_name": "Yuvraj",
+      "student_id": 1664101766713,
+      "point": [
+        0.232,
+        0.4382284382284382
+      ]
+    },
+    {
+      "id": 2549,
+      "label": "bicycle",
+      "student_name": "Yuvraj",
+      "student_id": 1664101766713,
+      "point": [
+        0.298,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 2550,
+      "label": "guitar",
+      "student_name": "Yuvraj",
+      "student_id": 1664101766713,
+      "point": [
+        0.53,
+        0.5641025641025641
+      ]
+    },
+    {
+      "id": 2551,
+      "label": "pencil",
+      "student_name": "Yuvraj",
+      "student_id": 1664101766713,
+      "point": [
+        0.344,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 2552,
+      "label": "clock",
+      "student_name": "Yuvraj",
+      "student_id": 1664101766713,
+      "point": [
+        0.276,
+        0.337995337995338
+      ]
+    },
+    {
+      "id": 2553,
+      "label": "car",
+      "student_name": "sekaiNoTameni",
+      "student_id": 1664103889923,
+      "point": [
+        0.528,
+        0.372960372960373
+      ]
+    },
+    {
+      "id": 2554,
+      "label": "fish",
+      "student_name": "sekaiNoTameni",
+      "student_id": 1664103889923,
+      "point": [
+        0.434,
+        0.47086247086247085
+      ]
+    },
+    {
+      "id": 2555,
+      "label": "house",
+      "student_name": "sekaiNoTameni",
+      "student_id": 1664103889923,
+      "point": [
+        0.644,
+        0.5990675990675991
+      ]
+    },
+    {
+      "id": 2556,
+      "label": "tree",
+      "student_name": "sekaiNoTameni",
+      "student_id": 1664103889923,
+      "point": [
+        0.398,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 2557,
+      "label": "bicycle",
+      "student_name": "sekaiNoTameni",
+      "student_id": 1664103889923,
+      "point": [
+        0.364,
+        0.21212121212121213
+      ]
+    },
+    {
+      "id": 2558,
+      "label": "guitar",
+      "student_name": "sekaiNoTameni",
+      "student_id": 1664103889923,
+      "point": [
+        0.442,
+        0.42657342657342656
+      ]
+    },
+    {
+      "id": 2559,
+      "label": "pencil",
+      "student_name": "sekaiNoTameni",
+      "student_id": 1664103889923,
+      "point": [
+        0.292,
+        0.6060606060606061
+      ]
+    },
+    {
+      "id": 2560,
+      "label": "clock",
+      "student_name": "sekaiNoTameni",
+      "student_id": 1664103889923,
+      "point": [
+        0.436,
+        0.5011655011655012
+      ]
+    },
+    {
+      "id": 2561,
+      "label": "car",
+      "student_name": "KoderKookie",
+      "student_id": 1664104180524,
+      "point": [
+        0.584,
+        0.1958041958041958
+      ]
+    },
+    {
+      "id": 2562,
+      "label": "fish",
+      "student_name": "KoderKookie",
+      "student_id": 1664104180524,
+      "point": [
+        0.442,
+        0.15151515151515152
+      ]
+    },
+    {
+      "id": 2563,
+      "label": "house",
+      "student_name": "KoderKookie",
+      "student_id": 1664104180524,
+      "point": [
+        0.41,
+        0.2400932400932401
+      ]
+    },
+    {
+      "id": 2564,
+      "label": "tree",
+      "student_name": "KoderKookie",
+      "student_id": 1664104180524,
+      "point": [
+        0.65,
+        0.7645687645687645
+      ]
+    },
+    {
+      "id": 2565,
+      "label": "bicycle",
+      "student_name": "KoderKookie",
+      "student_id": 1664104180524,
+      "point": [
+        0.544,
+        0.25874125874125875
+      ]
+    },
+    {
+      "id": 2566,
+      "label": "guitar",
+      "student_name": "KoderKookie",
+      "student_id": 1664104180524,
+      "point": [
+        0.47,
+        0.4195804195804196
+      ]
+    },
+    {
+      "id": 2567,
+      "label": "pencil",
+      "student_name": "KoderKookie",
+      "student_id": 1664104180524,
+      "point": [
+        0.046,
+        0.44522144522144524
+      ]
+    },
+    {
+      "id": 2568,
+      "label": "clock",
+      "student_name": "KoderKookie",
+      "student_id": 1664104180524,
+      "point": [
+        0.262,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 2569,
+      "label": "car",
+      "student_name": "Faizan Ahmed",
+      "student_id": 1664106136045,
+      "point": [
+        0.702,
+        0.4568764568764569
+      ]
+    },
+    {
+      "id": 2570,
+      "label": "fish",
+      "student_name": "Faizan Ahmed",
+      "student_id": 1664106136045,
+      "point": [
+        0.532,
+        0.5151515151515151
+      ]
+    },
+    {
+      "id": 2571,
+      "label": "house",
+      "student_name": "Faizan Ahmed",
+      "student_id": 1664106136045,
+      "point": [
+        0.384,
+        0.6293706293706294
+      ]
+    },
+    {
+      "id": 2572,
+      "label": "tree",
+      "student_name": "Faizan Ahmed",
+      "student_id": 1664106136045,
+      "point": [
+        0.522,
+        0.7365967365967366
+      ]
+    },
+    {
+      "id": 2573,
+      "label": "bicycle",
+      "student_name": "Faizan Ahmed",
+      "student_id": 1664106136045,
+      "point": [
+        0.588,
+        0.675990675990676
+      ]
+    },
+    {
+      "id": 2574,
+      "label": "guitar",
+      "student_name": "Faizan Ahmed",
+      "student_id": 1664106136045,
+      "point": [
+        0.396,
+        0.7575757575757576
+      ]
+    },
+    {
+      "id": 2575,
+      "label": "pencil",
+      "student_name": "Faizan Ahmed",
+      "student_id": 1664106136045,
+      "point": [
+        0.504,
+        0.46853146853146854
+      ]
+    },
+    {
+      "id": 2576,
+      "label": "clock",
+      "student_name": "Faizan Ahmed",
+      "student_id": 1664106136045,
+      "point": [
+        0.508,
+        0.6177156177156177
+      ]
+    },
+    {
+      "id": 2577,
+      "label": "car",
+      "student_name": "Andrei C",
+      "student_id": 1664108078233,
+      "point": [
+        0.716,
+        0.14685314685314685
+      ]
+    },
+    {
+      "id": 2578,
+      "label": "fish",
+      "student_name": "Andrei C",
+      "student_id": 1664108078233,
+      "point": [
+        0.31,
+        0.09557109557109557
+      ]
+    },
+    {
+      "id": 2579,
+      "label": "house",
+      "student_name": "Andrei C",
+      "student_id": 1664108078233,
+      "point": [
+        0.338,
+        0.4731934731934732
+      ]
+    },
+    {
+      "id": 2580,
+      "label": "tree",
+      "student_name": "Andrei C",
+      "student_id": 1664108078233,
+      "point": [
+        0.268,
+        0.6736596736596736
+      ]
+    },
+    {
+      "id": 2581,
+      "label": "bicycle",
+      "student_name": "Andrei C",
+      "student_id": 1664108078233,
+      "point": [
+        0.536,
+        0.3333333333333333
+      ]
+    },
+    {
+      "id": 2582,
+      "label": "guitar",
+      "student_name": "Andrei C",
+      "student_id": 1664108078233,
+      "point": [
+        0.526,
+        0.0979020979020979
+      ]
+    },
+    {
+      "id": 2583,
+      "label": "pencil",
+      "student_name": "Andrei C",
+      "student_id": 1664108078233,
+      "point": [
+        0.184,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 2584,
+      "label": "clock",
+      "student_name": "Andrei C",
+      "student_id": 1664108078233,
+      "point": [
+        0.276,
+        0.25874125874125875
+      ]
+    },
+    {
+      "id": 2585,
+      "label": "car",
+      "student_name": "Lakshya",
+      "student_id": 1664110010395,
+      "point": [
+        0.538,
+        0.2540792540792541
+      ]
+    },
+    {
+      "id": 2586,
+      "label": "fish",
+      "student_name": "Lakshya",
+      "student_id": 1664110010395,
+      "point": [
+        0.522,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 2587,
+      "label": "house",
+      "student_name": "Lakshya",
+      "student_id": 1664110010395,
+      "point": [
+        0.508,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 2588,
+      "label": "tree",
+      "student_name": "Lakshya",
+      "student_id": 1664110010395,
+      "point": [
+        0.346,
+        0.5337995337995338
+      ]
+    },
+    {
+      "id": 2589,
+      "label": "bicycle",
+      "student_name": "Lakshya",
+      "student_id": 1664110010395,
+      "point": [
+        0.588,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 2590,
+      "label": "guitar",
+      "student_name": "Lakshya",
+      "student_id": 1664110010395,
+      "point": [
+        0.624,
+        0.42424242424242425
+      ]
+    },
+    {
+      "id": 2591,
+      "label": "pencil",
+      "student_name": "Lakshya",
+      "student_id": 1664110010395,
+      "point": [
+        0.312,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 2592,
+      "label": "clock",
+      "student_name": "Lakshya",
+      "student_id": 1664110010395,
+      "point": [
+        0.31,
+        0.3333333333333333
+      ]
+    },
+    {
+      "id": 2593,
+      "label": "car",
+      "student_name": "Siva",
+      "student_id": 1664112328873,
+      "point": [
+        0.514,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 2594,
+      "label": "fish",
+      "student_name": "Siva",
+      "student_id": 1664112328873,
+      "point": [
+        0.548,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 2595,
+      "label": "house",
+      "student_name": "Siva",
+      "student_id": 1664112328873,
+      "point": [
+        0.614,
+        0.5944055944055944
+      ]
+    },
+    {
+      "id": 2596,
+      "label": "tree",
+      "student_name": "Siva",
+      "student_id": 1664112328873,
+      "point": [
+        0.47,
+        0.7016317016317016
+      ]
+    },
+    {
+      "id": 2597,
+      "label": "bicycle",
+      "student_name": "Siva",
+      "student_id": 1664112328873,
+      "point": [
+        0.514,
+        0.3962703962703963
+      ]
+    },
+    {
+      "id": 2598,
+      "label": "guitar",
+      "student_name": "Siva",
+      "student_id": 1664112328873,
+      "point": [
+        0.278,
+        0.655011655011655
+      ]
+    },
+    {
+      "id": 2599,
+      "label": "pencil",
+      "student_name": "Siva",
+      "student_id": 1664112328873,
+      "point": [
+        0.498,
+        0.5407925407925408
+      ]
+    },
+    {
+      "id": 2600,
+      "label": "clock",
+      "student_name": "Siva",
+      "student_id": 1664112328873,
+      "point": [
+        0.452,
+        0.5617715617715617
+      ]
+    },
+    {
+      "id": 2601,
+      "label": "car",
+      "student_name": "Hussein kadhim",
+      "student_id": 1664112853562,
+      "point": [
+        0.58,
+        0.40326340326340326
+      ]
+    },
+    {
+      "id": 2602,
+      "label": "fish",
+      "student_name": "Hussein kadhim",
+      "student_id": 1664112853562,
+      "point": [
+        0.492,
+        0.2494172494172494
+      ]
+    },
+    {
+      "id": 2603,
+      "label": "house",
+      "student_name": "Hussein kadhim",
+      "student_id": 1664112853562,
+      "point": [
+        0.668,
+        0.5477855477855478
+      ]
+    },
+    {
+      "id": 2604,
+      "label": "tree",
+      "student_name": "Hussein kadhim",
+      "student_id": 1664112853562,
+      "point": [
+        0.424,
+        0.951048951048951
+      ]
+    },
+    {
+      "id": 2605,
+      "label": "bicycle",
+      "student_name": "Hussein kadhim",
+      "student_id": 1664112853562,
+      "point": [
+        0.514,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 2606,
+      "label": "guitar",
+      "student_name": "Hussein kadhim",
+      "student_id": 1664112853562,
+      "point": [
+        0.506,
+        0.46153846153846156
+      ]
+    },
+    {
+      "id": 2607,
+      "label": "pencil",
+      "student_name": "Hussein kadhim",
+      "student_id": 1664112853562,
+      "point": [
+        0.292,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 2608,
+      "label": "clock",
+      "student_name": "Hussein kadhim",
+      "student_id": 1664112853562,
+      "point": [
+        0.32,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 2609,
+      "label": "car",
+      "student_name": "Daniel",
+      "student_id": 1664113069653,
+      "point": [
+        0.592,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 2610,
+      "label": "fish",
+      "student_name": "Daniel",
+      "student_id": 1664113069653,
+      "point": [
+        0.644,
+        0.3543123543123543
+      ]
+    },
+    {
+      "id": 2611,
+      "label": "house",
+      "student_name": "Daniel",
+      "student_id": 1664113069653,
+      "point": [
+        0.494,
+        0.45454545454545453
+      ]
+    },
+    {
+      "id": 2612,
+      "label": "tree",
+      "student_name": "Daniel",
+      "student_id": 1664113069653,
+      "point": [
+        0.368,
+        0.8158508158508159
+      ]
+    },
+    {
+      "id": 2613,
+      "label": "bicycle",
+      "student_name": "Daniel",
+      "student_id": 1664113069653,
+      "point": [
+        0.59,
+        0.34265734265734266
+      ]
+    },
+    {
+      "id": 2614,
+      "label": "guitar",
+      "student_name": "Daniel",
+      "student_id": 1664113069653,
+      "point": [
+        0.512,
+        0.14219114219114218
+      ]
+    },
+    {
+      "id": 2615,
+      "label": "pencil",
+      "student_name": "Daniel",
+      "student_id": 1664113069653,
+      "point": [
+        0.442,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 2616,
+      "label": "clock",
+      "student_name": "Daniel",
+      "student_id": 1664113069653,
+      "point": [
+        0.374,
+        0.4405594405594406
+      ]
+    },
+    {
+      "id": 2617,
+      "label": "car",
+      "student_name": "TheRockerRush",
+      "student_id": 1664117101769,
+      "point": [
+        0.502,
+        0.29603729603729606
+      ]
+    },
+    {
+      "id": 2618,
+      "label": "fish",
+      "student_name": "TheRockerRush",
+      "student_id": 1664117101769,
+      "point": [
+        0.388,
+        0.3752913752913753
+      ]
+    },
+    {
+      "id": 2619,
+      "label": "house",
+      "student_name": "TheRockerRush",
+      "student_id": 1664117101769,
+      "point": [
+        0.44,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 2620,
+      "label": "tree",
+      "student_name": "TheRockerRush",
+      "student_id": 1664117101769,
+      "point": [
+        0.458,
+        0.4662004662004662
+      ]
+    },
+    {
+      "id": 2621,
+      "label": "bicycle",
+      "student_name": "TheRockerRush",
+      "student_id": 1664117101769,
+      "point": [
+        0.33,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 2622,
+      "label": "guitar",
+      "student_name": "TheRockerRush",
+      "student_id": 1664117101769,
+      "point": [
+        0.524,
+        0.2703962703962704
+      ]
+    },
+    {
+      "id": 2623,
+      "label": "pencil",
+      "student_name": "TheRockerRush",
+      "student_id": 1664117101769,
+      "point": [
+        0.068,
+        0.3006993006993007
+      ]
+    },
+    {
+      "id": 2624,
+      "label": "clock",
+      "student_name": "TheRockerRush",
+      "student_id": 1664117101769,
+      "point": [
+        0.324,
+        0.3822843822843823
+      ]
+    },
+    {
+      "id": 2625,
+      "label": "car",
+      "student_name": "Ali Gohar",
+      "student_id": 1664118978175,
+      "point": [
+        0.61,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 2626,
+      "label": "fish",
+      "student_name": "Ali Gohar",
+      "student_id": 1664118978175,
+      "point": [
+        0.3,
+        0.1561771561771562
+      ]
+    },
+    {
+      "id": 2627,
+      "label": "house",
+      "student_name": "Ali Gohar",
+      "student_id": 1664118978175,
+      "point": [
+        0.352,
+        0.46153846153846156
+      ]
+    },
+    {
+      "id": 2628,
+      "label": "tree",
+      "student_name": "Ali Gohar",
+      "student_id": 1664118978175,
+      "point": [
+        0.51,
+        0.7622377622377622
+      ]
+    },
+    {
+      "id": 2629,
+      "label": "bicycle",
+      "student_name": "Ali Gohar",
+      "student_id": 1664118978175,
+      "point": [
+        0.472,
+        0.27972027972027974
+      ]
+    },
+    {
+      "id": 2630,
+      "label": "guitar",
+      "student_name": "Ali Gohar",
+      "student_id": 1664118978175,
+      "point": [
+        0.354,
+        0.8228438228438228
+      ]
+    },
+    {
+      "id": 2631,
+      "label": "pencil",
+      "student_name": "Ali Gohar",
+      "student_id": 1664118978175,
+      "point": [
+        0.524,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 2632,
+      "label": "clock",
+      "student_name": "Ali Gohar",
+      "student_id": 1664118978175,
+      "point": [
+        0.436,
+        0.6037296037296037
+      ]
+    },
+    {
+      "id": 2633,
+      "label": "car",
+      "student_name": "Urax",
+      "student_id": 1664129724088,
+      "point": [
+        0.548,
+        0.331002331002331
+      ]
+    },
+    {
+      "id": 2634,
+      "label": "fish",
+      "student_name": "Urax",
+      "student_id": 1664129724088,
+      "point": [
+        0.382,
+        0.16317016317016317
+      ]
+    },
+    {
+      "id": 2635,
+      "label": "house",
+      "student_name": "Urax",
+      "student_id": 1664129724088,
+      "point": [
+        0.438,
+        0.5058275058275058
+      ]
+    },
+    {
+      "id": 2636,
+      "label": "tree",
+      "student_name": "Urax",
+      "student_id": 1664129724088,
+      "point": [
+        0.538,
+        0.6107226107226107
+      ]
+    },
+    {
+      "id": 2637,
+      "label": "bicycle",
+      "student_name": "Urax",
+      "student_id": 1664129724088,
+      "point": [
+        0.322,
+        0.3076923076923077
+      ]
+    },
+    {
+      "id": 2638,
+      "label": "guitar",
+      "student_name": "Urax",
+      "student_id": 1664129724088,
+      "point": [
+        0.48,
+        0.1888111888111888
+      ]
+    },
+    {
+      "id": 2639,
+      "label": "pencil",
+      "student_name": "Urax",
+      "student_id": 1664129724088,
+      "point": [
+        0.09,
+        0.717948717948718
+      ]
+    },
+    {
+      "id": 2640,
+      "label": "clock",
+      "student_name": "Urax",
+      "student_id": 1664129724088,
+      "point": [
+        0.422,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 2641,
+      "label": "car",
+      "student_name": "John Doe",
+      "student_id": 1664141324320,
+      "point": [
+        0.484,
+        0.20279720279720279
+      ]
+    },
+    {
+      "id": 2642,
+      "label": "fish",
+      "student_name": "John Doe",
+      "student_id": 1664141324320,
+      "point": [
+        0.266,
+        0.11421911421911422
+      ]
+    },
+    {
+      "id": 2643,
+      "label": "house",
+      "student_name": "John Doe",
+      "student_id": 1664141324320,
+      "point": [
+        0.364,
+        0.4358974358974359
+      ]
+    },
+    {
+      "id": 2644,
+      "label": "tree",
+      "student_name": "John Doe",
+      "student_id": 1664141324320,
+      "point": [
+        0.416,
+        0.6247086247086248
+      ]
+    },
+    {
+      "id": 2645,
+      "label": "bicycle",
+      "student_name": "John Doe",
+      "student_id": 1664141324320,
+      "point": [
+        0.434,
+        0.22843822843822845
+      ]
+    },
+    {
+      "id": 2646,
+      "label": "guitar",
+      "student_name": "John Doe",
+      "student_id": 1664141324320,
+      "point": [
+        0.26,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 2647,
+      "label": "pencil",
+      "student_name": "John Doe",
+      "student_id": 1664141324320,
+      "point": [
+        0.018,
+        0.5268065268065268
+      ]
+    },
+    {
+      "id": 2648,
+      "label": "clock",
+      "student_name": "John Doe",
+      "student_id": 1664141324320,
+      "point": [
+        0.462,
+        0.4825174825174825
+      ]
+    },
+    {
+      "id": 2649,
+      "label": "car",
+      "student_name": "Claudiu",
+      "student_id": 1664142893259,
+      "point": [
+        0.67,
+        0.2191142191142191
+      ]
+    },
+    {
+      "id": 2650,
+      "label": "fish",
+      "student_name": "Claudiu",
+      "student_id": 1664142893259,
+      "point": [
+        0.414,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 2651,
+      "label": "house",
+      "student_name": "Claudiu",
+      "student_id": 1664142893259,
+      "point": [
+        0.68,
+        0.6363636363636364
+      ]
+    },
+    {
+      "id": 2652,
+      "label": "tree",
+      "student_name": "Claudiu",
+      "student_id": 1664142893259,
+      "point": [
+        0.77,
+        0.4149184149184149
+      ]
+    },
+    {
+      "id": 2653,
+      "label": "bicycle",
+      "student_name": "Claudiu",
+      "student_id": 1664142893259,
+      "point": [
+        0.176,
+        0.4195804195804196
+      ]
+    },
+    {
+      "id": 2654,
+      "label": "guitar",
+      "student_name": "Claudiu",
+      "student_id": 1664142893259,
+      "point": [
+        0.27,
+        0.8018648018648019
+      ]
+    },
+    {
+      "id": 2655,
+      "label": "pencil",
+      "student_name": "Claudiu",
+      "student_id": 1664142893259,
+      "point": [
+        0.662,
+        0.668997668997669
+      ]
+    },
+    {
+      "id": 2656,
+      "label": "clock",
+      "student_name": "Claudiu",
+      "student_id": 1664142893259,
+      "point": [
+        0.362,
+        0.2634032634032634
+      ]
+    },
+    {
+      "id": 2657,
+      "label": "car",
+      "student_name": "Glenn",
+      "student_id": 1664143648264,
+      "point": [
+        0.46,
+        0.31002331002331
+      ]
+    },
+    {
+      "id": 2658,
+      "label": "fish",
+      "student_name": "Glenn",
+      "student_id": 1664143648264,
+      "point": [
+        0.36,
+        0.2097902097902098
+      ]
+    },
+    {
+      "id": 2659,
+      "label": "house",
+      "student_name": "Glenn",
+      "student_id": 1664143648264,
+      "point": [
+        0.414,
+        0.5990675990675991
+      ]
+    },
+    {
+      "id": 2660,
+      "label": "tree",
+      "student_name": "Glenn",
+      "student_id": 1664143648264,
+      "point": [
+        0.334,
+        0.5804195804195804
+      ]
+    },
+    {
+      "id": 2661,
+      "label": "bicycle",
+      "student_name": "Glenn",
+      "student_id": 1664143648264,
+      "point": [
+        0.468,
+        0.3776223776223776
+      ]
+    },
+    {
+      "id": 2662,
+      "label": "guitar",
+      "student_name": "Glenn",
+      "student_id": 1664143648264,
+      "point": [
+        0.634,
+        0.5058275058275058
+      ]
+    },
+    {
+      "id": 2663,
+      "label": "pencil",
+      "student_name": "Glenn",
+      "student_id": 1664143648264,
+      "point": [
+        0.326,
+        0.358974358974359
+      ]
+    },
+    {
+      "id": 2664,
+      "label": "clock",
+      "student_name": "Glenn",
+      "student_id": 1664143648264,
+      "point": [
+        0.422,
+        0.1655011655011655
+      ]
+    },
+    {
+      "id": 2665,
+      "label": "car",
+      "student_name": "Amit",
+      "student_id": 1664145569539,
+      "point": [
+        0.586,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 2666,
+      "label": "fish",
+      "student_name": "Amit",
+      "student_id": 1664145569539,
+      "point": [
+        0.396,
+        0.17715617715617715
+      ]
+    },
+    {
+      "id": 2667,
+      "label": "house",
+      "student_name": "Amit",
+      "student_id": 1664145569539,
+      "point": [
+        0.516,
+        0.6177156177156177
+      ]
+    },
+    {
+      "id": 2668,
+      "label": "tree",
+      "student_name": "Amit",
+      "student_id": 1664145569539,
+      "point": [
+        0.41,
+        0.6853146853146853
+      ]
+    },
+    {
+      "id": 2669,
+      "label": "bicycle",
+      "student_name": "Amit",
+      "student_id": 1664145569539,
+      "point": [
+        0.446,
+        0.29836829836829837
+      ]
+    },
+    {
+      "id": 2670,
+      "label": "guitar",
+      "student_name": "Amit",
+      "student_id": 1664145569539,
+      "point": [
+        0.566,
+        0.5617715617715617
+      ]
+    },
+    {
+      "id": 2671,
+      "label": "pencil",
+      "student_name": "Amit",
+      "student_id": 1664145569539,
+      "point": [
+        0.064,
+        0.6923076923076923
+      ]
+    },
+    {
+      "id": 2672,
+      "label": "clock",
+      "student_name": "Amit",
+      "student_id": 1664145569539,
+      "point": [
+        0.304,
+        0.4428904428904429
+      ]
+    },
+    {
+      "id": 2673,
+      "label": "car",
+      "student_name": "Pazini",
+      "student_id": 1664146709261,
+      "point": [
+        0.36,
+        0.2634032634032634
+      ]
+    },
+    {
+      "id": 2674,
+      "label": "fish",
+      "student_name": "Pazini",
+      "student_id": 1664146709261,
+      "point": [
+        0.378,
+        0.32400932400932403
+      ]
+    },
+    {
+      "id": 2675,
+      "label": "house",
+      "student_name": "Pazini",
+      "student_id": 1664146709261,
+      "point": [
+        0.392,
+        0.40093240093240096
+      ]
+    },
+    {
+      "id": 2676,
+      "label": "tree",
+      "student_name": "Pazini",
+      "student_id": 1664146709261,
+      "point": [
+        0.29,
+        0.41025641025641024
+      ]
+    },
+    {
+      "id": 2677,
+      "label": "bicycle",
+      "student_name": "Pazini",
+      "student_id": 1664146709261,
+      "point": [
+        0.492,
+        0.4592074592074592
+      ]
+    },
+    {
+      "id": 2678,
+      "label": "guitar",
+      "student_name": "Pazini",
+      "student_id": 1664146709261,
+      "point": [
+        0.52,
+        0.3682983682983683
+      ]
+    },
+    {
+      "id": 2679,
+      "label": "pencil",
+      "student_name": "Pazini",
+      "student_id": 1664146709261,
+      "point": [
+        0.15,
+        0.5151515151515151
+      ]
+    },
+    {
+      "id": 2680,
+      "label": "clock",
+      "student_name": "Pazini",
+      "student_id": 1664146709261,
+      "point": [
+        0.33,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 2681,
+      "label": "car",
+      "student_name": "kes",
+      "student_id": 1664158111738,
+      "point": [
+        0.382,
+        0.08857808857808858
+      ]
+    },
+    {
+      "id": 2682,
+      "label": "fish",
+      "student_name": "kes",
+      "student_id": 1664158111738,
+      "point": [
+        0.37,
+        0.18414918414918416
+      ]
+    },
+    {
+      "id": 2683,
+      "label": "house",
+      "student_name": "kes",
+      "student_id": 1664158111738,
+      "point": [
+        0.304,
+        0.26573426573426573
+      ]
+    },
+    {
+      "id": 2684,
+      "label": "tree",
+      "student_name": "kes",
+      "student_id": 1664158111738,
+      "point": [
+        0.648,
+        0.7062937062937062
+      ]
+    },
+    {
+      "id": 2685,
+      "label": "bicycle",
+      "student_name": "kes",
+      "student_id": 1664158111738,
+      "point": [
+        0.332,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 2686,
+      "label": "guitar",
+      "student_name": "kes",
+      "student_id": 1664158111738,
+      "point": [
+        0.234,
+        0.4801864801864802
+      ]
+    },
+    {
+      "id": 2687,
+      "label": "pencil",
+      "student_name": "kes",
+      "student_id": 1664158111738,
+      "point": [
+        0.27,
+        0.4801864801864802
+      ]
+    },
+    {
+      "id": 2688,
+      "label": "clock",
+      "student_name": "kes",
+      "student_id": 1664158111738,
+      "point": [
+        0.374,
+        0.48951048951048953
+      ]
+    },
+    {
+      "id": 2689,
+      "label": "car",
+      "student_name": "Etienne",
+      "student_id": 1664159406326,
+      "point": [
+        0.462,
+        0.3356643356643357
+      ]
+    },
+    {
+      "id": 2690,
+      "label": "fish",
+      "student_name": "Etienne",
+      "student_id": 1664159406326,
+      "point": [
+        0.394,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 2691,
+      "label": "house",
+      "student_name": "Etienne",
+      "student_id": 1664159406326,
+      "point": [
+        0.39,
+        0.34032634032634035
+      ]
+    },
+    {
+      "id": 2692,
+      "label": "tree",
+      "student_name": "Etienne",
+      "student_id": 1664159406326,
+      "point": [
+        0.426,
+        0.5337995337995338
+      ]
+    },
+    {
+      "id": 2693,
+      "label": "bicycle",
+      "student_name": "Etienne",
+      "student_id": 1664159406326,
+      "point": [
+        0.482,
+        0.4405594405594406
+      ]
+    },
+    {
+      "id": 2694,
+      "label": "guitar",
+      "student_name": "Etienne",
+      "student_id": 1664159406326,
+      "point": [
+        0.408,
+        0.6899766899766899
+      ]
+    },
+    {
+      "id": 2695,
+      "label": "pencil",
+      "student_name": "Etienne",
+      "student_id": 1664159406326,
+      "point": [
+        0.434,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 2696,
+      "label": "clock",
+      "student_name": "Etienne",
+      "student_id": 1664159406326,
+      "point": [
+        0.292,
+        0.7435897435897436
+      ]
+    },
+    {
+      "id": 2697,
+      "label": "car",
+      "student_name": "Hollayemi18 ",
+      "student_id": 1664161812004,
+      "point": [
+        0.64,
+        0.317016317016317
+      ]
+    },
+    {
+      "id": 2698,
+      "label": "fish",
+      "student_name": "Hollayemi18 ",
+      "student_id": 1664161812004,
+      "point": [
+        0.46,
+        0.2703962703962704
+      ]
+    },
+    {
+      "id": 2699,
+      "label": "house",
+      "student_name": "Hollayemi18 ",
+      "student_id": 1664161812004,
+      "point": [
+        0.482,
+        0.5804195804195804
+      ]
+    },
+    {
+      "id": 2700,
+      "label": "tree",
+      "student_name": "Hollayemi18 ",
+      "student_id": 1664161812004,
+      "point": [
+        0.566,
+        0.8205128205128205
+      ]
+    },
+    {
+      "id": 2701,
+      "label": "bicycle",
+      "student_name": "Hollayemi18 ",
+      "student_id": 1664161812004,
+      "point": [
+        0.512,
+        0.47785547785547783
+      ]
+    },
+    {
+      "id": 2702,
+      "label": "guitar",
+      "student_name": "Hollayemi18 ",
+      "student_id": 1664161812004,
+      "point": [
+        0.546,
+        0.5104895104895105
+      ]
+    },
+    {
+      "id": 2703,
+      "label": "pencil",
+      "student_name": "Hollayemi18 ",
+      "student_id": 1664161812004,
+      "point": [
+        0.118,
+        0.5151515151515151
+      ]
+    },
+    {
+      "id": 2704,
+      "label": "clock",
+      "student_name": "Hollayemi18 ",
+      "student_id": 1664161812004,
+      "point": [
+        0.304,
+        0.4428904428904429
+      ]
+    },
+    {
+      "id": 2705,
+      "label": "car",
+      "student_name": "vj",
+      "student_id": 1664165262010,
+      "point": [
+        0.45,
+        0.2261072261072261
+      ]
+    },
+    {
+      "id": 2706,
+      "label": "fish",
+      "student_name": "vj",
+      "student_id": 1664165262010,
+      "point": [
+        0.356,
+        0.4731934731934732
+      ]
+    },
+    {
+      "id": 2707,
+      "label": "house",
+      "student_name": "vj",
+      "student_id": 1664165262010,
+      "point": [
+        0.362,
+        0.5571095571095571
+      ]
+    },
+    {
+      "id": 2708,
+      "label": "tree",
+      "student_name": "vj",
+      "student_id": 1664165262010,
+      "point": [
+        0.494,
+        0.7785547785547785
+      ]
+    },
+    {
+      "id": 2709,
+      "label": "bicycle",
+      "student_name": "vj",
+      "student_id": 1664165262010,
+      "point": [
+        0.548,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 2710,
+      "label": "guitar",
+      "student_name": "vj",
+      "student_id": 1664165262010,
+      "point": [
+        0.562,
+        0.5617715617715617
+      ]
+    },
+    {
+      "id": 2711,
+      "label": "pencil",
+      "student_name": "vj",
+      "student_id": 1664165262010,
+      "point": [
+        0.2,
+        0.40792540792540793
+      ]
+    },
+    {
+      "id": 2712,
+      "label": "clock",
+      "student_name": "vj",
+      "student_id": 1664165262010,
+      "point": [
+        0.514,
+        0.5571095571095571
+      ]
+    },
+    {
+      "id": 2713,
+      "label": "car",
+      "student_name": "khalil",
+      "student_id": 1664166094920,
+      "point": [
+        0.648,
+        0.24242424242424243
+      ]
+    },
+    {
+      "id": 2714,
+      "label": "fish",
+      "student_name": "khalil",
+      "student_id": 1664166094920,
+      "point": [
+        0.396,
+        0.22377622377622378
+      ]
+    },
+    {
+      "id": 2715,
+      "label": "house",
+      "student_name": "khalil",
+      "student_id": 1664166094920,
+      "point": [
+        0.286,
+        0.5454545454545454
+      ]
+    },
+    {
+      "id": 2716,
+      "label": "tree",
+      "student_name": "khalil",
+      "student_id": 1664166094920,
+      "point": [
+        0.45,
+        0.5734265734265734
+      ]
+    },
+    {
+      "id": 2717,
+      "label": "bicycle",
+      "student_name": "khalil",
+      "student_id": 1664166094920,
+      "point": [
+        0.536,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 2718,
+      "label": "guitar",
+      "student_name": "khalil",
+      "student_id": 1664166094920,
+      "point": [
+        0.23,
+        0.682983682983683
+      ]
+    },
+    {
+      "id": 2719,
+      "label": "pencil",
+      "student_name": "khalil",
+      "student_id": 1664166094920,
+      "point": [
+        0.568,
+        0.6013986013986014
+      ]
+    },
+    {
+      "id": 2720,
+      "label": "clock",
+      "student_name": "khalil",
+      "student_id": 1664166094920,
+      "point": [
+        0.366,
+        0.27505827505827507
+      ]
+    },
+    {
+      "id": 2721,
+      "label": "car",
+      "student_name": "Manasvi",
+      "student_id": 1664166734783,
+      "point": [
+        0.722,
+        0.3333333333333333
+      ]
+    },
+    {
+      "id": 2722,
+      "label": "fish",
+      "student_name": "Manasvi",
+      "student_id": 1664166734783,
+      "point": [
+        0.552,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 2723,
+      "label": "house",
+      "student_name": "Manasvi",
+      "student_id": 1664166734783,
+      "point": [
+        0.676,
+        0.5361305361305362
+      ]
+    },
+    {
+      "id": 2724,
+      "label": "tree",
+      "student_name": "Manasvi",
+      "student_id": 1664166734783,
+      "point": [
+        0.524,
+        0.7249417249417249
+      ]
+    },
+    {
+      "id": 2725,
+      "label": "bicycle",
+      "student_name": "Manasvi",
+      "student_id": 1664166734783,
+      "point": [
+        0.56,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 2726,
+      "label": "guitar",
+      "student_name": "Manasvi",
+      "student_id": 1664166734783,
+      "point": [
+        0.618,
+        0.6037296037296037
+      ]
+    },
+    {
+      "id": 2727,
+      "label": "pencil",
+      "student_name": "Manasvi",
+      "student_id": 1664166734783,
+      "point": [
+        0.414,
+        0.6456876456876457
+      ]
+    },
+    {
+      "id": 2728,
+      "label": "clock",
+      "student_name": "Manasvi",
+      "student_id": 1664166734783,
+      "point": [
+        0.522,
+        0.44988344988344986
+      ]
+    },
+    {
+      "id": 2729,
+      "label": "car",
+      "student_name": "sunshine",
+      "student_id": 1664168621609,
+      "point": [
+        0.318,
+        0.09557109557109557
+      ]
+    },
+    {
+      "id": 2730,
+      "label": "fish",
+      "student_name": "sunshine",
+      "student_id": 1664168621609,
+      "point": [
+        0.172,
+        0.3613053613053613
+      ]
+    },
+    {
+      "id": 2731,
+      "label": "house",
+      "student_name": "sunshine",
+      "student_id": 1664168621609,
+      "point": [
+        0.234,
+        0.4172494172494173
+      ]
+    },
+    {
+      "id": 2732,
+      "label": "tree",
+      "student_name": "sunshine",
+      "student_id": 1664168621609,
+      "point": [
+        0.444,
+        0.5664335664335665
+      ]
+    },
+    {
+      "id": 2733,
+      "label": "bicycle",
+      "student_name": "sunshine",
+      "student_id": 1664168621609,
+      "point": [
+        0.408,
+        0.2634032634032634
+      ]
+    },
+    {
+      "id": 2734,
+      "label": "guitar",
+      "student_name": "sunshine",
+      "student_id": 1664168621609,
+      "point": [
+        0.382,
+        0.4149184149184149
+      ]
+    },
+    {
+      "id": 2735,
+      "label": "pencil",
+      "student_name": "sunshine",
+      "student_id": 1664168621609,
+      "point": [
+        0.168,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 2736,
+      "label": "clock",
+      "student_name": "sunshine",
+      "student_id": 1664168621609,
+      "point": [
+        0.316,
+        0.3706293706293706
+      ]
+    },
+    {
+      "id": 2737,
+      "label": "car",
+      "student_name": "snake8",
+      "student_id": 1664171773317,
+      "point": [
+        1,
+        0.23076923076923078
+      ]
+    },
+    {
+      "id": 2738,
+      "label": "fish",
+      "student_name": "snake8",
+      "student_id": 1664171773317,
+      "point": [
+        0.546,
+        0.29836829836829837
+      ]
+    },
+    {
+      "id": 2739,
+      "label": "house",
+      "student_name": "snake8",
+      "student_id": 1664171773317,
+      "point": [
+        0.872,
+        0.48717948717948717
+      ]
+    },
+    {
+      "id": 2740,
+      "label": "tree",
+      "student_name": "snake8",
+      "student_id": 1664171773317,
+      "point": [
+        0.51,
+        0.6386946386946387
+      ]
+    },
+    {
+      "id": 2741,
+      "label": "bicycle",
+      "student_name": "snake8",
+      "student_id": 1664171773317,
+      "point": [
+        0.414,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 2742,
+      "label": "guitar",
+      "student_name": "snake8",
+      "student_id": 1664171773317,
+      "point": [
+        0.454,
+        0.6060606060606061
+      ]
+    },
+    {
+      "id": 2743,
+      "label": "pencil",
+      "student_name": "snake8",
+      "student_id": 1664171773317,
+      "point": [
+        0.274,
+        0.5827505827505828
+      ]
+    },
+    {
+      "id": 2744,
+      "label": "clock",
+      "student_name": "snake8",
+      "student_id": 1664171773317,
+      "point": [
+        0.394,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 2745,
+      "label": "car",
+      "student_name": "casafurix",
+      "student_id": 1664172425451,
+      "point": [
+        0.306,
+        0.19114219114219114
+      ]
+    },
+    {
+      "id": 2746,
+      "label": "fish",
+      "student_name": "casafurix",
+      "student_id": 1664172425451,
+      "point": [
+        0.26,
+        0.06526806526806526
+      ]
+    },
+    {
+      "id": 2747,
+      "label": "house",
+      "student_name": "casafurix",
+      "student_id": 1664172425451,
+      "point": [
+        0.288,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 2748,
+      "label": "tree",
+      "student_name": "casafurix",
+      "student_id": 1664172425451,
+      "point": [
+        0.272,
+        0.4125874125874126
+      ]
+    },
+    {
+      "id": 2749,
+      "label": "bicycle",
+      "student_name": "casafurix",
+      "student_id": 1664172425451,
+      "point": [
+        0.26,
+        0.16083916083916083
+      ]
+    },
+    {
+      "id": 2750,
+      "label": "guitar",
+      "student_name": "casafurix",
+      "student_id": 1664172425451,
+      "point": [
+        0.498,
+        0.18181818181818182
+      ]
+    },
+    {
+      "id": 2751,
+      "label": "pencil",
+      "student_name": "casafurix",
+      "student_id": 1664172425451,
+      "point": [
+        0.3,
+        0.039627039627039624
+      ]
+    },
+    {
+      "id": 2752,
+      "label": "clock",
+      "student_name": "casafurix",
+      "student_id": 1664172425451,
+      "point": [
+        0.256,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 2753,
+      "label": "car",
+      "student_name": "Eternam",
+      "student_id": 1664179695008,
+      "point": [
+        0.656,
+        0.35664335664335667
+      ]
+    },
+    {
+      "id": 2754,
+      "label": "fish",
+      "student_name": "Eternam",
+      "student_id": 1664179695008,
+      "point": [
+        0.634,
+        0.6060606060606061
+      ]
+    },
+    {
+      "id": 2755,
+      "label": "house",
+      "student_name": "Eternam",
+      "student_id": 1664179695008,
+      "point": [
+        0.646,
+        0.7062937062937062
+      ]
+    },
+    {
+      "id": 2756,
+      "label": "tree",
+      "student_name": "Eternam",
+      "student_id": 1664179695008,
+      "point": [
+        0.604,
+        0.7505827505827506
+      ]
+    },
+    {
+      "id": 2757,
+      "label": "bicycle",
+      "student_name": "Eternam",
+      "student_id": 1664179695008,
+      "point": [
+        0.534,
+        0.41025641025641024
+      ]
+    },
+    {
+      "id": 2758,
+      "label": "guitar",
+      "student_name": "Eternam",
+      "student_id": 1664179695008,
+      "point": [
+        0.646,
+        0.7156177156177156
+      ]
+    },
+    {
+      "id": 2759,
+      "label": "pencil",
+      "student_name": "Eternam",
+      "student_id": 1664179695008,
+      "point": [
+        0.412,
+        0.5547785547785548
+      ]
+    },
+    {
+      "id": 2760,
+      "label": "clock",
+      "student_name": "Eternam",
+      "student_id": 1664179695008,
+      "point": [
+        0.766,
+        0.8881118881118881
+      ]
+    },
+    {
+      "id": 2761,
+      "label": "car",
+      "student_name": "Frank",
+      "student_id": 1664183114637,
+      "point": [
+        0.62,
+        0.35664335664335667
+      ]
+    },
+    {
+      "id": 2762,
+      "label": "fish",
+      "student_name": "Frank",
+      "student_id": 1664183114637,
+      "point": [
+        0.59,
+        0.40792540792540793
+      ]
+    },
+    {
+      "id": 2763,
+      "label": "house",
+      "student_name": "Frank",
+      "student_id": 1664183114637,
+      "point": [
+        0.374,
+        0.5501165501165501
+      ]
+    },
+    {
+      "id": 2764,
+      "label": "tree",
+      "student_name": "Frank",
+      "student_id": 1664183114637,
+      "point": [
+        0.444,
+        0.696969696969697
+      ]
+    },
+    {
+      "id": 2765,
+      "label": "bicycle",
+      "student_name": "Frank",
+      "student_id": 1664183114637,
+      "point": [
+        0.512,
+        0.3682983682983683
+      ]
+    },
+    {
+      "id": 2766,
+      "label": "guitar",
+      "student_name": "Frank",
+      "student_id": 1664183114637,
+      "point": [
+        0.302,
+        0.6923076923076923
+      ]
+    },
+    {
+      "id": 2767,
+      "label": "pencil",
+      "student_name": "Frank",
+      "student_id": 1664183114637,
+      "point": [
+        0.188,
+        0.6083916083916084
+      ]
+    },
+    {
+      "id": 2768,
+      "label": "clock",
+      "student_name": "Frank",
+      "student_id": 1664183114637,
+      "point": [
+        0.432,
+        0.5734265734265734
+      ]
+    },
+    {
+      "id": 2769,
+      "label": "car",
+      "student_name": "Arkadiusz",
+      "student_id": 1664187808815,
+      "point": [
+        0.694,
+        0.19347319347319347
+      ]
+    },
+    {
+      "id": 2770,
+      "label": "fish",
+      "student_name": "Arkadiusz",
+      "student_id": 1664187808815,
+      "point": [
+        0.538,
+        0.351981351981352
+      ]
+    },
+    {
+      "id": 2771,
+      "label": "house",
+      "student_name": "Arkadiusz",
+      "student_id": 1664187808815,
+      "point": [
+        0.324,
+        0.6013986013986014
+      ]
+    },
+    {
+      "id": 2772,
+      "label": "tree",
+      "student_name": "Arkadiusz",
+      "student_id": 1664187808815,
+      "point": [
+        0.534,
+        0.7785547785547785
+      ]
+    },
+    {
+      "id": 2773,
+      "label": "bicycle",
+      "student_name": "Arkadiusz",
+      "student_id": 1664187808815,
+      "point": [
+        0.542,
+        0.2517482517482518
+      ]
+    },
+    {
+      "id": 2774,
+      "label": "guitar",
+      "student_name": "Arkadiusz",
+      "student_id": 1664187808815,
+      "point": [
+        0.18,
+        0.682983682983683
+      ]
+    },
+    {
+      "id": 2775,
+      "label": "pencil",
+      "student_name": "Arkadiusz",
+      "student_id": 1664187808815,
+      "point": [
+        0.492,
+        0.30536130536130535
+      ]
+    },
+    {
+      "id": 2776,
+      "label": "clock",
+      "student_name": "Arkadiusz",
+      "student_id": 1664187808815,
+      "point": [
+        0.248,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 2777,
+      "label": "car",
+      "student_name": "Swaroop",
+      "student_id": 1664198862892,
+      "point": [
+        0.586,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 2778,
+      "label": "fish",
+      "student_name": "Swaroop",
+      "student_id": 1664198862892,
+      "point": [
+        0.44,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 2779,
+      "label": "house",
+      "student_name": "Swaroop",
+      "student_id": 1664198862892,
+      "point": [
+        0.342,
+        0.4522144522144522
+      ]
+    },
+    {
+      "id": 2780,
+      "label": "tree",
+      "student_name": "Swaroop",
+      "student_id": 1664198862892,
+      "point": [
+        0.312,
+        0.6433566433566433
+      ]
+    },
+    {
+      "id": 2781,
+      "label": "bicycle",
+      "student_name": "Swaroop",
+      "student_id": 1664198862892,
+      "point": [
+        0.602,
+        0.46386946386946387
+      ]
+    },
+    {
+      "id": 2782,
+      "label": "guitar",
+      "student_name": "Swaroop",
+      "student_id": 1664198862892,
+      "point": [
+        0.298,
+        0.62004662004662
+      ]
+    },
+    {
+      "id": 2783,
+      "label": "pencil",
+      "student_name": "Swaroop",
+      "student_id": 1664198862892,
+      "point": [
+        0.304,
+        0.29836829836829837
+      ]
+    },
+    {
+      "id": 2784,
+      "label": "clock",
+      "student_name": "Swaroop",
+      "student_id": 1664198862892,
+      "point": [
+        0.368,
+        0.3962703962703963
+      ]
+    },
+    {
+      "id": 2785,
+      "label": "car",
+      "student_name": "AA",
+      "student_id": 1664211977462,
+      "point": [
+        0.488,
+        0.4149184149184149
+      ]
+    },
+    {
+      "id": 2786,
+      "label": "fish",
+      "student_name": "AA",
+      "student_id": 1664211977462,
+      "point": [
+        0.436,
+        0.34965034965034963
+      ]
+    },
+    {
+      "id": 2787,
+      "label": "house",
+      "student_name": "AA",
+      "student_id": 1664211977462,
+      "point": [
+        0.464,
+        0.4382284382284382
+      ]
+    },
+    {
+      "id": 2788,
+      "label": "tree",
+      "student_name": "AA",
+      "student_id": 1664211977462,
+      "point": [
+        0.632,
+        0.7715617715617715
+      ]
+    },
+    {
+      "id": 2789,
+      "label": "bicycle",
+      "student_name": "AA",
+      "student_id": 1664211977462,
+      "point": [
+        0.442,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 2790,
+      "label": "guitar",
+      "student_name": "AA",
+      "student_id": 1664211977462,
+      "point": [
+        0.442,
+        0.6736596736596736
+      ]
+    },
+    {
+      "id": 2791,
+      "label": "pencil",
+      "student_name": "AA",
+      "student_id": 1664211977462,
+      "point": [
+        0.1,
+        0.38694638694638694
+      ]
+    },
+    {
+      "id": 2792,
+      "label": "clock",
+      "student_name": "AA",
+      "student_id": 1664211977462,
+      "point": [
+        0.082,
+        0.31002331002331
+      ]
+    },
+    {
+      "id": 2793,
+      "label": "car",
+      "student_name": "ankush",
+      "student_id": 1664212352303,
+      "point": [
+        0.622,
+        0.48951048951048953
+      ]
+    },
+    {
+      "id": 2794,
+      "label": "fish",
+      "student_name": "ankush",
+      "student_id": 1664212352303,
+      "point": [
+        0.384,
+        0.3682983682983683
+      ]
+    },
+    {
+      "id": 2795,
+      "label": "house",
+      "student_name": "ankush",
+      "student_id": 1664212352303,
+      "point": [
+        0.538,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 2796,
+      "label": "tree",
+      "student_name": "ankush",
+      "student_id": 1664212352303,
+      "point": [
+        0.646,
+        0.5734265734265734
+      ]
+    },
+    {
+      "id": 2797,
+      "label": "bicycle",
+      "student_name": "ankush",
+      "student_id": 1664212352303,
+      "point": [
+        0.394,
+        0.40792540792540793
+      ]
+    },
+    {
+      "id": 2798,
+      "label": "guitar",
+      "student_name": "ankush",
+      "student_id": 1664212352303,
+      "point": [
+        0.458,
+        0.4755244755244755
+      ]
+    },
+    {
+      "id": 2799,
+      "label": "pencil",
+      "student_name": "ankush",
+      "student_id": 1664212352303,
+      "point": [
+        0.12,
+        0.5524475524475524
+      ]
+    },
+    {
+      "id": 2800,
+      "label": "clock",
+      "student_name": "ankush",
+      "student_id": 1664212352303,
+      "point": [
+        0.34,
+        0.4592074592074592
+      ]
+    },
+    {
+      "id": 2801,
+      "label": "car",
+      "student_name": "Mahmud",
+      "student_id": 1664214639149,
+      "point": [
+        0.49,
+        0.24708624708624707
+      ]
+    },
+    {
+      "id": 2802,
+      "label": "fish",
+      "student_name": "Mahmud",
+      "student_id": 1664214639149,
+      "point": [
+        0.408,
+        0.20512820512820512
+      ]
+    },
+    {
+      "id": 2803,
+      "label": "house",
+      "student_name": "Mahmud",
+      "student_id": 1664214639149,
+      "point": [
+        0.51,
+        0.32167832167832167
+      ]
+    },
+    {
+      "id": 2804,
+      "label": "tree",
+      "student_name": "Mahmud",
+      "student_id": 1664214639149,
+      "point": [
+        0.464,
+        0.5757575757575758
+      ]
+    },
+    {
+      "id": 2805,
+      "label": "bicycle",
+      "student_name": "Mahmud",
+      "student_id": 1664214639149,
+      "point": [
+        0.234,
+        0.14685314685314685
+      ]
+    },
+    {
+      "id": 2806,
+      "label": "guitar",
+      "student_name": "Mahmud",
+      "student_id": 1664214639149,
+      "point": [
+        0.442,
+        0.4731934731934732
+      ]
+    },
+    {
+      "id": 2807,
+      "label": "pencil",
+      "student_name": "Mahmud",
+      "student_id": 1664214639149,
+      "point": [
+        0.084,
+        0.627039627039627
+      ]
+    },
+    {
+      "id": 2808,
+      "label": "clock",
+      "student_name": "Mahmud",
+      "student_id": 1664214639149,
+      "point": [
+        0.264,
+        0.2773892773892774
+      ]
+    },
+    {
+      "id": 2809,
+      "label": "car",
+      "student_name": "prophet",
+      "student_id": 1664215549945,
+      "point": [
+        0.386,
+        0.2097902097902098
+      ]
+    },
+    {
+      "id": 2810,
+      "label": "fish",
+      "student_name": "prophet",
+      "student_id": 1664215549945,
+      "point": [
+        0.38,
+        0.21678321678321677
+      ]
+    },
+    {
+      "id": 2811,
+      "label": "house",
+      "student_name": "prophet",
+      "student_id": 1664215549945,
+      "point": [
+        0.61,
+        0.62004662004662
+      ]
+    },
+    {
+      "id": 2812,
+      "label": "tree",
+      "student_name": "prophet",
+      "student_id": 1664215549945,
+      "point": [
+        0.478,
+        0.7552447552447552
+      ]
+    },
+    {
+      "id": 2813,
+      "label": "bicycle",
+      "student_name": "prophet",
+      "student_id": 1664215549945,
+      "point": [
+        0.566,
+        0.5361305361305362
+      ]
+    },
+    {
+      "id": 2814,
+      "label": "guitar",
+      "student_name": "prophet",
+      "student_id": 1664215549945,
+      "point": [
+        0.18,
+        0.43123543123543123
+      ]
+    },
+    {
+      "id": 2815,
+      "label": "pencil",
+      "student_name": "prophet",
+      "student_id": 1664215549945,
+      "point": [
+        0.36,
+        0.40792540792540793
+      ]
+    },
+    {
+      "id": 2816,
+      "label": "clock",
+      "student_name": "prophet",
+      "student_id": 1664215549945,
+      "point": [
+        0.338,
+        0.31934731934731936
+      ]
+    },
+    {
+      "id": 2817,
+      "label": "car",
+      "student_name": "Jitendar",
+      "student_id": 1664216767013,
+      "point": [
+        0.558,
+        0.4988344988344988
+      ]
+    },
+    {
+      "id": 2818,
+      "label": "fish",
+      "student_name": "Jitendar",
+      "student_id": 1664216767013,
+      "point": [
+        0.614,
+        0.49417249417249415
+      ]
+    },
+    {
+      "id": 2819,
+      "label": "house",
+      "student_name": "Jitendar",
+      "student_id": 1664216767013,
+      "point": [
+        0.356,
+        0.5547785547785548
+      ]
+    },
+    {
+      "id": 2820,
+      "label": "tree",
+      "student_name": "Jitendar",
+      "student_id": 1664216767013,
+      "point": [
+        0.42,
+        0.62004662004662
+      ]
+    },
+    {
+      "id": 2821,
+      "label": "bicycle",
+      "student_name": "Jitendar",
+      "student_id": 1664216767013,
+      "point": [
+        0.52,
+        0.45454545454545453
+      ]
+    },
+    {
+      "id": 2822,
+      "label": "guitar",
+      "student_name": "Jitendar",
+      "student_id": 1664216767013,
+      "point": [
+        0.626,
+        0.2634032634032634
+      ]
+    },
+    {
+      "id": 2823,
+      "label": "pencil",
+      "student_name": "Jitendar",
+      "student_id": 1664216767013,
+      "point": [
+        0.06,
+        0.48484848484848486
+      ]
+    },
+    {
+      "id": 2824,
+      "label": "clock",
+      "student_name": "Jitendar",
+      "student_id": 1664216767013,
+      "point": [
+        0.252,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 2825,
+      "label": "car",
+      "student_name": "Thomas",
+      "student_id": 1664223676278,
+      "point": [
+        0.744,
+        0.3822843822843823
+      ]
+    },
+    {
+      "id": 2826,
+      "label": "fish",
+      "student_name": "Thomas",
+      "student_id": 1664223676278,
+      "point": [
+        0.646,
+        0.17715617715617715
+      ]
+    },
+    {
+      "id": 2827,
+      "label": "house",
+      "student_name": "Thomas",
+      "student_id": 1664223676278,
+      "point": [
+        0.622,
+        0.5617715617715617
+      ]
+    },
+    {
+      "id": 2828,
+      "label": "tree",
+      "student_name": "Thomas",
+      "student_id": 1664223676278,
+      "point": [
+        0.424,
+        0.7738927738927739
+      ]
+    },
+    {
+      "id": 2829,
+      "label": "bicycle",
+      "student_name": "Thomas",
+      "student_id": 1664223676278,
+      "point": [
+        0.576,
+        0.34032634032634035
+      ]
+    },
+    {
+      "id": 2830,
+      "label": "guitar",
+      "student_name": "Thomas",
+      "student_id": 1664223676278,
+      "point": [
+        0.548,
+        0.675990675990676
+      ]
+    },
+    {
+      "id": 2831,
+      "label": "pencil",
+      "student_name": "Thomas",
+      "student_id": 1664223676278,
+      "point": [
+        0.042,
+        0.745920745920746
+      ]
+    },
+    {
+      "id": 2832,
+      "label": "clock",
+      "student_name": "Thomas",
+      "student_id": 1664223676278,
+      "point": [
+        0.274,
+        0.3146853146853147
+      ]
+    },
+    {
+      "id": 2833,
+      "label": "car",
+      "student_name": "Ghsamm",
+      "student_id": 1664231276788,
+      "point": [
+        0.57,
+        0.2703962703962704
+      ]
+    },
+    {
+      "id": 2834,
+      "label": "fish",
+      "student_name": "Ghsamm",
+      "student_id": 1664231276788,
+      "point": [
+        0.376,
+        0.2867132867132867
+      ]
+    },
+    {
+      "id": 2835,
+      "label": "house",
+      "student_name": "Ghsamm",
+      "student_id": 1664231276788,
+      "point": [
+        0.318,
+        0.5407925407925408
+      ]
+    },
+    {
+      "id": 2836,
+      "label": "tree",
+      "student_name": "Ghsamm",
+      "student_id": 1664231276788,
+      "point": [
+        0.348,
+        0.4522144522144522
+      ]
+    },
+    {
+      "id": 2837,
+      "label": "bicycle",
+      "student_name": "Ghsamm",
+      "student_id": 1664231276788,
+      "point": [
+        0.434,
+        0.3356643356643357
+      ]
+    },
+    {
+      "id": 2838,
+      "label": "guitar",
+      "student_name": "Ghsamm",
+      "student_id": 1664231276788,
+      "point": [
+        0.47,
+        0.30303030303030304
+      ]
+    },
+    {
+      "id": 2839,
+      "label": "pencil",
+      "student_name": "Ghsamm",
+      "student_id": 1664231276788,
+      "point": [
+        0.274,
+        0.3473193473193473
+      ]
+    },
+    {
+      "id": 2840,
+      "label": "clock",
+      "student_name": "Ghsamm",
+      "student_id": 1664231276788,
+      "point": [
+        0.408,
+        0.49184149184149184
+      ]
+    },
+    {
+      "id": 2841,
+      "label": "car",
+      "student_name": "Franz",
+      "student_id": 1664234714252,
+      "point": [
+        0.402,
+        0.12354312354312354
+      ]
+    },
+    {
+      "id": 2842,
+      "label": "fish",
+      "student_name": "Franz",
+      "student_id": 1664234714252,
+      "point": [
+        0.574,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 2843,
+      "label": "house",
+      "student_name": "Franz",
+      "student_id": 1664234714252,
+      "point": [
+        0.69,
+        0.6643356643356644
+      ]
+    },
+    {
+      "id": 2844,
+      "label": "tree",
+      "student_name": "Franz",
+      "student_id": 1664234714252,
+      "point": [
+        0.58,
+        0.8391608391608392
+      ]
+    },
+    {
+      "id": 2845,
+      "label": "bicycle",
+      "student_name": "Franz",
+      "student_id": 1664234714252,
+      "point": [
+        0.604,
+        0.3916083916083916
+      ]
+    },
+    {
+      "id": 2846,
+      "label": "guitar",
+      "student_name": "Franz",
+      "student_id": 1664234714252,
+      "point": [
+        0.304,
+        0.8135198135198135
+      ]
+    },
+    {
+      "id": 2847,
+      "label": "pencil",
+      "student_name": "Franz",
+      "student_id": 1664234714252,
+      "point": [
+        0.712,
+        0.12121212121212122
+      ]
+    },
+    {
+      "id": 2848,
+      "label": "clock",
+      "student_name": "Franz",
+      "student_id": 1664234714252,
+      "point": [
+        0.526,
+        0.6293706293706294
+      ]
+    },
+    {
+      "id": 2849,
+      "label": "car",
+      "student_name": "sads",
+      "student_id": 1664235320853,
+      "point": [
+        0.594,
+        0.2564102564102564
+      ]
+    },
+    {
+      "id": 2850,
+      "label": "fish",
+      "student_name": "sads",
+      "student_id": 1664235320853,
+      "point": [
+        0.264,
+        0.21445221445221446
+      ]
+    },
+    {
+      "id": 2851,
+      "label": "house",
+      "student_name": "sads",
+      "student_id": 1664235320853,
+      "point": [
+        0.416,
+        0.4825174825174825
+      ]
+    },
+    {
+      "id": 2852,
+      "label": "tree",
+      "student_name": "sads",
+      "student_id": 1664235320853,
+      "point": [
+        0.362,
+        0.5058275058275058
+      ]
+    },
+    {
+      "id": 2853,
+      "label": "bicycle",
+      "student_name": "sads",
+      "student_id": 1664235320853,
+      "point": [
+        0.554,
+        0.46853146853146854
+      ]
+    },
+    {
+      "id": 2854,
+      "label": "guitar",
+      "student_name": "sads",
+      "student_id": 1664235320853,
+      "point": [
+        0.492,
+        0.46853146853146854
+      ]
+    },
+    {
+      "id": 2855,
+      "label": "pencil",
+      "student_name": "sads",
+      "student_id": 1664235320853,
+      "point": [
+        0.166,
+        0.7435897435897436
+      ]
+    },
+    {
+      "id": 2856,
+      "label": "clock",
+      "student_name": "sads",
+      "student_id": 1664235320853,
+      "point": [
+        0.28,
+        0.44755244755244755
+      ]
+    },
+    {
+      "id": 2857,
+      "label": "car",
+      "student_name": "Santiago",
+      "student_id": 1664253915632,
+      "point": [
+        0.4,
+        0.1888111888111888
+      ]
+    },
+    {
+      "id": 2858,
+      "label": "fish",
+      "student_name": "Santiago",
+      "student_id": 1664253915632,
+      "point": [
+        0.292,
+        0.1351981351981352
+      ]
+    },
+    {
+      "id": 2859,
+      "label": "house",
+      "student_name": "Santiago",
+      "student_id": 1664253915632,
+      "point": [
+        0.378,
+        0.372960372960373
+      ]
+    },
+    {
+      "id": 2860,
+      "label": "tree",
+      "student_name": "Santiago",
+      "student_id": 1664253915632,
+      "point": [
+        0.356,
+        0.48951048951048953
+      ]
+    },
+    {
+      "id": 2861,
+      "label": "bicycle",
+      "student_name": "Santiago",
+      "student_id": 1664253915632,
+      "point": [
+        0.5,
+        0.34498834498834496
+      ]
+    },
+    {
+      "id": 2862,
+      "label": "guitar",
+      "student_name": "Santiago",
+      "student_id": 1664253915632,
+      "point": [
+        0.272,
+        0.5198135198135199
+      ]
+    },
+    {
+      "id": 2863,
+      "label": "pencil",
+      "student_name": "Santiago",
+      "student_id": 1664253915632,
+      "point": [
+        0.088,
+        0.6433566433566433
+      ]
+    },
+    {
+      "id": 2864,
+      "label": "clock",
+      "student_name": "Santiago",
+      "student_id": 1664253915632,
+      "point": [
+        0.324,
+        0.4731934731934732
       ]
     }
   ]
